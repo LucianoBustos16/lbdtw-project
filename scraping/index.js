@@ -14,19 +14,21 @@ async function scrape (url) {
 
 async function getLeaderBoard () {
     const $ = await scrape(URLS.leaderboard)
-    const $rows = $('.tablesorter1 tbody tr')
+    const $rows = $('table.tablesorter1 tbody tr')
 
 
 
     const LEADERBOARD_SELECTORS = {
-        team: {selector: 'td:nth-child(2)', typeOf: 'string'},
-        gamesPlayed: {selector: 'td:nth-child(4)', typeOf: 'number'},
-        won: {selector: 'td:nth-child(5)', typeOf: 'number'},
-        drawn: {selector: 'td:nth-child(6)', typeOf: 'number'},
-        lost: {selector: 'td:nth-child(7)', typeOf: 'number'},
-        goalsScored: {selector: 'td:nth-child(8)', typeOf: 'number'},
+        rank: {selector: 'td:nth-child(1)', typeOf: 'number'},
+        teamName: {selector: 'td:nth-child(2)', typeOf: 'string'},
+        points: {selector: 'td:nth-child(3)', typeOf: 'number'},
+        matchesPlayed: {selector: 'td:nth-child(4)', typeOf: 'number'},
+        matchesWon: {selector: 'td:nth-child(5)', typeOf: 'number'},
+        matchesDrawn: {selector: 'td:nth-child(6)', typeOf: 'number'},
+        matchesLost: {selector: 'td:nth-child(7)', typeOf: 'number'},
+        goalsFor: {selector: 'td:nth-child(8)', typeOf: 'number'},
         goalsAgainst: {selector: 'td:nth-child(9)', typeOf: 'number'},
-        goalsDiff: {selector: 'td:nth-child(10)', typeOf: 'number'}
+        goalDifference: {selector: 'td:nth-child(10)', typeOf: 'number'}
 
     }
 
