@@ -1,0 +1,32 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const response  = await fetch('https://www.gamerpower.com/api/giveaways?platform=pc')
+const games = await response.json()
+---
+
+<Layout title="LBDTw Free Games">
+
+	<nav class="container m-auto">
+		<ul>
+			<li><a href="/"> Inicio</a></li>
+		</ul>
+	</nav>
+	<div class="container m-auto">
+
+		<section class="flex flex-wrap">
+			<div class="card">
+			{games.map(({id, thumbnail, title }) => (
+				<a href={`/game/${id}`}>
+					<img class="aspect-square me-4" src={thumbnail} alt={`Imagen de ${title}`}>				
+				</a>
+			))}
+			</div>
+		</section>
+
+	</div>
+</Layout>
+
+<style>
+
+</style>
