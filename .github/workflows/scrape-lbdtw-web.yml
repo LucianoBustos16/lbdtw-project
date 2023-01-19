@@ -27,7 +27,7 @@ jobs:
         with:
           version: 7.18.2
       - run: |
-          node scraping/leaderboard.js
+          node scraping/index.js
           git config user.name lbdtw-bot
           git add -A
           git commit -m "[bot] Update Api LBDTw Database"
