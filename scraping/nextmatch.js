@@ -52,12 +52,3 @@ const nextmatch = await getNextMatch()
 const filePath = path.join(process.cwd() , './db/nextmatch.json')
 
 await writeFile(filePath, JSON.stringify(nextmatch, null, 2, 'utf-8'))
-
-
-// const nextmatch = [{
-//     competition: 'LPF',
-//     teamLocal: 'Racing',
-//     teamVisitant: 'Belgrano',
-//     marker: '19:05',
-//     date: '29 de enero'
-// }] 
