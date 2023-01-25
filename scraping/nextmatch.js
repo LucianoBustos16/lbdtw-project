@@ -17,10 +17,13 @@ async function getNextMatch() {
     const $rows = $('#mod_detail_team_matches_on .match-list-new div:nth-child(2) .panel-body .match-link a ')
 
     const NEXTMATCH_SELECTORS = {
+        live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
         competition: {selector: '.info-head .middle-info', typeOf: 'string'},
         teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
         teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
         marker: {selector: '.marker .match_hour', typeOf: 'string'},
+        goalsLocal: {selector: '.marker .green .r1', typeOf: 'number'},
+        goalsVisitant: {selector: '.marker .green .r2', typeOf: 'number'},
         date: {selector: '.date', typeOf: 'string'},
     }
 
@@ -51,4 +54,4 @@ return nextmatch
 const nextmatch = await getNextMatch()
 const filePath = path.join(process.cwd() , './db/nextmatch.json')
 
-await writeFile(filePath, JSON.stringify(nextmatch, null, 2, 'utf-8'))
+ await writeFile(filePath, JSON.stringify(nextmatch, null, 2, 'utf-8'))
