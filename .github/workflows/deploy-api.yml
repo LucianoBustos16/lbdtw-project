@@ -1,12 +1,14 @@
 name: Deploy API
 
 on:
+  workflow_dispatch:
+  
   push:
     branches:
       - main
 
 jobs:
-  deploy:
+  deploy: 
     runs-on: ubuntu-20.04
     name: Deploy API to CLoudflare Workers
     steps:
