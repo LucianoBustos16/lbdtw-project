@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - main
-      
+
 jobs:
-  deploy: 
-    runs-on: ubuntu-20.04
-    name: Deploy API to CLoudflare Workers
+  deploy:
+    runs-on: ubuntu-22.04
+    name: Deploy API to Cloudflare Workers
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -20,5 +20,5 @@ jobs:
           run_install: true
       - uses: cloudflare/wrangler-action@2.0.0
         with:
-            apitoken: ${{ secrets.CF_API_TOKEN }}
-            workingDirectory: api
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          workingDirectory: api
