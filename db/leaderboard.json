@@ -26,13 +26,13 @@
     "matchesDrawn": 0,
     "matchesLost": 0,
     "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 2,
     "team": {
-      "id": "Tigre",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png",
+      "id": "River-Plate",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png",
       "url": "",
       "couch": ""
     }
@@ -44,14 +44,14 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
     "goalDifference": 1,
     "team": {
-      "id": "Independiente",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Independiente.png",
+      "id": "Tigre",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png",
       "url": "",
       "couch": ""
     }
@@ -67,10 +67,10 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
-      "id": "River-Plate",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png",
+      "id": "Independiente",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Independiente.png",
       "url": "",
       "couch": ""
     }
@@ -485,25 +485,6 @@
     "goalsAgainst": 1,
     "goalDifference": -1,
     "team": {
-      "id": "Central-Cordoba",
-      "name": "Central Cba (SdE)",
-      "shortName": "CTR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 27,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
       "id": "Talleres",
       "name": "Talleres (C)",
       "shortName": "TDC",
@@ -513,7 +494,7 @@
     }
   },
   {
-    "rank": 28,
+    "rank": 27,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -527,6 +508,25 @@
       "name": "Def y Justicia",
       "shortName": "DYJ",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Defensa-y-Justicia.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 28,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -2,
+    "team": {
+      "id": "Central-Cordoba",
+      "name": "Central Cba (SdE)",
+      "shortName": "CTR",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png",
       "url": "",
       "couch": ""
     }
