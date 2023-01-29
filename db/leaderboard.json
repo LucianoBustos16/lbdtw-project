@@ -67,6 +67,25 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
+      "id": "River-Plate",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 5,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
       "id": "Rosario-Central",
       "name": "Rosario Central",
       "shortName": "ROS",
@@ -76,7 +95,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -95,7 +114,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -114,7 +133,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -133,7 +152,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -152,7 +171,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -171,7 +190,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -185,25 +204,6 @@
       "name": "Boca Juniors",
       "shortName": "CABJ",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 11,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Central-Cordoba",
-      "name": "Central Cba (SdE)",
-      "shortName": "CTR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png",
       "url": "",
       "couch": ""
     }
@@ -371,25 +371,6 @@
     "goalsAgainst": 0,
     "goalDifference": 0,
     "team": {
-      "id": "River-Plate",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 21,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
       "id": "Sarmiento",
       "name": "Sarmiento (J)",
       "shortName": "SARM",
@@ -399,7 +380,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 21,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -418,7 +399,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -437,7 +418,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 23,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -456,7 +437,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 24,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -475,7 +456,7 @@
     }
   },
   {
-    "rank": 26,
+    "rank": 25,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -489,6 +470,25 @@
       "name": "Arsenal",
       "shortName": "ARS",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Arsenal.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 26,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Central-Cordoba",
+      "name": "Central Cba (SdE)",
+      "shortName": "CTR",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png",
       "url": "",
       "couch": ""
     }
