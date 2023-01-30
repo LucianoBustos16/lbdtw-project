@@ -48,10 +48,10 @@
     "goalsAgainst": 1,
     "goalDifference": 1,
     "team": {
-      "id": "Tigre",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png",
+      "id": "Lanus",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
       "url": "",
       "couch": ""
     }
@@ -63,14 +63,14 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
     "goalDifference": 1,
     "team": {
-      "id": "Independiente",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Independiente.png",
+      "id": "Tigre",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png",
       "url": "",
       "couch": ""
     }
@@ -86,10 +86,10 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
-      "id": "Lanus",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
+      "id": "Independiente",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Independiente.png",
       "url": "",
       "couch": ""
     }
@@ -181,6 +181,25 @@
     "goalsAgainst": 0,
     "goalDifference": 0,
     "team": {
+      "id": "Atlético-Tucumán",
+      "name": "Atl Tucuman",
+      "shortName": "ARGJ",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 11,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "goalDifference": 0,
+    "team": {
       "id": "Belgrano",
       "name": "Belgrano",
       "shortName": "BEL",
@@ -190,7 +209,26 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "goalDifference": 0,
+    "team": {
+      "id": "Boca-Juniors",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 13,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -209,7 +247,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 14,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -228,7 +266,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 15,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -247,26 +285,7 @@
     }
   },
   {
-    "rank": 14,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Atlético-Tucumán",
-      "name": "Atl Tucuman",
-      "shortName": "ARGJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 15,
+    "rank": 16,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -285,7 +304,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -299,25 +318,6 @@
       "name": "Barracas Central",
       "shortName": "BAR",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 17,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Boca-Juniors",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png",
       "url": "",
       "couch": ""
     }
@@ -409,6 +409,25 @@
     "goalsAgainst": 2,
     "goalDifference": -1,
     "team": {
+      "id": "Colon",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 23,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
+    "team": {
       "id": "Estudiantes",
       "name": "Estudiantes (LP)",
       "shortName": "EST",
@@ -418,7 +437,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 24,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -437,7 +456,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 25,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -451,25 +470,6 @@
       "name": "Arsenal",
       "shortName": "ARS",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Arsenal.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 25,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Colon",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png",
       "url": "",
       "couch": ""
     }
