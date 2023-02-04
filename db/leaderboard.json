@@ -6,14 +6,14 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 1,
-    "goalDifference": 2,
+    "goalsFor": 4,
+    "goalsAgainst": 3,
+    "goalDifference": 1,
     "team": {
-      "id": "Velez",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png",
+      "id": "Tigre",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png",
       "url": "",
       "couch": ""
     }
@@ -29,10 +29,10 @@
     "goalsAgainst": 2,
     "goalDifference": 1,
     "team": {
-      "id": "Tigre",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png",
+      "id": "Newells",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Newells.png",
       "url": "",
       "couch": ""
     }
@@ -44,8 +44,8 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
     "goalDifference": 1,
     "team": {
       "id": "Rosario-Central",
@@ -97,6 +97,25 @@
   {
     "rank": 6,
     "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
+    "team": {
+      "id": "Velez",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 7,
+    "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
     "matchesDrawn": 0,
@@ -114,7 +133,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -133,7 +152,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -152,7 +171,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -171,7 +190,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -185,25 +204,6 @@
       "name": "San Lorenzo",
       "shortName": "SL",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/San-Lorenzo.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 11,
-    "points": 2,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
-    "goalDifference": 0,
-    "team": {
-      "id": "Newells",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Newells.png",
       "url": "",
       "couch": ""
     }
