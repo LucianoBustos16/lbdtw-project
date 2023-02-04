@@ -116,25 +116,6 @@
   {
     "rank": 7,
     "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Barracas-Central",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 8,
-    "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
     "matchesDrawn": 0,
@@ -152,7 +133,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -171,7 +152,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -190,7 +171,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -209,7 +190,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 11,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -223,6 +204,25 @@
       "name": "San Lorenzo",
       "shortName": "SL",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/San-Lorenzo.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 12,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Barracas-Central",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
       "url": "",
       "couch": ""
     }
@@ -386,9 +386,9 @@
     "matchesWon": 0,
     "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 0,
+    "goalsFor": 1,
     "goalsAgainst": 2,
-    "goalDifference": -2,
+    "goalDifference": -1,
     "team": {
       "id": "Sarmiento",
       "name": "Sarmiento (J)",
