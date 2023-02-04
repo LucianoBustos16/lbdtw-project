@@ -1,36 +1,23 @@
-import * as cheerio from 'cheerio'
-import {writeFile} from 'node:fs/promises'
-import path from 'node:path'
+import { TEAMS } from '../db/index.js'
+import { cleanText} from './utils.js'
 
-const URLS = {
-    nextmatch: 'https://es.besoccer.com/equipo/partidos/belgrano'
+const NEXTMATCH_SELECTORS = {
+    live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
+    competition: {selector: '.info-head .middle-info', typeOf: 'string'},
+    teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
+    teamLocalImage: {selector: 'div:nth-child(2) .team-name img', typeOf: 'string'},
+    teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
+    marker: {selector: '.marker .match_hour', typeOf: 'string'},
+    goalsLocal: {selector: '.marker .green .r1', typeOf: 'number'},
+    goalsVisitant: {selector: '.marker .green .r2', typeOf: 'number'},
+    date: {selector: '.date', typeOf: 'string'},
 }
 
-async function scrape(url) {
-    const res = await fetch(url)
-    const html = await res.text()
-    return cheerio.load(html)
-}
-
-async function getNextMatch() {
-    const $ = await scrape(URLS.nextmatch)
+export async function getNextMatch($) {
     const $rows = $('#mod_detail_team_matches_on .match-list-new div:nth-child(2) .panel-body .match-link a ')
 
-    const NEXTMATCH_SELECTORS = {
-        live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
-        competition: {selector: '.info-head .middle-info', typeOf: 'string'},
-        teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
-        teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
-        marker: {selector: '.marker .match_hour', typeOf: 'string'},
-        goalsLocal: {selector: '.marker .green .r1', typeOf: 'number'},
-        goalsVisitant: {selector: '.marker .green .r2', typeOf: 'number'},
-        date: {selector: '.date', typeOf: 'string'},
-    }
+    const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name)
 
-    const cleanText = text => text
-        .replace(/\t|\n|\s:/g, ' ')
-    // .replace(/.*:/g, ' ')
-    .trim()
     const nextMatchSelectorEntries = Object.entries(NEXTMATCH_SELECTORS)
 
     let nextmatch = []
@@ -46,12 +33,16 @@ async function getNextMatch() {
             return [key, value]
         })
 
-        nextmatch.push(Object.fromEntries(nextMatchEntries))
+        const {team: teamName, ...nextMatchForTeam } = Object.fromEntries(nextMatchEntries)
+        const team = getTeamFrom ({ name: teamName})
+
+
+        nextmatch.push({
+            ...nextMatchForTeam,
+            team
+        }
+        )
     })
+
 return nextmatch
 }
-
-const nextmatch = await getNextMatch()
-const filePath = path.join(process.cwd() , './db/nextmatch.json')
-
- await writeFile(filePath, JSON.stringify(nextmatch, null, 2, 'utf-8'))
