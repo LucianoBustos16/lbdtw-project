@@ -63,8 +63,8 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
     "goalDifference": 1,
     "team": {
       "id": "Belgrano",
@@ -124,6 +124,25 @@
     "goalsAgainst": 2,
     "goalDifference": 1,
     "team": {
+      "id": "River-Plate",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 8,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
+    "team": {
       "id": "Velez",
       "name": "Velez",
       "shortName": "VEL",
@@ -133,7 +152,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -147,25 +166,6 @@
       "name": "Lanus",
       "shortName": "LAN",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 9,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "River-Plate",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png",
       "url": "",
       "couch": ""
     }
