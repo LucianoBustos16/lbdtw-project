@@ -1,5 +1,7 @@
 import * as cheerio from 'cheerio'
 import { getLeaderBoard } from './leaderboard.js'
+import { getNextMatch } from './nextmatch.js'
+import { getSchedule } from './schedule.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
 
@@ -8,12 +10,17 @@ export const SCRAPINGS = {
     leaderboard: {
         url: 'https://www.promiedos.com.ar/primera',
         scraper: getLeaderBoard,
-    }
+    },
 
-    // teamPlayers: {
-    //     url: 'https://www.promiedos.com.ar/club=26'
-    //     scraper: getPlayers,
-    // }
+    nextmatch: {
+        url: 'https://es.besoccer.com/equipo/partidos/belgrano',
+        scraper: getNextMatch,
+    },
+  //   schedule: {
+  //     url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
+  //     scraper: getSchedule,
+  // },
+
 }
 
 export const cleanText = text =>
