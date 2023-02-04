@@ -25,6 +25,25 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
+    "team": {
+      "id": "Velez",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 3,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
     "goalsFor": 2,
     "goalsAgainst": 0,
     "goalDifference": 2,
@@ -38,7 +57,26 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "goalDifference": 1,
+    "team": {
+      "id": "Lanus",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 5,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -57,7 +95,45 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 6,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
+      "id": "Boca-Juniors",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 7,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
+      "id": "Godoy-Cruz",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Godoy-Cruz.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 8,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -76,26 +152,7 @@
     }
   },
   {
-    "rank": 5,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "Lanus",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 6,
+    "rank": 9,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -114,7 +171,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -133,7 +190,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 11,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -152,7 +209,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 12,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -171,7 +228,26 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 13,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "goalDifference": 0,
+    "team": {
+      "id": "Banfield",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Banfield.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 14,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -190,7 +266,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 15,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -209,7 +285,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 16,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -228,7 +304,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 17,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -247,125 +323,11 @@
     }
   },
   {
-    "rank": 14,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Atlético-Tucumán",
-      "name": "Atl Tucuman",
-      "shortName": "ARGJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 15,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Banfield",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Banfield.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 16,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Barracas-Central",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 17,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Boca-Juniors",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
     "rank": 18,
-    "points": 0,
-    "matchesPlayed": 0,
+    "points": 1,
+    "matchesPlayed": 1,
     "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Gimnasia",
-      "name": "Gimnasia (LP)",
-      "shortName": "GLP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Gimnasia-La-Plata.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 19,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Godoy-Cruz",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Godoy-Cruz.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 20,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 0,
     "goalsAgainst": 0,
@@ -380,26 +342,26 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 19,
     "points": 0,
-    "matchesPlayed": 0,
+    "matchesPlayed": 1,
     "matchesWon": 0,
     "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
     "team": {
-      "id": "Velez",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png",
+      "id": "Colon",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png",
       "url": "",
       "couch": ""
     }
   },
   {
-    "rank": 22,
+    "rank": 20,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -418,7 +380,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 21,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -437,7 +399,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 22,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -456,7 +418,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 23,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -466,16 +428,35 @@
     "goalsAgainst": 1,
     "goalDifference": -1,
     "team": {
-      "id": "Colon",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png",
+      "id": "Atlético-Tucumán",
+      "name": "Atl Tucuman",
+      "shortName": "ARGJ",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
       "url": "",
       "couch": ""
     }
   },
   {
-    "rank": 26,
+    "rank": 24,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Barracas-Central",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 25,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -494,7 +475,7 @@
     }
   },
   {
-    "rank": 27,
+    "rank": 26,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -508,6 +489,25 @@
       "name": "Def y Justicia",
       "shortName": "DYJ",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Defensa-y-Justicia.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 27,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "goalDifference": -2,
+    "team": {
+      "id": "Gimnasia",
+      "name": "Gimnasia (LP)",
+      "shortName": "GLP",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Gimnasia-La-Plata.png",
       "url": "",
       "couch": ""
     }
