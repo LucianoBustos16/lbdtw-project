@@ -29,6 +29,7 @@ text
     .replace(/.*:/g, ' ')
     .trim()
 
+
 export async function scrape(url) {
     const res = await fetch(url)  // Recuperamos el HTML
     const html = await res.text() // Lo transformamos en string
