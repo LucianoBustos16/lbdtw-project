@@ -16,10 +16,10 @@ export const SCRAPINGS = {
         url: 'https://es.besoccer.com/equipo/partidos/belgrano',
         scraper: getNextMatch,
     },
-  //   schedule: {
-  //     url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
-  //     scraper: getSchedule,
-  // },
+    schedule: {
+      url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
+      scraper: getSchedule,
+  },
 
 }
 

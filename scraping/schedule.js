@@ -2,19 +2,45 @@ import { cleanText } from './utils.js'
 
 const SELECTORS = {
 	match: '.agendas',
-	round: '.agendas caption',
-	hour: '.fs-table-text_4',
-	locals: '.agendas .local span',
-	localsImages: '.fs-table-text_3 img',
-	visitants: '.el-text-7',
-	visitantsImages: '.fs-table-text_5 img',
-	scores: '.fs-table-text_8'
+	round: 'caption',
+	hour: '.hora',
+	locals: '.local span',
+	localsImages: '.local img',
+	visitants: '.visitante span',
+	visitantsImages: '.visitante img',
+	scores: '.resultado-partido',
+	date: '.fecha'
 }
 
-const MAPS = {
-	'el-bbarrio': 'el-barrio',
-	'jijantes-fc': 'jijantes',
-	'xbuyer-team': 'xbuyer'
+const shortNames = {
+	Argentinos: 'ARGJ',
+	Arsenal: 'ARS',
+	'Atlético-Tucumán': 'TUC',
+	Banfield: 'BAN',
+	'Barracas-Central': 'BAR',
+	Belgrano: 'BEL',
+	'Boca-Juniors': 'CABJ',
+	'Central-Cordoba': 'CTR',
+	Colon: 'COL',
+	'Defensa-y-Justicia': 'DYJ',
+	Estudiantes: 'EST',
+	'Godoy-Cruz': 'GCM',
+    Huracan: 'HUR',
+    Independiente: 'GLP',
+    Instituto: 'IACC',
+    Lanus: 'LAN',
+    Newells: 'NOB',
+    Platense: 'PLA',
+    'Racing-Club': 'RAC',
+    'River-Plate': 'CARP',
+    'Rosario-Central': 'ROS',
+    'San-Lorenzo': 'SL',
+    Sarmiento: 'SARM',
+    Talleres: 'TDC',
+    Tigre: 'TIG',
+    Union: 'USF',
+    Velez: 'VEL',
+
 }
 
 
@@ -22,20 +48,19 @@ export async function getSchedule($) {
 	const schedule = []
 	const $days = $(SELECTORS.match)
 
-	const getTeamIdFromImageUrl = (url) => {
+    const getTeamIdFromImageUrl = (url) => {
 		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
 	}
+
 
 	$days.each((_, day) => {
 		const matches = []
 		const $day = $(day)
 
-		const dateRaw = $day.find(SELECTORS.round).text()
+		const dateRaw = $day.find(SELECTORS.date).text()
 		const dateAndLeagueDay = cleanText(dateRaw)
-		console.log(dateAndLeagueDay)
-
-		const round = dateAndLeagueDay
-		const [dayNumber, monthNumber, yearNumber] = round.split('/')
+		const date = dateAndLeagueDay.trim() // 01/01/2023
+		const [dayNumber, monthNumber, yearNumber] = date.split('/')
 		const prefixDate = `${yearNumber}-${monthNumber}-${dayNumber}`
 
 		const $locals = $day.find(SELECTORS.locals)
@@ -45,28 +70,28 @@ export async function getSchedule($) {
 		const $results = $day.find(SELECTORS.scores)
 		const $hours = $day.find(SELECTORS.hour)
 
+
+
 		$results.each((index, result) => {
 			const scoreRaw = $(result).text()
 			const score = cleanText(scoreRaw)
 
+
 			const hourRaw = $($hours[index]).text()
 			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
 
-			const matchDate = new Date(`${prefixDate} ${hour} GMT-3`)
+			const matchDate = new Date(`${prefixDate} ${hour} GMT+2`)
 
 			const localNameRaw = $($locals[index]).text()
 			const localName = cleanText(localNameRaw)
-			console.log(localName)
 			const localImg = $($localsImages[index]).attr('src')
 			let localId = getTeamIdFromImageUrl(localImg)
-			localId = MAPS[localId] || localId
 			const localShortName = shortNames[localId]
 
 			const visitantNameRaw = $($visitants[index]).text()
 			const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			let visitantId = getTeamIdFromImageUrl(visitantImg)
-			visitantId = MAPS[visitantId] || visitantId
 			const visitantShortName = shortNames[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
@@ -74,6 +99,7 @@ export async function getSchedule($) {
 			matches.push({
 				timestamp,
 				hour: hour === 'vs' ? null : hour,
+                date,
 				teams: [
 					{ id: localId, name: localName, shortName: localShortName },
 					{ id: visitantId, name: visitantName, shortName: visitantShortName }
@@ -82,7 +108,7 @@ export async function getSchedule($) {
 			})
 		})
 
-		schedule.push({ round, matches })
+		schedule.push({ matches })
 	})
 
 	return schedule
