@@ -1,115 +1,61 @@
-import { cleanText } from './utils.js'
+import * as cheerio from 'cheerio'
+import {writeFile} from 'node:fs/promises'
+import path from 'node:path'
 
-const SELECTORS = {
-	match: '.agendas',
-	round: 'caption',
-	hour: '.hora',
-	locals: '.local span',
-	localsImages: '.local img',
-	visitants: '.visitante span',
-	visitantsImages: '.visitante img',
-	scores: '.resultado-partido',
-	date: '.fecha'
+const URLS = {
+	schedule: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html'
 }
 
-const shortNames = {
-	Argentinos: 'ARGJ',
-	Arsenal: 'ARS',
-	'Atlético-Tucumán': 'TUC',
-	Banfield: 'BAN',
-	'Barracas-Central': 'BAR',
-	Belgrano: 'BEL',
-	'Boca-Juniors': 'CABJ',
-	'Central-Cordoba': 'CTR',
-	Colon: 'COL',
-	'Defensa-y-Justicia': 'DYJ',
-	Estudiantes: 'EST',
-	'Godoy-Cruz': 'GCM',
-    Huracan: 'HUR',
-    Independiente: 'GLP',
-    Instituto: 'IACC',
-    Lanus: 'LAN',
-    Newells: 'NOB',
-    Platense: 'PLA',
-    'Racing-Club': 'RAC',
-    'River-Plate': 'CARP',
-    'Rosario-Central': 'ROS',
-    'San-Lorenzo': 'SL',
-    Sarmiento: 'SARM',
-    Talleres: 'TDC',
-    Tigre: 'TIG',
-    Union: 'USF',
-    Velez: 'VEL',
-
+async function scrape (url) {
+	const res = await fetch(url)
+	const html = await res.text()
+	return cheerio.load(html)
 }
 
+async function getSchedule () {
+	const $ = await scrape(URLS.schedule)
+	const $rows = $('.jor tbody tr')
 
-export async function getSchedule($) {
-	const schedule = []
-	const $days = $(SELECTORS.match)
-
-    const getTeamIdFromImageUrl = (url) => {
-		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
+	const SELECTORS = {
+		round: {selector: '.jor caption', typeOf: 'string'},
+		date: {selector: '.resultado .fecha', typeOf: 'date'},
+		hour: {selector: '.hora', typeOf: 'date'},
+		locals: {selector: '.local span', typeOf: 'string'},
+		localsImages: {selector: '.local img', typeOf: 'string'},
+		scores: {selector: '.resultado-partido', typeOf: 'string'},
+		visitants: {selector: '.visitante span', typeOf: 'string'},
+		visitantsImages:  {selector: '.visitante img', typeOf: 'string'}	
 	}
+	
 
+	const cleanText = text => text
+    .replace(/\t|\n|\s:/g, ' ')
+    .trim() 
 
-	$days.each((_, day) => {
-		const matches = []
-		const $day = $(day)
+	const scheduleSelectorEntries = Object.entries(SELECTORS)
 
-		const dateRaw = $day.find(SELECTORS.date).text()
-		const dateAndLeagueDay = cleanText(dateRaw)
-		const date = dateAndLeagueDay.trim() // 01/01/2023
-		const [dayNumber, monthNumber, yearNumber] = date.split('/')
-		const prefixDate = `${yearNumber}-${monthNumber}-${dayNumber}`
+	let schedule = []
+	$rows.each((_, el) => {
+		const scheduleEntries = scheduleSelectorEntries.map(([key, {selector, typeOf}]) => {
+			const rawValue = $(el).find(selector).text()
+			const cleanedValue = cleanText (rawValue)
 
-		const $locals = $day.find(SELECTORS.locals)
-		const $localsImages = $day.find(SELECTORS.localsImages)
-		const $visitants = $day.find(SELECTORS.visitants)
-		const $visitantsImages = $day.find(SELECTORS.visitantsImages)
-		const $results = $day.find(SELECTORS.scores)
-		const $hours = $day.find(SELECTORS.hour)
+			const value = typeOf === 'number'
+			? Number(cleanText)
+			: cleanedValue
 
-
-
-		$results.each((index, result) => {
-			const scoreRaw = $(result).text()
-			const score = cleanText(scoreRaw)
-
-
-			const hourRaw = $($hours[index]).text()
-			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
-
-			const matchDate = new Date(`${prefixDate} ${hour} GMT+2`)
-
-			const localNameRaw = $($locals[index]).text()
-			const localName = cleanText(localNameRaw)
-			const localImg = $($localsImages[index]).attr('src')
-			let localId = getTeamIdFromImageUrl(localImg)
-			const localShortName = shortNames[localId]
-
-			const visitantNameRaw = $($visitants[index]).text()
-			const visitantName = cleanText(visitantNameRaw)
-			const visitantImg = $($visitantsImages[index]).attr('src')
-			let visitantId = getTeamIdFromImageUrl(visitantImg)
-			const visitantShortName = shortNames[visitantId]
-
-			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-
-			matches.push({
-				timestamp,
-				hour: hour === 'vs' ? null : hour,
-                date,
-				teams: [
-					{ id: localId, name: localName, shortName: localShortName },
-					{ id: visitantId, name: visitantName, shortName: visitantShortName }
-				],
-				score
-			})
+			return [key, value]
 		})
-
-		schedule.push({ matches })
+		schedule.push(Object.fromEntries(scheduleEntries))
 	})
 
 	return schedule
 }
+
+const schedule = await getSchedule ()
+
+const filePatch = path.join(process.cwd(), './db/schedule.json')
+
+await writeFile(filePatch, JSON.stringify(schedule, null, 2, 'utf-8' ))
+
+ 
