@@ -1,6 +1,25 @@
 [
   {
     "rank": 1,
+    "points": 6,
+    "matchesPlayed": 2,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 2,
+    "goalDifference": 2,
+    "team": {
+      "id": "Lanus",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 2,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -19,7 +38,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -38,7 +57,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -57,7 +76,26 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "goalDifference": 1,
+    "team": {
+      "id": "Belgrano",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 6,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -76,34 +114,34 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 7,
     "points": 3,
-    "matchesPlayed": 1,
+    "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 1,
-    "goalDifference": 2,
+    "matchesLost": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
     "team": {
-      "id": "Velez",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png",
+      "id": "Barracas-Central",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
       "url": "",
       "couch": ""
     }
   },
   {
-    "rank": 3,
+    "rank": 8,
     "points": 3,
-    "matchesPlayed": 1,
+    "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 0,
-    "goalDifference": 2,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
     "team": {
       "id": "River-Plate",
       "name": "River Plate",
@@ -114,45 +152,26 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 9,
     "points": 3,
-    "matchesPlayed": 1,
+    "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
     "goalDifference": 1,
     "team": {
-      "id": "Lanus",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
+      "id": "Velez",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png",
       "url": "",
       "couch": ""
     }
   },
   {
-    "rank": 5,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Lanus",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 6,
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -171,7 +190,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 11,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -190,7 +209,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 12,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -209,34 +228,15 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 13,
     "points": 3,
-    "matchesPlayed": 1,
+    "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "Rosario-Central",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Rosario-Central.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 10,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
     "team": {
       "id": "San-Lorenzo",
       "name": "San Lorenzo",
@@ -247,26 +247,26 @@
     }
   },
   {
-    "rank": 11,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
+    "rank": 14,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
-      "id": "Newells",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Newells.png",
+      "id": "Argentinos",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Argentinos.png",
       "url": "",
       "couch": ""
     }
   },
   {
-    "rank": 12,
+    "rank": 15,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -285,7 +285,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 16,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -304,26 +304,7 @@
     }
   },
   {
-    "rank": 14,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Belgrano",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 15,
+    "rank": 17,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -337,44 +318,6 @@
       "name": "Instituto",
       "shortName": "IACC",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Instituto.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 16,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Racing-Club",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Racing-Club.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 17,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Sarmiento",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Sarmiento.png",
       "url": "",
       "couch": ""
     }
@@ -400,6 +343,82 @@
   },
   {
     "rank": 19,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 3,
+    "goalDifference": -1,
+    "team": {
+      "id": "Estudiantes",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Estudiantes.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 20,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
+    "team": {
+      "id": "Arsenal",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Arsenal.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 21,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Racing-Club",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Racing-Club.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 22,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 5,
+    "goalDifference": -2,
+    "team": {
+      "id": "Sarmiento",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Sarmiento.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 23,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -418,64 +437,7 @@
     }
   },
   {
-    "rank": 20,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Estudiantes",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Estudiantes.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 21,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Argentinos",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Argentinos.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 22,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Arsenal",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Arsenal.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 23,
+    "rank": 24,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -487,27 +449,8 @@
     "team": {
       "id": "Atlético-Tucumán",
       "name": "Atl Tucuman",
-      "shortName": "ARGJ",
+      "shortName": "TUC",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 24,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Barracas-Central",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png",
       "url": "",
       "couch": ""
     }
