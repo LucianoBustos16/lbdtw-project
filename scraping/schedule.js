@@ -1,36 +1,20 @@
-import * as cheerio from 'cheerio'
-import {writeFile} from 'node:fs/promises'
-import path from 'node:path'
+import { cleanText} from './utils.js'
 
-const URLS = {
-	schedule: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html'
+const SELECTORS = {
+	round: {selector: '.jor caption', typeOf: 'string'},
+	date: {selector: '.resultado .fecha', typeOf: 'date'},
+	hour: {selector: '.hora', typeOf: 'date'},
+	locals: {selector: '.local span', typeOf: 'string'},
+	localsImages: {selector: '.local img', typeOf: 'string'},
+	scores: {selector: '.resultado-partido', typeOf: 'string'},
+	visitants: {selector: '.visitante span', typeOf: 'string'},
+	visitantsImages:  {selector: '.visitante img', typeOf: 'string'}	
 }
 
-async function scrape (url) {
-	const res = await fetch(url)
-	const html = await res.text()
-	return cheerio.load(html)
-}
-
-async function getSchedule () {
-	const $ = await scrape(URLS.schedule)
+export async function getSchedule ($) {
+	// const $ = await scrape(URLS.schedule)
 	const $rows = $('.jor tbody tr')
 
-	const SELECTORS = {
-		round: {selector: '.jor caption', typeOf: 'string'},
-		date: {selector: '.resultado .fecha', typeOf: 'date'},
-		hour: {selector: '.hora', typeOf: 'date'},
-		locals: {selector: '.local span', typeOf: 'string'},
-		localsImages: {selector: '.local img', typeOf: 'string'},
-		scores: {selector: '.resultado-partido', typeOf: 'string'},
-		visitants: {selector: '.visitante span', typeOf: 'string'},
-		visitantsImages:  {selector: '.visitante img', typeOf: 'string'}	
-	}
-	
-
-	const cleanText = text => text
-    .replace(/\t|\n|\s:/g, ' ')
-    .trim() 
 
 	const scheduleSelectorEntries = Object.entries(SELECTORS)
 
@@ -51,11 +35,3 @@ async function getSchedule () {
 
 	return schedule
 }
-
-const schedule = await getSchedule ()
-
-const filePatch = path.join(process.cwd(), './db/schedule.json')
-
-await writeFile(filePatch, JSON.stringify(schedule, null, 2, 'utf-8' ))
-
- 

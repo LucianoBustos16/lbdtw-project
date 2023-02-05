@@ -17,8 +17,8 @@ export const SCRAPINGS = {
         scraper: getNextMatch,
     },
     schedule: {
-      url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
-      scraper: getSchedule,
+        url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
+        scraper: getSchedule,
   },
 
 }
