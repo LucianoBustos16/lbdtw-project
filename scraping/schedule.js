@@ -1,36 +1,83 @@
-import { cleanText} from './utils.js'
+import { cleanText } from './utils.js'
 
 const SELECTORS = {
-	round: {selector: '.jor caption', typeOf: 'string'},
-	date: {selector: '.resultado .fecha', typeOf: 'date'},
-	hour: {selector: '.hora', typeOf: 'date'},
-	locals: {selector: '.local span', typeOf: 'string'},
-	localsImages: {selector: '.local img', typeOf: 'string'},
-	scores: {selector: '.resultado-partido', typeOf: 'string'},
-	visitants: {selector: '.visitante span', typeOf: 'string'},
-	visitantsImages:  {selector: '.visitante img', typeOf: 'string'}	
+	match: '.calendarioInternacional',
+	round: 'caption',
+	date: '.resultado .fecha',
+	hour: '.hora',
+	locals: '.local span',
+	localsImages: '.local img',
+	scores: '.resultado-partido',
+	visitants: '.visitante span',
+	visitantsImages:  '.visitante img'	
 }
 
-export async function getSchedule ($) {
-	// const $ = await scrape(URLS.schedule)
-	const $rows = $('.jor tbody tr')
+export async function getSchedule($) {
+	const schedule = []
+	const $days = $(SELECTORS.match)
+
+	const getTeamIdFromImageUrl = (url) => {
+		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
+	}
+
+	$days.each((_, day) => {
+		const matches = []
+		const $day = $(day)
+
+		const dateRaw = $day.find(SELECTORS.round).text()
+		const round = cleanText(dateRaw)
+
+		const $locals = $day.find(SELECTORS.locals)
+		const $localsImages = $day.find(SELECTORS.localsImages)
+		const $visitants = $day.find(SELECTORS.visitants)
+		const $visitantsImages = $day.find(SELECTORS.visitantsImages)
+		const $results = $day.find(SELECTORS.scores)
+		const $hours = $day.find(SELECTORS.hour)
+		const $date = $day.find(SELECTORS.date)
+
+		$results.each((index, result) => {
+			const scoreRaw = $(result).text()
+			const score = cleanText(scoreRaw)
+			console.log(score)
+			
+			const hourRaw = $($hours[index]).text()
+			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
+
+			const dateRaw = $($date[index]).text()
+			const date = dateRaw.replace(/\t|\n|\s:/g, '').trim()
+
+			
+			const matchDate = new Date(`${date} ${hour} GMT-3`)
 
 
-	const scheduleSelectorEntries = Object.entries(SELECTORS)
+			const localNameRaw = $($locals[index]).text()
+			const localName = cleanText(localNameRaw)
+			const localImg = $($localsImages[index]).attr('src')
+			
 
-	let schedule = []
-	$rows.each((_, el) => {
-		const scheduleEntries = scheduleSelectorEntries.map(([key, {selector, typeOf}]) => {
-			const rawValue = $(el).find(selector).text()
-			const cleanedValue = cleanText (rawValue)
 
-			const value = typeOf === 'number'
-			? Number(cleanText)
-			: cleanedValue
+			const visitantNameRaw = $($visitants[index]).text()
+			const visitantName = cleanText(visitantNameRaw)
+			const visitantImg = $($visitantsImages[index]).attr('src')
 
-			return [key, value]
+
+
+			const timestamp = hour === '' ? null : matchDate.getTime()
+			
+
+
+			matches.push({
+				timestamp,
+				hour: hour === 'vs' ? null : hour,
+				teams: [
+					{ img: localImg, name: localName},
+					{ img: visitantImg, name: visitantName }
+				],
+				score
+			})
 		})
-		schedule.push(Object.fromEntries(scheduleEntries))
+
+		schedule.push({ round, matches })
 	})
 
 	return schedule
