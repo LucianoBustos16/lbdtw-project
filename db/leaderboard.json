@@ -6,6 +6,25 @@
     "matchesWon": 2,
     "matchesDrawn": 0,
     "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 2,
+    "goalDifference": 3,
+    "team": {
+      "id": "Huracan",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Huracan.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 2,
+    "points": 6,
+    "matchesPlayed": 2,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
     "goalsFor": 4,
     "goalsAgainst": 2,
     "goalDifference": 2,
@@ -19,7 +38,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -38,7 +57,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -57,7 +76,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -76,7 +95,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -95,7 +114,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -114,7 +133,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -133,7 +152,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -152,7 +171,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -166,25 +185,6 @@
       "name": "Boca Juniors",
       "shortName": "CABJ",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 10,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 4,
-    "goalsAgainst": 2,
-    "goalDifference": 2,
-    "team": {
-      "id": "Huracan",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Huracan.png",
       "url": "",
       "couch": ""
     }
@@ -344,25 +344,6 @@
   {
     "rank": 19,
     "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Banfield",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Banfield.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 20,
-    "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
     "matchesDrawn": 1,
@@ -380,7 +361,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 20,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -394,6 +375,25 @@
       "name": "Arsenal",
       "shortName": "ARS",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Arsenal.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 21,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Banfield",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Banfield.png",
       "url": "",
       "couch": ""
     }
