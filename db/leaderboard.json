@@ -272,6 +272,25 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 4,
+    "goalDifference": 0,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Defensa-y-Justicia.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 16,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
     "goalsFor": 2,
     "goalsAgainst": 2,
     "goalDifference": 0,
@@ -285,7 +304,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -304,7 +323,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -318,25 +337,6 @@
       "name": "Argentinos",
       "shortName": "ARGJ",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Argentinos.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 18,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 4,
-    "goalDifference": -1,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Defensa-y-Justicia.png",
       "url": "",
       "couch": ""
     }
@@ -500,14 +500,14 @@
     "matchesWon": 0,
     "matchesDrawn": 0,
     "matchesLost": 2,
-    "goalsFor": 1,
-    "goalsAgainst": 4,
+    "goalsFor": 0,
+    "goalsAgainst": 3,
     "goalDifference": -3,
     "team": {
-      "id": "Gimnasia",
-      "name": "Gimnasia (LP)",
-      "shortName": "GLP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Gimnasia-La-Plata.png",
+      "id": "Atlético-Tucumán",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
       "url": "",
       "couch": ""
     }
@@ -519,14 +519,14 @@
     "matchesWon": 0,
     "matchesDrawn": 0,
     "matchesLost": 2,
-    "goalsFor": 0,
-    "goalsAgainst": 3,
-    "goalDifference": -3,
+    "goalsFor": 1,
+    "goalsAgainst": 5,
+    "goalDifference": -4,
     "team": {
-      "id": "Atlético-Tucumán",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
+      "id": "Gimnasia",
+      "name": "Gimnasia (LP)",
+      "shortName": "GLP",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Gimnasia-La-Plata.png",
       "url": "",
       "couch": ""
     }
