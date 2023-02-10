@@ -8,6 +8,7 @@ specifiers:
   hono: 2.7.1
   log-symbols: ^5.1.0
   picocolors: 1.0.0
+  prettier: ^2.8.4
   standard: ^17.0.0
   tailwindcss: ^3.2.4
   typescript: ^4.9.4
@@ -24,6 +25,7 @@ dependencies:
 
 devDependencies:
   '@cloudflare/workers-types': 4.20221111.1
+  prettier: 2.8.4
   standard: 17.0.0
   typescript: 4.9.4
   wrangler: 2.6.2
@@ -48,7 +50,7 @@ packages:
     dependencies:
       '@vscode/emmet-helper': 2.8.6
       events: 3.3.0
-      prettier: 2.8.2
+      prettier: 2.8.4
       prettier-plugin-astro: 0.7.2
       source-map: 0.7.4
       vscode-css-languageservice: 6.2.1
@@ -4328,16 +4330,15 @@ packages:
     engines: {node: ^14.15.0 || >=16.0.0, pnpm: '>=7.14.0'}
     dependencies:
       '@astrojs/compiler': 0.31.4
-      prettier: 2.8.2
+      prettier: 2.8.4
       sass-formatter: 0.7.5
       synckit: 0.8.4
     dev: false
 
-  /prettier/2.8.2:
-    resolution: {integrity: sha512-BtRV9BcncDyI2tsuS19zzhzoxD8Dh8LiCx7j7tHzrkz8GFXAexeWFdi22mjE1d16dftH2qNaytVxqiRTGlMfpw==}
+  /prettier/2.8.4:
+    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
     engines: {node: '>=10.13.0'}
     hasBin: true
-    dev: false
 
   /prismjs/1.29.0:
     resolution: {integrity: sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==}
