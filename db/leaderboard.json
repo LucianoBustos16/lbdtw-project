@@ -1,6 +1,25 @@
 [
   {
     "rank": 1,
+    "points": 7,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
+    "team": {
+      "id": "Belgrano",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 2,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -19,7 +38,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -38,7 +57,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -52,25 +71,6 @@
       "name": "Godoy Cruz",
       "shortName": "GCM",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Godoy-Cruz.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 4,
-    "points": 5,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Belgrano",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png",
       "url": "",
       "couch": ""
     }
@@ -196,9 +196,9 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 4,
+    "goalsFor": 5,
     "goalsAgainst": 5,
-    "goalDifference": -1,
+    "goalDifference": 0,
     "team": {
       "id": "Sarmiento",
       "name": "Sarmiento (J)",
@@ -362,25 +362,6 @@
   },
   {
     "rank": 20,
-    "points": 2,
-    "matchesPlayed": 3,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 2,
-    "goalDifference": -2,
-    "team": {
-      "id": "Central-Cordoba",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png",
-      "url": "",
-      "couch": ""
-    }
-  },
-  {
-    "rank": 21,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -399,7 +380,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 21,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -418,7 +399,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -437,7 +418,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 23,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -456,7 +437,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 24,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -475,26 +456,26 @@
     }
   },
   {
-    "rank": 26,
-    "points": 0,
+    "rank": 25,
+    "points": 1,
     "matchesPlayed": 3,
     "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 3,
-    "goalsFor": 1,
-    "goalsAgainst": 4,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 3,
     "goalDifference": -3,
     "team": {
-      "id": "Colon",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png",
+      "id": "Central-Cordoba",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png",
       "url": "",
       "couch": ""
     }
   },
   {
-    "rank": 27,
+    "rank": 26,
     "points": 0,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -508,6 +489,25 @@
       "name": "Atl Tucuman",
       "shortName": "TUC",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png",
+      "url": "",
+      "couch": ""
+    }
+  },
+  {
+    "rank": 27,
+    "points": 0,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 3,
+    "goalsFor": 1,
+    "goalsAgainst": 5,
+    "goalDifference": -4,
+    "team": {
+      "id": "Colon",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png",
       "url": "",
       "couch": ""
     }
