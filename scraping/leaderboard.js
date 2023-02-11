@@ -2,7 +2,6 @@ import { TEAMS } from '../db/index.js'
 import { cleanText} from './utils.js'
 
 const LEADERBOARD_SELECTORS = {
-  rank: {selector: 'td:nth-child(1)', typeOf: 'number'},
   team: {selector: 'td:nth-child(2)', typeOf: 'string'},
   points: {selector: 'td:nth-child(3)', typeOf: 'number'},
   matchesPlayed: {selector: 'td:nth-child(4)', typeOf: 'number'},
@@ -23,7 +22,7 @@ export async function getLeaderBoard ($) {
     const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS)
 
     let leaderboard = []
-    $rows.each((_, el) => {
+    $rows.each((index, el) => {
         const leaderBoardEntries = leaderBoardSelectorEntries.map(([key, { selector, typeOf }]) => {
           const rawValue = $(el).find(selector).text()
           const cleanedValue = cleanText(rawValue)
@@ -40,6 +39,7 @@ export async function getLeaderBoard ($) {
         
 
         leaderboard.push({
+          rank: index + 1,
             ...leaderBoardForTeam,
             team
         }
