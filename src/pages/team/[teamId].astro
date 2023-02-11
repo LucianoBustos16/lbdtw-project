@@ -1,0 +1,29 @@
+---
+import Layout from "@layouts/Layout.astro"
+
+export async function getStaticPaths() {
+    const response = await fetch('https://api.lbdtwplus.com.ar/teams')
+    const teams = await response.json()
+
+return teams.map(team => ({
+    params: { teamId: team.id},
+    props: {... team}
+}))
+}
+
+const {
+    name,
+    image,
+    shortName,
+    color
+}
+    = Astro.props
+---
+
+<Layout title="{name}">
+
+    <img src={image} alt="">
+    <h1>{name}</h1>
+
+
+</Layout>
