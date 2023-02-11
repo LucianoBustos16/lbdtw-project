@@ -2,14 +2,23 @@
 import Layout from '../layouts/Layout.astro';
 import Container from '../components/Container.astro';
 import Table from '@components/Table.astro';
+import Nextmatch from '@components/Nextmatch.astro';
 ---
 
 <Layout title="Estadisticas">
 	
 	<main>
 		<Container>
-			<Table />
+			<div class='grid grid-cols-4 lg:grid-cols-8 gap-10 w-full px-4 md:px-8'>
+				
+				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-10'>
+					<Table />
+				</div>
+				
+				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-10'>
+					<Nextmatch></Nextmatch>
+				</div>
+			</div>
 		</Container>
 	</main>
 </Layout>
-
