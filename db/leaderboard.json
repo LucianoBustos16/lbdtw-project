@@ -109,6 +109,24 @@
   },
   {
     "rank": 7,
+    "points": 5,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 3,
+    "goalDifference": 1,
+    "team": {
+      "id": "Platense",
+      "color": "#2a1608",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Platense.png"
+    }
+  },
+  {
+    "rank": 8,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -123,24 +141,6 @@
       "name": "Instituto",
       "shortName": "IACC",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Instituto.png"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 4,
-    "goalsAgainst": 3,
-    "goalDifference": 1,
-    "team": {
-      "id": "Platense",
-      "color": "#2a1608",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Platense.png"
     }
   },
   {
@@ -442,29 +442,29 @@
     "goalsAgainst": 3,
     "goalDifference": -3,
     "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png"
-    }
-  },
-  {
-    "rank": 26,
-    "points": 0,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 0,
-    "goalsAgainst": 3,
-    "goalDifference": -3,
-    "team": {
       "id": "Atlético-Tucumán",
       "color": "#83baee",
       "name": "Atl Tucuman",
       "shortName": "TUC",
       "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png"
+    }
+  },
+  {
+    "rank": 26,
+    "points": 1,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 3,
+    "goalDifference": -3,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png"
     }
   },
   {
