@@ -38,24 +38,6 @@
   {
     "rank": 3,
     "points": 6,
-    "matchesPlayed": 3,
-    "matchesWon": 2,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 4,
-    "goalsAgainst": 1,
-    "goalDifference": 3,
-    "team": {
-      "id": "Talleres",
-      "color": "#2957bf",
-      "name": "Talleres (C)",
-      "shortName": "TDC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.png"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
     "matchesDrawn": 0,
@@ -69,6 +51,24 @@
       "name": "Lanus",
       "shortName": "LAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.png"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 6,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 2,
+    "goalDifference": 2,
+    "team": {
+      "id": "Talleres",
+      "color": "#2957bf",
+      "name": "Talleres (C)",
+      "shortName": "TDC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.png"
     }
   },
   {
@@ -262,11 +262,11 @@
     "goalsAgainst": 2,
     "goalDifference": 0,
     "team": {
-      "id": "Independiente",
-      "color": "#de0019",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.png"
+      "id": "Boca-Juniors",
+      "color": "#12386d",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.png"
     }
   },
   {
@@ -276,15 +276,15 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 1,
+    "goalsFor": 2,
     "goalsAgainst": 2,
-    "goalDifference": -1,
+    "goalDifference": 0,
     "team": {
-      "id": "Boca-Juniors",
-      "color": "#12386d",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.png"
+      "id": "Independiente",
+      "color": "#de0019",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.png"
     }
   },
   {
