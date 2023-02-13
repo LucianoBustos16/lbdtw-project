@@ -24,20 +24,18 @@ const {
 } = Astro.props
 ---
 
-<Layout>
+<Layout title={title}>
     <h1>{title}</h1>
 
     <img class="aspect-square me-4" src={image} alt={`Imagen de ${title}`}>
 
     <p>{description}</p>
     <p>{platforms}</p>
-    <p>{instructions}</p>
+     <a href="/">volver</a>
+     <p>{instructions}</p>
     
-    <a href={open_giveaway_url}>Descargar<a>
-
-
-    <a href="/">volver<a>
-    
+    <a href={open_giveaway_url}>Descargar</a>
+  
 
 </Layout>
 

@@ -40,12 +40,13 @@ app.get('/leaderboard' , (ctx) => {
 	return ctx.json(leaderboard)
 })
 
-app.get('/leaderboard/:teamId' , (ctx) => { 
+app.get('/leaderboard/:teamId', (ctx) => {
 	const teamId = ctx.req.param('teamId')
 	const foundTeam = leaderboard.find((stats) => stats.team.id === teamId )
 
-	return foundTeam ? ctx.json(foundTeam) : ctx.json({mesage:'Team not found'}, 404)
+	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
 })
+
 
 app.get('/nextmatch' , (ctx) => {
 	return ctx.json(nextmatch)
