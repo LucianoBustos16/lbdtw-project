@@ -9,3 +9,4 @@ export const getAllTemas = async () => {
         return []
     }
 }
+
