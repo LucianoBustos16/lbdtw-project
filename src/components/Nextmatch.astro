@@ -1,17 +1,33 @@
-<div class="grid grid-cols-2 gap-4 p-10 md:p-8 bg-[#0598D1] shadow-md rounded-3xl">
+---
+import { getNextMatch } from "@services/nextmatch.js";
+
+const teams = await getNextMatch();
+
+---
+
+{
+    teams.map((team) => {
+        const { competition, date, teamVisitant, teamLocal } = team;
+        return (
+
+<div class="grid grid-cols-2 gap-4 p-8 md:p-8 bg-[#0598D1] shadow-md rounded-3xl">
     <div class="w-full">
-        <span class="bg-white text-gray-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded-full">⚽ Próximo Partido</span>
+        <span class="bg-white text-gray-800 text-md font-medium mr-2 px-2.5 py-0.5 rounded-full">⚽ Próximo Partido</span>
 
         <div>
-            <h3 class="font-black text-white text-xl">Team Local vs Team Visitant</h3>
+            <h3 class="font-black text-white text-xl">{teamLocal} <span class="font-light text-md">vs</span> {teamVisitant}</h3>
 
-            <p> dentro de 3 días</p>
-            <p>Copa Argentina</p>
+            <p class=" text-white">{date}</p>
+            <p class=" text-white">{competition}</p>
 
         </div>
     </div>
-    <div class="flex mb-5 -space-x-4">
-        <img class="w-40 h-40 border-2 bg-white rounded-full " src="https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Argentinos.png" alt="">
-        <img class="w-40 h-40 border-2 bg-white rounded-full " src="https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png" alt="">
+    <div class="flex mb-5 -space-x-8">
+        <img class="w-24 h-24 md:w-40 md:h-40 border-2 bg-white rounded-full shadow-xl" src="https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Argentinos.png" alt="">
+        <img class="w-24 h-24 md:w-40 md:h-40 border-2 bg-white rounded-full shadow-xl " src="https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png" alt="">
     </div>
 </div>
+
+);
+        })
+    }

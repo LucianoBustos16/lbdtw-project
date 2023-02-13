@@ -1,4 +1,5 @@
 ---
+import TeamStats from "@components/TeamStats.astro"
 import Layout from "@layouts/Layout.astro"
 
 export async function getStaticPaths() {
@@ -12,6 +13,7 @@ return teams.map(team => ({
 }
 
 const {
+    id,
     name,
     image,
     shortName,
@@ -25,5 +27,6 @@ const {
     <img src={image} alt="">
     <h1>{name}</h1>
 
+    <TeamStats teamId={id} />
 
 </Layout>
