@@ -1,6 +1,6 @@
 import { Hono } from 'hono'
 import { serveStatic } from 'hono/serve-static.module'
-import leadboard from '../db/leaderboard.json'
+import leaderboard from '../db/leaderboard.json'
 import nextmatch from '../db/nextmatch.json'
 import schedule from '../db/schedule.json'
 import teams from 'db/teams.json'
@@ -37,12 +37,12 @@ app.get('/', (ctx) =>
 
 
 app.get('/leaderboard' , (ctx) => {
-	return ctx.json(leadboard)
+	return ctx.json(leaderboard)
 })
 
 app.get('/leaderboard/:teamId' , (ctx) => { 
 	const teamId = ctx.req.param('teamId')
-	const foundTeam = leaderboard.find((team) => team.id === teamId )
+	const foundTeam = leaderboard.find((stats) => stats.team.id === teamId )
 
 	return foundTeam ? ctx.json(foundTeam) : ctx.json({mesage:'Team not found'}, 404)
 })
