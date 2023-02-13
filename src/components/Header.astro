@@ -5,48 +5,12 @@ import Logo from './Logo.astro';
 
 const menu = [
 	{
-		name: 'PC',
-		href: '/pc'
-	},
-	{
-		name: 'Steam',
-		href: '/Steam'
-	},
-	{
-		name: 'Epic Games',
-		href: '/epic-store'
-	},
-	{
-		name: 'GOG',
-		href: '/gog'
-	},
-	{
-		name: 'Xbox One',
-		href: '/xbox-one'
-	},
-	{
-		name: 'PS4',
-		href: '/ps4'
-	},
-	{
-		name: 'Nintendo',
-		href: '/nintendo'
-	},
-	{
-		name: 'Android',
-		href: '/android'
-	},
-	{
-		name: 'iOS',
-		href: '/ios'
-	},
-	{
-		name: 'DRM-Free',
-		href: '/drm-free'
-	},
-	{
-		name: 'Todas las plataformas',
+		name: 'Home',
 		href: '/'
+	},
+	{
+		name: 'Equipos',
+		href: '/equipos'
 	}
     
     
@@ -71,11 +35,11 @@ const menu = [
 				for='menu'
 				class='relative z-50 sm:hidden peer-checked:[&>.first]:hidden peer-checked:[&>.last]:block cursor-pointer transition hover:scale-110'
 			>
-				<!-- <MenuIcon /> -->
+				<MenuIcon />
 			</label>
-			<!-- <ul
+			<ul
 				id='navbar'
-				class='absolute sm:relative top-0 left-0 right-0 z-40 hidden peer-checked:text-2xl peer-checked:flex peer-checked:flex-col peer-checked:bg-gradient-to-b from-[#4FACF7] via-[#4FACF7] to-[#1f5cb7] min-h-screen sm:min-h-min py-24 sm:py-0 sm:flex justify-center text-white gap-6 sm:gap-x-4 font-semibold text-center text-md [&>li>a]:opacity-80 [&>li>a:hover]:opacity-100 [&>li>a:hover]:underline'
+				class='absolute sm:relative top-0 left-0 right-0 z-40 hidden peer-checked:text-2xl peer-checked:flex peer-checked:flex-col peer-checked:bg-gradient-to-b from-[#4FACF7] via-[#4FACF7] to-[#1f5cb7] min-h-screen sm:min-h-min py-24 sm:py-0 sm:flex justify-center  gap-6 sm:gap-x-4 font-semibold text-center text-md [&>li>a]:opacity-80 [&>li>a:hover]:opacity-100 [&>li>a:hover]:underline'
 			>
 				{
 					menu.map(({ name, href }) => (
@@ -94,7 +58,7 @@ const menu = [
 						</li>
 					))
 				}
-			</ul> -->
+			</ul> 
 
 			<!-- <div class="flex justify-center mt-5">
 				<a class="flex justify-center items-center gap-x-2 py-1 px-4 font-bold bg-purple-600 hover:bg-purple-500 transition-all duration-300 hover:scale-110 rounded-lg text-white" href='https://www.twitch.tv/kingsleague' target="_blank" rel="noopener norefferer">
@@ -102,7 +66,7 @@ const menu = [
 					KINGSLEAGUE
 					<span class="font-bold text-xl text-title text-[#ff6900] rounded-xl">TV</span>
 				</a>
-			</div> -->
+			</div>-->
 		</nav>
 	</div>
 </header>

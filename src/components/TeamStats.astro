@@ -8,7 +8,7 @@ const { rank, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goal
     
 const stats = [
     {
-        title: 'Clasificación',
+        title: 'Posición',
         value: rank
     },
     {
@@ -46,11 +46,11 @@ const stats = [
 ]
 ---
 
-<section class="p-4 bg-gray-800 rounded-lg">
+<section class="p-4 bg-gray-800 rounded-lg grid grid-cols-3">
     {
         stats.map((stat) => (            
-            <div class="flex justify-between items-center mb-2">
-                <h4 class="text-yellow-400 uppercase font-bold "> {stat.title}</h4>
+            <div class="flex flex-col justify-between items-center mb-2">
+                <h4 class="text-blue-400 uppercase font-bold "> {stat.title}</h4>
                 <strong class="text-4xl font-bold text-white">{stat.value}</strong>
             </div>
         ))
