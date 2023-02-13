@@ -10,11 +10,11 @@
     "goalsAgainst": 3,
     "goalDifference": 2,
     "team": {
-      "id": "Platense",
-      "color": "#2a1608",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Platense.png"
+      "id": "Rosario-Central",
+      "color": "#ffc40c",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.png"
     }
   },
   {
@@ -32,7 +32,7 @@
       "color": "#0598D1",
       "name": "Belgrano",
       "shortName": "BEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Belgrano.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.png"
     }
   },
   {
@@ -50,11 +50,29 @@
       "color": "#ae0407",
       "name": "Huracan",
       "shortName": "HUR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Huracan.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.png"
     }
   },
   {
     "rank": 4,
+    "points": 6,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 3,
+    "goalDifference": 2,
+    "team": {
+      "id": "River-Plate",
+      "color": "#df1e19",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.png"
+    }
+  },
+  {
+    "rank": 5,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -68,11 +86,29 @@
       "color": "#6f1c28",
       "name": "Lanus",
       "shortName": "LAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Lanus.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.png"
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
+    "points": 6,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 2,
+    "goalDifference": 2,
+    "team": {
+      "id": "Talleres",
+      "color": "#2957bf",
+      "name": "Talleres (C)",
+      "shortName": "TDC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.png"
+    }
+  },
+  {
+    "rank": 7,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -86,11 +122,11 @@
       "color": "#ffdd02",
       "name": "Def y Justicia",
       "shortName": "DYJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Defensa-y-Justicia.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.png"
     }
   },
   {
-    "rank": 6,
+    "rank": 8,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -104,11 +140,11 @@
       "color": "#dd2b2f",
       "name": "San Lorenzo",
       "shortName": "SL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/San-Lorenzo.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.png"
     }
   },
   {
-    "rank": 7,
+    "rank": 9,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -122,11 +158,29 @@
       "color": "#014e7c",
       "name": "Godoy Cruz",
       "shortName": "GCM",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Godoy-Cruz.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.png"
     }
   },
   {
-    "rank": 8,
+    "rank": 10,
+    "points": 5,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
+    "team": {
+      "id": "Platense",
+      "color": "#2a1608",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.png"
+    }
+  },
+  {
+    "rank": 11,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -140,11 +194,11 @@
       "color": "#e72428",
       "name": "Instituto",
       "shortName": "IACC",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Instituto.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.png"
     }
   },
   {
-    "rank": 9,
+    "rank": 12,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -158,47 +212,29 @@
       "color": "#18347c",
       "name": "Tigre",
       "shortName": "TIG",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Tigre.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.png"
     }
   },
   {
-    "rank": 10,
+    "rank": 13,
     "points": 4,
-    "matchesPlayed": 2,
+    "matchesPlayed": 3,
     "matchesWon": 1,
     "matchesDrawn": 1,
-    "matchesLost": 0,
+    "matchesLost": 1,
     "goalsFor": 3,
     "goalsAgainst": 2,
     "goalDifference": 1,
     "team": {
-      "id": "Rosario-Central",
-      "color": "#ffc40c",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Rosario-Central.png"
+      "id": "Velez",
+      "color": "#85c7fc",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.png"
     }
   },
   {
-    "rank": 11,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "Boca-Juniors",
-      "color": "#12386d",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Boca.png"
-    }
-  },
-  {
-    "rank": 12,
+    "rank": 14,
     "points": 4,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -212,11 +248,11 @@
       "color": "#06a43f",
       "name": "Sarmiento (J)",
       "shortName": "SARM",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Sarmiento.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.png"
     }
   },
   {
-    "rank": 13,
+    "rank": 15,
     "points": 4,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -230,11 +266,47 @@
       "color": "#eb1921",
       "name": "Newells",
       "shortName": "NOB",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Newells.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.png"
     }
   },
   {
-    "rank": 14,
+    "rank": 16,
+    "points": 4,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Boca-Juniors",
+      "color": "#12386d",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.png"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 4,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Independiente",
+      "color": "#de0019",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.png"
+    }
+  },
+  {
+    "rank": 18,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -248,105 +320,33 @@
       "color": "#ea2f2f",
       "name": "Barracas Central",
       "shortName": "BAR",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Barracas-Central.png"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "River-Plate",
-      "color": "#df1e19",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/River.png"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "Velez",
-      "color": "#85c7fc",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Velez.png"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Talleres",
-      "color": "#2957bf",
-      "name": "Talleres (C)",
-      "shortName": "TDC",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Talleres.png"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
-    "goalDifference": 0,
-    "team": {
-      "id": "Independiente",
-      "color": "#de0019",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Independiente.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.png"
     }
   },
   {
     "rank": 19,
     "points": 3,
-    "matchesPlayed": 2,
+    "matchesPlayed": 3,
     "matchesWon": 1,
     "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 3,
+    "goalDifference": -1,
     "team": {
       "id": "Argentinos",
       "color": "#e8272b",
       "name": "Argentinos",
       "shortName": "ARGJ",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Argentinos.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.png"
     }
   },
   {
     "rank": 20,
-    "points": 1,
-    "matchesPlayed": 2,
+    "points": 2,
+    "matchesPlayed": 3,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 1,
     "goalsFor": 2,
     "goalsAgainst": 3,
@@ -356,7 +356,7 @@
       "color": "#81f1a9",
       "name": "Banfield",
       "shortName": "BAN",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Banfield.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.png"
     }
   },
   {
@@ -374,29 +374,11 @@
       "color": "#ea1921",
       "name": "Estudiantes (LP)",
       "shortName": "EST",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Estudiantes.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.png"
     }
   },
   {
     "rank": 22,
-    "points": 1,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Arsenal",
-      "color": "#ac110b",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Arsenal.png"
-    }
-  },
-  {
-    "rank": 23,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -410,7 +392,25 @@
       "color": "#6ccbf9",
       "name": "Racing Club",
       "shortName": "RAC",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Racing-Club.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.png"
+    }
+  },
+  {
+    "rank": 23,
+    "points": 1,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 4,
+    "goalDifference": -2,
+    "team": {
+      "id": "Arsenal",
+      "color": "#ac110b",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.png"
     }
   },
   {
@@ -428,11 +428,29 @@
       "color": "#ec1a21",
       "name": "Union",
       "shortName": "USF",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Union.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.png"
     }
   },
   {
     "rank": 25,
+    "points": 1,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 4,
+    "goalDifference": -3,
+    "team": {
+      "id": "Atlético-Tucumán",
+      "color": "#83baee",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.png"
+    }
+  },
+  {
+    "rank": 26,
     "points": 1,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -446,11 +464,29 @@
       "color": "#000",
       "name": "Central Cba (SdE)",
       "shortName": "CSE",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Central-Cordoba.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.png"
     }
   },
   {
-    "rank": 26,
+    "rank": 27,
+    "points": 1,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 5,
+    "goalDifference": -4,
+    "team": {
+      "id": "Gimnasia",
+      "color": "#6370fc",
+      "name": "Gimnasia (LP)",
+      "shortName": "GLP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-La-Plata.png"
+    }
+  },
+  {
+    "rank": 28,
     "points": 0,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -464,43 +500,7 @@
       "color": "#fa555a",
       "name": "Colon",
       "shortName": "COL",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Colon.png"
-    }
-  },
-  {
-    "rank": 27,
-    "points": 0,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 1,
-    "goalsAgainst": 5,
-    "goalDifference": -4,
-    "team": {
-      "id": "Gimnasia",
-      "color": "#6370fc",
-      "name": "Gimnasia (LP)",
-      "shortName": "GLP",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Gimnasia-La-Plata.png"
-    }
-  },
-  {
-    "rank": 28,
-    "points": 0,
-    "matchesPlayed": 3,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 3,
-    "goalsFor": 0,
-    "goalsAgainst": 4,
-    "goalDifference": -4,
-    "team": {
-      "id": "Atlético-Tucumán",
-      "color": "#83baee",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://lbdtw-api.bustosluciano89.workers.dev/static/logos/Atletico-Tucuman.png"
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.png"
     }
   }
 ]
