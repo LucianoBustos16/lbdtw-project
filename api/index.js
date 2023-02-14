@@ -30,9 +30,9 @@ app.get('/', (ctx) =>
 			description: 'Returns the next match to Belgrano',
 			parameters:[
 				{
-					name: 'team',
-					endpoint: 'schedule/:teamId',
-					description: 'Return leaderboard info from TeamId'
+					name: 'teamId',
+					endpoint: '/schedule/:teamId',
+					description: 'The id of the team'
 				}
 			]
 		},
@@ -54,20 +54,19 @@ app.get('/leaderboard/:teamId', (ctx) => {
 	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
 })
 
-app.get('/schedule/:teamId', (ctx) => {
-	const teamId = ctx.req.param('teamId')
-	const foundTeam = schedule.find((match) => match.team.id === teamId )
-
-	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
-})
-
-
 app.get('/nextmatch' , (ctx) => {
 	return ctx.json(nextmatch)
 })
 
 app.get('/schedule' , (ctx) => {
 	return ctx.json(schedule)
+})
+
+app.get('/schedule/:teamId' , (ctx) => {
+	const teamId = ctx.req.param('teamId')
+	const foundGames = schedule.filter((game) => game.team1.id === teamId || game.team2.id === teamId)
+
+	return foundGames.length > 0 ? ctx.json(foundGames) : ctx.json({message:'No games found for this team'}, 404)
 })
 
 app.get('/teams' , (ctx) => {

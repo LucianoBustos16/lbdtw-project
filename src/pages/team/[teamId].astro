@@ -24,9 +24,13 @@ const {
 
 <Layout title={name}>
 
-    <img src={image} alt="">
-    <h1>{name}</h1>
+    <div style={`background:${color}`}>
+        <img src={image} alt="">
+        <h1>{name}</h1>
+        
+        <TeamStats teamId={id} />
 
-    <TeamStats teamId={id} />
+    </div>
+
 
 </Layout>
