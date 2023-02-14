@@ -54,6 +54,13 @@ app.get('/leaderboard/:teamId', (ctx) => {
 	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
 })
 
+app.get('/schedule/:teamId', (ctx) => {
+	const teamId = ctx.req.param('teamId')
+	const foundTeam = schedule.find((match) => match.team.id === teamId )
+
+	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
+})
+
 
 app.get('/nextmatch' , (ctx) => {
 	return ctx.json(nextmatch)
