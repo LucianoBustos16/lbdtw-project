@@ -3,13 +3,13 @@ import { findScheduleTeamBy } from "@services/scheduleTeam";
 
 const { teamId } = Astro.props
 
-const { rank, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goalsFor, goalsAgainst, goalDifference} =
+const { teams, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goalsFor, goalsAgainst, goalDifference} =
     await findScheduleTeamBy ({localName})
     
 const stats = [
     {
         title: 'Posición',
-        value: rank
+        value: teams
     },
     {
         title: 'Puntos',
