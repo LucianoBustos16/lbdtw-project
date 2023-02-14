@@ -38,7 +38,6 @@ export async function getSchedule($) {
 			const hourRaw = $($hours[index]).text()
 			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
 
-
 			const dateRaw = $($date[index]).text()
 			const date = dateRaw.replace(/\t|\n|\s:/g, '').trim()
 			const [dayNumber, monthNumber] = date.split('/')
