@@ -4,24 +4,24 @@ import { getAllTemas } from "@services/teams.js";
 const teams = await getAllTemas();
 ---
 
-<section class="grid grid-cols-3 md:grid-cols-4 gap-8">
+<section class="grid grid-cols-3 md:grid-cols-4 gap-8 ">
     {
+
         teams.map((team) => {
-            const { name, image, shortName, id, color } = team;
-            return (
-                <article
-                    class={`w-full col-span-1 rounded-lg shadow overflow-hidden bg-gradient-to-tr from-gray-100 to-gray-900/70`}
-                    style={`--tw-gradient-from:${color}`}
-                >
-                    <a
-                        href={`/team/${id}`}
-                        class="group transition-all hover:scale-110"
-                    >
-                        <div class="flex justify-end px-4 pt-4" />
+            const {name, image, shortName, id, color} = team
+            return(
+           
+            <article class={`w-full col-span-1 rounded-lg shadow overflow-hidden bg-gradient-to-tr from-gray-100 to-gray-900/70`} style={`--tw-gradient-from:${color}`}>
+                <a href={`/team/${id}`} class="group transition-all hover:scale-110">
+                    <div class="flex justify-end px-4 pt-4"></div>
                         <div class="flex flex-col items-center md:pb-4 relative">
+
                             <div class="w-12 h-12 md:w-24 md:h-24 mb-3 rounded-full shadow-lg bg-white p-2 md:p-4 transition-all group-hover:scale-110">
-                                <img src={image} alt={`Escudo de ${name}`} />
-                            </div>
+                                <img
+                                src={image}
+                                alt={`Escudo de ${name}`}
+                            /> 
+                                </div>                                   
 
                             <div class="font-bold text-white text-center">
                                 {name}
@@ -33,9 +33,13 @@ const teams = await getAllTemas();
                                 </h5>
                             </div>
                         </div>
-                    </a>
+                    
+                </a>
                 </article>
-            );
-        })
+
+        )
+    })
     }
+
+
 </section>

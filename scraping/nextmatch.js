@@ -7,7 +7,7 @@ const NEXTMATCH_SELECTORS = {
     teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
     teamLocalImage: {selector: 'div:nth-child(2) .team-name img', typeOf: 'string'},
     teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
-    marker: {selector: '.marker .match_hour', typeOf: 'string'},
+    marker: {selector: '.marker .time', typeOf: 'string'},
     goalsLocal: {selector: '.marker .green .r1', typeOf: 'number'},
     goalsVisitant: {selector: '.marker .green .r2', typeOf: 'number'},
     date: {selector: '.date', typeOf: 'string'},
@@ -24,18 +24,19 @@ export async function getNextMatch($) {
     $rows.each((_, el) => {
         const nextMatchEntries = nextMatchSelectorEntries.map(([key, {selector, typeOf}]) => {
             const rawValue = $(el).find(selector).text()
-            const cleanedValue = cleanText(rawValue)
+
 
             const value = typeOf ==='number'
-            ? Number(cleanedValue)
-            : cleanedValue
+            ? Number(rawValue)
+            : rawValue
 
             return [key, value]
         })
 
+        
+
         const {team: teamName, ...nextMatchForTeam } = Object.fromEntries(nextMatchEntries)
         const team = getTeamFrom ({ name: teamName})
-
 
         nextmatch.push({
             ...nextMatchForTeam,

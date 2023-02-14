@@ -27,7 +27,14 @@ app.get('/', (ctx) =>
 		},
 		{
 			endpoint: '/schedule',
-			description: 'Returns the next match to Belgrano'
+			description: 'Returns the next match to Belgrano',
+			parameters:[
+				{
+					name: 'localTaam',
+					endpoint: 'schedule/:localName',
+					description: 'Return leaderboard info from TeamId'
+				}
+			]
 		},
 		{
 			endpoint: '/teams',
