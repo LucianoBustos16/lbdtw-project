@@ -6,9 +6,9 @@ const shortNames = {
 	'2578': 'Huracan',
 	'745': 'Rosario-Central',
 	'1313': 'Belgrano',
-	'608': 'River-Plate',
+	'608': 'River',
 	'1071': 'Talleres',
-	'846': 'Defensa-y-Justicia',
+	'8625': 'Defensa-y-Justicia',
 	'2549': 'San-Lorenzo',
 	'2834': 'Godoy-Cruz',
 	'3638': 'Instituto',
@@ -18,7 +18,7 @@ const shortNames = {
 	'570': 'Velez',
 	'8629': 'Sarmiento',
 	'1095': 'Newells',
-	'540': 'Boca-Juniors',
+	'540': 'Boca',
 	'1243': 'Independiente',
 	'846': 'Argentinos',
 	'2451': 'Banfield',
@@ -28,7 +28,7 @@ const shortNames = {
 	'927': 'Estudiantes',
 	'4671': 'Atletico-Tucuman',
 	'10752': 'Central-Cordoba',
-	'1392': 'Gimnasia	',
+	'1392': 'Gimnasia-La-Plata',
 	'1027': 'Colon',
 
 
@@ -90,7 +90,7 @@ export async function getSchedule($) {
 			const localId = getTeamIdFromImageUrl(localImg)
 			const localShortName = shortNames[localId]
 
-			
+
 			const visitantNameRaw = $($visitants[index]).text()
 			const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
@@ -105,7 +105,7 @@ export async function getSchedule($) {
 			const minutes = "0" + hourAr.getMinutes()
 
 			const day = hourAr.getDate()
-			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
+			const months = ['Ene','Feb	','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[hourAr.getMonth()]
 
 			const formattedTime = hours + ':' + minutes.substr(-2)
