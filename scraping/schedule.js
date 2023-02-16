@@ -16,7 +16,7 @@ const shortNames = {
 	'3579': 'Platense',
 	'9280': 'Barracas-Central',
 	'570': 'Velez',
-	'8629': 'Sarmiento',
+	'8629': 'Sarmiento',	
 	'1095': 'Newells',
 	'540': 'Boca',
 	'1243': 'Independiente',
