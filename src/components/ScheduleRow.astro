@@ -1,9 +1,41 @@
 ---
 const { local, score, visitant } = Astro.props
-console.log(visitant)
 ---
 
-<tr class='border-y [&>td]:py-2'>
+	<div class="shadow-md p-4 rounded-xl">
+		<div class="flex justify-between">
+			<img
+				class='h-8 object-contain my-2'
+				src={`https://api.lbdtwplus.com.ar/static/logos/${local.shortName}.png`}
+				alt={`Escudo del equipo ${local.name}`}
+			/>
+
+			<div class="flex gap-2">
+				<p class="text-right">
+					{local.name}	
+				</p>
+				
+				<p>-</p>
+				
+				<p class="text-left">
+					{visitant.name}	
+				</p>
+			</div>
+			<div class="flex">
+				<img
+				class='h-8 object-contain'
+				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.shortName}.png`}
+				alt={`Escudo del equipo ${visitant.name}`}
+				/>
+
+			</div>
+		</div>
+		<p class='text-center text-xs bg-gray-200 rounded-sm p-2'>
+			{score !== '0 – 0' ? score : 'vs'}
+		</p>
+	</div>
+
+<!-- <tr class='border-y [&>td]:py-2'>
 	<td class='text-right'>{local.name}</td>
 	<td>
 		<img
@@ -25,4 +57,4 @@ console.log(visitant)
 		/>
 	</td>
 	<td class='text-left'>{visitant.name}</td>
-</tr>
+</tr> -->
