@@ -6,7 +6,7 @@ const teams = await getNextMatch();
 ---
 
 {
-    teams.map((team) => {
+    teams.slice(0, 1).map((team) => {
         const { competition, date, teamVisitant, teamLocal } = team;
         return (
 

@@ -25,6 +25,7 @@ export async function getLeaderBoard ($) {
     $rows.each((index, el) => {
         const leaderBoardEntries = leaderBoardSelectorEntries.map(([key, { selector, typeOf }]) => {
           const rawValue = $(el).find(selector).text()
+          
           const cleanedValue = cleanText(rawValue)
     
           const value = typeOf === 'number'

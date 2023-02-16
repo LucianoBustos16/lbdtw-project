@@ -1,4 +1,5 @@
 ---
+import ScheduleTeam from "@components/ScheduleTeam.astro"
 import TeamStats from "@components/TeamStats.astro"
 import Layout from "@layouts/Layout.astro"
 
@@ -29,6 +30,7 @@ const {
         <h1>{name}</h1>
         
         <TeamStats teamId={id} />
+        <ScheduleTeam></ScheduleTeam>
 
     </div>
 
