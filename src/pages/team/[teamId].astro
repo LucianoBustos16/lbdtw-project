@@ -27,12 +27,11 @@ const {
 
     <div style={`background:${color}`}>
         <img src={image} alt="">
-        <h1>{name}</h1>
+        <h1>{name}</h1>   
         
-        <TeamStats teamId={id} />
-        <ScheduleTeam></ScheduleTeam>
-
     </div>
+    <TeamStats teamId={id} />
+    <ScheduleTeam teamId={id}></ScheduleTeam>
 
 
 </Layout>

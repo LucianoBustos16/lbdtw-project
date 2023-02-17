@@ -7,11 +7,13 @@ import ScheduleRow from '@components/ScheduleRow.astro'
 
 const schedule = await getAllMatch()
 
+const { teamId } = Astro.props
+
 
 ---
 
 <!-- Página del calendario -->
-<Layout title='Calendario'>
+
 	<SectionTitle title='Calendario' />
 	<Container>
 		<main class='max-w-4xl mx-auto my-4'>
@@ -22,7 +24,8 @@ const schedule = await getAllMatch()
 							<h2 class='font-bold text-xl my-8'>{day.round}</h2>
 							<table class='w-full'>
 								<tbody>
-									{day.matches.map((match) => (
+									{day.matches.filter(match =>
+										match.teams[0].name === teamId || match.teams[1].name === teamId).map((match) => (
 										<ScheduleRow
 											local={match.teams[0]}
 											visitant={match.teams[1]}
@@ -40,4 +43,3 @@ const schedule = await getAllMatch()
 			}
 		</main>
 	</Container>
-</Layout>

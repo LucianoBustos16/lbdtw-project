@@ -98,7 +98,6 @@ export async function getSchedule($) {
 			const visitantShortName = shortNames[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-			console.log(timestamp)
 
 
 			const hourAr = new Date(timestamp)

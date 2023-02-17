@@ -1,9 +1,7 @@
 ---
 const { local, score, visitant, date, hour } = Astro.props
 
-const pepito = `${hour} ${date}`
-
-console.log(hour)
+const fecha = `${hour} ${date}`
 ---
 
 	<div class="shadow-md p-4 rounded-xl">
@@ -34,6 +32,6 @@ console.log(hour)
 
 		</div>
 		<p class='text-center text-xs bg-gray-200 rounded-sm p-2'>
-			{date !== 'NaN undefined' ? pepito : score }
+			{date !== 'NaN undefined' ? fecha : score }
 		</p>
 	</div>
