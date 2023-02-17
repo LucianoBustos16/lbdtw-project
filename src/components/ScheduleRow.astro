@@ -1,5 +1,9 @@
 ---
-const { local, score, visitant } = Astro.props
+const { local, score, visitant, date, hour } = Astro.props
+
+const pepito = `${hour} ${date}`
+
+console.log(hour)
 ---
 
 	<div class="shadow-md p-4 rounded-xl">
@@ -11,50 +15,25 @@ const { local, score, visitant } = Astro.props
 			/>
 
 			<div class="flex gap-2">
-				<p class="text-right">
+				<p class="text-right font-semibold">
 					{local.name}	
 				</p>
 				
 				<p>-</p>
 				
-				<p class="text-left">
+				<p class="text-left font-semibold">
 					{visitant.name}	
 				</p>
 			</div>
-			<div class="flex">
+
 				<img
 				class='h-8 object-contain'
 				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.shortName}.png`}
 				alt={`Escudo del equipo ${visitant.name}`}
 				/>
 
-			</div>
 		</div>
 		<p class='text-center text-xs bg-gray-200 rounded-sm p-2'>
-			{score !== '0 – 0' ? score : 'vs'}
+			{date !== 'NaN undefined' ? pepito : score }
 		</p>
 	</div>
-
-<!-- <tr class='border-y [&>td]:py-2'>
-	<td class='text-right'>{local.name}</td>
-	<td>
-		<img
-			class='h-8 object-contain mx-auto'
-			src={`https://api.lbdtwplus.com.ar/static/logos/${local.shortName}.png`}
-			alt={`Escudo del equipo ${local.name}`}
-		/>
-	</td>
-	<td class='w-32'>
-		<p class='text-center text-xs bg-gray-200 rounded-sm p-2'>
-			{score !== '0 – 0' ? score : 'vs'}
-		</p>
-	</td>
-	<td>
-		<img
-			class='h-8 object-contain mx-auto'
-			src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.shortName}.png`}
-			alt={`Escudo del equipo ${visitant.name}`}
-		/>
-	</td>
-	<td class='text-left'>{visitant.name}</td>
-</tr> -->

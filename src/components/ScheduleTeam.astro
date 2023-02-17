@@ -7,6 +7,7 @@ import ScheduleRow from '@components/ScheduleRow.astro'
 
 const schedule = await getAllMatch()
 
+
 ---
 
 <!-- Página del calendario -->
@@ -26,7 +27,10 @@ const schedule = await getAllMatch()
 											local={match.teams[0]}
 											visitant={match.teams[1]}
 											score={match.score}
-										/>
+											date={match.date}
+											hour={match.hour}
+											/>
+											
 									))}
 								</tbody>
 							</table>
