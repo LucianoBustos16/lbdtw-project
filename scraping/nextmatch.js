@@ -16,35 +16,38 @@
 
     export async function getNextMatch($) {
         const $rows = $('#mod_detail_team_matches_on .match-list-new div:nth-child(2) .panel-body .match-link a ')
-
+    
         const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name)
-
+    
         const nextMatchSelectorEntries = Object.entries(NEXTMATCH_SELECTORS)
-
+    
         let nextmatch = []
         $rows.each((_, el) => {
             const nextMatchEntries = nextMatchSelectorEntries.map(([key, {selector, typeOf}]) => {
                 const rawValue = $(el).find(selector).text()
-
-
+    
+    
                 const value = typeOf ==='number'
                 ? Number(rawValue)
                 : rawValue
-
+    
             
                 return [key, value]
             })
+    
+            const { teamLocal: localTeamName, teamVisitant: visitantTeamName, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
+            const localTeam = getTeamFrom ({ name: localTeamName})
+            const visitantTeam = getTeamFrom ({ name: visitantTeamName})
 
-            const {team: teamName, ...nextMatchForTeam } = Object.fromEntries(nextMatchEntries)
-            const team = getTeamFrom ({ name: teamName})
-
+            console.log(localTeamName)
+    
             nextmatch.push({
-                ...nextMatchForTeam,
-                team
-            }
-            )
+                ...nextMatchForTeams,
+                localTeam,
+                visitantTeam
+            })
         })
-
+    
         console.log(nextmatch[0].hour)
-    return nextmatch
+        return nextmatch
     }

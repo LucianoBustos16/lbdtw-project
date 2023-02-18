@@ -1,7 +1,7 @@
 import { cleanText } from './utils.js'
 import { TEAMS } from '../db/index.js'
 
-const shortNames = {
+const teamId = {
 	'2473': 'Lanus',
 	'2578': 'Huracan',
 	'745': 'Rosario-Central',
@@ -30,9 +30,6 @@ const shortNames = {
 	'10752': 'Central-Cordoba',
 	'1392': 'Gimnasia-La-Plata',
 	'1027': 'Colon',
-
-
-
 }
 
 const SELECTORS = {
@@ -88,14 +85,14 @@ export async function getSchedule($) {
 			const localName = cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
 			const localId = getTeamIdFromImageUrl(localImg)
-			const localShortName = shortNames[localId]
+			const localShortName = teamId[localId]
 
 
 			const visitantNameRaw = $($visitants[index]).text()
 			const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
-			const visitantShortName = shortNames[visitantId]
+			const visitantShortName = teamId[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
 
