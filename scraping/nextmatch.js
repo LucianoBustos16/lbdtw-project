@@ -36,7 +36,6 @@
         live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
         competition: {selector: '.info-head .middle-info', typeOf: 'string'},
         teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
-        teamLocalImage: {selector: 'div:nth-child(2) .team-name img', typeOf: 'string'},
         teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
         marker: {selector: '.marker .time', typeOf: 'string'},
         goalsLocal: {selector: '.marker .green .r1', typeOf: 'number'},
@@ -70,7 +69,6 @@
     
             const { teamLocal: localTeamId, teamVisitant: visitantTeamName, date, hour, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
             const matchDate = new Date(`${cleanText(date)} ${hour} GMT+1`)
-            console.log(matchDate)
             const timestamp = Date.parse(matchDate)
             
             const localTeam = getTeamFrom({ name: teamId[localTeamId] })

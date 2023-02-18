@@ -52,7 +52,7 @@ export async function getSchedule($) {
 		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
 	}
 
-	$rounds.each((_, ronda) => {
+	$rounds.each((index, ronda) => {
 		const matches = []
 		const $ronda = $(ronda)
 
@@ -120,7 +120,9 @@ export async function getSchedule($) {
 			})
 		})
 
-		schedule.push({ round, matches })
+		schedule.push({ 
+			fecha: index + 1,
+			matches })
 	})
 
 	return schedule
