@@ -68,19 +68,35 @@
                 return [key, value]
             })
     
-            const { teamLocal: localTeamId, teamVisitant: visitantTeamName, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
+            const { teamLocal: localTeamId, teamVisitant: visitantTeamName, date, hour, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
+            const matchDate = new Date(`${cleanText(date)} ${hour} GMT+1`)
+            console.log(matchDate)
+            const timestamp = Date.parse(matchDate)
+            
             const localTeam = getTeamFrom({ name: teamId[localTeamId] })
-            const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName]})
+            const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName] })
+
+            const hourAr = new Date(timestamp)
+            const hours = hourAr.getHours()
+			const minutes = "0" + hourAr.getMinutes()
+
+            const day = hourAr.getDate()
+			const months = ['Ene','Feb	','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
+			const month = months[hourAr.getMonth()]
+
+            const formattedTime = hours + ':' + minutes.substr(-2)
+			const formattedDate = day + ' ' + month
 
 
-
-            console.log()
-    
             nextmatch.push({
-                ...nextMatchForTeams,
-                localTeam,
-                visitantTeam
+              ...nextMatchForTeams,
+              hour: formattedTime === 'NaN' ? null : formattedTime,
+              formattedDate,
+              localTeam,
+              visitantTeam
             })
+
+            
         })
             return nextmatch
     }
