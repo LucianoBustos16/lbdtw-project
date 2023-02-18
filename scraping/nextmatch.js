@@ -1,6 +1,37 @@
     import { TEAMS } from '../db/index.js'
     import { cleanText} from './utils.js'
 
+    const teamId = {
+        'Lanús': 'Lanus',
+        'CA Huracán': 'Huracan',
+        'Rosario Central': 'Rosario-Central',
+        'Belgrano': 'Belgrano',
+        'River Plate': 'River',
+        'Talleres Córdoba': 'Talleres',
+        'Defensa y Justicia': 'Defensa-y-Justicia',
+        'San Lorenzo': 'San-Lorenzo',
+        'Godoy Cruz': 'Godoy-Cruz',
+        'Instituto': 'Instituto',
+        'Tigre': 'Tigre',
+        'Platense': 'Platense',
+        'Barracas Central': 'Barracas-Central',
+        'Vélez Sarsfield': 'Velez',
+        'Sarmiento': 'Sarmiento',	
+        "Newell's Old Boys": 'Newells',
+        'Boca Juniors': 'Boca',
+        'Independiente': 'Independiente',
+        'Argentinos Juniors': 'Argentinos',
+        'Banfield': 'Banfield',
+        'Racing Club': 'Racing-Club',
+        'Unión Santa Fe': 'Union',
+        'Arsenal de Sarandí': 'Arsenal',
+        'Estudiantes La Plata': 'Estudiantes',
+        'Atl.Tucumán': 'Atletico-Tucuman',
+        'Central Córdoba': 'Central-Cordoba',
+        'Gimnasia La Plata': 'Gimnasia-La-Plata',
+        'Colón': 'Colon',
+    }
+
     const NEXTMATCH_SELECTORS = {
         live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
         competition: {selector: '.info-head .middle-info', typeOf: 'string'},
@@ -13,6 +44,8 @@
         date: {selector: '.date', typeOf: 'string'},
         hour: {selector: '.match_hour', typeOf: 'string'},
     }
+
+    
 
     export async function getNextMatch($) {
         const $rows = $('#mod_detail_team_matches_on .match-list-new div:nth-child(2) .panel-body .match-link a ')
@@ -35,11 +68,13 @@
                 return [key, value]
             })
     
-            const { teamLocal: localTeamName, teamVisitant: visitantTeamName, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
-            const localTeam = getTeamFrom ({ name: localTeamName})
-            const visitantTeam = getTeamFrom ({ name: visitantTeamName})
+            const { teamLocal: localTeamId, teamVisitant: visitantTeamName, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
+            const localTeam = getTeamFrom({ name: teamId[localTeamId] })
+            const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName]})
 
-            console.log(localTeamName)
+
+
+            console.log()
     
             nextmatch.push({
                 ...nextMatchForTeams,
@@ -47,7 +82,5 @@
                 visitantTeam
             })
         })
-    
-        console.log(nextmatch[0].hour)
-        return nextmatch
+            return nextmatch
     }

@@ -164,6 +164,24 @@
   {
     "rank": 10,
     "points": 5,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 3,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#6ccbf9",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.webp"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 5,
     "matchesPlayed": 3,
     "matchesWon": 1,
     "matchesDrawn": 2,
@@ -180,7 +198,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 5,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -195,24 +213,6 @@
       "name": "Platense",
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 5,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 3,
-    "goalDifference": 0,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#6ccbf9",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.webp"
     }
   },
   {
@@ -416,24 +416,6 @@
   {
     "rank": 24,
     "points": 1,
-    "matchesPlayed": 4,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 5,
-    "goalDifference": -3,
-    "team": {
-      "id": "Arsenal",
-      "color": "#ac110b",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
-    }
-  },
-  {
-    "rank": 25,
-    "points": 1,
     "matchesPlayed": 3,
     "matchesWon": 0,
     "matchesDrawn": 1,
@@ -450,7 +432,7 @@
     }
   },
   {
-    "rank": 26,
+    "rank": 25,
     "points": 1,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -468,7 +450,7 @@
     }
   },
   {
-    "rank": 27,
+    "rank": 26,
     "points": 1,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -483,6 +465,24 @@
       "name": "Central Cba (SdE)",
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.webp"
+    }
+  },
+  {
+    "rank": 27,
+    "points": 1,
+    "matchesPlayed": 4,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 7,
+    "goalDifference": -5,
+    "team": {
+      "id": "Arsenal",
+      "color": "#ac110b",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
     }
   },
   {
