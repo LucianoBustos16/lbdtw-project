@@ -56,9 +56,6 @@ export async function getSchedule($) {
 		const matches = []
 		const $ronda = $(ronda)
 
-		const roundRaw = $ronda.find(SELECTORS.round).text()
-		const round = cleanText(roundRaw)
-
 		const $locals = $ronda.find(SELECTORS.locals)
 		const $localsImages = $ronda.find(SELECTORS.localsImages)
 		const $visitants = $ronda.find(SELECTORS.visitants)
@@ -102,7 +99,7 @@ export async function getSchedule($) {
 			const minutes = "0" + hourAr.getMinutes()
 
 			const day = hourAr.getDate()
-			const months = ['Ene','Feb	','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
+			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[hourAr.getMonth()]
 
 			const formattedTime = hours + ':' + minutes.substr(-2)
@@ -111,7 +108,7 @@ export async function getSchedule($) {
 			matches.push({
 				date: formattedDate,
 				timestamp,
-				hour: formattedTime === 'NaN' ? null : formattedTime,
+				hour: formattedTime === 'NaN:aN' ? score : formattedTime,
 				teams: [
 					{ id: localId, name: localName, shortName: localShortName },
 					{ id: visitantId, name: visitantName, shortName: visitantShortName }

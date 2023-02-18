@@ -68,18 +68,20 @@
             })
     
             const { teamLocal: localTeamId, teamVisitant: visitantTeamName, date, hour, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
-            const matchDate = new Date(`${cleanText(date)} ${hour} GMT+1`)
-            const timestamp = Date.parse(matchDate)
-            
             const localTeam = getTeamFrom({ name: teamId[localTeamId] })
             const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName] })
+
+
+            const matchDate = new Date(`${date} ${hour} GMT+1`)
+            const timestamp = Date.parse(matchDate)
+            
 
             const hourAr = new Date(timestamp)
             const hours = hourAr.getHours()
 			const minutes = "0" + hourAr.getMinutes()
 
             const day = hourAr.getDate()
-			const months = ['Ene','Feb	','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
+			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[hourAr.getMonth()]
 
             const formattedTime = hours + ':' + minutes.substr(-2)

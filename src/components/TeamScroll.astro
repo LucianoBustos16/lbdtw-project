@@ -1,0 +1,30 @@
+---
+import { getAllTemas } from "@services/teams.js";
+
+const teams = await getAllTemas();
+
+---
+<div class='flex col-span-4 md:hidden flex-col'>
+    <h4 class="font-bold">Equipos</h4>
+
+    <div class="overflow-scroll p-4 scrollbar-hide">
+        <div class="swiper w-full h-full flex gap-2">
+            <!-- Additional required wrapper -->
+            { teams.map((team) => {
+                const {name, image, shortName, id, color} = team
+                return(
+                <a href={`/equipos/${id}`}>
+                    <div class="swiper-wrapper">
+                    
+                        <div class="bg-white w-16 p-2 rounded-lg shadow-md">
+                            <img src={image} alt="">
+                        </div>
+                        </div>
+                    </a>
+
+                )
+                })
+                }
+        </div>
+    </div>
+</div>

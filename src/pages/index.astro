@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import Container from '../components/Container.astro';
 import Table from '@components/Table.astro';
 import Nextmatch from '@components/Nextmatch.astro';
+import TeamScroll from '@components/TeamScroll.astro';
 ---
 
 <Layout title="">
@@ -14,8 +15,12 @@ import Nextmatch from '@components/Nextmatch.astro';
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
 					<Nextmatch></Nextmatch>
 				</div>
+
+					<TeamScroll></TeamScroll>
+
 				
-				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-10'>
+				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-4'>
+					<h4 class="font-bold">Posiciones</h4>
 					<Table />
 				</div>
 				
