@@ -2,6 +2,7 @@
 const { local, score, visitant, date, hour } = Astro.props
 
 const fecha = `${hour} ${date}`
+
 ---
 
 	<div class="shadow-md p-4 rounded-xl">
@@ -34,6 +35,7 @@ const fecha = `${hour} ${date}`
 			</div>
 
 		<p class='text-center text-xs bg-gray-200 rounded-sm p-2'>
-			{date !== 'NaN undefined' ? fecha : score }
+			{ score.includes("-") ? score : fecha }
+
 		</p>
 	</div>
