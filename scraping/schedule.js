@@ -78,6 +78,7 @@ export async function getSchedule($) {
 			
 			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
 			
+			
 			const localNameRaw = $($locals[index]).text()
 			const localName = cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
@@ -92,7 +93,7 @@ export async function getSchedule($) {
 			const visitantShortName = teamId[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-
+			console.log(timestamp)
 
 			const hourAr = new Date(timestamp)
 			const hours = hourAr.getHours()
