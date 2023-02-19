@@ -146,6 +146,24 @@
   {
     "rank": 9,
     "points": 6,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "goalDifference": 1,
+    "team": {
+      "id": "Platense",
+      "color": "#2a1608",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
     "matchesDrawn": 0,
@@ -159,24 +177,6 @@
       "name": "Def y Justicia",
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.webp"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
-    "goalDifference": 1,
-    "team": {
-      "id": "Platense",
-      "color": "#2a1608",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
     }
   },
   {
@@ -258,8 +258,8 @@
     "matchesWon": 1,
     "matchesDrawn": 2,
     "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 3,
     "goalDifference": 0,
     "team": {
       "id": "Boca",
