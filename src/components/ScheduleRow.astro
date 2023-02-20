@@ -1,7 +1,10 @@
 ---
-const { local, score, visitant, date, hour } = Astro.props
+const { local, score, visitant, date, matchDate } = Astro.props
 
-const fecha = `${hour} ${date}`
+const fecha = `${local}`
+
+const d = new Date(`${matchDate}`)
+console.log(matchDate)
 
 ---
 
@@ -35,7 +38,7 @@ const fecha = `${hour} ${date}`
 			</div>
 
 		<p class='text-center text-xs bg-gray-200 rounded-sm p-2'>
-			{ score.includes("-") ? score : fecha }
+			{ score.includes("-") ? score : d }
 
 		</p>
 	</div>
