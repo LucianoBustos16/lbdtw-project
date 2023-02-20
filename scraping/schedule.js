@@ -28,7 +28,7 @@ const teamId = {
 	'927': 'Estudiantes',
 	'4671': 'Atletico-Tucuman',
 	'10752': 'Central-Cordoba',
-	'1392': 'Gimnasia-La-Plata',
+	'1392': 'Gimnasia',
 	'1027': 'Colon',
 }
 
@@ -94,7 +94,7 @@ export async function getSchedule($) {
 			const visitantShortName = teamId[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-			console.log(timestamp)
+			console.log(visitantShortName)
 
 			const hourAr = new Date(timestamp)
 			const hours = hourAr.getHours()

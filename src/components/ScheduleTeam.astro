@@ -21,7 +21,7 @@ const { teamId } = Astro.props
 							<table class='w-full'>
 								<tbody>
 									{day.matches.filter(match =>
-										match.teams[0].shortName === teamId || match.teams[1].shortName === teamId).map((match) => (
+										match.teams[0].id === teamId || match.teams[1].id === teamId).map((match) => (
 										<ScheduleRow
 											local={match.teams[0]}
 											visitant={match.teams[1]}

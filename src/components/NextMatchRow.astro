@@ -9,7 +9,7 @@ const fecha = `${hour} ${date}`
 
 			<div class="grid items-center gap-4" style="grid-template-columns: 1fr auto 1fr;">
 				
-				<a href={`/equipos/${local.shortName}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
+				<a href={`/equipos/${local.id}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
 					
 					<p class="text-right font-semibold">
 						{local.name}	
@@ -17,7 +17,7 @@ const fecha = `${hour} ${date}`
 
 					<img
 				class='h-8 object-contain my-2'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${local.shortName}.webp`}
+				src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.webp`}
 				alt={`Escudo del equipo ${local.name}`}
 			/>	
 				</a>
@@ -27,11 +27,11 @@ const fecha = `${hour} ${date}`
 		
 				</p>
 				
-				<a href={`/equipos/${visitant.shortName}`} class="flex gap-1 items-center group transition-all hover:scale-110">
+				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-110">
 					
 					<img
 				class='h-8 object-contain'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.shortName}.webp`}
+				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.webp`}
 				alt={`Escudo del equipo ${visitant.name}`}
 				/>
 					<p class="text-left font-semibold">
