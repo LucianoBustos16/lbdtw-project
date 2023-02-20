@@ -36,7 +36,7 @@ const SELECTORS = {
 	match: '.agendas',
 	round: 'caption',
 	date: '.resultado .fecha',
-	hour: '.hora',
+	hour: '.resultado .hora',
 	locals: '.local span',
 	localsImages: '.local img',
 	scores: '.resultado',
@@ -69,6 +69,7 @@ export async function getSchedule($) {
 			const score = cleanText(scoreRaw)
 			
 			const hourRaw = $($hours[index]).text()
+			console.log(hourRaw)
 			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
 
 			const dateRaw = $($date[index]).text()

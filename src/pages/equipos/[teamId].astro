@@ -1,4 +1,6 @@
 ---
+import NextMatchRow from "@components/NextMatchRow.astro"
+import NextMatchTeam from "@components/NextMatchTeam.astro"
 import ScheduleTeam from "@components/ScheduleTeam.astro"
 import TeamStats from "@components/TeamStats.astro"
 import Layout from "@layouts/Layout.astro"
@@ -21,15 +23,20 @@ const {
     color,
 }
     = Astro.props
+
 ---
 
 <Layout title={name}>
+    
+    <div class="flex items-center flex-col p-8" style={`background:${color}`}>
+        <img src={image} class="w-32" alt='Escudo de {name}'>
+        <h1 class="text-white font-bold text-2xl">{name}</h1>
 
-    <div style={`background:${color}`}>
-        <img src={image} alt="">
-        <h1>{name}</h1>   
-        
+        <NextMatchTeam teamId={id}></NextMatchTeam>
+
+
     </div>
+
     <TeamStats teamId={id} />
     <ScheduleTeam teamId={id}></ScheduleTeam>
 
