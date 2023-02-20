@@ -80,8 +80,8 @@ export async function getSchedule($) {
 			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
 			
 			
-			const localNameRaw = $($locals[index]).text()
-			const localName = cleanText(localNameRaw)
+			// const localNameRaw = $($locals[index]).text()
+			// const localName = cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
 			const localId = getTeamIdFromImageUrl(localImg)
 			const localShortName = teamId[localId]
@@ -107,16 +107,33 @@ export async function getSchedule($) {
 			const formattedTime = hours + ':' + minutes.substr(-2)
 			const formattedDate = day + ' ' + month
 			
-			matches.push({
-				date: formattedDate,
-				timestamp,
-				hour: formattedTime === 'NaN:aN' ? score : formattedTime,
-				teams: [
-					{ id: localId, name: localName, shortName: localShortName },
-					{ id: visitantId, name: visitantName, shortName: visitantShortName }
-				],
-				score
-			})
+
+			const getTeamFrom = ({ name }) => TEAMS.find(team => team.teamId === name)
+			const localTeam = TEAMS.find(team => team.id === localShortName)
+			const visitantTeam = TEAMS.find(team => team.id === visitantShortName)
+
+			const team = getTeamFrom ({ name: localTeam, name:visitantTeam  })
+
+matches.push({
+  date: formattedDate,
+  timestamp,
+  hour: formattedTime === 'NaN:aN' ? score : formattedTime,
+  teams: [
+    {
+      id: localId,
+      name: team,
+      shortName: localShortName,
+      ...localTeam
+    },
+    {
+      id: visitantId,
+      name: team,
+      shortName: visitantShortName,
+      ...visitantTeam
+    }
+  ],
+  score
+})
 		})
 
 		schedule.push({ 
