@@ -28,13 +28,6 @@ app.get('/', (ctx) =>
 		{
 			endpoint: '/schedule',
 			description: 'Returns the next match to Belgrano',
-			parameters:[
-				{
-					name: 'teamId',
-					endpoint: '/schedule/:teamId',
-					description: 'The id of the team'
-				}
-			]
 		},
 		{
 			endpoint: '/teams',
@@ -62,17 +55,9 @@ app.get('/schedule' , (ctx) => {
 	return ctx.json(schedule)
 })
 
-app.get('/schedule/:teamId' , (ctx) => {
-	const teamId = ctx.req.param('teamId')
-	const foundGames = schedule.filter((game) => game.team1.id === teamId || game.team2.id === teamId)
-
-	return foundGames.length > 0 ? ctx.json(foundGames) : ctx.json({message:'No games found for this team'}, 404)
-})
-
 app.get('/teams' , (ctx) => {
 	return ctx.json(teams)
 })
-
 
 app.get('/static/*', serveStatic({ root: './'}))
 
