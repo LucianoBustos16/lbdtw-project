@@ -64,11 +64,11 @@
     "goalsAgainst": 3,
     "goalDifference": 2,
     "team": {
-      "id": "Newells",
-      "color": "#eb1921",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
+      "id": "Boca",
+      "color": "#12386d",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.webp"
     }
   },
   {
@@ -78,15 +78,15 @@
     "matchesWon": 2,
     "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 4,
+    "goalsFor": 5,
     "goalsAgainst": 3,
-    "goalDifference": 1,
+    "goalDifference": 2,
     "team": {
-      "id": "Boca",
-      "color": "#12386d",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.webp"
+      "id": "Newells",
+      "color": "#eb1921",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
     }
   },
   {
@@ -244,24 +244,6 @@
     "goalsAgainst": 6,
     "goalDifference": 0,
     "team": {
-      "id": "Platense",
-      "color": "#2a1608",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 5,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 6,
-    "goalDifference": 0,
-    "team": {
       "id": "Tigre",
       "color": "#18347c",
       "name": "Tigre",
@@ -270,7 +252,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 15,
     "points": 5,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -285,6 +267,24 @@
       "name": "Instituto",
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.webp"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 5,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 7,
+    "goalDifference": -1,
+    "team": {
+      "id": "Platense",
+      "color": "#2a1608",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
     }
   },
   {
