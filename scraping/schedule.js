@@ -56,9 +56,9 @@ export async function getSchedule($) {
 		const matches = []
 		const $ronda = $(ronda)
 
-		const $locals = $ronda.find(SELECTORS.locals)
+		// const $locals = $ronda.find(SELECTORS.locals)
 		const $localsImages = $ronda.find(SELECTORS.localsImages)
-		const $visitants = $ronda.find(SELECTORS.visitants)
+		// const $visitants = $ronda.find(SELECTORS.visitants)
 		const $visitantsImages = $ronda.find(SELECTORS.visitantsImages)
 		const $results = $ronda.find(SELECTORS.scores)
 		const $hours = $ronda.find(SELECTORS.hour)
@@ -78,6 +78,7 @@ export async function getSchedule($) {
 			const prefixDate = `2023-${monthNumber}-${dayNumber}`
 			
 			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
+			console.log(matchDate)
 			
 			
 			// const localNameRaw = $($locals[index]).text()
@@ -87,14 +88,14 @@ export async function getSchedule($) {
 			const localShortName = teamId[localId]
 
 
-			const visitantNameRaw = $($visitants[index]).text()
-			const visitantName = cleanText(visitantNameRaw)
+			// const visitantNameRaw = $($visitants[index]).text()
+			// const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
 			const visitantShortName = teamId[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-			console.log(visitantShortName)
+			console.log(timestamp)
 
 			const hourAr = new Date(timestamp)
 			const hours = hourAr.getHours()
