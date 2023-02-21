@@ -3,32 +3,32 @@ import { getAllMatch } from '@services/scheduleTeam.js'
 import NextMatchRow from '@components/NextMatchRow.astro'
 
 const schedule = await getAllMatch()
-
 const { teamId } = Astro.props
-
-console.log(teamId)
-
 ---
+
 {
-	schedule.map((fecha) => {
-		return (
-			<section>
-				<h2 class='font-bold text-xl my-8'>{fecha.round}</h2>
-				<table class='w-full'>
-					<tbody>
-						{fecha.matches.filter(match =>
-							match.teams[0].id === teamId || match.teams[1].id === teamId).map((match) => (
-							<NextMatchRow
-								local={match.teams[0]}
-								visitant={match.teams[1]}
-								score={match.score}
-								date={match.date}
-								hour={match.hour}
-							/>								
-						))}
-					</tbody>
-				</table>
-			</section>
-		)
-	})
+  schedule
+    .filter(fecha => fecha.matches.some(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && !match.score.includes('-')))
+	.slice(0,1)
+    .map((fecha) => {
+      return (
+        <section>
+          <h2 class='font-bold text-xl my-8'>{fecha.round}</h2>
+          <div class='w-full'>
+            {fecha.matches
+              .filter(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && !match.score.includes('-'))
+              .map((match) => (
+                <NextMatchRow
+                  local={match.teams[0]}
+                  visitant={match.teams[1]}
+                  score={match.score}
+                  date={match.date}
+                  hour={match.hour}
+                />                                
+              ))
+            }
+          </div>
+        </section>
+      )
+    })
 }
