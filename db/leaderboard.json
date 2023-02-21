@@ -91,6 +91,24 @@
   },
   {
     "rank": 6,
+    "points": 9,
+    "matchesPlayed": 4,
+    "matchesWon": 3,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 4,
+    "goalsAgainst": 2,
+    "goalDifference": 2,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#dd2b2f",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
+    }
+  },
+  {
+    "rank": 7,
     "points": 7,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -108,7 +126,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 7,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -123,24 +141,6 @@
       "name": "Newells",
       "shortName": "NOB",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 7,
-    "matchesPlayed": 4,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#dd2b2f",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
     }
   },
   {
@@ -240,15 +240,15 @@
     "matchesWon": 1,
     "matchesDrawn": 2,
     "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 6,
-    "goalDifference": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
     "team": {
-      "id": "Tigre",
-      "color": "#18347c",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
+      "id": "Velez",
+      "color": "#85c7fc",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.webp"
     }
   },
   {
@@ -258,15 +258,15 @@
     "matchesWon": 1,
     "matchesDrawn": 2,
     "matchesLost": 1,
-    "goalsFor": 5,
-    "goalsAgainst": 5,
+    "goalsFor": 6,
+    "goalsAgainst": 6,
     "goalDifference": 0,
     "team": {
-      "id": "Sarmiento",
-      "color": "#06a43f",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.webp"
+      "id": "Tigre",
+      "color": "#18347c",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
     }
   },
   {
@@ -308,24 +308,6 @@
   {
     "rank": 18,
     "points": 4,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "Velez",
-      "color": "#85c7fc",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.webp"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
     "matchesDrawn": 1,
@@ -339,6 +321,24 @@
       "name": "Barracas Central",
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.webp"
+    }
+  },
+  {
+    "rank": 19,
+    "points": 4,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 6,
+    "goalDifference": -1,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#06a43f",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.webp"
     }
   },
   {
@@ -433,10 +433,10 @@
   },
   {
     "rank": 25,
-    "points": 1,
-    "matchesPlayed": 3,
+    "points": 2,
+    "matchesPlayed": 4,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 2,
     "goalsFor": 1,
     "goalsAgainst": 4,
