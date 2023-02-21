@@ -6,11 +6,14 @@ const leaderboard = await response.json();
     <table class="w-full text-sm text-center text-gray-500">
         <thead class="text-xs text-gray-700 uppercase bg-gray-50">
             <tr>
-                <th scope="col" class="px-2 py-3 text-center">
+                <th scope="col" class="px-2 py-3">
                     #
                 </th>
-                <th scope="col" class="px-2 py-3">
+                <th scope="col" class="px-2 py-3 text-left">
                     Equipo
+                </th>
+                <th scope="col" class="px-2 py-3">
+                    Pts.
                 </th>
                 <th scope="col" class="px-2 py-3">
                     PJ
@@ -33,9 +36,6 @@ const leaderboard = await response.json();
                 <th scope="col" class="px-2 py-3">
                     Dif.
                 </th>
-                <th scope="col" class="px-2 py-3">
-                    Pts.
-                </th>
             </tr>
         </thead>
         <tbody>
@@ -50,12 +50,15 @@ const leaderboard = await response.json();
                 <th scope="row" class=" px-2 py-4 text-gray-900 whitespace-nowrap">
                     <a
                         href={`/equipos/${team.id}`}
-                        class="flex gap-1 items-center group transition-all hover:scale-110"
+                        class="flex gap-1 items-center group transition-all hover:scale-105"
                     >
                     <img src={team.image} alt="Escudo de ${team.name}" class=" w-6" width="24" height="24">
                     <div class="font-normal hidden md:block">{team.name}</div>
                     <div class="font-normal md:hidden">{team.shortName}</div>
                     </a>
+                </th>
+                <th scope="row" class="px-2 py-4 font-black text-teal-600">
+                    {points}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
                     {matchesPlayed}
@@ -77,9 +80,6 @@ const leaderboard = await response.json();
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
                     {goalDifference}
-                </th>
-                <th scope="row" class="px-2 py-4 font-black text-teal-600">
-                    {points}
                 </th>
             </tr>
             ))}
