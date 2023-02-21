@@ -1,10 +1,10 @@
 ---
-const { local, visitant, date, hour, score } = Astro.props
+const { local, visitant, date, hour, score, round } = Astro.props
 
 ---
 	<div class="shadow-md p-4 rounded-xl bg-white">
 
-		<h4 class="font-bold">Último Partido</h4>
+		<h4 class="font-bold">Último Partido <span class="font-normal text-slate-600">- Fecha {round}</span></h4>
 
 			<div class="grid items-center">
 
@@ -12,7 +12,7 @@ const { local, visitant, date, hour, score } = Astro.props
 
 
 				
-				<a href={`/equipos/${local.id}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
+				<a href={`/equipos/${local.id}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-105">
 					
 					<!-- <p class="text-right font-semibold">
 						{local.name}	
@@ -25,7 +25,7 @@ const { local, visitant, date, hour, score } = Astro.props
 					/>	
 				</a>
 
-				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-110">					
+				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-105">					
 					<img
 				class='h-16 object-contain'
 				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.webp`}

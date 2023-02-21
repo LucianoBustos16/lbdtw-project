@@ -7,7 +7,7 @@ const { local, visitant, date, hour } = Astro.props
 
 			<div class="grid items-center gap-4" style="grid-template-columns: 1fr auto 1fr;">
 				
-				<a href={`/equipos/${local.id}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
+				<a href={`/equipos/${local.id}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-105">
 					
 					<p class="text-right font-semibold">
 						{local.name}	
@@ -27,7 +27,7 @@ const { local, visitant, date, hour } = Astro.props
 		
 				</div>
 				
-				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-110">
+				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-105">
 					
 					<img
 				class='h-8 object-contain'
