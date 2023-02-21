@@ -1,6 +1,6 @@
 ---
 import { getAllMatch } from '@services/scheduleTeam.js'
-import NextMatchRow from '@components/NextMatchRow.astro'
+import LastMatchRow from '@components/LastMatchRow.astro'
 
 const schedule = await getAllMatch()
 const { teamId } = Astro.props
@@ -8,15 +8,16 @@ const { teamId } = Astro.props
 
 {
   schedule
-    .filter(fecha => fecha.matches.some(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && !match.score.includes('-')))
-	  .slice(0,1)
+    .filter(fecha => fecha.matches.some(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && match.score.includes('-')))
+    .reverse()
+    .slice(0,1)
     .map((fecha) => {
       return (
           <div class='w-full my-8'>
             {fecha.matches
-              .filter(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && !match.score.includes('-'))
+              .filter(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && match.score.includes('-'))
               .map((match) => (
-                <NextMatchRow
+                <LastMatchRow
                   local={match.teams[0]}
                   visitant={match.teams[1]}
                   score={match.score}

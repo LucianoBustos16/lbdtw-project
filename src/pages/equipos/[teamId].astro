@@ -1,5 +1,6 @@
 ---
-import NextMatchRow from "@components/NextMatchRow.astro"
+import Container from "@components/Container.astro"
+import LastMatchTeam from "@components/LastMatchTeam.astro"
 import NextMatchTeam from "@components/NextMatchTeam.astro"
 import ScheduleTeam from "@components/ScheduleTeam.astro"
 import TeamStats from "@components/TeamStats.astro"
@@ -34,11 +35,22 @@ const {
 
         <NextMatchTeam teamId={id}></NextMatchTeam>
 
-
     </div>
 
-    <TeamStats teamId={id} />
-    <ScheduleTeam teamId={id}></ScheduleTeam>
+    <Container>
+
+        <div class="grid gap-4 grid-cols-2">   
+            <LastMatchTeam teamId={id}></LastMatchTeam>
+            <LastMatchTeam teamId={id}></LastMatchTeam>
+        </div>
+
+        <TeamStats teamId={id} />
+
+        <ScheduleTeam teamId={id}></ScheduleTeam>
+
+    </Container>
+
+
 
 
 </Layout>
