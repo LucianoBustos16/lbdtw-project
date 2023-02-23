@@ -11,7 +11,7 @@ const teams = await getNextMatch();
         const { competition, formattedDate, visitantTeam, localTeam, hour } = team;
         return (
 
-<div class="grid grid-cols-2 gap-4 p-8 md:p-8 bg-[#0598D1] shadow-md rounded-3xl">
+<div class="grid gap-4 p-4 md:p-8 bg-[#0598D1] shadow-md rounded-3xl" style="grid-template-columns: 1fr 30%;">
     <div class="w-full">
         <span class="bg-white text-gray-800 text-md font-medium mr-2 px-2.5 py-0.5 rounded-full">⚽ Próximo Partido</span>
 
@@ -24,7 +24,7 @@ const teams = await getNextMatch();
 
         </div>
     </div>
-    <div class="flex mb-5 -space-x-16">
+    <div class="flex justify-center items-center mb-5 -space-x-8  md:-space-x-16">
         <img class="w-16 h-16 md:w-40 md:h-40 drop-shadow-lg" src={localTeam.image} alt="">
         <img class="w-16 h-16 md:w-40 md:h-40 drop-shadow-lg" src={visitantTeam.image} alt="">
     </div>
@@ -33,3 +33,4 @@ const teams = await getNextMatch();
 );
         })
     }
+
