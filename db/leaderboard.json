@@ -37,6 +37,24 @@
   },
   {
     "rank": 3,
+    "points": 10,
+    "matchesPlayed": 5,
+    "matchesWon": 3,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 6,
+    "goalDifference": 0,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#ffc40c",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.webp"
+    }
+  },
+  {
+    "rank": 4,
     "points": 9,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -54,7 +72,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 9,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -72,7 +90,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 9,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -90,7 +108,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 9,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -108,7 +126,25 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
+    "points": 8,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "goalDifference": -1,
+    "team": {
+      "id": "Belgrano",
+      "color": "#0598D1",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.webp"
+    }
+  },
+  {
+    "rank": 9,
     "points": 7,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -126,7 +162,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 10,
     "points": 7,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -141,42 +177,6 @@
       "name": "Newells",
       "shortName": "NOB",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 7,
-    "matchesPlayed": 4,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 5,
-    "goalsAgainst": 6,
-    "goalDifference": -1,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#ffc40c",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.webp"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 7,
-    "matchesPlayed": 4,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 4,
-    "goalDifference": -1,
-    "team": {
-      "id": "Belgrano",
-      "color": "#0598D1",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.webp"
     }
   },
   {
@@ -200,13 +200,31 @@
   {
     "rank": 12,
     "points": 6,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 6,
+    "goalDifference": 0,
+    "team": {
+      "id": "Tigre",
+      "color": "#18347c",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 6,
+    "matchesPlayed": 5,
     "matchesWon": 2,
     "matchesDrawn": 0,
-    "matchesLost": 2,
+    "matchesLost": 3,
     "goalsFor": 2,
-    "goalsAgainst": 2,
-    "goalDifference": 0,
+    "goalsAgainst": 3,
+    "goalDifference": -1,
     "team": {
       "id": "Godoy-Cruz",
       "color": "#014e7c",
@@ -216,7 +234,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 5,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -234,7 +252,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 5,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -249,24 +267,6 @@
       "name": "Velez",
       "shortName": "VEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.webp"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 5,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 6,
-    "goalDifference": 0,
-    "team": {
-      "id": "Tigre",
-      "color": "#18347c",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
     }
   },
   {
