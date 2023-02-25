@@ -8,7 +8,7 @@ const teams = await getNextMatch();
 
 {
     teams.slice(0, 1).map((team) => {
-        const { competition, formattedDate, visitantTeam, localTeam, hour } = team;
+        const { competition, formattedDate, visitantTeam, localTeam, hour, hourUpgrade } = team;
         return (
 
 <div class="grid gap-4 p-4 md:p-8 bg-[#0598D1] shadow-md rounded-3xl" style="grid-template-columns: 1fr 30%;">
@@ -18,7 +18,7 @@ const teams = await getNextMatch();
         <div>
             <h3 class="font-black text-white text-xl"> {localTeam.name} <span class="font-light text-md">vs</span> {visitantTeam.name}</h3>
 
-            <p class=" text-white">{hour}</p>
+            <p class=" text-white">{hour} <span class="text-xs opacity-10">{hourUpgrade}</span></p>
             <p class=" text-white">{formattedDate}</p>
             <p class=" text-white">{competition}</p>
 
