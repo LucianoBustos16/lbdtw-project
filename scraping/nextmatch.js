@@ -87,13 +87,21 @@
             const formattedTime = hours + ':' + minutes.substr(-2)
 			const formattedDate = day + ' ' + month
 
-
+            const upgrade = new Date();
+            const currentUTCHour = upgrade.getUTCHours(); // obtener la hora actual en UTC
+            const currentUTCMinute = upgrade.getUTCMinutes(); // obtener los minutos actuales en UTC
+            const argentinaHour = currentUTCHour - 3; // ajustar la hora a Argentina restando 3 horas
+            const currentHour = argentinaHour < 0 ? argentinaHour + 24 : argentinaHour; // manejar los casos donde la hora es negativa
+            const currentMinute = currentUTCMinute;
+            const hourUpgrade = `${currentHour}:${currentMinute}`
+            
             nextmatch.push({
               ...nextMatchForTeams,
               hour: formattedTime === 'NaN' ? null : formattedTime,
               formattedDate,
               localTeam,
-              visitantTeam
+              visitantTeam,
+              hourUpgrade
             })
 
             
