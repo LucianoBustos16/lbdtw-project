@@ -19,6 +19,42 @@
   },
   {
     "rank": 2,
+    "points": 12,
+    "matchesPlayed": 5,
+    "matchesWon": 4,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 8,
+    "goalsAgainst": 2,
+    "goalDifference": 6,
+    "team": {
+      "id": "Talleres",
+      "color": "#2957bf",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.webp"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 12,
+    "matchesPlayed": 5,
+    "matchesWon": 4,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 2,
+    "goalDifference": 3,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#dd2b2f",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
+    }
+  },
+  {
+    "rank": 4,
     "points": 10,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -36,7 +72,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 5,
     "points": 10,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -54,25 +90,7 @@
     }
   },
   {
-    "rank": 4,
-    "points": 9,
-    "matchesPlayed": 4,
-    "matchesWon": 3,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 2,
-    "goalDifference": 4,
-    "team": {
-      "id": "Talleres",
-      "color": "#2957bf",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.webp"
-    }
-  },
-  {
-    "rank": 5,
+    "rank": 6,
     "points": 9,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -90,7 +108,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 9,
     "matchesPlayed": 4,
     "matchesWon": 3,
@@ -105,24 +123,6 @@
       "name": "River Plate",
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.webp"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 9,
-    "matchesPlayed": 4,
-    "matchesWon": 3,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 4,
-    "goalsAgainst": 2,
-    "goalDifference": 2,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#dd2b2f",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
     }
   },
   {
@@ -290,13 +290,49 @@
   {
     "rank": 17,
     "points": 5,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 1,
     "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 7,
+    "matchesLost": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 6,
     "goalDifference": -1,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#06a43f",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.webp"
+    }
+  },
+  {
+    "rank": 18,
+    "points": 5,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 5,
+    "goalDifference": -2,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#ea1921",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.webp"
+    }
+  },
+  {
+    "rank": 19,
+    "points": 5,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 9,
+    "goalDifference": -3,
     "team": {
       "id": "Platense",
       "color": "#2a1608",
@@ -306,7 +342,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 20,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -321,42 +357,6 @@
       "name": "Barracas Central",
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.webp"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 4,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 5,
-    "goalsAgainst": 6,
-    "goalDifference": -1,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#06a43f",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.webp"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 4,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 3,
-    "goalsAgainst": 5,
-    "goalDifference": -2,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#ea1921",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.webp"
     }
   },
   {
@@ -398,13 +398,13 @@
   {
     "rank": 23,
     "points": 3,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 0,
     "matchesDrawn": 3,
-    "matchesLost": 1,
+    "matchesLost": 2,
     "goalsFor": 2,
-    "goalsAgainst": 4,
-    "goalDifference": -2,
+    "goalsAgainst": 5,
+    "goalDifference": -3,
     "team": {
       "id": "Union",
       "color": "#ec1a21",
