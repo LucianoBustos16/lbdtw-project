@@ -72,22 +72,20 @@
             const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName] })
 
 
-            const matchDateCON = new Date(`${date} ${hour} GMT+1`)
-            const timestampCON = Date.parse(matchDateCON)
+            const matchDate = new Date(`${date} ${hour} GMT+1`)
+            const timestamp = Date.parse(matchDate)
+          
 
-            const matchDateSIN = new Date(`${date} ${hour}`)
-            const timestampSIN = Date.parse(matchDateSIN)
-            
-
-            const hourAr = new Date(timestampCON)
+            const hourAr = new Date(timestamp)
             const hours = hourAr.getHours()
+            const hoursArg = hours - 3
 			const minutes = "0" + hourAr.getMinutes()
 
             const day = hourAr.getDate()
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[hourAr.getMonth()]
 
-            const formattedTime = hours + ':' + minutes.substr(-2)
+            const formattedTime = hoursArg + ':' + minutes.substr(-2)
 			const formattedDate = day + ' ' + month
 
             const upgrade = new Date();
@@ -99,10 +97,10 @@
             const hourUpgrade = `${currentHour}:${currentMinute}`
 
             console.log(`-----------------------------------------`)
-            console.log(`este es el MatchDay: ${matchDateCON}`)
-            console.log(`este es el Timestamp CON: ${timestampCON}`)
-            console.log(`este es el Timestamp SIN: ${timestampSIN}`)
-            console.log(`este es el formattedTime CON: ${formattedTime}`)
+            console.log(`Obtiene la hora tranfdormada a UTC {MatchDay}: ${matchDate}`)
+            console.log(`este es el Timestamp: ${timestamp}`)
+            console.log(`este es el hourAr: ${hours}`)
+            console.log(`este es el formattedTime: ${formattedTime}`)
             console.log(`Hora real del partido: 17:00`)
 
             nextmatch.push({
