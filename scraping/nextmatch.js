@@ -72,11 +72,14 @@
             const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName] })
 
 
-            const matchDate = new Date(`${date} ${hour} GMT+1`)
-            const timestamp = Date.parse(matchDate)
+            const matchDateCON = new Date(`${date} ${hour} GMT+1`)
+            const timestampCON = Date.parse(matchDateCON)
+
+            const matchDateSIN = new Date(`${date} ${hour}`)
+            const timestampSIN = Date.parse(matchDateSIN)
             
 
-            const hourAr = new Date(timestamp)
+            const hourAr = new Date(timestampCON)
             const hours = hourAr.getHours()
 			const minutes = "0" + hourAr.getMinutes()
 
@@ -94,7 +97,14 @@
             const currentHour = argentinaHour < 0 ? argentinaHour + 24 : argentinaHour; // manejar los casos donde la hora es negativa
             const currentMinute = currentUTCMinute;
             const hourUpgrade = `${currentHour}:${currentMinute}`
-            
+
+            console.log(`-----------------------------------------`)
+            console.log(`este es el MatchDay: ${matchDateCON}`)
+            console.log(`este es el Timestamp CON: ${timestampCON}`)
+            console.log(`este es el Timestamp SIN: ${timestampSIN}`)
+            console.log(`este es el formattedTime CON: ${formattedTime}`)
+            console.log(`Hora real del partido: 17:00`)
+
             nextmatch.push({
               ...nextMatchForTeams,
               hour: formattedTime === 'NaN' ? null : formattedTime,
