@@ -101,7 +101,7 @@
               formattedDate,
               localTeam,
               visitantTeam,
-              hourUpgrade
+              hourUpgrade,
             })
 
             
