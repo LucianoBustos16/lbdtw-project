@@ -69,23 +69,15 @@ export async function getSchedule($) {
 			const score = cleanText(scoreRaw)
 
 			const hourRaw = $($hours[index]).text()
-			console.log(hourRaw)
 			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
-			console.log(hour)
 
 			const dateRaw = $($date[index]).text()
-			console.log(dateRaw)
 			const date = dateRaw.replace(/\t|\n|\s:/g, '').trim()
-			console.log(date)
 			const [dayNumber, monthNumber] = date.split('/')
 			const prefixDate = `2023-${monthNumber}-${dayNumber}`
-			console.log(prefixDate)
 
 			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
-			console.log('GMT+1')
-			console.log(matchDate)
-
-
+			
 			// const localNameRaw = $($locals[index]).text()
 			// const localName = cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
@@ -100,7 +92,6 @@ export async function getSchedule($) {
 			const visitantShortName = teamId[visitantId]
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-			console.log(timestamp)
 
 			const hourAr = new Date(timestamp)
 			const hours = hourAr.getHours()
