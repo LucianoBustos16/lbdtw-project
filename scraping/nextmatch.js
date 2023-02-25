@@ -75,20 +75,12 @@
             const matchDate = new Date(`${date} ${hour} GMT+1`)
             const timestamp = Date.parse(matchDate)
 
-            //Borrar
-            const Serverhour = new Date(`${date} ${hour}`)
-            const ServerTimestamp = Date.parse(Serverhour) // <-- Pasar a hora de Arg.
-
             const hourAr = new Date(timestamp)
-            const hours = hourAr.getHours()
-            const hoursArg = hours - 3
-			const minutes = "0" + hourAr.getMinutes()
 
             const day = hourAr.getDate()
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[hourAr.getMonth()]
 
-            const formattedTime = hoursArg + ':' + minutes.substr(-2)
 			const formattedDate = day + ' ' + month
 
             const upgrade = new Date();
@@ -99,19 +91,16 @@
             const currentMinute = currentUTCMinute;
             const hourUpgrade = `${currentHour}:${currentMinute}`
 
-            console.log(`-----------------------------------------`)
-            console.log(`Obtiene la hora: ${hour}`)
-            console.log(`Hora del servidor: ${ServerTimestamp}`)
-            
+           
 
             nextmatch.push({
               ...nextMatchForTeams,
-              hour: formattedTime === 'NaN' ? null : formattedTime,
+              hourUpgrade,
+              timestamp,
               formattedDate,
               localTeam,
               visitantTeam,
-              hourUpgrade,
-              timestamp,
+
             })
 
             
