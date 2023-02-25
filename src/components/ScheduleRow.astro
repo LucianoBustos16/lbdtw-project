@@ -1,5 +1,14 @@
 ---
-const { local, score, visitant, date, hour } = Astro.props
+const { local, score, visitant, date, timestamp  } = Astro.props
+
+const d = new Date(timestamp)
+        const hour = d.toLocaleTimeString('es-AR', {
+            hour12: false,
+            hour: '2-digit'
+        })
+       const minutes = d.getMinutes().toString().padStart(2, '0');
+       const dateToRender = `${hour}:${minutes}`
+
 ---
 
 <div class="shadow-md p-4 rounded-xl bg-white">
@@ -24,7 +33,7 @@ const { local, score, visitant, date, hour } = Astro.props
 			
 			<p class="text-gray-400 uppercase text-sm">{ score.includes("-") ? '' : date }</p>
 			<!-- <p class="text-[#0598D1] text-xl">{hour}</p> -->
-			<p class="text-[#0598D1] text-xl">{ score.includes("-") ? score : hour }</p>
+			<p class="text-[#0598D1] text-xl">{ score.includes("-") ? score : dateToRender }</p>
 			
 
 		</div>

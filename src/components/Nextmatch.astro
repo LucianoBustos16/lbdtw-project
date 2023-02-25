@@ -3,19 +3,20 @@ import { getNextMatch } from "@services/nextmatch.js";
 
 const teams = await getNextMatch();
 
-const { timestamp } = Astro.props
-const d = new Date(timestamp)
-const date = d.toLocaleTimeString('es-ES', {
-    hour12: false,
-    hour: '2-digit'
-})
-
 ---
 
 {
     teams.slice(0, 1).map((team) => {
-        const { competition, formattedDate, visitantTeam, localTeam, hour, hourUpgrade, timestamp } = team;
-        return (
+        const { competition, formattedDate, visitantTeam, localTeam, hourUpgrade, timestamp } = team;
+
+        const d = new Date(timestamp)
+        const hour = d.toLocaleTimeString('es-AR', {
+            hour12: false,
+            hour: '2-digit'
+        })
+        const minutes = d.getMinutes().toString().padStart(2, '0');
+       const dateToRender = `${hour}:${minutes}`
+       return (
 
 <div class="grid gap-4 p-4 md:p-8 bg-[#0598D1] shadow-md rounded-3xl" style="grid-template-columns: 1fr 30%;">
     <div class="w-full">
@@ -24,7 +25,7 @@ const date = d.toLocaleTimeString('es-ES', {
         <div>
             <h3 class="font-black text-white text-xl"> {localTeam.name} <span class="font-light text-md">vs</span> {visitantTeam.name}</h3>
 
-            <p class=" text-white"> <span class="text-xs opacity-10">{hourUpgrade}</span></p>
+            <p class=" text-white"> {dateToRender}</p>
             <p class=" text-white">{formattedDate}</p>
             <p class=" text-white">{competition}</p>
 
@@ -39,6 +40,6 @@ const date = d.toLocaleTimeString('es-ES', {
 </div>
 
 );
-        })
+})
     }
 
