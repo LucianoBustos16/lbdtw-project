@@ -74,7 +74,10 @@
 
             const matchDate = new Date(`${date} ${hour} GMT+1`)
             const timestamp = Date.parse(matchDate)
-          
+
+            //Borrar
+            const Serverhour = new Date(`${date} ${hour}`)
+            const ServerTimestamp = Date.parse(Serverhour) // <-- Pasar a hora de Arg.
 
             const hourAr = new Date(timestamp)
             const hours = hourAr.getHours()
@@ -97,11 +100,9 @@
             const hourUpgrade = `${currentHour}:${currentMinute}`
 
             console.log(`-----------------------------------------`)
-            console.log(`Obtiene la hora tranfdormada a UTC {MatchDay}: ${matchDate}`)
-            console.log(`este es el Timestamp: ${timestamp}`)
-            console.log(`este es el hourAr: ${hours}`)
-            console.log(`este es el formattedTime: ${formattedTime}`)
-            console.log(`Hora real del partido: 17:00`)
+            console.log(`Obtiene la hora: ${hour}`)
+            console.log(`Hora del servidor: ${ServerTimestamp}`)
+            
 
             nextmatch.push({
               ...nextMatchForTeams,
@@ -110,6 +111,7 @@
               localTeam,
               visitantTeam,
               hourUpgrade,
+              timestamp,
             })
 
             
