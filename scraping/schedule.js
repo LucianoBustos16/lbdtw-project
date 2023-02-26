@@ -93,17 +93,19 @@ export async function getSchedule($) {
 
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
 
-			const hourAr = new Date(timestamp)
-			const hourArg = hourAr.toLocaleTimeString('es-AR', {
-				hour12: false,
-				hour: '2-digit'
-			})
-			const minutes = hourAr.getMinutes().toString().padStart(2, '0');
-			const hourMatch = `${hourArg}:${minutes}`
+			const horario = new Date(timestamp);
+            const options = {
+                timeZone: "America/Argentina/Buenos_Aires",
+                hour12: false, // Opcional, para mostrar la hora en formato de 24 horas
+              }
+            const hourAr = horario.toLocaleString("es-AR", options)
+            const [fecha, horaCompleta] = hourAr.split(" ");
+            const [hora, minutos, segundos] = horaCompleta.split(":");
+            const hourMatch = (`${hora}:${minutos}`)
 
-			const day = hourAr.getDate()
+			const day = horario.getDate()
 			const months = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic']
-			const month = months[hourAr.getMonth()]
+			const month = months[horario.getMonth()]
 
 			const formattedDate = day + ' ' + month
 
