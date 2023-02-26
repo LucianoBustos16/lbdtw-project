@@ -76,8 +76,7 @@ export async function getSchedule($) {
 			const [dayNumber, monthNumber] = date.split('/')
 			const prefixDate = `2023-${monthNumber}-${dayNumber}`
 
-			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
-			
+					
 			// const localNameRaw = $($locals[index]).text()
 			// const localName = cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
@@ -91,8 +90,9 @@ export async function getSchedule($) {
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
 			const visitantShortName = teamId[visitantId]
 
-			const timestamp = hour === 'vs' ? null : matchDate.getTime()
-
+			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)			
+			const timestamp = Date.parse(matchDate)
+			
 			const horario = new Date(timestamp);
             const options = {
                 timeZone: "America/Argentina/Buenos_Aires",
