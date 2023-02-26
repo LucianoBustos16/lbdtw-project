@@ -56,9 +56,7 @@ export async function getSchedule($) {
 		const matches = []
 		const $ronda = $(ronda)
 
-		// const $locals = $ronda.find(SELECTORS.locals)
 		const $localsImages = $ronda.find(SELECTORS.localsImages)
-		// const $visitants = $ronda.find(SELECTORS.visitants)
 		const $visitantsImages = $ronda.find(SELECTORS.visitantsImages)
 		const $results = $ronda.find(SELECTORS.scores)
 		const $hours = $ronda.find(SELECTORS.hour)
@@ -71,11 +69,9 @@ export async function getSchedule($) {
 			const hourRaw = $($hours[index]).text()
 			const fechaHora = hourRaw.length > 0 ? hourRaw.replace(/\t|\n|\s:/g, '').trim() : null
 			const separado = fechaHora.split(" ")
-			const hour = separado[1] + ':00'
 			const dateRaw = separado[0]
+			const hour = separado[1] + ':00'
 
-
-			// const dateRaw = $($date[index]).text()
 			const date = dateRaw.replace(/\t|\n|\s:/g, '').trim()
 			const [dayNumber, monthNumber] = date.split('/')
 			const prefixDate = `2023-${monthNumber}-${dayNumber}`
@@ -84,15 +80,12 @@ export async function getSchedule($) {
 			const localId = getTeamIdFromImageUrl(localImg)
 			const localShortName = teamId[localId]
 
-
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
 			const visitantShortName = teamId[visitantId]
 
-
 			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
-			const timestamp = Date.parse(matchDate)
-			// const timestamp = hour === '' ? 'Vacio' : matchDate.getTime()			
+			const timestamp = Date.parse(matchDate)		
 			
 			const horario = new Date(timestamp);
             const options = {
@@ -117,11 +110,6 @@ export async function getSchedule($) {
 
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
-			console.log("-------")
-
-			console.log(`${date} - ${localTeam.name} ` )
-			console.log(timestamp)
-
 			matches.push({
 				date: formattedDate,
 				timestampServer: timestamp,
