@@ -22,12 +22,15 @@ const schedule = await getAllMatch()
 							<section class="grid grid-cols-1 md:grid-cols-3 gap-6 ">
 
 									{fecha.matches.map((match) => (
+										
 										<ScheduleRow
 											local={match.teams[0]}
 											visitant={match.teams[1]}
 											score={match.score}
 											date={match.date}
 											hour={match.hour}
+											hourMatch={match.hourMatch}
+											
 										/>
 									))}
 

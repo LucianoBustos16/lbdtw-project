@@ -23,10 +23,8 @@ const { local, score, visitant, date, hourMatch  } = Astro.props
 
 			
 			<p class="text-gray-400 uppercase text-sm">{ score.includes("-") ? '' : date }</p>
-			<!-- <p class="text-[#0598D1] text-xl">{hour}</p> -->
 			<p class="text-[#0598D1] text-xl">{ score.includes("-") ? score : hourMatch }</p>
 			
-
 		</div>
 		
 		<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-110">

@@ -5,7 +5,6 @@ import { getAllMatch } from '@services/scheduleTeam.js'
 import ScheduleRow from '@components/ScheduleRow.astro'
 
 const schedule = await getAllMatch()
-
 const { teamId } = Astro.props
 
 ---
@@ -22,13 +21,13 @@ const { teamId } = Astro.props
 								<tbody>
 									{day.matches.filter(match =>
 										match.teams[0].id === teamId || match.teams[1].id === teamId).map((match) => (
+											
 										<ScheduleRow
 											local={match.teams[0]}
 											visitant={match.teams[1]}
 											score={match.score}
 											date={match.date}
 											hourMatch={match.hourMatch}
-											matchDate={match.matchDate}
 											round= {day.fecha}
 											/>
 											
