@@ -76,6 +76,12 @@
             const timestamp = Date.parse(matchDate)
 
             const hourAr = new Date(timestamp)
+            const hourArg = hourAr.toLocaleTimeString('es-AR', {
+				hour12: false,
+				hour: '2-digit'
+			})
+            const minutes = hourAr.getMinutes().toString().padStart(2, '0');
+            const hourMatch = `${hourArg}:${minutes}`
 
             const day = hourAr.getDate()
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
@@ -96,7 +102,7 @@
             nextmatch.push({
               ...nextMatchForTeams,
               hourUpgrade,
-              timestamp,
+              hourMatch,
               formattedDate,
               localTeam,
               visitantTeam,

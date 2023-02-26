@@ -94,14 +94,17 @@ export async function getSchedule($) {
 			const timestamp = hour === 'vs' ? null : matchDate.getTime()
 
 			const hourAr = new Date(timestamp)
-			const hours = hourAr.getHours()
-			const minutes = "0" + hourAr.getMinutes()
+			const hourArg = hourAr.toLocaleTimeString('es-AR', {
+				hour12: false,
+				hour: '2-digit'
+			})
+			const minutes = hourAr.getMinutes().toString().padStart(2, '0');
+			const hourMatch = `${hourArg}:${minutes}`
 
 			const day = hourAr.getDate()
 			const months = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic']
 			const month = months[hourAr.getMonth()]
 
-			const formattedTime = hours + ':' + minutes.substr(-2)
 			const formattedDate = day + ' ' + month
 
 
@@ -110,11 +113,13 @@ export async function getSchedule($) {
 			const visitantTeam = TEAMS.find(team => team.id === visitantShortName)
 
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
+			
+			
 
 			matches.push({
 				date: formattedDate,
 				timestamp,
-				hour: formattedTime === 'NaN:aN' ? score : formattedTime,
+				hourMatch: hourMatch === 'NaN:aN' ? score : hourMatch,
 				matchDate: matchDate,
 				teams: [
 					{

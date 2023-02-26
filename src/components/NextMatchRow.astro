@@ -1,13 +1,5 @@
 ---
-const { local, visitant, date, timestamp } = Astro.props
-
-const d = new Date(timestamp)
-        const hour = d.toLocaleTimeString('es-AR', {
-            hour12: false,
-            hour: '2-digit'
-        })
-        const minutes = d.getMinutes().toString().padStart(2, '0');
-       const dateToRender = `${hour}:${minutes}`
+const { local, visitant, date, timestamp, hourMatch } = Astro.props
 ---
 
 	<div class="shadow-md p-4 rounded-xl bg-white">
@@ -29,7 +21,7 @@ const d = new Date(timestamp)
 				
 				<div class='text-center rounded-sm p-2'>
 					<p class="text-gray-400 uppercase text-sm">{date}</p>
-					<p class="text-[#0598D1] text-xl">{dateToRender}</p>
+					<p class="text-[#0598D1] text-xl">{hourMatch}</p>
 					
 		
 				</div>
