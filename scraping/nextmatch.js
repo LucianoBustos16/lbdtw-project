@@ -85,6 +85,12 @@
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
 
+            console.log("-----------------------")
+            console.log(`Hora original (matchDate): ${matchDate}`)
+            console.log(`timestamp: ${timestamp}`)
+            console.log(`horario: ${horario}`)
+            console.log(`hourAr: ${hourAr}`)
+            console.log(`hourMatch: ${hourMatch}`)
 
             const day = horario.getDate()
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
