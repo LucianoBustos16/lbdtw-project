@@ -83,6 +83,13 @@
             const minutes = hourAr.getMinutes().toString().padStart(2, '0');
             const hourMatch = `${hourArg}:${minutes}`
 
+            console.log('---------------------------')
+            console.log(`Este es el timestamp: ${timestamp}`)
+            console.log(`Este es el hourArg: ${hourArg}`)
+            console.log(`Este es el hourArg: ${minutes}`)
+            console.log(`Este es el hourMatch: ${hourMatch}`)
+            console.log('Resultado esperado: 17:00')
+
             const day = hourAr.getDate()
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[hourAr.getMonth()]

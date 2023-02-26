@@ -118,9 +118,8 @@ export async function getSchedule($) {
 
 			matches.push({
 				date: formattedDate,
-				timestamp,
+				timestampServer: timestamp,
 				hourMatch: hourMatch === 'NaN:aN' ? score : hourMatch,
-				matchDate: matchDate,
 				teams: [
 					{
 						id: localId,
