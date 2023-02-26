@@ -60,6 +60,24 @@
     "matchesWon": 4,
     "matchesDrawn": 0,
     "matchesLost": 1,
+    "goalsFor": 7,
+    "goalsAgainst": 3,
+    "goalDifference": 4,
+    "team": {
+      "id": "River",
+      "color": "#df1e19",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.webp"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 12,
+    "matchesPlayed": 5,
+    "matchesWon": 4,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
     "goalsFor": 5,
     "goalsAgainst": 2,
     "goalDifference": 3,
@@ -72,7 +90,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 11,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -90,7 +108,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 10,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -105,24 +123,6 @@
       "name": "Boca Juniors",
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.webp"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 10,
-    "matchesPlayed": 5,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 3,
-    "goalDifference": 3,
-    "team": {
-      "id": "River",
-      "color": "#df1e19",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.webp"
     }
   },
   {
@@ -457,24 +457,6 @@
     "matchesDrawn": 2,
     "matchesLost": 3,
     "goalsFor": 2,
-    "goalsAgainst": 7,
-    "goalDifference": -5,
-    "team": {
-      "id": "Arsenal",
-      "color": "#ac110b",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
-    }
-  },
-  {
-    "rank": 27,
-    "points": 2,
-    "matchesPlayed": 5,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 2,
     "goalsAgainst": 8,
     "goalDifference": -6,
     "team": {
@@ -486,7 +468,7 @@
     }
   },
   {
-    "rank": 28,
+    "rank": 27,
     "points": 1,
     "matchesPlayed": 4,
     "matchesWon": 0,
@@ -501,6 +483,24 @@
       "name": "Central Cba (SdE)",
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.webp"
+    }
+  },
+  {
+    "rank": 28,
+    "points": 1,
+    "matchesPlayed": 5,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 4,
+    "goalsFor": 2,
+    "goalsAgainst": 8,
+    "goalDifference": -6,
+    "team": {
+      "id": "Arsenal",
+      "color": "#ac110b",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
     }
   }
 ]
