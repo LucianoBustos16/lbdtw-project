@@ -36,10 +36,10 @@ const SELECTORS = {
 	match: '.agendas',
 	round: 'caption',
 	date: '.resultado .fecha',
-	hour: '.resultado .hora',
+	hour: '.resultado',
 	locals: '.local span',
 	localsImages: '.local img',
-	scores: '.resultado',
+	scores: '.resultado ',
 	visitants: '.visitante span',
 	visitantsImages: '.visitante img'
 }
@@ -69,29 +69,30 @@ export async function getSchedule($) {
 			const score = cleanText(scoreRaw)
 
 			const hourRaw = $($hours[index]).text()
-			const hour = hourRaw.replace(/\t|\n|\s:/g, '').trim()
+			const fechaHora = hourRaw.length > 0 ? hourRaw.replace(/\t|\n|\s:/g, '').trim() : null
+			const separado = fechaHora.split(" ")
+			const hour = separado[1] + ':00'
+			const dateRaw = separado[0]
 
-			const dateRaw = $($date[index]).text()
+
+			// const dateRaw = $($date[index]).text()
 			const date = dateRaw.replace(/\t|\n|\s:/g, '').trim()
 			const [dayNumber, monthNumber] = date.split('/')
 			const prefixDate = `2023-${monthNumber}-${dayNumber}`
-
-					
-			// const localNameRaw = $($locals[index]).text()
-			// const localName = cleanText(localNameRaw)
+			
 			const localImg = $($localsImages[index]).attr('src')
 			const localId = getTeamIdFromImageUrl(localImg)
 			const localShortName = teamId[localId]
 
 
-			// const visitantNameRaw = $($visitants[index]).text()
-			// const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
 			const visitantShortName = teamId[visitantId]
 
-			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)			
+
+			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
 			const timestamp = Date.parse(matchDate)
+			// const timestamp = hour === '' ? 'Vacio' : matchDate.getTime()			
 			
 			const horario = new Date(timestamp);
             const options = {
@@ -116,7 +117,10 @@ export async function getSchedule($) {
 
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
-			
+			// console.log("-------")
+
+			// console.log(`${date} - ${localTeam.name} ` )
+			// console.log(timestamp)
 
 			matches.push({
 				date: formattedDate,
