@@ -117,10 +117,10 @@ export async function getSchedule($) {
 
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
-			// console.log("-------")
+			console.log("-------")
 
-			// console.log(`${date} - ${localTeam.name} ` )
-			// console.log(timestamp)
+			console.log(`${date} - ${localTeam.name} ` )
+			console.log(timestamp)
 
 			matches.push({
 				date: formattedDate,
