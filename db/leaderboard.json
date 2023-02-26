@@ -1,24 +1,6 @@
 [
   {
     "rank": 1,
-    "points": 13,
-    "matchesPlayed": 5,
-    "matchesWon": 4,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 10,
-    "goalsAgainst": 4,
-    "goalDifference": 6,
-    "team": {
-      "id": "Huracan",
-      "color": "#ae0407",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
-    }
-  },
-  {
-    "rank": 2,
     "points": 12,
     "matchesPlayed": 4,
     "matchesWon": 4,
@@ -36,7 +18,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 2,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -54,15 +36,15 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
     "matchesDrawn": 0,
     "matchesLost": 1,
-    "goalsFor": 8,
+    "goalsFor": 9,
     "goalsAgainst": 4,
-    "goalDifference": 4,
+    "goalDifference": 5,
     "team": {
       "id": "Defensa-y-Justicia",
       "color": "#ffdd02",
@@ -72,7 +54,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 4,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -87,6 +69,24 @@
       "name": "San Lorenzo",
       "shortName": "SL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 11,
+    "matchesPlayed": 5,
+    "matchesWon": 3,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "goalDifference": 5,
+    "team": {
+      "id": "Huracan",
+      "color": "#ae0407",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
     }
   },
   {
@@ -438,9 +438,27 @@
     "matchesWon": 0,
     "matchesDrawn": 2,
     "matchesLost": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 6,
+    "goalsFor": 3,
+    "goalsAgainst": 7,
     "goalDifference": -4,
+    "team": {
+      "id": "Colon",
+      "color": "#fa555a",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
+    }
+  },
+  {
+    "rank": 26,
+    "points": 2,
+    "matchesPlayed": 5,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 7,
+    "goalDifference": -5,
     "team": {
       "id": "Atletico-Tucuman",
       "color": "#83baee",
@@ -450,7 +468,7 @@
     }
   },
   {
-    "rank": 26,
+    "rank": 27,
     "points": 1,
     "matchesPlayed": 4,
     "matchesWon": 0,
@@ -465,24 +483,6 @@
       "name": "Arsenal",
       "shortName": "ARS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
-    }
-  },
-  {
-    "rank": 27,
-    "points": 1,
-    "matchesPlayed": 5,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 4,
-    "goalsFor": 2,
-    "goalsAgainst": 7,
-    "goalDifference": -5,
-    "team": {
-      "id": "Colon",
-      "color": "#fa555a",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
     }
   },
   {
