@@ -2,6 +2,7 @@ import * as cheerio from 'cheerio'
 import { getLeaderBoard } from './leaderboard.js'
 import { getNextMatch } from './nextmatch.js'
 import { getSchedule } from './schedule.js'
+import { getMatchsToday } from './matchstoday.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
 
@@ -19,6 +20,14 @@ export const SCRAPINGS = {
     schedule: {
         url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
         scraper: getSchedule,
+  },
+    matchstoday: {
+      url: 'https://www.promiedos.com.ar',
+      scraper: getMatchsToday,
+  },
+  matchstoday: {
+    url: 'https://depor.com/resultados/',
+    scraper: getMatchsToday,
   },
 
 }

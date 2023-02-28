@@ -4,6 +4,7 @@ import leaderboard from '../db/leaderboard.json'
 import nextmatch from '../db/nextmatch.json'
 import schedule from '../db/schedule.json'
 import teams from 'db/teams.json'
+import { getMatchsToday } from 'scraping/matchstoday'
 
 
 const app = new Hono()
@@ -57,6 +58,10 @@ app.get('/schedule' , (ctx) => {
 
 app.get('/teams' , (ctx) => {
 	return ctx.json(teams)
+})
+
+app.get('/matchsToday' , (ctx) => {
+	return ctx.json(matchsToday)
 })
 
 app.get('/static/*', serveStatic({ root: './'}))
