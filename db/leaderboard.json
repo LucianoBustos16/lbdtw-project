@@ -204,6 +204,24 @@
     "matchesWon": 2,
     "matchesDrawn": 1,
     "matchesLost": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 3,
+    "goalDifference": 2,
+    "team": {
+      "id": "Argentinos",
+      "color": "#e8272b",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.webp"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
     "goalsFor": 7,
     "goalsAgainst": 7,
     "goalDifference": 0,
@@ -216,7 +234,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -234,7 +252,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -249,24 +267,6 @@
       "name": "Belgrano",
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.webp"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 2,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 5,
-    "goalsAgainst": 3,
-    "goalDifference": 2,
-    "team": {
-      "id": "Argentinos",
-      "color": "#e8272b",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.webp"
     }
   },
   {
@@ -474,24 +474,6 @@
     "matchesWon": 0,
     "matchesDrawn": 2,
     "matchesLost": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 8,
-    "goalDifference": -6,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#83baee",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.webp"
-    }
-  },
-  {
-    "rank": 28,
-    "points": 1,
-    "matchesPlayed": 4,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
     "goalsFor": 0,
     "goalsAgainst": 5,
     "goalDifference": -5,
@@ -501,6 +483,24 @@
       "name": "Central Cba (SdE)",
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.webp"
+    }
+  },
+  {
+    "rank": 28,
+    "points": 2,
+    "matchesPlayed": 5,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 8,
+    "goalDifference": -6,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#83baee",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.webp"
     }
   }
 ]
