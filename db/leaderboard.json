@@ -2,13 +2,31 @@
   {
     "rank": 1,
     "points": 12,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 4,
     "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 2,
-    "goalDifference": 7,
+    "matchesLost": 1,
+    "goalsFor": 10,
+    "goalsAgainst": 4,
+    "goalDifference": 6,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd02",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.webp"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 12,
+    "matchesPlayed": 5,
+    "matchesWon": 4,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 10,
+    "goalsAgainst": 4,
+    "goalDifference": 6,
     "team": {
       "id": "Lanus",
       "color": "#6f1c28",
@@ -18,7 +36,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -36,7 +54,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -54,14 +72,14 @@
     }
   },
   {
-    "rank": 4,
-    "points": 10,
-    "matchesPlayed": 4,
+    "rank": 5,
+    "points": 11,
+    "matchesPlayed": 5,
     "matchesWon": 3,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 4,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
     "goalDifference": 5,
     "team": {
       "id": "Huracan",
@@ -72,7 +90,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 10,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -90,7 +108,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 10,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -108,33 +126,15 @@
     }
   },
   {
-    "rank": 7,
-    "points": 9,
-    "matchesPlayed": 4,
-    "matchesWon": 3,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 7,
-    "goalsAgainst": 4,
-    "goalDifference": 3,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd02",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.webp"
-    }
-  },
-  {
     "rank": 8,
     "points": 9,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 3,
     "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 3,
-    "goalDifference": 3,
+    "matchesLost": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "goalDifference": 2,
     "team": {
       "id": "River",
       "color": "#df1e19",
@@ -145,6 +145,24 @@
   },
   {
     "rank": 9,
+    "points": 8,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 7,
+    "goalsAgainst": 4,
+    "goalDifference": 3,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#6ccbf9",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.webp"
+    }
+  },
+  {
+    "rank": 10,
     "points": 8,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -162,15 +180,51 @@
     }
   },
   {
-    "rank": 10,
-    "points": 7,
-    "matchesPlayed": 4,
+    "rank": 11,
+    "points": 8,
+    "matchesPlayed": 5,
     "matchesWon": 2,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 1,
     "goalsFor": 5,
     "goalsAgainst": 3,
     "goalDifference": 2,
+    "team": {
+      "id": "Instituto",
+      "color": "#e72428",
+      "name": "Instituto",
+      "shortName": "IACC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.webp"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 7,
+    "goalDifference": 0,
+    "team": {
+      "id": "Barracas-Central",
+      "color": "#ea2f2f",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.webp"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 6,
+    "goalDifference": 0,
     "team": {
       "id": "Newells",
       "color": "#eb1921",
@@ -180,7 +234,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 14,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -198,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 15,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -216,7 +270,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 16,
     "points": 6,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -234,25 +288,7 @@
     }
   },
   {
-    "rank": 14,
-    "points": 5,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 5,
-    "goalsAgainst": 3,
-    "goalDifference": 2,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#6ccbf9",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.webp"
-    }
-  },
-  {
-    "rank": 15,
+    "rank": 17,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -270,25 +306,7 @@
     }
   },
   {
-    "rank": 16,
-    "points": 5,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
-    "goalDifference": 0,
-    "team": {
-      "id": "Instituto",
-      "color": "#e72428",
-      "name": "Instituto",
-      "shortName": "IACC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.webp"
-    }
-  },
-  {
-    "rank": 17,
+    "rank": 18,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -306,7 +324,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 19,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -324,7 +342,25 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 20,
+    "points": 5,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 4,
+    "goalDifference": -2,
+    "team": {
+      "id": "Independiente",
+      "color": "#de0019",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.webp"
+    }
+  },
+  {
+    "rank": 21,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -342,33 +378,15 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 22,
     "points": 4,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 1,
     "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 6,
-    "goalsAgainst": 7,
-    "goalDifference": -1,
-    "team": {
-      "id": "Barracas-Central",
-      "color": "#ea2f2f",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.webp"
-    }
-  },
-  {
-    "rank": 21,
-    "points": 4,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
+    "matchesLost": 3,
     "goalsFor": 3,
-    "goalsAgainst": 5,
-    "goalDifference": -2,
+    "goalsAgainst": 6,
+    "goalDifference": -3,
     "team": {
       "id": "Gimnasia",
       "color": "#6370fc",
@@ -378,25 +396,43 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 23,
     "points": 4,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 1,
     "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 2,
-    "goalsAgainst": 4,
-    "goalDifference": -2,
+    "matchesLost": 3,
+    "goalsFor": 4,
+    "goalsAgainst": 8,
+    "goalDifference": -4,
     "team": {
-      "id": "Independiente",
-      "color": "#de0019",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.webp"
+      "id": "Arsenal",
+      "color": "#ac110b",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
     }
   },
   {
-    "rank": 23,
+    "rank": 24,
+    "points": 3,
+    "matchesPlayed": 5,
+    "matchesWon": 0,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 5,
+    "goalDifference": -3,
+    "team": {
+      "id": "Banfield",
+      "color": "#81f1a9",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.webp"
+    }
+  },
+  {
+    "rank": 25,
     "points": 3,
     "matchesPlayed": 5,
     "matchesWon": 0,
@@ -414,50 +450,14 @@
     }
   },
   {
-    "rank": 24,
-    "points": 2,
-    "matchesPlayed": 4,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 2,
-    "goalsAgainst": 5,
-    "goalDifference": -3,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#83baee",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.webp"
-    }
-  },
-  {
-    "rank": 25,
-    "points": 2,
-    "matchesPlayed": 4,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 2,
-    "goalsAgainst": 5,
-    "goalDifference": -3,
-    "team": {
-      "id": "Banfield",
-      "color": "#81f1a9",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.webp"
-    }
-  },
-  {
     "rank": 26,
-    "points": 1,
-    "matchesPlayed": 4,
+    "points": 2,
+    "matchesPlayed": 5,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 3,
-    "goalsFor": 2,
-    "goalsAgainst": 6,
+    "goalsFor": 3,
+    "goalsAgainst": 7,
     "goalDifference": -4,
     "team": {
       "id": "Colon",
@@ -469,20 +469,20 @@
   },
   {
     "rank": 27,
-    "points": 1,
-    "matchesPlayed": 4,
+    "points": 2,
+    "matchesPlayed": 5,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 3,
     "goalsFor": 2,
-    "goalsAgainst": 7,
-    "goalDifference": -5,
+    "goalsAgainst": 8,
+    "goalDifference": -6,
     "team": {
-      "id": "Arsenal",
-      "color": "#ac110b",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
+      "id": "Atletico-Tucuman",
+      "color": "#83baee",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.webp"
     }
   },
   {
