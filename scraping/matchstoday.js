@@ -16,7 +16,7 @@ const SELECTORS = {
 }
 
 export async function getMatchsToday($) {
-	const schedule = []
+	const matchstoday = []
 	const $days = $(SELECTORS.matchs)
 
 	// const getTeamIdFromImageUrl = (url) => {
@@ -70,8 +70,8 @@ export async function getMatchsToday($) {
 			})
 		})
 
-		schedule.push({ competition, matches })
+		matchstoday.push({ competition, matches })
 	})
 
-	return schedule
+	return matchstoday
 }

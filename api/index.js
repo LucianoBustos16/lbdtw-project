@@ -3,8 +3,8 @@ import { serveStatic } from 'hono/serve-static.module'
 import leaderboard from '../db/leaderboard.json'
 import nextmatch from '../db/nextmatch.json'
 import schedule from '../db/schedule.json'
+import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
-import { getMatchsToday } from 'scraping/matchstoday'
 
 
 const app = new Hono()
@@ -28,11 +28,15 @@ app.get('/', (ctx) =>
 		},
 		{
 			endpoint: '/schedule',
-			description: 'Returns the next match to Belgrano',
+			description: 'Returns the fixture',
 		},
 		{
 			endpoint: '/teams',
-			description: 'Returns all Kings League teams',
+			description: 'Returns all LPF  teams',
+		},
+		{
+			endpoint: '/matchstoday',
+			description: 'Returns match today',
 		},
 	]))
 
@@ -60,8 +64,8 @@ app.get('/teams' , (ctx) => {
 	return ctx.json(teams)
 })
 
-app.get('/matchsToday' , (ctx) => {
-	return ctx.json(matchsToday)
+app.get('/matchstoday' , (ctx) => {
+	return ctx.json(matchstoday)
 })
 
 app.get('/static/*', serveStatic({ root: './'}))
