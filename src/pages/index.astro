@@ -4,19 +4,27 @@ import Container from '../components/Container.astro';
 import Table from '@components/Table.astro';
 import Nextmatch from '@components/Nextmatch.astro';
 import TeamScroll from '@components/TeamScroll.astro';
+import MatchsToday from '@components/MatchsToday.astro';
+
 ---
 
 <Layout title="">
 	
 	<main>
 		<Container>
-			<div class='grid grid-cols-4 lg:grid-cols-8 gap-10 w-full px-4 md:px-8'>
 
+			<MatchsToday></MatchsToday>
+
+
+			<div class='grid grid-cols-4 lg:grid-cols-8 gap-10 w-full px-4 md:px-8'>
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
 					<Nextmatch></Nextmatch>
 				</div>
 
-					<TeamScroll></TeamScroll>
+				
+				<TeamScroll></TeamScroll>
+
+				
 
 				
 				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-4'>

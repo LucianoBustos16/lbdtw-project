@@ -1,0 +1,31 @@
+---
+import { getMatchsToday } from '@services/matchstoday.js'
+import MatchsTodayRow from '@components/MatchsTodayRow.astro'
+
+const matchsToday = await getMatchsToday()
+---
+
+{
+  matchsToday.map((matchs) => {
+    return (
+      <section>
+        <h2 class='font-bold text-xl my-8'>{matchs.competition}</h2>
+        <table class='w-full'>
+          <tbody>
+            {matchs.matches.map((match) => ( 
+              <MatchsTodayRow
+                local={match.teams[0]}
+                visitant={match.teams[1]}
+                score={match.score}
+                date={match.date}
+                hourMatch={match.hourMatch}
+                round= {matchs.fecha}
+                />
+                
+            ))}
+          </tbody>
+        </table>
+      </section>
+    )
+  })
+}
