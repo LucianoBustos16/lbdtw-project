@@ -18,7 +18,7 @@ export const SCRAPINGS = {
         scraper: getNextMatch,
     },
     schedule: {
-        url: 'https://ar.marca.com/claro/futbol/primera-division/fixture.html',
+        url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
         scraper: getSchedule,
   },
     matchstoday: {
