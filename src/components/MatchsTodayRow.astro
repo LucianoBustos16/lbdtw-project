@@ -1,38 +1,75 @@
 ---
-const { local, visitant, hour, localScore } = Astro.props
+const { local, visitant, hour } = Astro.props;
 ---
 
+<!-- 
 	<div class="shadow-md p-4 rounded-xl bg-white">
 
-			<div class="grid items-center gap-4" style="grid-template-columns: 1fr auto 1fr;">
+			<div class="flex items-center gap-4">
 				
-			
-					<p class="text-right font-semibold">
-						{local.name}	
-					</p>
+			<div class="flex flex-col">
+				<img
+					class='h-8 object-contain my-2'
+					src={`https://www.promiedos.com.ar/${local.localImg}`}
+					alt={`Escudo del equipo ${local.name}`}
+				/>	
+				<p class="text-center font-semibold">
+					{local.name}	
+				</p>
 
-					<img
-				class='h-8 object-contain my-2'
-				src={`${local.localImg}`}
-				alt={`Escudo del equipo ${local.name}`}
-			/>	
+				
+
+			</div>
 
 				
 				<div class='text-center rounded-sm p-2'>
-					<p class="text-gray-400 uppercase text-sm">{hour}</p>	
+					<p class="text-gray-400 uppercase text-sm">{local.localScore} - {visitant.visitantScore}</p>	
 				</div>
 				
-								
+				<div class="flex flex-col">
 					<img
 				class='h-8 object-contain'
-				src={`${visitant.visitantImg}`}
+				src={`https://www.promiedos.com.ar/${visitant.visitantImg}`}
 				alt={`Escudo del equipo ${visitant.name}`}
 				/>
-					<p class="text-left font-semibold">
+					<p class="text-center font-semibold">
 						{visitant.name}	
 					</p>
+
+				</div>		
 					
 
 			</div>
 
+	</div> -->
+<div class="shadow-md rounded-xl bg-slate-700 text-white flex justify-between overflow-hidden">
+	
+	<div class="p-4 w-full">
+		<div class="flex items-center justify-between">
+			<div class="flex items-center gap-1 ">
+				<img
+					class="h-8 object-contain my-2"
+					src={`https://www.promiedos.com.ar/${local.localImg}`}
+					alt={`Escudo del equipo ${local.name}`}
+				/>
+				{local.name}
+			</div>
+			{local.localScore}
+		</div>
+
+		<div class="flex items-center justify-between">
+			<div class="flex items-center gap-1">
+				<img
+					class="h-8 object-contain my-2"
+					src={`https://www.promiedos.com.ar/${visitant.visitantImg}`}
+					alt={`Escudo del equipo ${visitant.name}`}
+				/>
+				{visitant.name}
+			</div>
+			{visitant.visitantScore}
+		</div>
 	</div>
+	<div class="flex justify-center items-center p-4 bg-slate-900">
+		{hour}
+	</div>
+</div>

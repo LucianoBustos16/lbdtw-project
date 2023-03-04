@@ -13,19 +13,26 @@ import MatchsToday from '@components/MatchsToday.astro';
 	<main>
 		<Container>
 
-			<MatchsToday></MatchsToday>
+			
 
 
 			<div class='grid grid-cols-4 lg:grid-cols-8 gap-10 w-full px-4 md:px-8'>
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
-					<Nextmatch></Nextmatch>
+
+				
+				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
+					<Nextmatch></Nextmatch>					
 				</div>
 
 				
 				<TeamScroll></TeamScroll>
-
 				
+				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
+					<MatchsToday></MatchsToday>
 
+				</div>
+				
+			</div>
 				
 				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-4'>
 					<h4 class="font-bold">Posiciones</h4>

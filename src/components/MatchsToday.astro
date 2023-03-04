@@ -8,23 +8,24 @@ const matchsToday = await getMatchsToday()
 {
   matchsToday.map((matchs) => {
     return (
-      <section>
-        <h2 class='font-bold text-xl my-8'>{matchs.competition}</h2>
-        <table class='w-full'>
-          <tbody>
+      <section class='my-2'>
+        <h2 class='font-bold text-xl my-0'>{matchs.competition}</h2>
+        <div class="overflow-scroll p-4 scrollbar-hide">
+          
+          <div class="swiper w-full h-full grid xl:grid-cols-2 gap-2 snap-mandatory scroll-m-4">
             {matchs.matches.map((match) => ( 
               <MatchsTodayRow
                 local={match.teams[0]}
                 visitant={match.teams[1]}
-                score={match.score}
+                hour={match.hour}
                 date={match.date}
                 hourMatch={match.hourMatch}
                 round= {matchs.fecha}
                 />
                 
             ))}
-          </tbody>
-        </table>
+          </div>
+        </div>
       </section>
     )
   })
