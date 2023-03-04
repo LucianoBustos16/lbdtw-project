@@ -1568,9 +1568,9 @@
     "fecha": 6,
     "matches": [
       {
-        "date": "3 Mar",
-        "timestampServer": 1677884400000,
-        "hourMatch": "20:00",
+        "date": "NaN undefined",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Sarmiento",
@@ -1587,12 +1587,12 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.webp"
           }
         ],
-        "score": "00"
+        "score": "4-1"
       },
       {
-        "date": "3 Mar",
-        "timestampServer": 1677884400000,
-        "hourMatch": "20:00",
+        "date": "NaN undefined",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Union",
@@ -1609,7 +1609,7 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.webp"
           }
         ],
-        "score": "00"
+        "score": "2-0"
       },
       {
         "date": "4 Mar",
@@ -1991,28 +1991,6 @@
         "score": "15"
       },
       {
-        "date": "11 Mar",
-        "timestampServer": 1678572900000,
-        "hourMatch": "19:15",
-        "teams": [
-          {
-            "id": "Estudiantes",
-            "name": "Estudiantes (LP)",
-            "shortName": "EST",
-            "color": "#ea1921",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.webp"
-          },
-          {
-            "id": "Huracan",
-            "name": "Huracan",
-            "shortName": "HUR",
-            "color": "#ae0407",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
-          }
-        ],
-        "score": "15"
-      },
-      {
         "date": "12 Mar",
         "timestampServer": 1678581000000,
         "hourMatch": "21:30",
@@ -2099,6 +2077,28 @@
           }
         ],
         "score": "00"
+      },
+      {
+        "date": "12 Mar",
+        "timestampServer": 1678659300000,
+        "hourMatch": "19:15",
+        "teams": [
+          {
+            "id": "Estudiantes",
+            "name": "Estudiantes (LP)",
+            "shortName": "EST",
+            "color": "#ea1921",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.webp"
+          },
+          {
+            "id": "Huracan",
+            "name": "Huracan",
+            "shortName": "HUR",
+            "color": "#ae0407",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
+          }
+        ],
+        "score": "15"
       },
       {
         "date": "12 Mar",
