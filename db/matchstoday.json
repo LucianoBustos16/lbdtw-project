@@ -353,7 +353,7 @@
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/54.png",
             "name": "Arsenal",
-            "localScore": "0"
+            "localScore": "2"
           },
           {
             "visitantImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/4238.png",
@@ -383,7 +383,7 @@
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/4344.png",
             "name": "Brighton",
-            "localScore": "2"
+            "localScore": "3"
           },
           {
             "visitantImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/73.png",
@@ -458,7 +458,22 @@
     "competition": "Bundesliga",
     "matches": [
       {
-        "hour": "EN JUEGO",
+        "hour": "SÁB. 04/03    12:30h",
+        "teams": [
+          {
+            "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/86.png",
+            "name": "Stuttgart",
+            "localScore": "-"
+          },
+          {
+            "visitantImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/170.png",
+            "name": "Bayern",
+            "visitantScore": "-"
+          }
+        ]
+      },
+      {
+        "hour": "FINALIZADOS",
         "teams": [
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/1287.png",
@@ -473,7 +488,7 @@
         ]
       },
       {
-        "hour": "EN JUEGO",
+        "hour": "FINALIZADOS",
         "teams": [
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/536.png",
@@ -488,7 +503,7 @@
         ]
       },
       {
-        "hour": "EN JUEGO",
+        "hour": "FINALIZADOS",
         "teams": [
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/247.png",
@@ -503,7 +518,7 @@
         ]
       },
       {
-        "hour": "EN JUEGO",
+        "hour": "FINALIZADOS",
         "teams": [
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/3679.png",
@@ -518,7 +533,7 @@
         ]
       },
       {
-        "hour": "EN JUEGO",
+        "hour": "FINALIZADOS",
         "teams": [
           {
             "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/1674.png",
@@ -529,21 +544,6 @@
             "visitantImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/2892.png",
             "name": "Hoffenheim",
             "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "SÁB. 04/03    12:30h",
-        "teams": [
-          {
-            "localImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/86.png",
-            "name": "Stuttgart",
-            "localScore": "-"
-          },
-          {
-            "visitantImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/170.png",
-            "name": "Bayern",
-            "visitantScore": "-"
           }
         ]
       }
@@ -594,6 +594,24 @@
             "visitantImg": "https://as01.epimg.net/img/comunes/fotos/fichas/equipos/x-small/980.png",
             "name": "Empoli",
             "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Amistosos de Clubes",
+    "matches": [
+      {
+        "hour": "FINALIZADOS",
+        "teams": [
+          {
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "name": "",
+            "visitantScore": ""
           }
         ]
       }
