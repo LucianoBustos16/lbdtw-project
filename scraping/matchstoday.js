@@ -1,17 +1,17 @@
-import { cleanText } from './utils.js'
+import { cleanText, cleanHour } from './utils.js'
 
 const SELECTORS = {
-	matchs: '.results-match-event',
-	competition: '.results-match-event__league a',
-	partido: '.results-match-card',
+	matchs: '.evsc__ct .evsc__group.is-football',
+	competition: '.evsc__group__tl',
+	partido: '.evsc__i',
 	date: '.resultado .fecha',
-	hour: '.results-match-card__stage__status-time',
-	locals: '.results-match-card__teams--home span',
-	localsImages: '.results-match-card__teams--home img',
-	localScore: '.results-match-card__scores--home',
-	visitantScore: '.results-match-card__scores--away',
-	visitants: '.results-match-card__teams--away span',
-	visitantsImages: '.results-match-card__teams--away img',
+	hour: '.evsc__i__info',
+	locals: 'a .evsc__team:nth-child(1) .evsc__team__name',
+	localsImages: 'a .evsc__team:nth-child(1) img',
+	localScore: 'a .evsc__team:nth-child(1) .evsc__team__scr',
+	visitantScore: 'a .evsc__team:nth-child(2) .evsc__team__scr',
+	visitants: 'a .evsc__team:nth-child(2) .evsc__team__name',
+	visitantsImages: 'a .evsc__team:nth-child(2)  img',
 	// scores: 'tr td:nth-child(2) .pepito ',
 }
 
@@ -43,7 +43,8 @@ export async function getMatchsToday($) {
 		$horarios.each((index, horario) => {
 			const score = $(horario).text()
 
-			const hour = $($hours[index]).text()
+			const hourRaw = $($hours[index]).text()
+			const hour = cleanHour(hourRaw)
 
 			const localNameRaw = $($locals[index]).text()
 			const localName = cleanText(localNameRaw)

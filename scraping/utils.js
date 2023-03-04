@@ -22,7 +22,7 @@ export const SCRAPINGS = {
         scraper: getSchedule,
   },
     matchstoday: {
-      url: 'https://depor.com/resultados/',
+      url: 'https://argentina.as.com/',
       scraper: getMatchsToday,
     },
 
@@ -32,6 +32,12 @@ export const cleanText = text =>
 text
     .replace(/\t|\n|\s:/g, ' ')
     .replace(/.*:/g, ' ')
+    .trim()
+
+export const cleanHour = text =>
+text
+    .replace(/\t|\n|\s:/g, ' ')
+    // .replace(/.*:/g, ' ')
     .trim()
 
 
