@@ -22,7 +22,7 @@ export const SCRAPINGS = {
         scraper: getSchedule,
   },
     matchstoday: {
-      url: 'https://argentina.as.com/',
+      url: 'https://www.promiedos.com.ar/',
       scraper: getMatchsToday,
     },
 

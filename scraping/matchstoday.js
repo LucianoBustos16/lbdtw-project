@@ -1,17 +1,17 @@
-import { cleanText, cleanHour } from './utils.js'
+import { cleanText } from './utils.js'
 
 const SELECTORS = {
-	matchs: '.evsc__ct .evsc__group.is-football',
-	competition: '.evsc__group__tl',
-	partido: '.evsc__i',
-	date: '.resultado .fecha',
-	hour: '.evsc__i__info',
-	locals: 'a .evsc__team:nth-child(1) .evsc__team__name',
-	localsImages: 'a .evsc__team:nth-child(1) img',
-	localScore: 'a .evsc__team:nth-child(1) .evsc__team__scr',
-	visitantScore: 'a .evsc__team:nth-child(2) .evsc__team__scr',
-	visitants: 'a .evsc__team:nth-child(2) .evsc__team__name',
-	visitantsImages: 'a .evsc__team:nth-child(2)  img',
+	matchs: '#partidos #fixturein',
+	competition: '.tituloin',
+	partido: 'tbody tr:not(:first-child):not(.tituloin):not(.goles)',
+	// date: '.resultado .fecha',
+	hour: 'tr:not(:first-child):not(.tituloin):not(.goles) td:first-child',
+	locals: 'td:nth-child(2) .datoequipo',
+	localsImages: 'td:nth-child(2) img',
+	localScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r1',
+	visitantScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r2',
+	visitants: 'td:nth-child(5) .datoequipo',
+	visitantsImages: 'td:nth-child(5) img',
 	// scores: 'tr td:nth-child(2) .pepito ',
 }
 
@@ -43,8 +43,7 @@ export async function getMatchsToday($) {
 		$horarios.each((index, horario) => {
 			const score = $(horario).text()
 
-			const hourRaw = $($hours[index]).text()
-			const hour = cleanHour(hourRaw)
+			const hour = $($hours[index]).text()
 
 			const localNameRaw = $($locals[index]).text()
 			const localName = cleanText(localNameRaw)
