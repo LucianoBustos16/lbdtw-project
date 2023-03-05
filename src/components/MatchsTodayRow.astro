@@ -46,30 +46,45 @@ const { local, visitant, hour } = Astro.props;
 	
 	<div class="p-4 w-full">
 		<div class="flex items-center justify-between">
-			<div class="flex items-center gap-1 ">
+			<div class="flex items-center font-bold gap-1 ">
 				<img
 					class="h-8 object-contain my-2"
-					src={`https://www.promiedos.com.ar/images/64/${local.localImg}.png`}
+					src={`https://www.promiedos.com.ar/images/64/${local.localId}.png`}
 					alt={`Escudo del equipo ${local.name}`}
 				/>
 				{local.name}
 			</div>
-			{local.localScore}
+			<p class="font-bold">
+				{local.localScore}
+			</p>
 		</div>
 
 		<div class="flex items-center justify-between">
-			<div class="flex items-center gap-1">
+			<div class="flex items-center font-bold gap-1">
 				<img
 					class="h-8 object-contain my-2"
-					src={`https://www.promiedos.com.ar/images/64/${visitant.visitantImg}.png`}
+					src={`https://www.promiedos.com.ar/images/64/${visitant.visitantId}.png`}
 					alt={`Escudo del equipo ${visitant.name}`}
 				/>
 				{visitant.name}
 			</div>
-			{visitant.visitantScore}
+			<p class="font-bold">
+				{visitant.visitantScore}				
+			</p>
 		</div>
 	</div>
-	<div class="flex justify-center items-center p-4">
+	<div class={`flex justify-center items-center p-4 w-24 hour ${hour} font-bold text-slate-600` }>
 		{hour}
 	</div>
 </div>
+
+<style>
+	.Final{
+		color: #475569 ;
+	}
+
+	div.[class~=":"]{
+		color: blue;
+	}
+
+</style>
