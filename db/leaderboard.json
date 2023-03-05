@@ -1,6 +1,24 @@
 [
   {
     "rank": 1,
+    "points": 13,
+    "matchesPlayed": 6,
+    "matchesWon": 4,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 2,
+    "goalDifference": 3,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#dd2b2f",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
+    }
+  },
+  {
+    "rank": 2,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -18,7 +36,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 12,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -36,7 +54,25 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
+    "points": 12,
+    "matchesPlayed": 6,
+    "matchesWon": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "goalDifference": 5,
+    "team": {
+      "id": "Huracan",
+      "color": "#ae0407",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
+    }
+  },
+  {
+    "rank": 5,
     "points": 12,
     "matchesPlayed": 6,
     "matchesWon": 4,
@@ -54,7 +90,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 6,
     "points": 12,
     "matchesPlayed": 6,
     "matchesWon": 4,
@@ -69,42 +105,6 @@
       "name": "River Plate",
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.webp"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 12,
-    "matchesPlayed": 5,
-    "matchesWon": 4,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 5,
-    "goalsAgainst": 2,
-    "goalDifference": 3,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#dd2b2f",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 11,
-    "matchesPlayed": 5,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 10,
-    "goalsAgainst": 5,
-    "goalDifference": 5,
-    "team": {
-      "id": "Huracan",
-      "color": "#ae0407",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
     }
   },
   {
