@@ -19,9 +19,9 @@ export async function getMatchsToday($) {
 	const matchstoday = []
 	const $days = $(SELECTORS.matchs)
 
-	// const getTeamIdFromImageUrl = (url) => {
-	// 	return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
-	// }
+	const getTeamIdFromImageUrl = (url) => {
+		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
+	}
 
 	$days.each((_, day) => {
 		const matches = []
@@ -48,12 +48,12 @@ export async function getMatchsToday($) {
 			const localNameRaw = $($locals[index]).text()
 			const localName = cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
-			// const localId = getTeamIdFromImageUrl(localImg)
+			const localId = getTeamIdFromImageUrl(localImg)
 
 			const visitantNameRaw = $($visitants[index]).text()
 			const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
-			// const visitantId = getTeamIdFromImageUrl(visitantImg)
+			const visitantId = getTeamIdFromImageUrl(visitantImg)
 
 			const localScoreRaw = $($localScores[index]).text()
 			const localScore = cleanText(localScoreRaw)
@@ -63,8 +63,8 @@ export async function getMatchsToday($) {
 			matches.push({
 				hour,
 				teams: [
-					{ localImg, name: localName, localScore,  },
-					{ visitantImg, name: visitantName, visitantScore }
+					{ localId, name: localName, localScore,  },
+					{ visitantId, name: visitantName, visitantScore }
 				],
 				// score
 			})
