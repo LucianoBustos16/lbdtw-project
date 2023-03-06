@@ -3,6 +3,7 @@ import Container from "@components/Container.astro"
 import LastMatchTeam from "@components/LastMatchTeam.astro"
 import NextMatchTeam from "@components/NextMatchTeam.astro"
 import ScheduleTeam from "@components/ScheduleTeam.astro"
+import Tabs from "@components/Tabs.astro"
 import TeamStats from "@components/TeamStats.astro"
 import Layout from "@layouts/Layout.astro"
 
@@ -33,14 +34,15 @@ const {
         <img src={image} class="w-32" alt='Escudo de {name}'>
         <h1 class="text-white font-bold text-2xl">{name}</h1>
 
-        <NextMatchTeam teamId={id}></NextMatchTeam>
+        <NextMatchTeam teamId={id}></NextMatchTeam>       
 
     </div>
-
+    
+    <Tabs teamId={id}/>
     
 
 
-    <Container>
+    <!-- <Container>
 
         <div class="grid gap-4 grid-cols-2">   
             <LastMatchTeam teamId={id}></LastMatchTeam>
@@ -51,7 +53,7 @@ const {
 
         <ScheduleTeam teamId={id}></ScheduleTeam>
 
-    </Container>
+    </Container> -->
 
 
 

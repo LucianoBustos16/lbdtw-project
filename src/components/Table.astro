@@ -41,7 +41,7 @@ const leaderboard = await response.json();
         <tbody>
 
             {leaderboard.map(({ team, rank, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goalsFor, goalsAgainst, goalDifference }) => (
-            <tr class="bg-white border-b  hover:bg-gray-50">
+            <tr class={`bg-white border-b  hover:bg-gray-50 `}>
                 <th scope="row" class="px-2 py-4 font-bold text-teal-600">
                     <div class="font-normal text-gray-500 text-center">
                         {rank}
