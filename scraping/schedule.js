@@ -88,22 +88,31 @@ export async function getSchedule($) {
 			const timestamp = Date.parse(matchDate)		
 			
 			const horario = new Date(timestamp);
-            const options = {
+            const optionsHours = {
                 timeZone: "America/Argentina/Buenos_Aires",
-                hour12: false, // Opcional, para mostrar la hora en formato de 24 horas
+                hour12: false, // Opcional, para mostrar la hora en formato de 24 horas,
               }
-            const hourAr = horario.toLocaleString("es-AR", options)
+
+			  const optionsDay = {
+                weekday: 'long',
+              }
+
+
+            const hourAr = horario.toLocaleString("es-AR", optionsHours)
             const [fecha, horaCompleta] = hourAr.split(" ");
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
+			
+			const weekDay = horario.toLocaleDateString("es-AR", optionsDay)
+			const [day, month] = fecha.split("/")
 
-			const day = horario.getDate()
 			const months = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic']
-			const month = months[horario.getMonth()]
+			const monthServer = months[horario.getMonth()]
 
-			const formattedDate = day + ' ' + month
+			const formattedDate = day + ' ' + monthServer
 
 
+			
 			const getTeamFrom = ({ name }) => TEAMS.find(team => team.teamId === name)
 			const localTeam = TEAMS.find(team => team.id === localShortName)
 			const visitantTeam = TEAMS.find(team => team.id === visitantShortName)
@@ -111,7 +120,12 @@ export async function getSchedule($) {
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
 			matches.push({
-				date: formattedDate,
+				date: [{
+						day: day,
+						month: month,
+						weekDay: weekDay,
+						formattedDate: formattedDate,
+					}],
 				timestampServer: timestamp,
 				hourMatch: hourMatch === 'NaN:aN' ? score : hourMatch,
 				teams: [
