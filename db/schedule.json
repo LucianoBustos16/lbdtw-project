@@ -2387,14 +2387,13 @@
       {
         "date": [
           {
-            "day": "10",
-            "month": "3",
-            "weekDay": "viernes",
-            "formattedDate": "10 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678478400000,
-        "hourMatch": "17:00",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Barracas-Central",
@@ -2411,7 +2410,7 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.webp"
           }
         ],
-        "score": "00"
+        "score": "0-0"
       },
       {
         "date": [
