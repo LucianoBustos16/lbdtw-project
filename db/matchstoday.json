@@ -1,18 +1,18 @@
 [
   {
-    "competition": "COPA LIBERTADORES",
+    "competition": "LIGA PROFESIONAL",
     "matches": [
       {
-        "hour": "19:00  ",
+        "hour": "17:00  ",
         "teams": [
           {
-            "localId": "brasil.gif",
-            "name": "Fortaleza",
+            "localId": "82",
+            "name": "Barracas Central",
             "localScore": ""
           },
           {
-            "visitantId": "718",
-            "name": "Cerro Porte�o",
+            "visitantId": "12",
+            "name": "Independiente",
             "visitantScore": ""
           }
         ]
@@ -21,173 +21,343 @@
         "hour": "21:00  ",
         "teams": [
           {
-            "localId": "863",
+            "localId": "3",
+            "name": "Argentinos",
+            "localScore": ""
+          },
+          {
+            "visitantId": "4",
+            "name": "Arsenal",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localId": "33",
+            "name": "Instituto",
+            "localScore": ""
+          },
+          {
+            "visitantId": "25",
+            "name": "Atl Tucuman",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "PRIMERA NACIONAL",
+    "matches": [
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localId": "24",
+            "name": "Atl Rafaela",
+            "localScore": ""
+          },
+          {
+            "visitantId": "30",
+            "name": "Ferro",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "LIGA FRANCIA",
+    "matches": [
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "643",
+            "name": "Lille",
+            "localScore": ""
+          },
+          {
+            "visitantId": "645",
+            "name": "Lyon",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "SERIE A",
+    "matches": [
+      {
+        "hour": "16:45  ",
+        "teams": [
+          {
+            "localId": "1549",
+            "name": "Spezia",
+            "localScore": ""
+          },
+          {
+            "visitantId": "556",
+            "name": "Inter",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "LA LIGA",
+    "matches": [
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "1547",
+            "name": "Cadiz",
+            "localScore": ""
+          },
+          {
+            "visitantId": "512",
+            "name": "Getafe",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "BUNDESLIGA",
+    "matches": [
+      {
+        "hour": "16:30  ",
+        "teams": [
+          {
+            "localId": "635",
+            "name": "Colonia",
+            "localScore": ""
+          },
+          {
+            "visitantId": "1266",
+            "name": "Bochum",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "B METRO",
+    "matches": [
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "100",
+            "name": "Dock Sud",
+            "localScore": ""
+          },
+          {
+            "visitantId": "93",
+            "name": "Villa San Carlos",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localId": "124",
+            "name": "Ituzaingo",
+            "localScore": ""
+          },
+          {
+            "visitantId": "86",
+            "name": "Dep. Armenio",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "FEDERAL A",
+    "matches": [
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "54",
+            "name": "Boca Unidos",
+            "localScore": ""
+          },
+          {
+            "visitantId": "167",
+            "name": "Sarmiento (R)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localId": "160",
+            "name": "Estudiantes (SL)",
+            "localScore": ""
+          },
+          {
+            "visitantId": "1567",
+            "name": "Ciudad Bolivar",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "PRIMERA C",
+    "matches": [
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "127",
+            "name": "Puerto Nuevo",
+            "localScore": ""
+          },
+          {
+            "visitantId": "129",
+            "name": "Victoriano Arenas",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "120",
+            "name": "Claypole",
+            "localScore": ""
+          },
+          {
+            "visitantId": "106",
+            "name": "Excursionistas",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "60",
+            "name": "Dep. Espa�ol",
+            "localScore": ""
+          },
+          {
+            "visitantId": "128",
+            "name": "San Martin (B)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "69",
+            "name": "Sp. Italiano",
+            "localScore": ""
+          },
+          {
+            "visitantId": "108",
+            "name": "Gral. Lamadrid",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "103",
+            "name": "Berazategui",
+            "localScore": ""
+          },
+          {
+            "visitantId": "109",
+            "name": "JJ Urquiza",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "110",
+            "name": "Lujan",
+            "localScore": ""
+          },
+          {
+            "visitantId": "62",
+            "name": "Central Cba (R)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:30  ",
+        "teams": [
+          {
+            "localId": "65",
+            "name": "Midland",
+            "localScore": ""
+          },
+          {
+            "visitantId": "67",
+            "name": "Laferrere",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "FEMENINO",
+    "matches": [
+      {
+        "hour": "09:00  ",
+        "teams": [
+          {
+            "localId": "66",
+            "name": "El Porvenir",
+            "localScore": ""
+          },
+          {
+            "visitantId": "12",
+            "name": "Independiente",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "11",
             "name": "Huracan",
             "localScore": ""
           },
           {
-            "visitantId": "paraguay.gif",
-            "name": "Sp. Cristal",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "COPA SUDAMERICANA",
-    "matches": [
-      {
-        "hour": "19:00  ",
-        "teams": [
-          {
-            "localId": "bolivia.gif",
-            "name": "Blooming",
-            "localScore": ""
-          },
-          {
-            "visitantId": "1596",
-            "name": "Palmaflor",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "19:00  ",
-        "teams": [
-          {
-            "localId": "743",
-            "name": "Cobresal",
-            "localScore": ""
-          },
-          {
-            "visitantId": "bolivia.gif",
-            "name": "Palestino",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:00  ",
-        "teams": [
-          {
-            "localId": "chile.gif",
-            "name": "Dep. Tolima",
-            "localScore": ""
-          },
-          {
-            "visitantId": "877",
-            "name": "Junior",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:00  ",
-        "teams": [
-          {
-            "localId": "1336",
-            "name": "Emelec",
-            "localScore": ""
-          },
-          {
-            "visitantId": "chile.gif",
-            "name": "Dep. Cuenca",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "23:00  ",
-        "teams": [
-          {
-            "localId": "colombia.gif",
-            "name": "Universitario (P)",
-            "localScore": ""
-          },
-          {
-            "visitantId": "739",
-            "name": "Cienciano",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "EUROPA LEAGUE",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "alemania.gif",
-            "name": "Union Berlin",
-            "localScore": "3"
-          },
-          {
-            "visitantId": "1746",
-            "name": "Union SG",
-            "visitantScore": "3"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "943",
-            "name": "B. Leverkusen",
-            "localScore": "2"
-          },
-          {
-            "visitantId": "belgica.gif",
-            "name": "Ferencvarosi",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "alemania.gif",
-            "name": "Roma",
-            "localScore": "2"
-          },
-          {
-            "visitantId": "979",
-            "name": "Real Sociedad",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "605",
-            "name": "Sporting Lisboa",
-            "localScore": "2"
-          },
-          {
-            "visitantId": "hungria.gif",
-            "name": "Arsenal FC",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "italia.gif",
-            "name": "Juventus",
-            "localScore": ""
-          },
-          {
-            "visitantId": "522",
-            "name": "Friburgo",
+            "visitantId": "35",
+            "name": "Rosario Central",
             "visitantScore": ""
           }
         ]
@@ -196,153 +366,13 @@
         "hour": "17:00  ",
         "teams": [
           {
-            "localId": "564",
-            "name": "Manchester United",
+            "localId": "17",
+            "name": "Racing Club",
             "localScore": ""
           },
           {
-            "visitantId": "espana.gif",
-            "name": "Betis",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "portugal.gif",
-            "name": "Sevilla",
-            "localScore": ""
-          },
-          {
-            "visitantId": "529",
-            "name": "Fenerbahce",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "706",
-            "name": "Shakhtar",
-            "localScore": ""
-          },
-          {
-            "visitantId": "inglaterra.gif",
-            "name": "Feyenoord",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "CONFERENCE LEAGUE",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "moldavia.gif",
-            "name": "FC Sheriff",
-            "localScore": "0"
-          },
-          {
-            "visitantId": "651",
-            "name": "Niza",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "1634",
-            "name": "Anderlecht",
-            "localScore": "1"
-          },
-          {
-            "visitantId": "francia.gif",
-            "name": "Villarreal",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "belgica.gif",
-            "name": "AEK Larnaca",
-            "localScore": "0"
-          },
-          {
-            "visitantId": "624",
-            "name": "West Ham",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "578",
-            "name": "Basel",
-            "localScore": ""
-          },
-          {
-            "visitantId": "espana.gif",
-            "name": "Bratislava",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "chipre.gif",
-            "name": "Lech Poznan",
-            "localScore": ""
-          },
-          {
-            "visitantId": "547",
-            "name": "Djurgardens",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "834",
-            "name": "KAA Gent",
-            "localScore": ""
-          },
-          {
-            "visitantId": "inglaterra.gif",
-            "name": "Basaksehir",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localId": "suiza.gif",
-            "name": "Fiorentina",
-            "localScore": ""
-          },
-          {
-            "visitantId": "984",
-            "name": "Sivasspor",
+            "visitantId": "439",
+            "name": "S.A.T.",
             "visitantScore": ""
           }
         ]
@@ -353,61 +383,101 @@
     "competition": "RESERVA - TORNEO PROYECCION",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "09:00  ",
         "teams": [
           {
-            "localId": "20",
-            "name": "Tigre",
-            "localScore": "5"
-          },
-          {
-            "visitantId": "78",
-            "name": "Central Cba (SdE)",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "9",
-            "name": "Gimnasia (LP)",
-            "localScore": "0"
-          },
-          {
-            "visitantId": "19",
-            "name": "San Lorenzo",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "20:00  ",
-        "teams": [
-          {
-            "localId": "6",
-            "name": "Boca Juniors",
+            "localId": "13",
+            "name": "Lanus",
             "localScore": ""
           },
           {
-            "visitantId": "5",
-            "name": "Banfield",
+            "visitantId": "26",
+            "name": "Belgrano",
             "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "20:00  ",
+        "hour": "09:00  ",
         "teams": [
           {
-            "localId": "52",
-            "name": "Talleres (C)",
+            "localId": "81",
+            "name": "Sarmiento (J)",
             "localScore": ""
           },
           {
-            "visitantId": "29",
-            "name": "Def y Justicia",
+            "visitantId": "17",
+            "name": "Racing Club",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "09:00  ",
+        "teams": [
+          {
+            "localId": "11",
+            "name": "Huracan",
+            "localScore": ""
+          },
+          {
+            "visitantId": "8",
+            "name": "Estudiantes (LP)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "09:00  ",
+        "teams": [
+          {
+            "localId": "14",
+            "name": "Newells",
+            "localScore": ""
+          },
+          {
+            "visitantId": "7",
+            "name": "Colon",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "EREDIVISIE",
+    "matches": [
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localId": "1287",
+            "name": "Go Ahead",
+            "localScore": ""
+          },
+          {
+            "visitantId": "1324",
+            "name": "RKC Waalwijk",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "LIGA URUGUAY",
+    "matches": [
+      {
+        "hour": "19:30  ",
+        "teams": [
+          {
+            "localId": "1764",
+            "name": "La Luz",
+            "localScore": ""
+          },
+          {
+            "visitantId": "1036",
+            "name": "Cerro Largo",
             "visitantScore": ""
           }
         ]
@@ -418,16 +488,56 @@
     "competition": "LIGA COLOMBIA",
     "matches": [
       {
-        "hour": "22:00  ",
+        "hour": "21:40  ",
         "teams": [
           {
-            "localId": "1332",
-            "name": "A. Petrolera",
+            "localId": "760",
+            "name": "Jaguares (C)",
             "localScore": ""
           },
           {
-            "visitantId": "1030",
-            "name": "Dep. Pasto",
+            "visitantId": "1611",
+            "name": "Atl. Huila",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "LIGA CHILE",
+    "matches": [
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localId": "1705",
+            "name": "Dep. Copiapo",
+            "localScore": ""
+          },
+          {
+            "visitantId": "892",
+            "name": "La Calera",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "LIGA MEXICO",
+    "matches": [
+      {
+        "hour": "22:05  ",
+        "teams": [
+          {
+            "localId": "941",
+            "name": "Atl. San Luis",
+            "localScore": ""
+          },
+          {
+            "visitantId": "904",
+            "name": "Queretaro",
             "visitantScore": ""
           }
         ]
@@ -438,32 +548,17 @@
     "competition": "CONCACAF CHAMPIONS",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "08' ",
         "teams": [
           {
-            "localId": "canada.gif",
-            "name": "Vancouver",
-            "localScore": "5"
+            "localId": "costarica.gif",
+            "name": "Alajuelense",
+            "localScore": "0"
           },
           {
-            "visitantId": "1233",
-            "name": "Real Espa�a",
+            "visitantId": "926",
+            "name": "Los Angeles FC",
             "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "22:00  ",
-        "teams": [
-          {
-            "localId": "934",
-            "name": "Motagua",
-            "localScore": ""
-          },
-          {
-            "visitantId": "honduras.gif",
-            "name": "Pachuca",
-            "visitantScore": ""
           }
         ]
       }
