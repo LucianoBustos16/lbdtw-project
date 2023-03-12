@@ -2471,14 +2471,13 @@
       {
         "date": [
           {
-            "day": "11",
-            "month": "3",
-            "weekDay": "sábado",
-            "formattedDate": "11 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678564800000,
-        "hourMatch": "17:00",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "San-Lorenzo",
@@ -2495,19 +2494,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.webp"
           }
         ],
-        "score": "00"
+        "score": "4-0"
       },
       {
         "date": [
           {
-            "day": "11",
-            "month": "3",
-            "weekDay": "sábado",
-            "formattedDate": "11 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678572900000,
-        "hourMatch": "19:15",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Defensa-y-Justicia",
@@ -2524,7 +2522,7 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.webp"
           }
         ],
-        "score": "15"
+        "score": "1-1"
       },
       {
         "date": [
@@ -2950,6 +2948,35 @@
         "hourMatch": "16:30",
         "teams": [
           {
+            "id": "Arsenal",
+            "name": "Arsenal",
+            "shortName": "ARS",
+            "color": "#ac110b",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
+          },
+          {
+            "id": "Tigre",
+            "name": "Tigre",
+            "shortName": "TIG",
+            "color": "#18347c",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "date": [
+          {
+            "day": "19",
+            "month": "3",
+            "weekDay": "domingo",
+            "formattedDate": "19 Mar"
+          }
+        ],
+        "timestampServer": 1679254200000,
+        "hourMatch": "16:30",
+        "teams": [
+          {
             "id": "Gimnasia",
             "name": "Gimnasia (LP)",
             "shortName": "GLP",
@@ -3020,35 +3047,6 @@
             "shortName": "CARP",
             "color": "#df1e19",
             "image": "https://api.lbdtwplus.com.ar/static/logos/River.webp"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "date": [
-          {
-            "day": "20",
-            "month": "3",
-            "weekDay": "lunes",
-            "formattedDate": "20 Mar"
-          }
-        ],
-        "timestampServer": 1679347800000,
-        "hourMatch": "18:30",
-        "teams": [
-          {
-            "id": "Arsenal",
-            "name": "Arsenal",
-            "shortName": "ARS",
-            "color": "#ac110b",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
-          },
-          {
-            "id": "Tigre",
-            "name": "Tigre",
-            "shortName": "TIG",
-            "color": "#18347c",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
           }
         ],
         "score": "30"
