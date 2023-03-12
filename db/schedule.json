@@ -2527,14 +2527,13 @@
       {
         "date": [
           {
-            "day": "11",
-            "month": "3",
-            "weekDay": "domingo",
-            "formattedDate": "11 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678581000000,
-        "hourMatch": "21:30",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Belgrano",
@@ -2551,19 +2550,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.webp"
           }
         ],
-        "score": "30"
+        "score": "0-0"
       },
       {
         "date": [
           {
-            "day": "11",
-            "month": "3",
-            "weekDay": "domingo",
-            "formattedDate": "11 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678581000000,
-        "hourMatch": "21:30",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Central-Cordoba",
@@ -2580,7 +2578,7 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
           }
         ],
-        "score": "30"
+        "score": "2-0"
       },
       {
         "date": [
@@ -2828,35 +2826,6 @@
             "formattedDate": "18 Mar"
           }
         ],
-        "timestampServer": 1679167800000,
-        "hourMatch": "16:30",
-        "teams": [
-          {
-            "id": "Platense",
-            "name": "Platense",
-            "shortName": "PLA",
-            "color": "#2a1608",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
-          },
-          {
-            "id": "Defensa-y-Justicia",
-            "name": "Def y Justicia",
-            "shortName": "DYJ",
-            "color": "#ffdd02",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.webp"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "date": [
-          {
-            "day": "18",
-            "month": "3",
-            "weekDay": "sábado",
-            "formattedDate": "18 Mar"
-          }
-        ],
         "timestampServer": 1679176800000,
         "hourMatch": "19:00",
         "teams": [
@@ -2873,6 +2842,35 @@
             "shortName": "COL",
             "color": "#fa555a",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "date": [
+          {
+            "day": "18",
+            "month": "3",
+            "weekDay": "sábado",
+            "formattedDate": "18 Mar"
+          }
+        ],
+        "timestampServer": 1679176800000,
+        "hourMatch": "19:00",
+        "teams": [
+          {
+            "id": "Platense",
+            "name": "Platense",
+            "shortName": "PLA",
+            "color": "#2a1608",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
+          },
+          {
+            "id": "Defensa-y-Justicia",
+            "name": "Def y Justicia",
+            "shortName": "DYJ",
+            "color": "#ffdd02",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.webp"
           }
         ],
         "score": "00"
@@ -3056,6 +3054,35 @@
           {
             "day": "20",
             "month": "3",
+            "weekDay": "lunes",
+            "formattedDate": "20 Mar"
+          }
+        ],
+        "timestampServer": 1679347800000,
+        "hourMatch": "18:30",
+        "teams": [
+          {
+            "id": "Newells",
+            "name": "Newells",
+            "shortName": "NOB",
+            "color": "#eb1921",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
+          },
+          {
+            "id": "San-Lorenzo",
+            "name": "San Lorenzo",
+            "shortName": "SL",
+            "color": "#dd2b2f",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "date": [
+          {
+            "day": "20",
+            "month": "3",
             "weekDay": "martes",
             "formattedDate": "20 Mar"
           }
@@ -3134,35 +3161,6 @@
             "shortName": "BAN",
             "color": "#81f1a9",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.webp"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "date": [
-          {
-            "day": "21",
-            "month": "3",
-            "weekDay": "miércoles",
-            "formattedDate": "21 Mar"
-          }
-        ],
-        "timestampServer": 1679443200000,
-        "hourMatch": "21:00",
-        "teams": [
-          {
-            "id": "Newells",
-            "name": "Newells",
-            "shortName": "NOB",
-            "color": "#eb1921",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
-          },
-          {
-            "id": "San-Lorenzo",
-            "name": "San Lorenzo",
-            "shortName": "SL",
-            "color": "#dd2b2f",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.webp"
           }
         ],
         "score": "00"
