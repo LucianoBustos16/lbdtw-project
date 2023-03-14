@@ -2583,14 +2583,13 @@
       {
         "date": [
           {
-            "day": "12",
-            "month": "3",
-            "weekDay": "domingo",
-            "formattedDate": "12 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678651200000,
-        "hourMatch": "17:00",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Racing-Club",
@@ -2607,19 +2606,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.webp"
           }
         ],
-        "score": "00"
+        "score": "1-0"
       },
       {
         "date": [
           {
-            "day": "12",
-            "month": "3",
-            "weekDay": "domingo",
-            "formattedDate": "12 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678659300000,
-        "hourMatch": "19:15",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Estudiantes",
@@ -2636,19 +2634,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.webp"
           }
         ],
-        "score": "15"
+        "score": "2-1"
       },
       {
         "date": [
           {
-            "day": "12",
-            "month": "3",
-            "weekDay": "domingo",
-            "formattedDate": "12 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678659300000,
-        "hourMatch": "19:15",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "River",
@@ -2665,19 +2662,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.webp"
           }
         ],
-        "score": "15"
+        "score": "3-0"
       },
       {
         "date": [
           {
-            "day": "12",
-            "month": "3",
-            "weekDay": "lunes",
-            "formattedDate": "12 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678667400000,
-        "hourMatch": "21:30",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Banfield",
@@ -2694,19 +2690,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.webp"
           }
         ],
-        "score": "30"
+        "score": "1-0"
       },
       {
         "date": [
           {
-            "day": "12",
-            "month": "3",
-            "weekDay": "lunes",
-            "formattedDate": "12 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678667400000,
-        "hourMatch": "21:30",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Rosario-Central",
@@ -2723,19 +2718,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Union.webp"
           }
         ],
-        "score": "30"
+        "score": "1-1"
       },
       {
         "date": [
           {
-            "day": "13",
-            "month": "3",
-            "weekDay": "martes",
-            "formattedDate": "13 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678752000000,
-        "hourMatch": "21:00",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Colon",
@@ -2752,19 +2746,18 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
           }
         ],
-        "score": "00"
+        "score": "1-1"
       },
       {
         "date": [
           {
-            "day": "13",
-            "month": "3",
-            "weekDay": "martes",
-            "formattedDate": "13 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1678752000000,
-        "hourMatch": "21:00",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Velez",
@@ -2781,7 +2774,7 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
           }
         ],
-        "score": "00"
+        "score": "1-1"
       }
     ]
   },
@@ -2816,6 +2809,35 @@
           }
         ],
         "score": "00"
+      },
+      {
+        "date": [
+          {
+            "day": "18",
+            "month": "3",
+            "weekDay": "sábado",
+            "formattedDate": "18 Mar"
+          }
+        ],
+        "timestampServer": 1679167800000,
+        "hourMatch": "16:30",
+        "teams": [
+          {
+            "id": "Arsenal",
+            "name": "Arsenal",
+            "shortName": "ARS",
+            "color": "#ac110b",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
+          },
+          {
+            "id": "Tigre",
+            "name": "Tigre",
+            "shortName": "TIG",
+            "color": "#18347c",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
+          }
+        ],
+        "score": "30"
       },
       {
         "date": [
@@ -2929,35 +2951,6 @@
             "shortName": "BEL",
             "color": "#0598D1",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.webp"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "date": [
-          {
-            "day": "19",
-            "month": "3",
-            "weekDay": "domingo",
-            "formattedDate": "19 Mar"
-          }
-        ],
-        "timestampServer": 1679254200000,
-        "hourMatch": "16:30",
-        "teams": [
-          {
-            "id": "Arsenal",
-            "name": "Arsenal",
-            "shortName": "ARS",
-            "color": "#ac110b",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.webp"
-          },
-          {
-            "id": "Tigre",
-            "name": "Tigre",
-            "shortName": "TIG",
-            "color": "#18347c",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.webp"
           }
         ],
         "score": "30"
