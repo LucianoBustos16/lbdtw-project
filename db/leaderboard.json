@@ -132,24 +132,6 @@
     "matchesWon": 3,
     "matchesDrawn": 2,
     "matchesLost": 2,
-    "goalsFor": 8,
-    "goalsAgainst": 6,
-    "goalDifference": 2,
-    "team": {
-      "id": "Velez",
-      "color": "#85c7fc",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.webp"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 11,
-    "matchesPlayed": 7,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
     "goalsFor": 7,
     "goalsAgainst": 5,
     "goalDifference": 2,
@@ -159,6 +141,24 @@
       "name": "Boca Juniors",
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.webp"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 11,
+    "matchesPlayed": 7,
+    "matchesWon": 3,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 8,
+    "goalsAgainst": 7,
+    "goalDifference": 1,
+    "team": {
+      "id": "Newells",
+      "color": "#eb1921",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
     }
   },
   {
@@ -235,20 +235,20 @@
   },
   {
     "rank": 14,
-    "points": 10,
+    "points": 9,
     "matchesPlayed": 7,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
-    "goalsFor": 7,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 8,
     "goalsAgainst": 7,
-    "goalDifference": 0,
+    "goalDifference": 1,
     "team": {
-      "id": "Newells",
-      "color": "#eb1921",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.webp"
+      "id": "Velez",
+      "color": "#85c7fc",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.webp"
     }
   },
   {
@@ -397,20 +397,20 @@
   },
   {
     "rank": 23,
-    "points": 6,
+    "points": 7,
     "matchesPlayed": 7,
     "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 4,
-    "goalsAgainst": 7,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 10,
+    "goalsAgainst": 13,
     "goalDifference": -3,
     "team": {
-      "id": "Colon",
-      "color": "#fa555a",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
+      "id": "Platense",
+      "color": "#2a1608",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
     }
   },
   {
@@ -438,24 +438,6 @@
     "matchesWon": 1,
     "matchesDrawn": 3,
     "matchesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 13,
-    "goalDifference": -4,
-    "team": {
-      "id": "Platense",
-      "color": "#2a1608",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.webp"
-    }
-  },
-  {
-    "rank": 26,
-    "points": 6,
-    "matchesPlayed": 7,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
     "goalsFor": 4,
     "goalsAgainst": 9,
     "goalDifference": -5,
@@ -468,7 +450,7 @@
     }
   },
   {
-    "rank": 27,
+    "rank": 26,
     "points": 5,
     "matchesPlayed": 7,
     "matchesWon": 1,
@@ -486,7 +468,7 @@
     }
   },
   {
-    "rank": 28,
+    "rank": 27,
     "points": 5,
     "matchesPlayed": 7,
     "matchesWon": 1,
@@ -501,6 +483,24 @@
       "name": "Gimnasia (LP)",
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.webp"
+    }
+  },
+  {
+    "rank": 28,
+    "points": 4,
+    "matchesPlayed": 7,
+    "matchesWon": 0,
+    "matchesDrawn": 4,
+    "matchesLost": 3,
+    "goalsFor": 4,
+    "goalsAgainst": 8,
+    "goalDifference": -4,
+    "team": {
+      "id": "Colon",
+      "color": "#fa555a",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
     }
   }
 ]
