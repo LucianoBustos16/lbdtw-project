@@ -1,5 +1,4 @@
     import { TEAMS } from '../db/index.js'
-    import { cleanText} from './utils.js'
 
     const teamId = {
         'Lanús': 'Lanus',
@@ -28,9 +27,10 @@
         'Estudiantes La Plata': 'Estudiantes',
         'Atl.Tucumán': 'Atletico-Tucuman',
         'Central Córdoba': 'Central-Cordoba',
-        'Gimnasia La Plata': 'Gimnasia-La-Plata',
+        'Gimnasia La Plata': 'Gimnasia',
         'Colón': 'Colon',
     }
+
 
     const NEXTMATCH_SELECTORS = {
         live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
@@ -49,28 +49,37 @@
     export async function getNextMatch($) {
         const $rows = $('#mod_detail_team_matches_on .match-list-new div:nth-child(2) .panel-body .match-link a ')
     
-        const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name)
+        const getTeamFrom = ({ name }) => TEAMS.find(team => team.id === name)
     
-        const nextMatchSelectorEntries = Object.entries(NEXTMATCH_SELECTORS)
-    
-        let nextmatch = []
-        $rows.each((_, el) => {
-            const nextMatchEntries = nextMatchSelectorEntries.map(([key, {selector, typeOf}]) => {
-                const rawValue = $(el).find(selector).text()
-    
-    
-                const value = typeOf ==='number'
-                ? Number(rawValue)
-                : rawValue
-    
+        const nextMatchSelectorEntries = Object.entries(NEXTMATCH_SELECTORS)    
+            let nextmatch = []
+            $rows.each((_, el) => {
+                const nextMatchEntries = nextMatchSelectorEntries.map(([key, {selector, typeOf}]) => {
+                    const rawValue = $(el).find(selector).text()
+        
+        
+                    const value = typeOf ==='number'
+                    ? Number(rawValue)
+                    : rawValue
+        
+                
+                    return [key, value]
+                })
             
-                return [key, value]
-            })
-    
-            const { teamLocal: localTeamId, teamVisitant: visitantTeamName, date, hour, ...nextMatchForTeams } = Object.fromEntries(nextMatchEntries)
-            const localTeam = getTeamFrom({ name: teamId[localTeamId] })
-            const visitantTeam = getTeamFrom({ name: teamId[visitantTeamName] })
+                        
+            const { 
+                teamLocal: localTeamName,
+                teamVisitant: visitantTeamName,
+                date, hour,
+                ...nextMatchForTeams
+            } = Object.fromEntries(nextMatchEntries)
 
+            
+            const localTeamNameFormatted = teamId[localTeamName] ? teamId[localTeamName] : localTeamName.replace(' ', '-')
+            const localTeam = getTeamFrom({ name: localTeamNameFormatted })
+
+            const visitantTeamIdFormatted = teamId[visitantTeamName] ? teamId[visitantTeamName] : visitantTeamName.replace(' ', '-')
+            const visitantTeam = getTeamFrom({ name: visitantTeamIdFormatted })
 
             const matchDate = new Date(`${date} ${hour} GMT+1`)
             const timestamp = Date.parse(matchDate)
@@ -85,12 +94,6 @@
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
 
-            // console.log("-----------------------")
-            // console.log(`Hora original (matchDate): ${matchDate}`)
-            // console.log(`timestamp: ${timestamp}`)
-            // console.log(`horario: ${horario}`)
-            // console.log(`hourAr: ${hourAr}`)
-            // console.log(`hourMatch: ${hourMatch}`)
 
             const day = horario.getDate()
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
