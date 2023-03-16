@@ -1,57 +1,517 @@
 [
   {
-    "competition": "CHAMPIONS LEAGUE",
+    "competition": "COPA LIBERTADORES",
     "matches": [
       {
-        "hour": "Ida: RB Leipzig 1 - 1 Manchester City",
+        "hour": "Ida: Fortaleza 0 - 1 Cerro Porte�o",
         "teams": [
           {
-            "localId": "inglaterra.gif",
-            "name": "Manchester City",
-            "localScore": "7"
+            "localId": "paraguay.gif",
+            "name": "Cerro Porte�o",
+            "localScore": ""
           },
           {
-            "visitantId": "691",
-            "name": "RB Leipzig",
-            "visitantScore": "0"
+            "visitantId": "863",
+            "name": "Fortaleza",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localId": "535",
-            "name": "Porto",
-            "localScore": "0"
+            "localId": "718",
+            "name": "Sp. Cristal",
+            "localScore": ""
           },
           {
-            "visitantId": "alemania.gif",
-            "name": "Inter",
-            "visitantScore": "0"
+            "visitantId": "brasil.gif",
+            "name": "Huracan",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Ida: Inter 1 - 0 Porto",
+        "hour": "Ida: Huracan 0 - 0 Sp. Cristal",
         "teams": [
           {
-            "localId": "portugal.gif",
+            "localId": "peru.gif",
             "name": "",
             "localScore": ""
           },
           {
-            "visitantId": "556",
+            "visitantId": "11",
             "name": "",
             "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localId": "664",
+            "localId": "766",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "argentina.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "EUROPA LEAGUE",
+    "matches": [
+      {
+        "hour": "Ida: Juventus 1 - 0 Friburgo",
+        "teams": [
+          {
+            "localId": "alemania.gif",
+            "name": "Friburgo",
+            "localScore": ""
+          },
+          {
+            "visitantId": "557",
+            "name": "Juventus",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "608",
+            "name": "Betis",
+            "localScore": ""
+          },
+          {
+            "visitantId": "italia.gif",
+            "name": "Manchester United",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Manchester United 4 - 1 Betis",
+        "teams": [
+          {
+            "localId": "espana.gif",
+            "name": "Fenerbahce",
+            "localScore": ""
+          },
+          {
+            "visitantId": "536",
+            "name": "Sevilla",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "517",
+            "name": "Feyenoord",
+            "localScore": ""
+          },
+          {
+            "visitantId": "inglaterra.gif",
+            "name": "Shakhtar",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Sevilla 2 - 0 Fenerbahce",
+        "teams": [
+          {
+            "localId": "turquia.gif",
+            "name": "Union SG",
+            "localScore": ""
+          },
+          {
+            "visitantId": "525",
+            "name": "Union Berlin",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "821",
+            "name": "Ferencvarosi",
+            "localScore": ""
+          },
+          {
+            "visitantId": "espana.gif",
+            "name": "B. Leverkusen",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Shakhtar 1 - 1 Feyenoord",
+        "teams": [
+          {
+            "localId": "paisesbajos.gif",
+            "name": "Real Sociedad",
+            "localScore": ""
+          },
+          {
+            "visitantId": "663",
+            "name": "Roma",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "978",
+            "name": "Arsenal FC",
+            "localScore": ""
+          },
+          {
+            "visitantId": "ucrania.gif",
+            "name": "Sporting Lisboa",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Union Berlin 3 - 3 Union SG",
+        "teams": [
+          {
+            "localId": "belgica.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "943",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "1746",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "alemania.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: B. Leverkusen 2 - 0 Ferencvarosi",
+        "teams": [
+          {
+            "localId": "hungria.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "605",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "979",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "alemania.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Roma 2 - 0 Real Sociedad",
+        "teams": [
+          {
+            "localId": "espana.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "564",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "522",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "italia.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Sporting Lisboa 2 - 2 Arsenal FC",
+        "teams": [
+          {
+            "localId": "inglaterra.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "706",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "529",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "portugal.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "CONFERENCE LEAGUE",
+    "matches": [
+      {
+        "hour": "Ida: Basel 2 - 2 Bratislava",
+        "teams": [
+          {
+            "localId": "eslovaquia.gif",
+            "name": "Bratislava",
+            "localScore": ""
+          },
+          {
+            "visitantId": "661",
+            "name": "Basel",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "984",
+            "name": "Djurgardens",
+            "localScore": ""
+          },
+          {
+            "visitantId": "suiza.gif",
+            "name": "Lech Poznan",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Lech Poznan 2 - 0 Djurgardens",
+        "teams": [
+          {
+            "localId": "suecia.gif",
+            "name": "Sivasspor",
+            "localScore": ""
+          },
+          {
+            "visitantId": "1557",
+            "name": "Fiorentina",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "1754",
+            "name": "Niza",
+            "localScore": ""
+          },
+          {
+            "visitantId": "polonia.gif",
+            "name": "FC Sheriff",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Fiorentina 1 - 0 Sivasspor",
+        "teams": [
+          {
+            "localId": "turquia.gif",
+            "name": "Villarreal",
+            "localScore": ""
+          },
+          {
+            "visitantId": "554",
+            "name": "Anderlecht",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:45  ",
+        "teams": [
+          {
+            "localId": "1558",
+            "name": "West Ham",
+            "localScore": ""
+          },
+          {
+            "visitantId": "italia.gif",
+            "name": "AEK Larnaca",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: FC Sheriff 0 - 1 Niza",
+        "teams": [
+          {
+            "localId": "francia.gif",
+            "name": "AZ Alkmaar",
+            "localScore": ""
+          },
+          {
+            "visitantId": "1634",
+            "name": "Lazio",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "651",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "moldavia.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Anderlecht 1 - 1 Villarreal",
+        "teams": [
+          {
+            "localId": "espana.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "578",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "624",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "belgica.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: AEK Larnaca 0 - 2 West Ham",
+        "teams": [
+          {
+            "localId": "inglaterra.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "834",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "547",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "chipre.gif",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Lazio 1 - 2 AZ Alkmaar",
+        "teams": [
+          {
+            "localId": "paisesbajos.gif",
+            "name": "",
+            "localScore": ""
+          },
+          {
+            "visitantId": "558",
+            "name": "",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localId": "985",
             "name": "",
             "localScore": ""
           },
@@ -65,95 +525,80 @@
     ]
   },
   {
-    "competition": "B METRO",
+    "competition": "RESERVA - TORNEO PROYECCION",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "09:00  ",
         "teams": [
           {
-            "localId": "61",
-            "name": "Talleres (RdE)",
-            "localScore": "1"
+            "localId": "5",
+            "name": "Banfield",
+            "localScore": ""
           },
           {
-            "visitantId": "101",
-            "name": "San Miguel",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "FEMENINO",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "64",
-            "name": "Estudiantes (BA)",
-            "localScore": "0"
-          },
-          {
-            "visitantId": "30",
-            "name": "Ferro",
-            "visitantScore": "3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "LIGA COLOMBIA",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "875",
-            "name": "Dep. Tolima",
-            "localScore": "1"
-          },
-          {
-            "visitantId": "881",
-            "name": "La Equidad",
-            "visitantScore": "0"
+            "visitantId": "52",
+            "name": "Talleres (C)",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "78' ",
+        "hour": "09:00  ",
         "teams": [
           {
-            "localId": "735",
-            "name": "Ind. Santa Fe",
-            "localScore": "2"
+            "localId": "82",
+            "name": "Barracas Central",
+            "localScore": ""
           },
           {
-            "visitantId": "758",
-            "name": "America Cali",
-            "visitantScore": "0"
+            "visitantId": "25",
+            "name": "Atl Tucuman",
+            "visitantScore": ""
           }
         ]
-      }
-    ]
-  },
-  {
-    "competition": "LIGA PARAGUAY",
-    "matches": [
+      },
       {
-        "hour": "Final",
+        "hour": "09:00  ",
         "teams": [
           {
-            "localId": "736",
-            "name": "Guarani (P)",
-            "localScore": "1"
+            "localId": "8",
+            "name": "Estudiantes (LP)",
+            "localScore": ""
           },
           {
-            "visitantId": "1701",
-            "name": "Tacuary",
-            "visitantScore": "0"
+            "visitantId": "9",
+            "name": "Gimnasia (LP)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "09:00  ",
+        "teams": [
+          {
+            "localId": "20",
+            "name": "Tigre",
+            "localScore": ""
+          },
+          {
+            "visitantId": "4",
+            "name": "Arsenal",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localId": "18",
+            "name": "River Plate",
+            "localScore": ""
+          },
+          {
+            "visitantId": "81",
+            "name": "Sarmiento (J)",
+            "visitantScore": ""
           }
         ]
       }
@@ -163,67 +608,37 @@
     "competition": "CONCACAF CHAMPIONS",
     "matches": [
       {
-        "hour": "Ida: Violette 3 - 0 Austin FC",
+        "hour": "Ida: Tauro 0 - 1 Leon FC",
         "teams": [
           {
-            "localId": "usa.gif",
-            "name": "Austin FC",
-            "localScore": "2"
-          },
-          {
-            "visitantId": "1065",
-            "name": "Violette",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "1605",
-            "name": "Philadelphia",
-            "localScore": "4"
-          },
-          {
-            "visitantId": "haiti.gif",
-            "name": "Alianza (ES)",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Ida: Alianza (ES) 0 - 0 Philadelphia",
-        "teams": [
-          {
-            "localId": "usa.gif",
-            "name": "Atlas (G)",
-            "localScore": "0"
-          },
-          {
-            "visitantId": "1052",
-            "name": "Olimpia (H)",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localId": "921",
-            "name": "",
+            "localId": "mexico.gif",
+            "name": "Leon FC",
             "localScore": ""
           },
           {
-            "visitantId": "elsalvador.gif",
-            "name": "",
+            "visitantId": "1804",
+            "name": "Tauro",
             "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Ida: Olimpia (H) 4 - 1 Atlas (G)",
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localId": "897",
+            "name": "Pachuca",
+            "localScore": ""
+          },
+          {
+            "visitantId": "panama.gif",
+            "name": "Motagua",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: Motagua 0 - 0 Pachuca",
         "teams": [
           {
             "localId": "mexico.gif",
@@ -231,17 +646,17 @@
             "localScore": ""
           },
           {
-            "visitantId": "1053",
+            "visitantId": "1239",
             "name": "",
             "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "37' ",
+        "hour": "23:15  ",
         "teams": [
           {
-            "localId": "895",
+            "localId": "902",
             "name": "",
             "localScore": ""
           },
