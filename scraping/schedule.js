@@ -97,12 +97,12 @@ export async function getSchedule($) {
                 weekday: 'long',
               }
 
-
             const hourAr = horario.toLocaleString("es-AR", optionsHours)
             const [fecha, horaCompleta] = hourAr.split(" ");
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
-			
+
+		
 			const weekDay = horario.toLocaleDateString("es-AR", optionsDay)
 			const [day, month] = fecha.split("/")
 
