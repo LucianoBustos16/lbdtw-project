@@ -2784,14 +2784,13 @@
       {
         "date": [
           {
-            "day": "17",
-            "month": "3",
-            "weekDay": "sábado",
-            "formattedDate": "17 Mar"
+            "day": "Invalid",
+            "weekDay": "Invalid Date",
+            "formattedDate": "Invalid undefined"
           }
         ],
-        "timestampServer": 1679097600000,
-        "hourMatch": "21:00",
+        "timestampServer": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Union",
@@ -2808,7 +2807,7 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.webp"
           }
         ],
-        "score": "00"
+        "score": "1-3"
       },
       {
         "date": [
@@ -3045,6 +3044,35 @@
       {
         "date": [
           {
+            "day": "19",
+            "month": "3",
+            "weekDay": "lunes",
+            "formattedDate": "19 Mar"
+          }
+        ],
+        "timestampServer": 1679272200000,
+        "hourMatch": "21:30",
+        "teams": [
+          {
+            "id": "Talleres",
+            "name": "Talleres (C)",
+            "shortName": "CAT",
+            "color": "#2957bf",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.webp"
+          },
+          {
+            "id": "Banfield",
+            "name": "Banfield",
+            "shortName": "BAN",
+            "color": "#81f1a9",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.webp"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "date": [
+          {
             "day": "20",
             "month": "3",
             "weekDay": "lunes",
@@ -3125,35 +3153,6 @@
             "shortName": "ARGJ",
             "color": "#e8272b",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.webp"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "date": [
-          {
-            "day": "20",
-            "month": "3",
-            "weekDay": "martes",
-            "formattedDate": "20 Mar"
-          }
-        ],
-        "timestampServer": 1679356800000,
-        "hourMatch": "21:00",
-        "teams": [
-          {
-            "id": "Talleres",
-            "name": "Talleres (C)",
-            "shortName": "CAT",
-            "color": "#2957bf",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.webp"
-          },
-          {
-            "id": "Banfield",
-            "name": "Banfield",
-            "shortName": "BAN",
-            "color": "#81f1a9",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.webp"
           }
         ],
         "score": "00"
