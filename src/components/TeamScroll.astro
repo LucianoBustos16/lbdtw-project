@@ -11,13 +11,14 @@ const teams = await getAllTemas();
         <div class="swiper w-full h-full flex gap-2 snap-mandatory scroll-m-4">
 
             { teams.map((team) => {
-                const {image, id} = team
+                const {image, id, name} = team
                 return(
                 <a href={`/equipos/${id}`}>
                     <div class="swiper-wrapper snap-start">
                     
-                        <div class="bg-white w-16 p-2 rounded-lg shadow-md">
-                            <img src={image} alt="">
+                        <div class="bg-white w-16 h-16 p-2 rounded-lg shadow-md">
+                            <img src={image}
+                            alt=`escudo de ${name}`>
                         </div>
                         </div>
                     </a>
