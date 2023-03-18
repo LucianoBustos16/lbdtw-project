@@ -240,6 +240,24 @@
     "matchesWon": 2,
     "matchesDrawn": 4,
     "matchesLost": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 8,
+    "goalDifference": -1,
+    "team": {
+      "id": "Independiente",
+      "color": "#de0019",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.webp"
+    }
+  },
+  {
+    "rank": 15,
+    "points": 10,
+    "matchesPlayed": 8,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
     "goalsFor": 11,
     "goalsAgainst": 13,
     "goalDifference": -2,
@@ -252,7 +270,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 9,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -270,7 +288,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 9,
     "matchesPlayed": 7,
     "matchesWon": 3,
@@ -288,7 +306,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 8,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -306,7 +324,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 19,
     "points": 8,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -321,24 +339,6 @@
       "name": "Barracas Central",
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.webp"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 8,
-    "matchesPlayed": 8,
-    "matchesWon": 1,
-    "matchesDrawn": 5,
-    "matchesLost": 2,
-    "goalsFor": 6,
-    "goalsAgainst": 8,
-    "goalDifference": -2,
-    "team": {
-      "id": "Independiente",
-      "color": "#de0019",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.webp"
     }
   },
   {
@@ -470,24 +470,6 @@
   {
     "rank": 27,
     "points": 5,
-    "matchesPlayed": 8,
-    "matchesWon": 0,
-    "matchesDrawn": 5,
-    "matchesLost": 3,
-    "goalsFor": 5,
-    "goalsAgainst": 9,
-    "goalDifference": -4,
-    "team": {
-      "id": "Colon",
-      "color": "#fa555a",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
-    }
-  },
-  {
-    "rank": 28,
-    "points": 5,
     "matchesPlayed": 7,
     "matchesWon": 1,
     "matchesDrawn": 2,
@@ -501,6 +483,24 @@
       "name": "Gimnasia (LP)",
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.webp"
+    }
+  },
+  {
+    "rank": 28,
+    "points": 4,
+    "matchesPlayed": 8,
+    "matchesWon": 0,
+    "matchesDrawn": 4,
+    "matchesLost": 4,
+    "goalsFor": 5,
+    "goalsAgainst": 10,
+    "goalDifference": -5,
+    "team": {
+      "id": "Colon",
+      "color": "#fa555a",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.webp"
     }
   }
 ]
