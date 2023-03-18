@@ -102,8 +102,12 @@ export async function getSchedule($) {
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
 
-		
-			const weekDay = horario.toLocaleDateString("es-AR", optionsDay)
+			const hourArgTimeStamp = horario.getTime() - (3 * 60 * 60 * 1000); // Restamos 3 horas para ajustar a GMT+3
+			const dateArg = new Date(hourArgTimeStamp);
+
+
+			const weekDay = dateArg.toLocaleDateString("es-AR", optionsDay)
+
 			const [day, month] = fecha.split("/")
 
 			const months = ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic']
