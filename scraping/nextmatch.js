@@ -85,22 +85,24 @@
             const timestamp = Date.parse(matchDate)
 
             const horario = new Date(timestamp);
-            const options = {
+            const optionsHours = {
                 timeZone: "America/Argentina/Buenos_Aires",
                 hour12: false, // Opcional, para mostrar la hora en formato de 24 horas
               }
-            const hourAr = horario.toLocaleString("es-AR", options)
+
+            const hourAr = horario.toLocaleString("es-AR", optionsHours)
             const [fecha, horaCompleta] = hourAr.split(" ");
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
 
 
-            const day = horario.getDate()
+            const day = fecha.split("/")
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const month = months[horario.getMonth()]
 
 			const formattedDate = day + ' ' + month
 
+            // hourUpgrade: Esta fecha la voy a utilizar para saber la hora del scrapeo.
             const upgrade = new Date();
             const currentUTCHour = upgrade.getUTCHours(); // obtener la hora actual en UTC
             const currentUTCMinute = upgrade.getUTCMinutes(); // obtener los minutos actuales en UTC
