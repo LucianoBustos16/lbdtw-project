@@ -27,7 +27,7 @@ const schedule = await getAllMatch()
 											local={match.teams[0]}
 											visitant={match.teams[1]}
 											score={match.score}
-											date={match.date}
+											date={match.formattedDate}
 											hour={match.hour}
 											hourMatch={match.hourMatch}
 											
@@ -42,3 +42,5 @@ const schedule = await getAllMatch()
 
 	</Container>
 </Layout>
+
+

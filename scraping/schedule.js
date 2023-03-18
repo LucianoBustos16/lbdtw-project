@@ -124,13 +124,8 @@ export async function getSchedule($) {
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
 			matches.push({
-				date: [{
-						day: day,
-						month: month,
-						weekDay: weekDay,
-						formattedDate: formattedDate,
-					}],
-				timestampServer: timestamp,
+				formattedDate: formattedDate,
+				timestamp: timestamp,
 				hourMatch: hourMatch === 'NaN:aN' ? score : hourMatch,
 				teams: [
 					{
