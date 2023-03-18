@@ -96,11 +96,13 @@
             const hourMatch = (`${hora}:${minutos}`)
 
 
-            const day = fecha.split("/")
+            const [day, month] = fecha.split("/")
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
-			const month = months[horario.getMonth()]
+			const monthServer = months[horario.getMonth()]
 
-			const formattedDate = day + ' ' + month
+			const formattedDate = day + ' ' + monthServer
+
+          
 
             // hourUpgrade: Esta fecha la voy a utilizar para saber la hora del scrapeo.
             const upgrade = new Date();
