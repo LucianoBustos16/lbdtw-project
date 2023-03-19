@@ -1,0 +1,35 @@
+---
+import { getAllMatch } from '@services/scheduleTeam.js'
+import ScheduleRow from '@components/ScheduleRow.astro'
+
+const schedule = await getAllMatch()
+
+---
+  {
+    schedule
+    .filter(fecha => fecha.matches.some(match => !match.score.includes('-')))
+    .slice(0, 1)
+    .map((fecha) => {
+      return (
+        <section>
+          <h2 class='font-bold text-xl my-8'>Fecha {fecha.fecha}</h2>
+          <section class="grid grid-cols-1 md:grid-cols-3 gap-6 ">
+
+              {fecha.matches.map((match) => (
+                
+                <ScheduleRow
+                  local={match.teams[0]}
+                  visitant={match.teams[1]}
+                  score={match.score}
+                  date={match.formattedDate}
+                  hour={match.hour}
+                  hourMatch={match.hourMatch}
+                  
+                />
+              ))}
+
+          </section>
+        </section>
+      )
+    })
+  }
