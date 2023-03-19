@@ -5,6 +5,7 @@ import nextmatch from '../db/nextmatch.json'
 import schedule from '../db/schedule.json'
 import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
+import leagues from '../db/leagues.json'
 
 
 const app = new Hono()
