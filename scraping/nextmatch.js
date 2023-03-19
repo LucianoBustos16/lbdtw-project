@@ -38,8 +38,8 @@
         teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
         teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
         marker: {selector: '.marker .time', typeOf: 'string'},
-        goalsLocal: {selector: '.marker .green .r1', typeOf: 'number'},
-        goalsVisitant: {selector: '.marker .green .r2', typeOf: 'number'},
+        goalsLocal: {selector: '.marker .r1', typeOf: 'number'},
+        goalsVisitant: {selector: '.marker .r2', typeOf: 'number'},
         date: {selector: '.date', typeOf: 'string'},
         hour: {selector: '.match_hour', typeOf: 'string'},
     }
