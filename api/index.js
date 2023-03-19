@@ -35,6 +35,10 @@ app.get('/', (ctx) =>
 			description: 'Returns all LPF  teams',
 		},
 		{
+			endpoint: '/leagues',
+			description: 'Returns all leagues',
+		},
+		{
 			endpoint: '/matchstoday',
 			description: 'Returns match today',
 		},
@@ -63,7 +67,9 @@ app.get('/schedule' , (ctx) => {
 app.get('/teams' , (ctx) => {
 	return ctx.json(teams)
 })
-
+app.get('/leagues' , (ctx) => {
+	return ctx.json(leagues)
+})
 app.get('/matchstoday' , (ctx) => {
 	return ctx.json(matchstoday)
 })
