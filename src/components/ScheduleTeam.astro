@@ -1,6 +1,4 @@
 ---
-import SectionTitle from '@components/SectionTitle.astro'
-import Container from '@components/Container.astro'
 import { getAllMatch } from '@services/scheduleTeam.js'
 import ScheduleRow from '@components/ScheduleRow.astro'
 
@@ -28,7 +26,7 @@ const { teamId } = Astro.props
 											date={match.date}
 											hourMatch={match.hourMatch}
 											round= {day.fecha}
-											/>
+										/>
 											
 									))}
 								</tbody>
