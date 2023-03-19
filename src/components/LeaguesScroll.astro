@@ -11,13 +11,13 @@ const leagues = await getAllLeagues();
         <div class="swiper w-full h-full flex gap-2 snap-mandatory scroll-m-4">
 
             { leagues.map((league) => {
-                const {logo, shortName} = league
+                const {logo, shortName, name} = league
                 return(
                 <a href={`/leagues/${shortName}`}>
                     <div class="swiper-wrapper snap-start">
                     
                         <div class="bg-white w-16 h-16 p-2 rounded-lg shadow-md">
-                            <img src={logo}>
+                            <img src={logo} alt={`Escudo de la ${name}`}>
                         </div>
                         </div>
                     </a>
