@@ -6,9 +6,9 @@
     "matchesWon": 6,
     "matchesDrawn": 0,
     "matchesLost": 2,
-    "goalsFor": 13,
+    "goalsFor": 14,
     "goalsAgainst": 5,
-    "goalDifference": 8,
+    "goalDifference": 9,
     "team": {
       "id": "River",
       "color": "#df1e19",
@@ -42,24 +42,6 @@
     "matchesWon": 4,
     "matchesDrawn": 2,
     "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 7,
-    "goalDifference": 5,
-    "team": {
-      "id": "Talleres",
-      "color": "#2957bf",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 14,
-    "matchesPlayed": 8,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
     "goalsFor": 11,
     "goalsAgainst": 6,
     "goalDifference": 5,
@@ -74,7 +56,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 4,
     "points": 14,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -89,6 +71,24 @@
       "name": "Racing Club",
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 13,
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 12,
+    "goalsAgainst": 8,
+    "goalDifference": 4,
+    "team": {
+      "id": "Talleres",
+      "color": "#2957bf",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg"
     }
   },
   {
@@ -317,14 +317,34 @@
   },
   {
     "rank": 18,
+    "points": 9,
+    "matchesPlayed": 8,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 3,
+    "goalsFor": 4,
+    "goalsAgainst": 6,
+    "goalDifference": -2,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg"
+    }
+  },
+  {
+    "rank": 19,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
     "matchesDrawn": 2,
     "matchesLost": 4,
     "goalsFor": 10,
-    "goalsAgainst": 10,
-    "goalDifference": 0,
+    "goalsAgainst": 11,
+    "goalDifference": -1,
     "team": {
       "id": "Sarmiento",
       "color": "#06a43f",
@@ -334,7 +354,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 20,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 1,
@@ -352,7 +372,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 21,
     "points": 8,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -372,7 +392,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 22,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -390,7 +410,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 23,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -410,7 +430,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 24,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -430,7 +450,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 25,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -450,7 +470,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 26,
     "points": 7,
     "matchesPlayed": 8,
     "matchesWon": 1,
@@ -465,26 +485,6 @@
       "name": "Union",
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg"
-    }
-  },
-  {
-    "rank": 26,
-    "points": 7,
-    "matchesPlayed": 8,
-    "matchesWon": 1,
-    "matchesDrawn": 4,
-    "matchesLost": 3,
-    "goalsFor": 3,
-    "goalsAgainst": 6,
-    "goalDifference": -3,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg"
     }
   },
   {
