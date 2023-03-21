@@ -80,6 +80,24 @@
     "matchesWon": 4,
     "matchesDrawn": 2,
     "matchesLost": 2,
+    "goalsFor": 10,
+    "goalsAgainst": 6,
+    "goalDifference": 4,
+    "team": {
+      "id": "Lanus",
+      "color": "#6f1c28",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 14,
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
     "goalsFor": 9,
     "goalsAgainst": 7,
     "goalDifference": 2,
@@ -92,7 +110,25 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
+    "points": 14,
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 10,
+    "goalsAgainst": 11,
+    "goalDifference": -1,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#ffc40c",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg"
+    }
+  },
+  {
+    "rank": 8,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -110,25 +146,7 @@
     }
   },
   {
-    "rank": 7,
-    "points": 13,
-    "matchesPlayed": 7,
-    "matchesWon": 4,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 10,
-    "goalsAgainst": 6,
-    "goalDifference": 4,
-    "team": {
-      "id": "Lanus",
-      "color": "#6f1c28",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg"
-    }
-  },
-  {
-    "rank": 8,
+    "rank": 9,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -146,15 +164,15 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 12,
-    "matchesPlayed": 7,
+    "matchesPlayed": 8,
     "matchesWon": 3,
     "matchesDrawn": 3,
-    "matchesLost": 1,
+    "matchesLost": 2,
     "goalsFor": 12,
-    "goalsAgainst": 8,
-    "goalDifference": 4,
+    "goalsAgainst": 10,
+    "goalDifference": 2,
     "team": {
       "id": "Huracan",
       "color": "#ae0407",
@@ -164,7 +182,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 12,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -182,7 +200,27 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
+    "points": 11,
+    "matchesPlayed": 8,
+    "matchesWon": 3,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 5,
+    "goalDifference": 2,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg"
+    }
+  },
+  {
+    "rank": 13,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -202,25 +240,7 @@
     }
   },
   {
-    "rank": 12,
-    "points": 11,
-    "matchesPlayed": 7,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 8,
-    "goalsAgainst": 11,
-    "goalDifference": -3,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#ffc40c",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg"
-    }
-  },
-  {
-    "rank": 13,
+    "rank": 14,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -237,26 +257,6 @@
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 10,
-    "matchesPlayed": 7,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 5,
-    "goalDifference": 2,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg"
     }
   },
   {
