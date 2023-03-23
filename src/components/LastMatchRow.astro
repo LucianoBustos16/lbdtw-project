@@ -16,7 +16,7 @@ const { local, visitant, date, hour, score, round } = Astro.props
 					
 				<img
 						class="h-16 object-contain my-2"
-						src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.webp`}
+						src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.svg`}
 						alt={`Escudo del equipo ${local.name}`}
 					/>	
 				</a>
@@ -24,7 +24,7 @@ const { local, visitant, date, hour, score, round } = Astro.props
 				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-105">					
 					<img
 				class='h-16 object-contain'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.webp`}
+				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.svg`}
 				alt={`Escudo del equipo ${visitant.name}`}
 				/>
 					
