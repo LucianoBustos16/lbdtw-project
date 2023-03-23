@@ -52,7 +52,7 @@ const leaderboard = await response.json();
                         href={`/equipos/${team.id}`}
                         class="flex gap-1 items-center group transition-all hover:scale-105"
                     >
-                    <img src={team.image} alt="Escudo de ${team.name}" class=" w-6" width="24" height="24">
+                    <img src={team.image} alt={`Escudo de ${team.name}`} class=" w-6" width="24" height="24">
                     <div class="font-normal hidden md:block">{team.name}</div>
                     <div class="font-normal md:hidden">{team.shortName}</div>
                     </a>
