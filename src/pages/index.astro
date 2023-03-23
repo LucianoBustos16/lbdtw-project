@@ -2,10 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 import Container from '../components/Container.astro';
 import Table from '@components/Table.astro';
-import Nextmatch from '@components/Nextmatch.astro';
 import TeamScroll from '@components/TeamScroll.astro';
 import MatchsToday from '@components/MatchsToday.astro';
 import LeaguesScroll from '@components/LeaguesScroll.astro';
+import NextMatchTeam from '@components/NextMatchTeam.astro';
+
+
 ---
 
 <Layout title="">
@@ -21,7 +23,7 @@ import LeaguesScroll from '@components/LeaguesScroll.astro';
 
 				
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
-					<Nextmatch></Nextmatch>					
+					<NextMatchTeam teamId={"Belgrano"}></NextMatchTeam>  			
 				</div>
 
 				

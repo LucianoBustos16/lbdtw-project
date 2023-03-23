@@ -20,7 +20,7 @@ export async function getMatchsToday($) {
 	const $days = $(SELECTORS.matchs)
 
 	const getTeamIdFromImageUrl = (url) => {
-		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg)/, '')
+		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg|gif)/, '')
 	}
 
 	$days.each((_, day) => {

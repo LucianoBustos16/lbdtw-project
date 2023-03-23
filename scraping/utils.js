@@ -13,10 +13,10 @@ export const SCRAPINGS = {
         scraper: getLeaderBoard,
     },
 
-    nextmatch: {
-        url: 'https://es.besoccer.com/equipo/partidos/belgrano',
-        scraper: getNextMatch,
-    },
+    // nextmatch: {
+    //     url: 'https://es.besoccer.com/equipo/belgrano',
+    //     scraper: getNextMatch,
+    // },
     schedule: {
         url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
         scraper: getSchedule,
