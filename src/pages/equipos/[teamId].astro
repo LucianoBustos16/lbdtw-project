@@ -1,10 +1,6 @@
 ---
-import Container from "@components/Container.astro"
-import LastMatchTeam from "@components/LastMatchTeam.astro"
 import NextMatchTeam from "@components/NextMatchTeam.astro"
-import ScheduleTeam from "@components/ScheduleTeam.astro"
 import TabsTeams from "@components/TabsTeams.astro"
-import TeamStats from "@components/TeamStats.astro"
 import Layout from "@layouts/Layout.astro"
 
 export async function getStaticPaths() {
@@ -21,7 +17,6 @@ const {
     id,
     name,
     imageWhite,
-    shortName,
     color,
 }
     = Astro.props
@@ -40,21 +35,4 @@ const {
     
     <TabsTeams teamId={id}/>
     
-
-
-    <!-- <Container>
-
-        <div class="grid gap-4 grid-cols-2">   
-            <LastMatchTeam teamId={id}></LastMatchTeam>
-            <LastMatchTeam teamId={id}></LastMatchTeam>
-        </div>
-
-        <TeamStats teamId={id} />
-
-        <ScheduleTeam teamId={id}></ScheduleTeam>
-
-    </Container> -->
-
-
-
 </Layout>
