@@ -14,14 +14,14 @@ const LEADERBOARD_SELECTORS = {
 
 }
 
-export async function getLeaderBoard ($) {
+export async function getLeaderBoardLPF ($) {
     const $rows = $('table.tablesorter1 tbody tr')
 
     const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name) 
 
     const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS)
 
-    let leaderboard = []
+    let leaderboardLPF = []
     $rows.each((index, el) => {
         const leaderBoardEntries = leaderBoardSelectorEntries.map(([key, { selector, typeOf }]) => {
           const rawValue = $(el).find(selector).text()
@@ -39,7 +39,7 @@ export async function getLeaderBoard ($) {
         const team = getTeamFrom ({ name: teamName })
         
 
-        leaderboard.push(
+        leaderboardLPF.push(
           {
           rank: index + 1,
             ...leaderBoardForTeam,
@@ -51,6 +51,6 @@ export async function getLeaderBoard ($) {
         const league = "LPF"
         return {
           league,
-          leaderboard
+          leaderboardLPF
         }
     }

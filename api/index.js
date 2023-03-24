@@ -46,8 +46,8 @@ app.get('/', (ctx) =>
 	]))
 
 
-app.get('/leaderboard' , (ctx) => {
-	return ctx.json(leaderboard)
+app.get('/leaderboardLPF' , (ctx) => {
+	return ctx.json(leaderboardLPF)
 })
 
 app.get('/leaderboard/:teamId', (ctx) => {

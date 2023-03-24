@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio'
-import { getLeaderBoard } from './leaderboardLPF.js'
+import { getLeaderBoardLPF } from './leaderboardLPF.js'
 import { getNextMatch } from './nextmatch.js'
 import { getSchedule } from './schedule.js'
 import { getMatchsToday } from './matchstoday.js'
@@ -10,8 +10,12 @@ import { writeDBFile } from '../db/index.js'
 export const SCRAPINGS = {
     leaderboardLPF: {
         url: 'https://www.promiedos.com.ar/primera',
-        scraper: getLeaderBoard,
+        scraper: getLeaderBoardLPF,
     },
+  //   leaderboardLPF: {
+  //     url: 'https://www.promiedos.com.ar/primera',
+  //     scraper: getLeaderBoard,
+  // },
 
     // nextmatch: {
     //     url: 'https://es.besoccer.com/equipo/belgrano',
