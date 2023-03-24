@@ -4,7 +4,8 @@ import TeamScroll from "@components/TeamScroll.astro"
 import Table from "@components/Table.astro"
 import ScheduleToday from "./ScheduleToday.astro";
 
-const { color } = Astro.props
+const { color,
+  shortName } = Astro.props
 
 ---
 
@@ -18,7 +19,7 @@ const { color } = Astro.props
   <!-- Tab content -->
   <div id="General" class="tabcontent">
 
-      <TeamScroll/>
+      <TeamScroll shortName={shortName}/>
       <ScheduleToday/>
 
   </div>

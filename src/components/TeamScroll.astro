@@ -3,6 +3,11 @@ import { getAllTemas } from "@services/teams.js";
 
 const teams = await getAllTemas();
 
+const {
+    shortName,
+
+}
+    = Astro.props
 ---
 <div class='flex col-span-4 md:hidden flex-col'>
     <h4 class="font-bold">Equipos</h4>
@@ -10,7 +15,9 @@ const teams = await getAllTemas();
     <div class="overflow-scroll p-4 scrollbar-hide">
         <div class="swiper w-full h-full flex gap-2 snap-mandatory scroll-m-4">
 
-            { teams.map((team) => {
+            { teams
+            .filter(team => team.league === `${shortName}`)
+            .map((team) => {
                 const {image, id, name} = team
                 return(
                 <a href={`/equipos/${id}`}>
