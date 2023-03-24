@@ -50,9 +50,9 @@ app.get('/leaderboardLPF' , (ctx) => {
 	return ctx.json(leaderboardLPF)
 })
 
-app.get('/leaderboard/:teamId', (ctx) => {
+app.get('/leaderboardLPF/:teamId', (ctx) => {
 	const teamId = ctx.req.param('teamId')
-	const foundTeam = leaderboard.find((stats) => stats.team.id === teamId )
+	const foundTeam = leaderboardLPF.find((stats) => stats.team.id === teamId )
 
 	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
 })
