@@ -39,7 +39,8 @@ export async function getLeaderBoard ($) {
         const team = getTeamFrom ({ name: teamName })
         
 
-        leaderboard.push({
+        leaderboard.push(
+          {
           rank: index + 1,
             ...leaderBoardForTeam,
             team
@@ -47,5 +48,9 @@ export async function getLeaderBoard ($) {
         )        
         })
 
-        return leaderboard
+        const league = "LPF"
+        return {
+          league,
+          leaderboard
+        }
     }

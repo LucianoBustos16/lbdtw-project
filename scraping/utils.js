@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio'
-import { getLeaderBoard } from './leaderboard.js'
+import { getLeaderBoard } from './leaderboardLPF.js'
 import { getNextMatch } from './nextmatch.js'
 import { getSchedule } from './schedule.js'
 import { getMatchsToday } from './matchstoday.js'
@@ -8,7 +8,7 @@ import { writeDBFile } from '../db/index.js'
 
 // URLS para scrapear
 export const SCRAPINGS = {
-    leaderboard: {
+    leaderboardLPF: {
         url: 'https://www.promiedos.com.ar/primera',
         scraper: getLeaderBoard,
     },
