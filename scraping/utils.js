@@ -21,10 +21,10 @@ export const SCRAPINGS = {
         url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
         scraper: getSchedule,
   },
-    matchstoday: {
-      url: 'https://www.promiedos.com.ar/',
-      scraper: getMatchsToday,
-    },
+    // matchstoday: {
+    //   url: 'https://www.promiedos.com.ar/',
+    //   scraper: getMatchsToday,
+    // },
 
 }
 
