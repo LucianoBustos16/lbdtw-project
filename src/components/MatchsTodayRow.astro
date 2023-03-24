@@ -48,7 +48,7 @@ const { local, visitant, hour } = Astro.props;
 		<div class="flex items-center justify-between">
 			<div class="flex items-center font-bold gap-1 ">
 				<img
-					class="h-8 object-contain my-2"
+					class="h-8 w-8 object-contain my-2"
 					src={`https://www.promiedos.com.ar/images/64/${local.localId}.svg`}
 					alt={`Escudo del equipo ${local.name}`}
 				/>
@@ -62,7 +62,7 @@ const { local, visitant, hour } = Astro.props;
 		<div class="flex items-center justify-between">
 			<div class="flex items-center font-bold gap-1">
 				<img
-					class="h-8 object-contain my-2"
+					class="h-8 w-8 object-contain my-2"
 					src={`https://www.promiedos.com.ar/images/64/${visitant.visitantId}.svg`}
 					alt={`Escudo del equipo ${visitant.name}`}
 				/>

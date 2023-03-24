@@ -4,7 +4,6 @@ const SELECTORS = {
 	matchs: '#partidos #fixturein',
 	competition: '.tituloin',
 	partido: 'tbody tr:not(:first-child):not(.tituloin):not(.goles)',
-	// date: '.resultado .fecha',
 	hour: 'tr:not(:first-child):not(.tituloin):not(.goles) td:first-child',
 	locals: 'td:nth-child(2) .datoequipo',
 	localsImages: 'td:nth-child(2) img',
@@ -12,7 +11,6 @@ const SELECTORS = {
 	visitantScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r2',
 	visitants: 'td:nth-child(5) .datoequipo',
 	visitantsImages: 'td:nth-child(5) img',
-	// scores: 'tr td:nth-child(2) .pepito ',
 }
 
 export async function getMatchsToday($) {
@@ -54,11 +52,15 @@ export async function getMatchsToday($) {
 			const visitantName = cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
+			
 
 			const localScoreRaw = $($localScores[index]).text()
 			const localScore = cleanText(localScoreRaw)
 			const visitantScoreRaw = $($visitantScores[index]).text()
 			const visitantScore = cleanText(visitantScoreRaw)
+
+			console.log(localImg)
+			console.log(visitantImg)
 
 			matches.push({
 				hour,
@@ -66,7 +68,7 @@ export async function getMatchsToday($) {
 					{ localId, name: localName, localScore,  },
 					{ visitantId, name: visitantName, visitantScore }
 				],
-				// score
+
 			})
 		})
 
