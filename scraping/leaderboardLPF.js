@@ -48,9 +48,5 @@ export async function getLeaderBoardLPF ($) {
         )        
         })
 
-        const league = "LPF"
-        return {
-          league,
-          leaderboardLPF
-        }
+        return leaderboardLPF
     }
