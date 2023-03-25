@@ -1,6 +1,7 @@
 import { Hono } from 'hono'
 import { serveStatic } from 'hono/serve-static.module'
 import leaderboardLPF from '../db/leaderboardLPF.json'
+import LaLiga from '../db/LaLiga.json'
 import nextmatch from '../db/nextmatch.json'
 import schedule from '../db/schedule.json'
 import matchstoday from '../db/matchstoday.json'
@@ -19,6 +20,17 @@ app.get('/', (ctx) =>
 				{
 					name: 'team',
 					endpoint: 'leaderboardLPF/:teamId',
+					description: 'Return leaderboardLPF info from TeamId'
+				}
+			]
+		},
+		{
+			endpoint: '/LaLiga',
+			description: 'Returns the leaderboardLPF',
+			parameters:[
+				{
+					name: 'team',
+					endpoint: 'LaLiga/:teamId',
 					description: 'Return leaderboardLPF info from TeamId'
 				}
 			]
@@ -53,6 +65,17 @@ app.get('/leaderboardLPF' , (ctx) => {
 app.get('/leaderboardLPF/:teamId', (ctx) => {
 	const teamId = ctx.req.param('teamId')
 	const foundTeam = leaderboardLPF.find((stats) => stats.team.id === teamId )
+
+	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
+})
+
+app.get('/LaLiga' , (ctx) => {
+	return ctx.json(LaLiga)
+})
+
+app.get('/LaLiga/:teamId', (ctx) => {
+	const teamId = ctx.req.param('teamId')
+	const foundTeam = LaLiga.find((stats) => stats.team.id === teamId )
 
 	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
 })
