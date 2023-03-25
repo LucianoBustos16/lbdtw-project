@@ -1,7 +1,7 @@
 ---
 import ScheduleLeague from "@components/ScheduleLeague.astro"
 import TeamScroll from "@components/TeamScroll.astro"
-import Table from "@components/Table.astro"
+import TableAuto from "@components/TableAuto.astro"
 import ScheduleToday from "./ScheduleToday.astro";
 
 const { color,
@@ -29,7 +29,7 @@ const { color,
   </div>
   
   <div id="Posiciones" class="tabcontent">
-    <Table/>
+    <TableAuto shortName={shortName}/>
   </div>
   
   <script is:inline>

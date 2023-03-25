@@ -1,6 +1,6 @@
 import { Hono } from 'hono'
 import { serveStatic } from 'hono/serve-static.module'
-import leaderboardLPF from '../db/leaderboardLPF.json'
+import LPF from '../db/LPF.json'
 import LaLiga from '../db/LaLiga.json'
 import nextmatch from '../db/nextmatch.json'
 import schedule from '../db/schedule.json'
@@ -14,7 +14,7 @@ const app = new Hono()
 app.get('/', (ctx) =>
 	ctx.json([
 		{
-			endpoint: '/leaderboardLPF',
+			endpoint: '/LPF',
 			description: 'Returns the leaderboardLPF',
 			parameters:[
 				{
@@ -58,11 +58,11 @@ app.get('/', (ctx) =>
 	]))
 
 
-app.get('/leaderboardLPF' , (ctx) => {
-	return ctx.json(leaderboardLPF)
+app.get('/LPF' , (ctx) => {
+	return ctx.json(LPF)
 })
 
-app.get('/leaderboardLPF/:teamId', (ctx) => {
+app.get('/LPF/:teamId', (ctx) => {
 	const teamId = ctx.req.param('teamId')
 	const foundTeam = leaderboardLPF.find((stats) => stats.team.id === teamId )
 
