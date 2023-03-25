@@ -8,8 +8,6 @@ const { shortName } = Astro.props
 
 const leaderboard = await findLeaderboardBy({shortName})
 
-console.log(shortName)
-console.log(leaderboard)
 
 ---
 <div class="relative overflow-x-auto shadow-md rounded-2xl">
@@ -51,6 +49,7 @@ console.log(leaderboard)
         <tbody>
 
             {leaderboard.map(({ team, rank, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goalsFor, goalsAgainst, goalDifference }) => (
+                console.log(team),
             <tr class={`bg-white border-b  hover:bg-gray-50 `}>
                 <th scope="row" class="px-2 py-4 font-bold text-teal-600">
                     <div class="font-normal text-gray-500 text-center">

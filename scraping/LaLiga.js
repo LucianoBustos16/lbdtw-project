@@ -27,7 +27,6 @@ export async function getLeaderBoardLaLiga ($) {
           const rawValue = $(el).find(selector).text()
           
           const cleanedValue = cleanText(rawValue)
-    
           const value = typeOf === 'number'
             ? Number(cleanedValue)
             : cleanedValue
@@ -37,7 +36,9 @@ export async function getLeaderBoardLaLiga ($) {
 
         const { team: teamName, ...leaderBoardForTeam } = Object.fromEntries(leaderBoardEntries)
         const team = getTeamFrom ({ name: teamName })
+        console.log(team)
         
+
 
         leaderboardLPF.push(
           {
