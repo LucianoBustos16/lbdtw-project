@@ -2,7 +2,7 @@ import * as cheerio from 'cheerio'
 import { getLeaderBoardLPF } from './LPF.js'
 import {getLeaderBoardLaLiga} from './LaLiga.js'
 import { getNextMatch } from './nextmatch.js'
-import { getSchedule } from './schedule.js'
+import { getSchedule } from './scheduleLPF.js'
 import { getMatchsToday } from './matchstoday.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
@@ -26,7 +26,7 @@ export const SCRAPINGS = {
     //     url: 'https://es.besoccer.com/equipo/belgrano',
     //     scraper: getNextMatch,
     // },
-    schedule: {
+    scheduleLPF: {
         url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
         scraper: getSchedule,
   },

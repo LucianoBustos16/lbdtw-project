@@ -3,7 +3,7 @@ import { serveStatic } from 'hono/serve-static.module'
 import LPF from '../db/LPF.json'
 import LaLiga from '../db/LaLiga.json'
 import nextmatch from '../db/nextmatch.json'
-import schedule from '../db/schedule.json'
+import scheduleLPF from '../db/scheduleLPF.json'
 import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
 import leagues from '../db/leagues.json'
@@ -40,7 +40,7 @@ app.get('/', (ctx) =>
 			description: 'Returns the next match to Belgrano'
 		},
 		{
-			endpoint: '/schedule',
+			endpoint: '/scheduleLPF',
 			description: 'Returns the fixture',
 		},
 		{
@@ -84,8 +84,8 @@ app.get('/nextmatch' , (ctx) => {
 	return ctx.json(nextmatch)
 })
 
-app.get('/schedule' , (ctx) => {
-	return ctx.json(schedule)
+app.get('/scheduleLPF' , (ctx) => {
+	return ctx.json(scheduleLPF)
 })
 
 app.get('/teams' , (ctx) => {
