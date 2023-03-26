@@ -3,6 +3,7 @@ import { getLeaderBoardLPF } from './LPF.js'
 import {getLeaderBoardLaLiga} from './LaLiga.js'
 import { getNextMatch } from './nextmatch.js'
 import { getSchedule } from './scheduleLPF.js'
+import { getScheduleLaLiga } from './scheduleLaLiga.js'
 import { getMatchsToday } from './matchstoday.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
@@ -30,6 +31,10 @@ export const SCRAPINGS = {
         url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
         scraper: getSchedule,
   },
+  scheduleLaLiga: {
+    url: 'https://www.marca.com/futbol/primera-division/calendario.html',
+    scraper: getScheduleLaLiga,
+},
     // matchstoday: {
     //   url: 'https://www.promiedos.com.ar/',
     //   scraper: getMatchsToday,
