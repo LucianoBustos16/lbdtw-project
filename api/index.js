@@ -4,6 +4,7 @@ import LPF from '../db/LPF.json'
 import LaLiga from '../db/LaLiga.json'
 import nextmatch from '../db/nextmatch.json'
 import scheduleLPF from '../db/scheduleLPF.json'
+import scheduleLaLiga from '../db/scheduleLaLiga.json'
 import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
 import leagues from '../db/leagues.json'
@@ -41,6 +42,10 @@ app.get('/', (ctx) =>
 		},
 		{
 			endpoint: '/scheduleLPF',
+			description: 'Returns the fixture',
+		},
+		{
+			endpoint: '/scheduleLaLiga',
 			description: 'Returns the fixture',
 		},
 		{
@@ -86,6 +91,10 @@ app.get('/nextmatch' , (ctx) => {
 
 app.get('/scheduleLPF' , (ctx) => {
 	return ctx.json(scheduleLPF)
+})
+
+app.get('/scheduleLaLiga' , (ctx) => {
+	return ctx.json(scheduleLaLiga)
 })
 
 app.get('/teams' , (ctx) => {
