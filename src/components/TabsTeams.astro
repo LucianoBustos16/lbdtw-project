@@ -4,7 +4,6 @@ import LastMatchTeam from "@components/LastMatchTeam.astro"
 import Table from "@components/Table.astro"
 
 const { teamId, league } = Astro.props
-
 ---
 
 <!-- Tab links -->
@@ -16,16 +15,18 @@ const { teamId, league } = Astro.props
 </div>
   
   <!-- Tab content -->
-  <div id="Fixture" class="tabcontent">
-    <ScheduleTeam teamId={teamId}></ScheduleTeam>
-  </div>
-  
   <div id="General" class="tabcontent">
     <div class="grid gap-4 grid-cols-2">   
-        <LastMatchTeam teamId={teamId}></LastMatchTeam>
-        <LastMatchTeam teamId={teamId}></LastMatchTeam>
+        <LastMatchTeam teamId={teamId} league={league}></LastMatchTeam>
+        <LastMatchTeam teamId={teamId} league={league}></LastMatchTeam>
     </div>
   </div>
+  
+  <div id="Fixture" class="tabcontent">
+    <ScheduleTeam teamId={teamId} league={league}></ScheduleTeam>
+  </div>
+  
+  
 
   <div id="Posiciones" class="tabcontent">
     <Table shortName={league}/>

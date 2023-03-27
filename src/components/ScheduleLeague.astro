@@ -1,8 +1,11 @@
 ---
-import { getAllMatch } from '@services/scheduleTeam.js'
+import { getAllMatch } from '@services/schedule.js'
 import ScheduleRow from '@components/ScheduleRow.astro'
 
-const schedule = await getAllMatch()
+const {  league } = Astro.props
+
+const schedule = await getAllMatch ({league})
+
 ---
 
 			{

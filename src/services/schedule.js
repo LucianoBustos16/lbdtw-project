@@ -1,7 +1,7 @@
   
-export const getAllMatch = async () => {
+export const getAllMatch = async ({league}) => {
 	try {
-		const response = await fetch('https://api.lbdtwplus.com.ar/scheduleLaLiga')
+		const response = await fetch(`https://api.lbdtwplus.com.ar/schedule${league}`)
 		const schedule = await response.json()
 		return schedule
 	} catch (e) {
