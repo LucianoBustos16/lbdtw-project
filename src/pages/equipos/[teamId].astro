@@ -18,9 +18,9 @@ const {
     name,
     imageWhite,
     color,
+    league
 }
     = Astro.props
-
 ---
 
 <Layout title={name}>
@@ -33,6 +33,6 @@ const {
 
     </div>
     
-    <TabsTeams teamId={id}/>
+    <TabsTeams teamId={id} league={league} />
     
 </Layout>
