@@ -4,12 +4,11 @@
 
 import { findLeaderboardBy } from '@services/leaderboardAuto.js'
 
-const { shortName } = Astro.props
+const { shortName, league } = Astro.props
 
 const leaderboard = await findLeaderboardBy({shortName})
-
-
 ---
+
 <div class="relative overflow-x-auto shadow-md rounded-2xl">
     <table class="w-full text-sm text-center text-gray-500">
         <thead class="text-xs text-gray-700 bg-white">
@@ -49,7 +48,6 @@ const leaderboard = await findLeaderboardBy({shortName})
         <tbody>
 
             {leaderboard.map(({ team, rank, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goalsFor, goalsAgainst, goalDifference }) => (
-                console.log(team),
             <tr class={`bg-white border-b  hover:bg-gray-50 `}>
                 <th scope="row" class="px-2 py-4 font-bold text-teal-600">
                     <div class="font-normal text-gray-500 text-center">

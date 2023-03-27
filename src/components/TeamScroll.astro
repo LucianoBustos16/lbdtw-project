@@ -4,8 +4,7 @@ import { getAllTemas } from "@services/teams.js";
 const teams = await getAllTemas();
 
 const {
-    shortName,
-
+    league,
 }
     = Astro.props
 ---
@@ -16,7 +15,7 @@ const {
         <div class="swiper w-full h-full flex gap-2 snap-mandatory scroll-m-4">
 
             { teams
-            .filter(team => team.league === `${shortName}`)
+            .filter(team => team.league === `${league}`)
             .map((team) => {
                 const {image, id, name} = team
                 return(

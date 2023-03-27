@@ -20,7 +20,7 @@ app.get('/', (ctx) =>
 			parameters:[
 				{
 					name: 'team',
-					endpoint: 'leaderboardLPF/:teamId',
+					endpoint: 'LPF/:teamId',
 					description: 'Return leaderboardLPF info from TeamId'
 				}
 			]

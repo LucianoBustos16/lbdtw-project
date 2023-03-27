@@ -4,8 +4,10 @@ import TeamScroll from "@components/TeamScroll.astro"
 import Table from "@components/Table.astro"
 import ScheduleToday from "./ScheduleToday.astro";
 
-const { color,
-  shortName } = Astro.props
+const {
+  color,
+  shortName
+} = Astro.props
 
 ---
 
@@ -19,17 +21,17 @@ const { color,
   <!-- Tab content -->
   <div id="General" class="tabcontent">
 
-      <TeamScroll shortName={shortName}/>
-      <ScheduleToday/>
+      <TeamScroll league={shortName}/>
+      <ScheduleToday league={shortName}/>
 
-  </div>
-
-  <div id="Fixture" class="tabcontent">
-    <ScheduleLeague/>
   </div>
   
   <div id="Posiciones" class="tabcontent">
     <Table shortName={shortName}/>
+  </div>
+
+  <div id="Fixture" class="tabcontent">
+    <ScheduleLeague league={shortName}/>
   </div>
   
   <script is:inline>

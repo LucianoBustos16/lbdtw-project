@@ -3,7 +3,7 @@ import ScheduleTeam from "@components/ScheduleTeam.astro"
 import LastMatchTeam from "@components/LastMatchTeam.astro"
 import Table from "@components/Table.astro"
 
-const { teamId } = Astro.props
+const { teamId, league } = Astro.props
 
 ---
 
@@ -28,7 +28,7 @@ const { teamId } = Astro.props
   </div>
 
   <div id="Posiciones" class="tabcontent">
-    <Table/>
+    <Table shortName={league}/>
   </div>
   
   <div id="Club" class="tabcontent">
