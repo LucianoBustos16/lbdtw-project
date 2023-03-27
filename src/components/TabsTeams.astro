@@ -2,6 +2,7 @@
 import ScheduleTeam from "@components/ScheduleTeam.astro"
 import LastMatchTeam from "@components/LastMatchTeam.astro"
 import Table from "@components/Table.astro"
+import NextMatchTeam from "./NextMatchTeam.astro";
 
 const { color, teamId, league } = Astro.props
 ---
@@ -18,7 +19,7 @@ const { color, teamId, league } = Astro.props
   <div id="General" class="tabcontent">
     <div class="grid gap-4 grid-cols-2">   
         <LastMatchTeam teamId={teamId} league={league}></LastMatchTeam>
-        <LastMatchTeam teamId={teamId} league={league}></LastMatchTeam>
+        <NextMatchTeam teamId={teamId} league={league}></NextMatchTeam>  
     </div>
   </div>
   
