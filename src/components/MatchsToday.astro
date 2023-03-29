@@ -8,8 +8,6 @@ const matchsToday = await getAllMatch({league})
 
 const today = new Date().toLocaleDateString(undefined, {timeZone: 'America/Buenos_Aires'}).split('/').reverse().join('-');
 
-console.log(today)
-
 ---
 
 {
@@ -30,6 +28,11 @@ console.log(today)
                 .filter(match => {
                   const matchDate = new Date(match.timestamp);
                   const matchDateString = matchDate.toLocaleDateString(undefined, {timeZone: 'America/Buenos_Aires'}).split('/').reverse().join('-');
+                  console.log(match.timestamp)
+                  console.log(matchDateString)
+                  console.log(today)
+                  console.log(match.teams)
+                  console.log("---")
                   return matchDateString === today;
                 })
 
