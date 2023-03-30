@@ -43,10 +43,10 @@
   },
   {
     "rank": 3,
-    "points": 14,
-    "matchesPlayed": 8,
+    "points": 15,
+    "matchesPlayed": 9,
     "matchesWon": 4,
-    "matchesDrawn": 2,
+    "matchesDrawn": 3,
     "matchesLost": 2,
     "goalsFor": 11,
     "goalsAgainst": 6,
@@ -149,6 +149,27 @@
   {
     "rank": 8,
     "points": 13,
+    "matchesPlayed": 9,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 12,
+    "goalsAgainst": 7,
+    "goalDifference": 5,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 4,
     "matchesDrawn": 1,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -185,27 +206,6 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 12,
-    "matchesPlayed": 8,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 7,
-    "goalDifference": 5,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
