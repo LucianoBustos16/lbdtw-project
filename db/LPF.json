@@ -43,10 +43,10 @@
   },
   {
     "rank": 3,
-    "points": 14,
-    "matchesPlayed": 8,
+    "points": 15,
+    "matchesPlayed": 9,
     "matchesWon": 4,
-    "matchesDrawn": 2,
+    "matchesDrawn": 3,
     "matchesLost": 2,
     "goalsFor": 11,
     "goalsAgainst": 6,
@@ -64,6 +64,69 @@
   },
   {
     "rank": 4,
+    "points": 15,
+    "matchesPlayed": 9,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 9,
+    "goalsAgainst": 7,
+    "goalDifference": 2,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 15,
+    "matchesPlayed": 9,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 10,
+    "goalsAgainst": 11,
+    "goalDifference": -1,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 14,
+    "matchesPlayed": 9,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 10,
+    "goalsAgainst": 5,
+    "goalDifference": 5,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
     "points": 14,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -84,7 +147,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 8,
     "points": 14,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -105,49 +168,28 @@
     }
   },
   {
-    "rank": 6,
-    "points": 14,
-    "matchesPlayed": 8,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
+    "rank": 9,
+    "points": 13,
+    "matchesPlayed": 9,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
     "matchesLost": 2,
-    "goalsFor": 9,
+    "goalsFor": 12,
     "goalsAgainst": 7,
-    "goalDifference": 2,
+    "goalDifference": 5,
     "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 7,
-    "points": 14,
-    "matchesPlayed": 8,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 10,
-    "goalsAgainst": 11,
-    "goalDifference": -1,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
+    "rank": 10,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -168,7 +210,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 11,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -189,28 +231,7 @@
     }
   },
   {
-    "rank": 10,
-    "points": 12,
-    "matchesPlayed": 8,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 7,
-    "goalDifference": 5,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
+    "rank": 12,
     "points": 12,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -231,15 +252,15 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 12,
-    "matchesPlayed": 8,
+    "matchesPlayed": 9,
     "matchesWon": 4,
     "matchesDrawn": 0,
-    "matchesLost": 4,
+    "matchesLost": 5,
     "goalsFor": 7,
-    "goalsAgainst": 7,
-    "goalDifference": 0,
+    "goalsAgainst": 10,
+    "goalDifference": -3,
     "team": {
       "id": "Godoy-Cruz",
       "color": "#2670CA",
@@ -248,27 +269,6 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 11,
-    "matchesPlayed": 8,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 5,
-    "goalDifference": 2,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -379,6 +379,48 @@
   },
   {
     "rank": 19,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 7,
+    "goalsAgainst": 11,
+    "goalDifference": -4,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 20,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 5,
+    "goalsAgainst": 11,
+    "goalDifference": -6,
+    "team": {
+      "id": "Gimnasia",
+      "color": "#121731",
+      "colorSecondary": "#00AFEF",
+      "name": "Gimnasia (LP)",
+      "shortName": "GLP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 21,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -399,7 +441,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 22,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 1,
@@ -420,7 +462,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 23,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -441,7 +483,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 24,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -458,48 +500,6 @@
       "shortName": "ARS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 23,
-    "points": 8,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 7,
-    "goalsAgainst": 11,
-    "goalDifference": -4,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 24,
-    "points": 8,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 5,
-    "goalsAgainst": 11,
-    "goalDifference": -6,
-    "team": {
-      "id": "Gimnasia",
-      "color": "#121731",
-      "colorSecondary": "#00AFEF",
-      "name": "Gimnasia (LP)",
-      "shortName": "GLP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
       "league": "LPF"
     }
   },
