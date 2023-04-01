@@ -153,6 +153,27 @@
     "matchesWon": 4,
     "matchesDrawn": 2,
     "matchesLost": 3,
+    "goalsFor": 10,
+    "goalsAgainst": 8,
+    "goalDifference": 2,
+    "team": {
+      "id": "Boca",
+      "color": "#023F86",
+      "colorSecondary": "#F7A600",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 14,
+    "matchesPlayed": 9,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
     "goalsFor": 9,
     "goalsAgainst": 10,
     "goalDifference": -1,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 13,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 13,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 12,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -248,27 +269,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 12,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 8,
-    "goalDifference": 1,
-    "team": {
-      "id": "Boca",
-      "color": "#023F86",
-      "colorSecondary": "#F7A600",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
       "league": "LPF"
     }
   },
@@ -338,27 +338,6 @@
   {
     "rank": 17,
     "points": 10,
-    "matchesPlayed": 9,
-    "matchesWon": 2,
-    "matchesDrawn": 4,
-    "matchesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 10,
-    "goalDifference": -1,
-    "team": {
-      "id": "Barracas-Central",
-      "color": "#ec1c24",
-      "colorSecondary": "#FFF",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 10,
     "matchesPlayed": 8,
     "matchesWon": 2,
     "matchesDrawn": 4,
@@ -374,6 +353,27 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 18,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 11,
+    "goalDifference": -2,
+    "team": {
+      "id": "Barracas-Central",
+      "color": "#ec1c24",
+      "colorSecondary": "#FFF",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
       "league": "LPF"
     }
   },
