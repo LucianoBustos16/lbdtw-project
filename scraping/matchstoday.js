@@ -78,7 +78,8 @@ export async function getMatchsToday($) {
 			const hour = $($hours[index]).text()
 
 			const localNameRaw = $($locals[index]).text()
-			const localName = getTeamFrom({ name: localNameRaw }) ? getTeamFrom({ name: localNameRaw }) : cleanText(localNameRaw)
+			const clearlocalName = teamId[localNameRaw] ? teamId[localNameRaw] : cleanText(localNameRaw)
+			const localName = getTeamFrom({ name: clearlocalName }) ? getTeamFrom({ name: clearlocalName }) : cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
 			const localId = getTeamIdFromImageUrl(localImg)
 

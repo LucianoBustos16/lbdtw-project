@@ -10,13 +10,13 @@ const { local, visitant, score ,hourMatch, date } = Astro.props;
 				<div class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
 			
 					<p class="text-right font-semibold">
-						{local.name}	
+						{local.name.name}	
 					</p>
 		
 					<img
 				class='h-8 object-contain my-2'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${local.name}.svg`}
-				alt={`Escudo del equipo ${local.name}`}
+				src={`https://api.lbdtwplus.com.ar/static/logos/${local.name.id}.svg`}
+				alt={`Escudo del equipo ${local.name.name}`}
 			/>	
 				</div>
 
@@ -29,11 +29,11 @@ const { local, visitant, score ,hourMatch, date } = Astro.props;
 				<div class="flex gap-1 items-center group transition-all justify-start hover:scale-110">
 					<img
 					class='h-8 object-contain my-2'
-					src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.name}.svg`}
-					alt={`Escudo del equipo ${visitant.name}`}
+					src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.name.id}.svg`}
+					alt={`Escudo del equipo ${visitant.name.name}`}
 				/>	
 					<p class="text-rigth font-semibold">
-						{visitant.name}	
+						{visitant.name.name}	
 					</p>
 		
 					
