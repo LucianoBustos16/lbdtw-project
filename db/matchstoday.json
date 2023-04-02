@@ -3,7 +3,7 @@
     "competition": "LIGA PROFESIONAL",
     "matches": [
       {
-        "hour": "52' ",
+        "hour": "74' ",
         "teams": [
           {
             "localId": "33",
@@ -31,7 +31,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "1"
+            "visitantScore": "2"
           }
         ]
       },
@@ -137,7 +137,7 @@
         ]
       },
       {
-        "hour": "49' ",
+        "hour": "64' ",
         "teams": [
           {
             "localId": "44",
@@ -603,7 +603,7 @@
     "competition": "FEDERAL A",
     "matches": [
       {
-        "hour": "58' ",
+        "hour": "73' ",
         "teams": [
           {
             "localId": "306",
@@ -618,7 +618,7 @@
         ]
       },
       {
-        "hour": "45' ",
+        "hour": "E. T. ",
         "teams": [
           {
             "localId": "155",
@@ -722,7 +722,16 @@
         "teams": [
           {
             "localId": "19",
-            "name": "San Lorenzo",
+            "name": {
+              "id": "San-Lorenzo",
+              "color": "#BF1B27",
+              "colorSecondary": "#263D54",
+              "name": "San Lorenzo",
+              "shortName": "SL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+              "league": "LPF"
+            },
             "localScore": "5"
           },
           {
@@ -737,7 +746,16 @@
         "teams": [
           {
             "localId": "9",
-            "name": "Gimnasia (LP)",
+            "name": {
+              "id": "Gimnasia",
+              "color": "#121731",
+              "colorSecondary": "#00AFEF",
+              "name": "Gimnasia (LP)",
+              "shortName": "GLP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+              "league": "LPF"
+            },
             "localScore": "0"
           },
           {
@@ -761,7 +779,16 @@
         "teams": [
           {
             "localId": "35",
-            "name": "Rosario Central",
+            "name": {
+              "id": "Rosario-Central",
+              "color": "#F9DF34",
+              "colorSecondary": "#173B6A",
+              "name": "Rosario Central",
+              "shortName": "ROS",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+              "league": "LPF"
+            },
             "localScore": "2"
           },
           {
@@ -809,7 +836,16 @@
         "teams": [
           {
             "localId": "6",
-            "name": "Boca Juniors",
+            "name": {
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "league": "LPF"
+            },
             "localScore": "3"
           },
           {
@@ -914,7 +950,7 @@
         ]
       },
       {
-        "hour": "90+2' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "754",
@@ -934,17 +970,17 @@
     "competition": "LIGA COLOMBIA",
     "matches": [
       {
-        "hour": "18:00  ",
+        "hour": "07' ",
         "teams": [
           {
             "localId": "758",
             "name": "America Cali",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantId": "760",
             "name": "Jaguares (C)",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
