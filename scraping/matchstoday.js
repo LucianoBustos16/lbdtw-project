@@ -60,8 +60,9 @@ export async function getMatchsToday($) {
 		const $day = $(day)
 
 		const competitionRaw = $day.find(SELECTORS.competition).text()
-		const competition = cleanText(competitionRaw)
-
+		const formattedCompetitio = cleanText(competitionRaw)
+		const competition = formattedCompetitio.toLowerCase().replace(/(^|\s)\S/g, (firstLetter) => firstLetter.toUpperCase());
+		
 		const $locals = $day.find(SELECTORS.locals)
 		const $localsImages = $day.find(SELECTORS.localsImages)
 		const $visitants = $day.find(SELECTORS.visitants)
