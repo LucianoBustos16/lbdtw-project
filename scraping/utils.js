@@ -35,10 +35,10 @@ export const SCRAPINGS = {
     url: 'https://www.marca.com/futbol/primera-division/calendario.html',
     scraper: getScheduleLaLiga,
 },
-    // matchstoday: {
-    //   url: 'https://www.promiedos.com.ar/',
-    //   scraper: getMatchsToday,
-    // },
+    matchstoday: {
+      url: 'https://www.promiedos.com.ar/',
+      scraper: getMatchsToday,
+    },
 
 }
 
