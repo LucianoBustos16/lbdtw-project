@@ -1,16 +1,16 @@
 ---
 import { getMatchsToday } from '@services/matchstoday.js'
+import { getAllLeagues } from '@services/leagues.js'
 import MatchsTodayRow from '@components/MatchsTodayRow.astro'
 
-const { league } = Astro.props
-
 const matchsToday = await getMatchsToday()
-
+const allLeagues = await getAllLeagues()
 
 ---
 
 {
   matchsToday
+  .filter((matchs) => allLeagues.includes(matchs.competition))
   .map((matchs) => {
     return (
       <section class='my-2'>
