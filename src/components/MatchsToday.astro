@@ -1,19 +1,16 @@
 ---
-import { getAllMatch } from '@services/schedule.js'
+import { getMatchsToday } from '@services/matchstoday.js'
 import MatchsTodayRow from '@components/MatchsTodayRow.astro'
 
 const { league } = Astro.props
 
-const matchsToday = await getAllMatch({league})
+const matchsToday = await getMatchsToday()
 
-const today = new Date().toLocaleDateString(undefined, {timeZone: 'America/Buenos_Aires'}).split('/').reverse().join('-');
 
 ---
 
 {
   matchsToday
-  .filter(fecha => fecha.matches.some(match => !match.score.includes('-')))
-  .slice(0, 1)
   .map((matchs) => {
     return (
       <section class='my-2'>
@@ -25,12 +22,6 @@ const today = new Date().toLocaleDateString(undefined, {timeZone: 'America/Bueno
           
           <div class="swiper w-full h-full grid xl:grid-cols-2 snap-mandatory scroll-m-4">
             {matchs.matches
-                .filter(match => {
-                  const matchDate = new Date(match.timestamp);
-                  const matchDateString = matchDate.toLocaleDateString(undefined, {timeZone: 'America/Buenos_Aires'}).split('/').reverse().join('-');
-                  return matchDateString === today;
-                })
-
               .map((match) => (    
 
               <MatchsTodayRow
