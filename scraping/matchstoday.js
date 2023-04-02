@@ -1,4 +1,36 @@
 import { cleanText } from './utils.js'
+import { TEAMS } from '../db/index.js'
+
+const teamId = {
+	'Lanus': 'Lanus',
+	'Huracan': 'Huracan',
+	'Rosario Central': 'Rosario-Central',
+	'Belgrano': 'Belgrano',
+	'River Plate': 'River',
+	'Talleres (C)': 'Talleres',
+	'Def y Justicia': 'Defensa-y-Justicia',
+	'San Lorenzo': 'San-Lorenzo',
+	'Godoy Cruz': 'Godoy-Cruz',
+	'Instituto': 'Instituto',
+	'Tigre': 'Tigre',
+	'Platense': 'Platense',
+	'Barracas Central': 'Barracas-Central',
+	'Velez': 'Velez',
+	'Sarmiento (J)': 'Sarmiento',	
+	"Newells": 'Newells',
+	'Boca Juniors': 'Boca',
+	'Independiente': 'Independiente',
+	'Argentinos': 'Argentinos',
+	'Banfield': 'Banfield',
+	'Racing Club': 'Racing-Club',
+	'Union': 'Union',
+	'Arsenal': 'Arsenal',
+	'Estudiantes (LP)': 'Estudiantes',
+	'Atl Tucuman': 'Atletico-Tucuman',
+	'Central Cba (SdE)': 'Central-Cordoba',
+	'Gimnasia (LP)': 'Gimnasia',
+	'Colon': 'Colon',
+}
 
 const SELECTORS = {
 	matchs: '#partidos #fixturein',
@@ -20,6 +52,8 @@ export async function getMatchsToday($) {
 	const getTeamIdFromImageUrl = (url) => {
 		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg|gif)/, '')
 	}
+
+	const getTeamFrom = ({ name }) => TEAMS.find(team => team.id === name)
 
 	$days.each((_, day) => {
 		const matches = []
@@ -44,12 +78,14 @@ export async function getMatchsToday($) {
 			const hour = $($hours[index]).text()
 
 			const localNameRaw = $($locals[index]).text()
-			const localName = cleanText(localNameRaw)
+			const localName = getTeamFrom({ name: localNameRaw }) ? getTeamFrom({ name: localNameRaw }) : cleanText(localNameRaw)
 			const localImg = $($localsImages[index]).attr('src')
 			const localId = getTeamIdFromImageUrl(localImg)
 
+
 			const visitantNameRaw = $($visitants[index]).text()
-			const visitantName = cleanText(visitantNameRaw)
+			const clearvisitantName = teamId[visitantNameRaw] ? teamId[visitantNameRaw] : cleanText(visitantNameRaw)
+			const visitantName = getTeamFrom({ name: clearvisitantName }) ? getTeamFrom({ name: clearvisitantName }) : cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
 			
@@ -58,9 +94,6 @@ export async function getMatchsToday($) {
 			const localScore = cleanText(localScoreRaw)
 			const visitantScoreRaw = $($visitantScores[index]).text()
 			const visitantScore = cleanText(visitantScoreRaw)
-
-			console.log(localImg)
-			console.log(visitantImg)
 
 			matches.push({
 				hour,
@@ -72,8 +105,11 @@ export async function getMatchsToday($) {
 			})
 		})
 
+		
+
 		matchstoday.push({ competition, matches })
 	})
+	
 
 	return matchstoday
 }

@@ -15,20 +15,21 @@ const { local, visitant, score ,hourMatch, date } = Astro.props;
 		
 					<img
 				class='h-8 object-contain my-2'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.svg`}
+				src={`https://api.lbdtwplus.com.ar/static/logos/${local.name}.svg`}
 				alt={`Escudo del equipo ${local.name}`}
 			/>	
 				</div>
 
 				
 				<div class='text-center rounded-sm p-2'>
-<p>Hora</p>
+				<p>{local.localScore}-{visitant.visitantScore}</p>
+				<p>{hourMatch}</p>
 				</div>
 				
 				<div class="flex gap-1 items-center group transition-all justify-start hover:scale-110">
 					<img
 					class='h-8 object-contain my-2'
-					src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.svg`}
+					src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.name}.svg`}
 					alt={`Escudo del equipo ${visitant.name}`}
 				/>	
 					<p class="text-rigth font-semibold">

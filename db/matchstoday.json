@@ -3,16 +3,34 @@
     "competition": "LIGA PROFESIONAL",
     "matches": [
       {
-        "hour": "11' ",
+        "hour": "52' ",
         "teams": [
           {
             "localId": "33",
-            "name": "Instituto",
+            "name": {
+              "id": "Instituto",
+              "color": "#E0312B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Instituto",
+              "shortName": "IACC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+              "league": "LPF"
+            },
             "localScore": "0"
           },
           {
             "visitantId": "52",
-            "name": "Talleres (C)",
+            "name": {
+              "id": "Talleres",
+              "color": "#00184C",
+              "colorSecondary": "#FFFFFF",
+              "name": "Talleres (C)",
+              "shortName": "CAT",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": "1"
           }
         ]
@@ -22,12 +40,30 @@
         "teams": [
           {
             "localId": "7",
-            "name": "Colon",
+            "name": {
+              "id": "Colon",
+              "color": "#C80000",
+              "colorSecondary": "#000",
+              "name": "Colon",
+              "shortName": "COL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+              "league": "LPF"
+            },
             "localScore": ""
           },
           {
             "visitantId": "25",
-            "name": "Atl Tucuman",
+            "name": {
+              "id": "Atletico-Tucuman",
+              "color": "#71AFDB",
+              "colorSecondary": "#FFF",
+              "name": "Atl Tucuman",
+              "shortName": "TUC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": ""
           }
         ]
@@ -37,12 +73,30 @@
         "teams": [
           {
             "localId": "5",
-            "name": "Banfield",
+            "name": {
+              "id": "Banfield",
+              "color": "#007934",
+              "colorSecondary": "#B49759",
+              "name": "Banfield",
+              "shortName": "BAN",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+              "league": "LPF"
+            },
             "localScore": ""
           },
           {
             "visitantId": "45",
-            "name": "Platense",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": ""
           }
         ]
@@ -68,32 +122,32 @@
         ]
       },
       {
-        "hour": "50' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "91",
             "name": "San Telmo",
-            "localScore": "2"
+            "localScore": "3"
           },
           {
             "visitantId": "70",
             "name": "Almagro",
-            "visitantScore": "0"
+            "visitantScore": "2"
           }
         ]
       },
       {
-        "hour": "16:40  ",
+        "hour": "E. T. ",
         "teams": [
           {
             "localId": "44",
             "name": "Dep. Moron",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantId": "34",
             "name": "Patronato",
-            "visitantScore": ""
+            "visitantScore": "1"
           }
         ]
       },
@@ -293,7 +347,7 @@
         ]
       },
       {
-        "hour": "E. T. ",
+        "hour": "90+1' ",
         "teams": [
           {
             "localId": "652",
@@ -303,7 +357,7 @@
           {
             "visitantId": "645",
             "name": "Lyon",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       }
@@ -373,7 +427,7 @@
         ]
       },
       {
-        "hour": "E. T. ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "560",
@@ -383,7 +437,7 @@
           {
             "visitantId": "559",
             "name": "Milan",
-            "visitantScore": "2"
+            "visitantScore": "4"
           }
         ]
       }
@@ -402,7 +456,16 @@
           },
           {
             "visitantId": "623",
-            "name": "Almeria",
+            "name": {
+              "id": "Almeria",
+              "color": "#e0040b",
+              "colorSecondary": "#FFFFFF",
+              "name": "Almeria",
+              "shortName": "ALM",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Almeria.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Almeria-white.svg",
+              "league": "LaLiga"
+            },
             "visitantScore": "2"
           }
         ]
@@ -417,7 +480,16 @@
           },
           {
             "visitantId": "523",
-            "name": "Valladolid",
+            "name": {
+              "id": "Valladolid",
+              "color": "#5B268A",
+              "colorSecondary": "#FFF",
+              "name": "Valladolid",
+              "shortName": "VLD",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
+              "league": "LaLiga"
+            },
             "visitantScore": "0"
           }
         ]
@@ -427,7 +499,16 @@
         "teams": [
           {
             "localId": "624",
-            "name": "Villarreal",
+            "name": {
+              "id": "Villarreal",
+              "color": "#002246",
+              "colorSecondary": "#ffe715",
+              "name": "Villarreal",
+              "shortName": "VIL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+              "league": "LaLiga"
+            },
             "localScore": "2"
           },
           {
@@ -438,16 +519,25 @@
         ]
       },
       {
-        "hour": "43' ",
+        "hour": "88' ",
         "teams": [
           {
             "localId": "510",
             "name": "Atletico Madrid",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantId": "517",
-            "name": "Betis",
+            "name": {
+              "id": "Betis",
+              "color": "#008835",
+              "colorSecondary": "#FFF",
+              "name": "Betis",
+              "shortName": "BET",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+              "league": "LaLiga"
+            },
             "visitantScore": "0"
           }
         ]
@@ -493,12 +583,12 @@
     "competition": "B METRO",
     "matches": [
       {
-        "hour": "56' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "93",
             "name": "Villa San Carlos",
-            "localScore": "4"
+            "localScore": "5"
           },
           {
             "visitantId": "84",
@@ -513,7 +603,7 @@
     "competition": "FEDERAL A",
     "matches": [
       {
-        "hour": "08' ",
+        "hour": "51' ",
         "teams": [
           {
             "localId": "306",
@@ -528,17 +618,17 @@
         ]
       },
       {
-        "hour": "17:00  ",
+        "hour": "37' ",
         "teams": [
           {
             "localId": "155",
             "name": "San Martin (M)",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantId": "160",
             "name": "Estudiantes (SL)",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -548,7 +638,7 @@
     "competition": "PRIMERA C",
     "matches": [
       {
-        "hour": "48' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "115",
@@ -563,7 +653,7 @@
         ]
       },
       {
-        "hour": "53' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "120",
@@ -578,7 +668,7 @@
         ]
       },
       {
-        "hour": "56' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "60",
@@ -588,17 +678,17 @@
           {
             "visitantId": "59",
             "name": "Liniers",
-            "visitantScore": "2"
+            "visitantScore": "4"
           }
         ]
       },
       {
-        "hour": "48' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "103",
             "name": "Berazategui",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantId": "110",
@@ -652,7 +742,16 @@
           },
           {
             "visitantId": "17",
-            "name": "Racing Club",
+            "name": {
+              "id": "Racing-Club",
+              "color": "#009DDB",
+              "colorSecondary": "#FFFFFF",
+              "name": "Racing Club",
+              "shortName": "RAC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": "0"
           }
         ]
@@ -673,31 +772,58 @@
         ]
       },
       {
-        "hour": "69' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "45",
-            "name": "Platense",
-            "localScore": "1"
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": "2"
           },
           {
             "visitantId": "13",
-            "name": "Lanus",
+            "name": {
+              "id": "Lanus",
+              "color": "#7A1D2D",
+              "colorSecondary": "#FFFFFF",
+              "name": "Lanus",
+              "shortName": "LAN",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": "0"
           }
         ]
       },
       {
-        "hour": "52' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "6",
             "name": "Boca Juniors",
-            "localScore": "1"
+            "localScore": "3"
           },
           {
             "visitantId": "18",
-            "name": "River Plate",
+            "name": {
+              "id": "River",
+              "color": "#E30520",
+              "colorSecondary": "#FFFFFF",
+              "name": "River Plate",
+              "shortName": "CARP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": "0"
           }
         ]
@@ -788,7 +914,7 @@
         ]
       },
       {
-        "hour": "43' ",
+        "hour": "85' ",
         "teams": [
           {
             "localId": "754",
@@ -908,7 +1034,7 @@
         ]
       },
       {
-        "hour": "77' ",
+        "hour": "Final",
         "teams": [
           {
             "localId": "908",
@@ -918,7 +1044,7 @@
           {
             "visitantId": "906",
             "name": "Tigres UANL",
-            "visitantScore": "0"
+            "visitantScore": "2"
           }
         ]
       },
