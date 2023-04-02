@@ -29,6 +29,12 @@
         'Central Córdoba': 'Central-Cordoba',
         'Gimnasia La Plata': 'Gimnasia',
         'Colón': 'Colon',
+        'Athletic Bilbao': "Athletic-Bilbao",
+        'Atletico Madrid': "Atletico-Madrid",
+        'Celta de Vigo': "Celta",
+        'Rayo Vallecano': "Rayo-Vallecano",
+        'Real Madrid': "Real-Madrid",
+        'Real Sociedad': "Real-Sociedad",
     }
 
 
