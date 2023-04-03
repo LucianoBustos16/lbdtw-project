@@ -237,6 +237,27 @@
     "matchesWon": 3,
     "matchesDrawn": 4,
     "matchesLost": 2,
+    "goalsFor": 13,
+    "goalsAgainst": 13,
+    "goalDifference": 0,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 13,
+    "matchesPlayed": 9,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
     "goalsFor": 11,
     "goalsAgainst": 11,
     "goalDifference": 0,
@@ -248,27 +269,6 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 13,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 4,
-    "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 13,
-    "goalDifference": -1,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
@@ -405,27 +405,6 @@
     "matchesWon": 2,
     "matchesDrawn": 3,
     "matchesLost": 4,
-    "goalsFor": 4,
-    "goalsAgainst": 7,
-    "goalDifference": -3,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 21,
-    "points": 9,
-    "matchesPlayed": 9,
-    "matchesWon": 2,
-    "matchesDrawn": 3,
-    "matchesLost": 4,
     "goalsFor": 9,
     "goalsAgainst": 13,
     "goalDifference": -4,
@@ -437,6 +416,27 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 21,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 4,
+    "goalsAgainst": 8,
+    "goalDifference": -4,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
       "league": "LPF"
     }
   },
