@@ -1,5 +1,5 @@
 ---
-const { local, visitant, score ,hourMatch, date } = Astro.props;
+const { local, visitant, score ,hour, date } = Astro.props;
 ---
 
 
@@ -22,8 +22,8 @@ const { local, visitant, score ,hourMatch, date } = Astro.props;
 
 				
 				<div class='text-center rounded-sm p-2'>
-				<p>{local.localScore}-{visitant.visitantScore}</p>
-				<p>{hourMatch}</p>
+					{local.localScore !== '' || visitant.visitantScore !== '' ? <p>{local.localScore}-{visitant.visitantScore}</p> : ''}
+				<p>{hour}</p>
 				</div>
 				
 				<div class="flex gap-1 items-center group transition-all justify-start hover:scale-110">
