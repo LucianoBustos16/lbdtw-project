@@ -44,7 +44,7 @@ const SELECTORS = {
 	partido: 'tbody tr:not(:first-child):not(.tituloin):not(.goles)',
 	hour: 'tr:not(:first-child):not(.tituloin):not(.goles) td:first-child',
 	locals: 'td:nth-child(2) .datoequipo',
-	localsImages: 'td:nth-child(2) img',
+	localsImages: 'td:nth-child(2) img:last-of-type',
 	localScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r1',
 	visitantScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r2',
 	visitants: 'td:nth-child(5) .datoequipo',
@@ -56,7 +56,7 @@ export async function getMatchsToday($) {
 	const $days = $(SELECTORS.matchs)
 
 	const getTeamIdFromImageUrl = (url) => {
-		return url.slice(url.lastIndexOf('/') + 1).replace(/.(png|svg|gif)/, '')
+		return url.slice(url.lastIndexOf('/') + 1)
 	}
 
 	const getTeamFrom = ({ name }) => TEAMS.find(team => team.id === name)
@@ -87,17 +87,15 @@ export async function getMatchsToday($) {
 			const localNameRaw = $($locals[index]).text()
 			const clearlocalName = teamId[localNameRaw] ? teamId[localNameRaw] : cleanText(localNameRaw)
 			const localName = getTeamFrom({ name: clearlocalName }) ? getTeamFrom({ name: clearlocalName }) : cleanText(localNameRaw)
-			// const localImg = $($localsImages[index]).attr('src')
-			// console.log(localImg)
-			// const localId = getTeamIdFromImageUrl(localImg)
-			// console.log(localId)
+			const localImg = $($localsImages[index]).attr('src')
+			const localImgId = getTeamIdFromImageUrl(localImg)
 
 
 			const visitantNameRaw = $($visitants[index]).text()
 			const clearvisitantName = teamId[visitantNameRaw] ? teamId[visitantNameRaw] : cleanText(visitantNameRaw)
 			const visitantName = getTeamFrom({ name: clearvisitantName }) ? getTeamFrom({ name: clearvisitantName }) : cleanText(visitantNameRaw)
-			// const visitantImg = $($visitantsImages[index]).attr('src')
-			// const visitantId = getTeamIdFromImageUrl(visitantImg)
+			const visitantImg = $($visitantsImages[index]).attr('src')
+			const visitantImgId = getTeamIdFromImageUrl(visitantImg)
 			
 
 			const localScoreRaw = $($localScores[index]).text()
@@ -108,8 +106,8 @@ export async function getMatchsToday($) {
 			matches.push({
 				hour,
 				teams: [
-					{  name: localName, localScore,  },
-					{  name: visitantName, visitantScore }
+					{ localImgId, name: localName, localScore,  },
+					{ visitantImgId, name: visitantName, visitantScore }
 				],
 
 			})

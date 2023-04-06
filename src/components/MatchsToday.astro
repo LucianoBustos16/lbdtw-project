@@ -6,13 +6,19 @@ import MatchsTodayRow from '@components/MatchsTodayRow.astro'
 const matchsToday = await getMatchsToday()
 const allLeagues = await getAllLeagues()
 const leagueNames = allLeagues.map((league) => league.name)
-
+const filteredMatchs = matchsToday.filter((matchs) => leagueNames.includes(matchs.competition))
 
 ---
 
 {
   matchsToday
-  .filter((matchs) => leagueNames.includes(matchs.competition))
+  .filter((matchs) => {
+    if (filteredMatchs.length === 0) {
+      return true;
+    } else {
+      return leagueNames.includes(matchs.competition);
+    }
+  })
   .map((matchs) => {
     return (
       <section class='my-2'>
