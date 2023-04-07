@@ -9,15 +9,19 @@ const { local, visitant, score ,hour, date } = Astro.props;
 				
 				<div class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
 			
-					<p class="text-right font-semibold">
-						{local.name.name}	
+					<p class="text-right font-semibold">	
+						{local.name.name !==  undefined ? `${local.name.name}` : `${local.name}`}
 					</p>
 		
 					<img
 				class='h-8 object-contain my-2'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${local.name.id}.svg`}
+				src={ local.name.name !==  undefined ? 
+				 `https://api.lbdtwplus.com.ar/static/logos/${local.name.id}.svg` :
+				 `https://www.promiedos.com.ar/images/64/${local.localImgId}`}
 				alt={`Escudo del equipo ${local.name.name}`}
 			/>	
+
+			{console.log(local.name.name !==  undefined)}
 				</div>
 
 				
@@ -29,11 +33,13 @@ const { local, visitant, score ,hour, date } = Astro.props;
 				<div class="flex gap-1 items-center group transition-all justify-start hover:scale-110">
 					<img
 					class='h-8 object-contain my-2'
-					src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.name.id}.svg`}
+					src={ visitant.name.name !==  undefined ? 
+						`https://api.lbdtwplus.com.ar/static/logos/${visitant.name.id}.svg` :
+						`https://www.promiedos.com.ar/images/64/${visitant.visitantImgId}`}
 					alt={`Escudo del equipo ${visitant.name.name}`}
-				/>	
-					<p class="text-rigth font-semibold">
-						{visitant.name.name}	
+				/>
+					<p class="text-rigth font-semibold">	
+						{visitant.name.name !==  undefined ? `${visitant.name.name}` : `${visitant.name}`}
 					</p>
 		
 					
