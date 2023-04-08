@@ -27,6 +27,27 @@
     "matchesWon": 5,
     "matchesDrawn": 2,
     "matchesLost": 3,
+    "goalsFor": 15,
+    "goalsAgainst": 8,
+    "goalDifference": 7,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 17,
+    "matchesPlayed": 10,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
     "goalsFor": 14,
     "goalsAgainst": 8,
     "goalDifference": 6,
@@ -42,7 +63,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 17,
     "matchesPlayed": 9,
     "matchesWon": 5,
@@ -63,7 +84,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 17,
     "matchesPlayed": 9,
     "matchesWon": 5,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 17,
     "matchesPlayed": 9,
     "matchesWon": 5,
@@ -105,28 +126,28 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 16,
-    "matchesPlayed": 9,
-    "matchesWon": 5,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
+    "matchesPlayed": 10,
+    "matchesWon": 4,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
     "goalsFor": 15,
     "goalsAgainst": 8,
     "goalDifference": 7,
     "team": {
-      "id": "Talleres",
-      "color": "#00184C",
+      "id": "Velez",
+      "color": "#0063A8",
       "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 16,
     "matchesPlayed": 10,
     "matchesWon": 4,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 15,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -227,27 +248,6 @@
       "shortName": "NOB",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 13,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 4,
-    "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 7,
-    "goalDifference": 5,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
@@ -400,6 +400,27 @@
   },
   {
     "rank": 20,
+    "points": 10,
+    "matchesPlayed": 10,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 13,
+    "goalDifference": -4,
+    "team": {
+      "id": "Barracas-Central",
+      "color": "#ec1c24",
+      "colorSecondary": "#FFF",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 21,
     "points": 9,
     "matchesPlayed": 9,
     "matchesWon": 2,
@@ -420,7 +441,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 22,
     "points": 9,
     "matchesPlayed": 9,
     "matchesWon": 1,
@@ -441,36 +462,15 @@
     }
   },
   {
-    "rank": 22,
-    "points": 9,
-    "matchesPlayed": 9,
-    "matchesWon": 2,
-    "matchesDrawn": 3,
-    "matchesLost": 4,
-    "goalsFor": 9,
-    "goalsAgainst": 13,
-    "goalDifference": -4,
-    "team": {
-      "id": "Barracas-Central",
-      "color": "#ec1c24",
-      "colorSecondary": "#FFF",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 23,
     "points": 9,
-    "matchesPlayed": 9,
+    "matchesPlayed": 10,
     "matchesWon": 2,
     "matchesDrawn": 3,
-    "matchesLost": 4,
-    "goalsFor": 4,
-    "goalsAgainst": 8,
-    "goalDifference": -4,
+    "matchesLost": 5,
+    "goalsFor": 5,
+    "goalsAgainst": 11,
+    "goalDifference": -6,
     "team": {
       "id": "Banfield",
       "color": "#007934",
