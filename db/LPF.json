@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 20,
+    "matchesPlayed": 10,
+    "matchesWon": 6,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 11,
+    "goalsAgainst": 4,
+    "goalDifference": 7,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#BF1B27",
+      "colorSecondary": "#263D54",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 19,
     "matchesPlayed": 10,
     "matchesWon": 6,
@@ -38,27 +59,6 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 18,
-    "matchesPlayed": 10,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
-    "goalsFor": 10,
-    "goalsAgainst": 4,
-    "goalDifference": 6,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#BF1B27",
-      "colorSecondary": "#263D54",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
       "league": "LPF"
     }
   },
@@ -132,27 +132,6 @@
     "matchesWon": 4,
     "matchesDrawn": 4,
     "matchesLost": 2,
-    "goalsFor": 14,
-    "goalsAgainst": 13,
-    "goalDifference": 1,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 15,
-    "matchesPlayed": 9,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
     "goalsFor": 11,
     "goalsAgainst": 6,
     "goalDifference": 5,
@@ -164,6 +143,27 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 16,
+    "matchesPlayed": 10,
+    "matchesWon": 4,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 14,
+    "goalsAgainst": 13,
+    "goalDifference": 1,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
@@ -358,6 +358,27 @@
   },
   {
     "rank": 18,
+    "points": 12,
+    "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 5,
+    "goalsAgainst": 10,
+    "goalDifference": -5,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 19,
     "points": 11,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 20,
     "points": 11,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -395,27 +416,6 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 11,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 5,
-    "goalsAgainst": 10,
-    "goalDifference": -5,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
@@ -486,27 +486,6 @@
     "rank": 24,
     "points": 9,
     "matchesPlayed": 10,
-    "matchesWon": 1,
-    "matchesDrawn": 6,
-    "matchesLost": 3,
-    "goalsFor": 5,
-    "goalsAgainst": 10,
-    "goalDifference": -5,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 25,
-    "points": 9,
-    "matchesPlayed": 10,
     "matchesWon": 2,
     "matchesDrawn": 3,
     "matchesLost": 5,
@@ -521,6 +500,27 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 25,
+    "points": 8,
+    "matchesPlayed": 10,
+    "matchesWon": 1,
+    "matchesDrawn": 5,
+    "matchesLost": 4,
+    "goalsFor": 5,
+    "goalsAgainst": 11,
+    "goalDifference": -6,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
