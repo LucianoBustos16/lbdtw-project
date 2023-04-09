@@ -232,14 +232,14 @@
   },
   {
     "rank": 12,
-    "points": 33,
+    "points": 34,
     "matchesPlayed": 28,
     "matchesWon": 9,
-    "matchesDrawn": 6,
-    "matchesLost": 13,
-    "goalsFor": 24,
+    "matchesDrawn": 7,
+    "matchesLost": 12,
+    "goalsFor": 25,
     "goalsAgainst": 30,
-    "goalDifference": -6,
+    "goalDifference": -5,
     "team": {
       "id": "Mallorca",
       "color": "#cd1609 ",
@@ -274,27 +274,6 @@
   },
   {
     "rank": 14,
-    "points": 31,
-    "matchesPlayed": 28,
-    "matchesWon": 9,
-    "matchesDrawn": 4,
-    "matchesLost": 15,
-    "goalsFor": 23,
-    "goalsAgainst": 46,
-    "goalDifference": -23,
-    "team": {
-      "id": "Valladolid",
-      "color": "#5B268A",
-      "colorSecondary": "#FFF",
-      "name": "Valladolid",
-      "shortName": "VLD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 15,
     "points": 30,
     "matchesPlayed": 28,
     "matchesWon": 7,
@@ -311,6 +290,27 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 15,
+    "points": 29,
+    "matchesPlayed": 28,
+    "matchesWon": 8,
+    "matchesDrawn": 5,
+    "matchesLost": 15,
+    "goalsFor": 23,
+    "goalsAgainst": 47,
+    "goalDifference": -24,
+    "team": {
+      "id": "Valladolid",
+      "color": "#5B268A",
+      "colorSecondary": "#FFF",
+      "name": "Valladolid",
+      "shortName": "VLD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
       "league": "LaLiga"
     }
   },
