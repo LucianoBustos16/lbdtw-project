@@ -1,0 +1,34 @@
+---
+import { getAllMatch } from '@services/schedule.js'
+import CABNextMatchRow from '@components/CABNextMatchRow.astro'
+
+const { teamId, league } = Astro.props
+const schedule = await getAllMatch({league})
+---
+
+{
+  schedule
+    .filter(fecha => fecha.matches.some(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && !match.score.includes('-')))
+	  .slice(0,1)
+    .map((fecha) => {
+      return (
+          <div class='w-full my-8'>
+            {fecha.matches
+              .filter(match => (match.teams[0].id === teamId || match.teams[1].id === teamId) && !match.score.includes('-'))
+              .map((match) => (
+                <CABNextMatchRow
+                  local={match.teams[0]}
+                  visitant={match.teams[1]}
+                  score={match.score}
+                  date={match.formattedDate}
+                  hour={match.hour}
+                  timestamp={match.timestamp}
+                  hourMatch={match.hourMatch}
+                  round={fecha.fecha}
+                />                                
+              ))
+            }
+          </div>
+      )
+    })
+}
