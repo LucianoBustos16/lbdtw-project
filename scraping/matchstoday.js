@@ -41,14 +41,14 @@ const teamId = {
 const SELECTORS = {
 	matchs: '#partidos #fixturein',
 	competition: '.tituloin',
-	partido: 'tbody tr:not(:first-child):not(.tituloin):not(.goles)',
+	partido: 'tbody tr:not(:first-child):not(.tituloin):not(.goles):not(.choy)',
 	hour: 'tr:not(:first-child):not(.tituloin):not(.goles) td:first-child',
 	locals: 'td:nth-child(2) .datoequipo',
 	localsImages: 'td:nth-child(2) img:last-of-type',
 	localScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r1',
 	visitantScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r2',
 	visitants: 'td:nth-child(5) .datoequipo',
-	visitantsImages: 'td:nth-child(5) img',
+	visitantsImages: 'td:nth-child(5) img:first-of-type',
 }
 
 export async function getMatchsToday($) {
@@ -58,6 +58,8 @@ export async function getMatchsToday($) {
 	const getTeamIdFromImageUrl = (url) => {
 		return url.slice(url.lastIndexOf('/') + 1)
 	}
+
+
 
 	const getTeamFrom = ({ name }) => TEAMS.find(team => team.id === name)
 
@@ -91,12 +93,16 @@ export async function getMatchsToday($) {
 			const localImgId = getTeamIdFromImageUrl(localImg)
 
 
+
+	
+
+
 			const visitantNameRaw = $($visitants[index]).text()
 			const clearvisitantName = teamId[visitantNameRaw] ? teamId[visitantNameRaw] : cleanText(visitantNameRaw)
 			const visitantName = getTeamFrom({ name: clearvisitantName }) ? getTeamFrom({ name: clearvisitantName }) : cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantImgId = getTeamIdFromImageUrl(visitantImg)
-			
+			// console.log(`${localName} - ${localImg}`)
 
 			const localScoreRaw = $($localScores[index]).text()
 			const localScore = cleanText(localScoreRaw)
