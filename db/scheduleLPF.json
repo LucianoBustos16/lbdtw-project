@@ -4543,34 +4543,6 @@
         "hourMatch": "16:30",
         "teams": [
           {
-            "id": "Newells",
-            "name": "Newells",
-            "shortName": "NOB",
-            "color": "#ED1C24",
-            "colorSecondary": "#000000",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "River",
-            "name": "River Plate",
-            "shortName": "CARP",
-            "color": "#E30520",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "formattedDate": "16 Abr",
-        "timestamp": 1681682400000,
-        "hourMatch": "19:00",
-        "teams": [
-          {
             "id": "Independiente",
             "name": "Independiente",
             "shortName": "IND",
@@ -4588,6 +4560,34 @@
             "colorSecondary": "#FFFFFF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "16 Abr",
+        "timestamp": 1681682400000,
+        "hourMatch": "19:00",
+        "teams": [
+          {
+            "id": "Newells",
+            "name": "Newells",
+            "shortName": "NOB",
+            "color": "#ED1C24",
+            "colorSecondary": "#000000",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "River",
+            "name": "River Plate",
+            "shortName": "CARP",
+            "color": "#E30520",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
             "league": "LPF"
           }
         ],
