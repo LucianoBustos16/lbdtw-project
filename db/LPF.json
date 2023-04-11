@@ -86,6 +86,27 @@
   {
     "rank": 5,
     "points": 17,
+    "matchesPlayed": 11,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 4,
+    "goalsFor": 14,
+    "goalsAgainst": 7,
+    "goalDifference": 7,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 17,
     "matchesPlayed": 10,
     "matchesWon": 5,
     "matchesDrawn": 2,
@@ -101,27 +122,6 @@
       "shortName": "LAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 17,
-    "matchesPlayed": 11,
-    "matchesWon": 5,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 13,
-    "goalsAgainst": 7,
-    "goalDifference": 6,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -574,8 +574,8 @@
     "matchesDrawn": 4,
     "matchesLost": 6,
     "goalsFor": 6,
-    "goalsAgainst": 16,
-    "goalDifference": -10,
+    "goalsAgainst": 17,
+    "goalDifference": -11,
     "team": {
       "id": "Union",
       "color": "#DA251D",
