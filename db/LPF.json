@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 21,
+    "matchesPlayed": 11,
+    "matchesWon": 6,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 14,
+    "goalsAgainst": 12,
+    "goalDifference": 2,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
     "points": 19,
     "matchesPlayed": 10,
     "matchesWon": 6,
@@ -59,27 +80,6 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 19,
-    "matchesPlayed": 11,
-    "matchesWon": 5,
-    "matchesDrawn": 4,
-    "matchesLost": 2,
-    "goalsFor": 13,
-    "goalsAgainst": 12,
-    "goalDifference": 1,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -465,27 +465,6 @@
     "rank": 23,
     "points": 10,
     "matchesPlayed": 11,
-    "matchesWon": 1,
-    "matchesDrawn": 7,
-    "matchesLost": 3,
-    "goalsFor": 8,
-    "goalsAgainst": 11,
-    "goalDifference": -3,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 24,
-    "points": 10,
-    "matchesPlayed": 11,
     "matchesWon": 2,
     "matchesDrawn": 4,
     "matchesLost": 5,
@@ -504,7 +483,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 24,
     "points": 9,
     "matchesPlayed": 10,
     "matchesWon": 1,
@@ -521,6 +500,27 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 25,
+    "points": 9,
+    "matchesPlayed": 11,
+    "matchesWon": 1,
+    "matchesDrawn": 6,
+    "matchesLost": 4,
+    "goalsFor": 8,
+    "goalsAgainst": 12,
+    "goalDifference": -4,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
