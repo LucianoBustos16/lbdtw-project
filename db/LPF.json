@@ -70,8 +70,8 @@
     "matchesDrawn": 1,
     "matchesLost": 4,
     "goalsFor": 18,
-    "goalsAgainst": 9,
-    "goalDifference": 9,
+    "goalsAgainst": 10,
+    "goalDifference": 8,
     "team": {
       "id": "Talleres",
       "color": "#00184C",
@@ -380,6 +380,27 @@
   {
     "rank": 19,
     "points": 12,
+    "matchesPlayed": 11,
+    "matchesWon": 2,
+    "matchesDrawn": 6,
+    "matchesLost": 3,
+    "goalsFor": 10,
+    "goalsAgainst": 11,
+    "goalDifference": -1,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 20,
+    "points": 12,
     "matchesPlayed": 10,
     "matchesWon": 3,
     "matchesDrawn": 3,
@@ -395,27 +416,6 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 12,
-    "matchesPlayed": 11,
-    "matchesWon": 2,
-    "matchesDrawn": 6,
-    "matchesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 11,
-    "goalDifference": -2,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
