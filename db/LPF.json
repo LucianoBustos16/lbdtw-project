@@ -342,8 +342,8 @@
     "matchesWon": 4,
     "matchesDrawn": 1,
     "matchesLost": 6,
-    "goalsFor": 8,
-    "goalsAgainst": 12,
+    "goalsFor": 9,
+    "goalsAgainst": 13,
     "goalDifference": -4,
     "team": {
       "id": "Godoy-Cruz",
@@ -443,6 +443,27 @@
   {
     "rank": 22,
     "points": 11,
+    "matchesPlayed": 11,
+    "matchesWon": 3,
+    "matchesDrawn": 2,
+    "matchesLost": 6,
+    "goalsFor": 9,
+    "goalsAgainst": 15,
+    "goalDifference": -6,
+    "team": {
+      "id": "Arsenal",
+      "color": "#13B5EA",
+      "colorSecondary": "#EF3340",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 23,
+    "points": 11,
     "matchesPlayed": 10,
     "matchesWon": 3,
     "matchesDrawn": 2,
@@ -458,27 +479,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 23,
-    "points": 11,
-    "matchesPlayed": 11,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 6,
-    "goalsFor": 8,
-    "goalsAgainst": 14,
-    "goalDifference": -6,
-    "team": {
-      "id": "Arsenal",
-      "color": "#13B5EA",
-      "colorSecondary": "#EF3340",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
       "league": "LPF"
     }
   },
