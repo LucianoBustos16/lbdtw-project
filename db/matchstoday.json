@@ -278,7 +278,7 @@
         ]
       },
       {
-        "hour": "82' ",
+        "hour": "90' ",
         "teams": [
           {
             "localImgId": "36.png",
@@ -865,7 +865,7 @@
         ]
       },
       {
-        "hour": "69' ",
+        "hour": "77' ",
         "teams": [
           {
             "localImgId": "169.png",
@@ -1128,6 +1128,101 @@
     ]
   },
   {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1610.png",
+            "name": "NEC",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1325.png",
+            "name": "Vitesse",
+            "visitantScore": "4"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1717.png",
+            "name": "Volendam",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "684.png",
+            "name": "PSV",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1299.png",
+            "name": "Utrecht",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1072.png",
+            "name": "Twente",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1606.png",
+            "name": "Cambuur",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "978.png",
+            "name": "Feyenoord",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1320.png",
+            "name": "F. Sittard",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "985.png",
+            "name": "AZ Alkmaar",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "571.png",
+            "name": "Ajax",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1321.png",
+            "name": "Emmen",
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Brasileirao",
     "matches": [
       {
@@ -1161,7 +1256,7 @@
         ]
       },
       {
-        "hour": "15' ",
+        "hour": "23' ",
         "teams": [
           {
             "localImgId": "593.png",
@@ -1246,7 +1341,7 @@
         ]
       },
       {
-        "hour": "33' ",
+        "hour": "41' ",
         "teams": [
           {
             "localImgId": "875.png",
@@ -1286,6 +1381,141 @@
           {
             "visitantImgId": "1330.png",
             "name": "Boyaca Chico",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "718.png",
+            "name": "Cerro Porte�o",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1768.png",
+            "name": "Sp. Trinidense",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "1702.png",
+            "name": "Sp. Ameliano",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "736.png",
+            "name": "Guarani (P)",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "747.png",
+            "name": "Audax Italiano",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "721.png",
+            "name": "Univ. de Chile",
+            "visitantScore": "2"
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "892.png",
+            "name": "La Calera",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1338.png",
+            "name": "OHiggins",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "896.png",
+            "name": "Cruz Azul",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "688.png",
+            "name": "America",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "909.png",
+            "name": "Pumas UNAM",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "908.png",
+            "name": "Toluca",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "904.png",
+            "name": "Queretaro",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "906.png",
+            "name": "Tigres UANL",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "22:10  ",
+        "teams": [
+          {
+            "localImgId": "899.png",
+            "name": "Monterrey",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "905.png",
+            "name": "Santos Laguna",
             "visitantScore": ""
           }
         ]
