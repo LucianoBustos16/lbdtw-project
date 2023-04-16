@@ -85,6 +85,27 @@
   },
   {
     "rank": 5,
+    "points": 21,
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchesDrawn": 3,
+    "matchesLost": 3,
+    "goalsFor": 11,
+    "goalsAgainst": 9,
+    "goalDifference": 2,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 20,
     "matchesPlayed": 11,
     "matchesWon": 6,
@@ -105,7 +126,28 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
+    "points": 18,
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 15,
+    "goalsAgainst": 8,
+    "goalDifference": 7,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 18,
     "matchesPlayed": 11,
     "matchesWon": 5,
@@ -126,28 +168,28 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 9,
     "points": 18,
-    "matchesPlayed": 11,
+    "matchesPlayed": 12,
     "matchesWon": 5,
     "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 10,
-    "goalsAgainst": 9,
+    "matchesLost": 4,
+    "goalsFor": 13,
+    "goalsAgainst": 12,
     "goalDifference": 1,
     "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 8,
+    "rank": 10,
     "points": 18,
     "matchesPlayed": 11,
     "matchesWon": 5,
@@ -168,28 +210,7 @@
     }
   },
   {
-    "rank": 9,
-    "points": 17,
-    "matchesPlayed": 11,
-    "matchesWon": 5,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 15,
-    "goalsAgainst": 8,
-    "goalDifference": 7,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
+    "rank": 11,
     "points": 17,
     "matchesPlayed": 11,
     "matchesWon": 5,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 16,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -227,27 +248,6 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 16,
-    "matchesPlayed": 12,
-    "matchesWon": 4,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
-    "goalsFor": 12,
-    "goalsAgainst": 12,
-    "goalDifference": 0,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -296,27 +296,6 @@
   {
     "rank": 15,
     "points": 15,
-    "matchesPlayed": 12,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 13,
-    "goalsAgainst": 11,
-    "goalDifference": 2,
-    "team": {
-      "id": "Boca",
-      "color": "#023F86",
-      "colorSecondary": "#F7A600",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 15,
     "matchesPlayed": 11,
     "matchesWon": 4,
     "matchesDrawn": 3,
@@ -336,7 +315,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "points": 15,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -357,7 +336,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 17,
     "points": 14,
     "matchesPlayed": 11,
     "matchesWon": 3,
@@ -378,7 +357,49 @@
     }
   },
   {
+    "rank": 18,
+    "points": 14,
+    "matchesPlayed": 12,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 6,
+    "goalsFor": 13,
+    "goalsAgainst": 12,
+    "goalDifference": 1,
+    "team": {
+      "id": "Boca",
+      "color": "#023F86",
+      "colorSecondary": "#F7A600",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
     "rank": 19,
+    "points": 13,
+    "matchesPlayed": 12,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 5,
+    "goalsFor": 13,
+    "goalsAgainst": 17,
+    "goalDifference": -4,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 20,
     "points": 12,
     "matchesPlayed": 11,
     "matchesWon": 3,
@@ -395,27 +416,6 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 12,
-    "matchesPlayed": 11,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 13,
-    "goalsAgainst": 17,
-    "goalDifference": -4,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
@@ -443,13 +443,13 @@
   {
     "rank": 22,
     "points": 11,
-    "matchesPlayed": 11,
+    "matchesPlayed": 12,
     "matchesWon": 3,
     "matchesDrawn": 2,
-    "matchesLost": 6,
+    "matchesLost": 7,
     "goalsFor": 9,
-    "goalsAgainst": 18,
-    "goalDifference": -9,
+    "goalsAgainst": 19,
+    "goalDifference": -10,
     "team": {
       "id": "Gimnasia",
       "color": "#121731",
