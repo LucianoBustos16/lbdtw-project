@@ -90,6 +90,27 @@
     "matchesWon": 6,
     "matchesDrawn": 3,
     "matchesLost": 3,
+    "goalsFor": 19,
+    "goalsAgainst": 12,
+    "goalDifference": 7,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 21,
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchesDrawn": 3,
+    "matchesLost": 3,
     "goalsFor": 12,
     "goalsAgainst": 9,
     "goalDifference": 3,
@@ -105,15 +126,15 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 21,
-    "matchesPlayed": 11,
+    "matchesPlayed": 12,
     "matchesWon": 6,
     "matchesDrawn": 3,
-    "matchesLost": 2,
+    "matchesLost": 3,
     "goalsFor": 14,
-    "goalsAgainst": 12,
-    "goalDifference": 2,
+    "goalsAgainst": 13,
+    "goalDifference": 1,
     "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 18,
     "matchesPlayed": 12,
     "matchesWon": 5,
@@ -143,27 +164,6 @@
       "shortName": "ARGJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 18,
-    "matchesPlayed": 11,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 15,
-    "goalsAgainst": 9,
-    "goalDifference": 6,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -296,13 +296,13 @@
   {
     "rank": 15,
     "points": 16,
-    "matchesPlayed": 11,
+    "matchesPlayed": 12,
     "matchesWon": 5,
     "matchesDrawn": 1,
-    "matchesLost": 5,
-    "goalsFor": 11,
-    "goalsAgainst": 13,
-    "goalDifference": -2,
+    "matchesLost": 6,
+    "goalsFor": 14,
+    "goalsAgainst": 17,
+    "goalDifference": -3,
     "team": {
       "id": "Godoy-Cruz",
       "color": "#2670CA",
@@ -463,6 +463,27 @@
   },
   {
     "rank": 23,
+    "points": 12,
+    "matchesPlayed": 12,
+    "matchesWon": 2,
+    "matchesDrawn": 6,
+    "matchesLost": 4,
+    "goalsFor": 7,
+    "goalsAgainst": 13,
+    "goalDifference": -6,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 24,
     "points": 11,
     "matchesPlayed": 12,
     "matchesWon": 1,
@@ -483,7 +504,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 25,
     "points": 11,
     "matchesPlayed": 12,
     "matchesWon": 3,
@@ -504,7 +525,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 26,
     "points": 10,
     "matchesPlayed": 12,
     "matchesWon": 1,
@@ -521,27 +542,6 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 26,
-    "points": 9,
-    "matchesPlayed": 11,
-    "matchesWon": 1,
-    "matchesDrawn": 6,
-    "matchesLost": 4,
-    "goalsFor": 6,
-    "goalsAgainst": 13,
-    "goalDifference": -7,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
