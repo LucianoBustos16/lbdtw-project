@@ -61,7 +61,7 @@
     "competition": "Premier League",
     "matches": [
       {
-        "hour": "56' ",
+        "hour": "64' ",
         "teams": [
           {
             "localImgId": "529.png",
@@ -81,7 +81,7 @@
     "competition": "Liga Francia",
     "matches": [
       {
-        "hour": "63' ",
+        "hour": "71' ",
         "teams": [
           {
             "localImgId": "676.png",
@@ -101,7 +101,7 @@
     "competition": "Serie A",
     "matches": [
       {
-        "hour": "66' ",
+        "hour": "74' ",
         "teams": [
           {
             "localImgId": "626.png",
@@ -121,7 +121,7 @@
     "competition": "La Liga",
     "matches": [
       {
-        "hour": "62' ",
+        "hour": "70' ",
         "teams": [
           {
             "localImgId": "520.png",
@@ -159,7 +159,7 @@
     "competition": "Bundesliga",
     "matches": [
       {
-        "hour": "90' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "601.png",
@@ -179,12 +179,12 @@
     "competition": "Primera C",
     "matches": [
       {
-        "hour": "86' ",
+        "hour": "90+' ",
         "teams": [
           {
             "localImgId": "103.png",
             "name": "Berazategui",
-            "localScore": "1"
+            "localScore": "2"
           },
           {
             "visitantImgId": "60.png",
@@ -248,6 +248,39 @@
               "league": "LPF"
             },
             "visitantScore": "4"
+          }
+        ]
+      },
+      {
+        "hour": "11:00  ",
+        "teams": [
+          {
+            "localImgId": "39.png",
+            "name": {
+              "id": "Union",
+              "color": "#DA251D",
+              "colorSecondary": "#FFFFFF",
+              "name": "Union",
+              "shortName": "USF",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "4.png",
+            "name": {
+              "id": "Arsenal",
+              "color": "#13B5EA",
+              "colorSecondary": "#EF3340",
+              "name": "Arsenal",
+              "shortName": "ARS",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       },
