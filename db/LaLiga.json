@@ -171,6 +171,27 @@
     "rank": 9,
     "points": 40,
     "matchesPlayed": 30,
+    "matchesWon": 11,
+    "matchesDrawn": 7,
+    "matchesLost": 12,
+    "goalsFor": 28,
+    "goalsAgainst": 31,
+    "goalDifference": -3,
+    "team": {
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 40,
+    "matchesPlayed": 30,
     "matchesWon": 10,
     "matchesDrawn": 10,
     "matchesLost": 10,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 38,
     "matchesPlayed": 30,
     "matchesWon": 10,
@@ -206,27 +227,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 38,
-    "matchesPlayed": 30,
-    "matchesWon": 10,
-    "matchesDrawn": 8,
-    "matchesLost": 12,
-    "goalsFor": 27,
-    "goalsAgainst": 31,
-    "goalDifference": -4,
-    "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
@@ -300,27 +300,6 @@
     "matchesWon": 7,
     "matchesDrawn": 11,
     "matchesLost": 12,
-    "goalsFor": 28,
-    "goalsAgainst": 37,
-    "goalDifference": -9,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 32,
-    "matchesPlayed": 30,
-    "matchesWon": 7,
-    "matchesDrawn": 11,
-    "matchesLost": 12,
     "goalsFor": 23,
     "goalsAgainst": 42,
     "goalDifference": -19,
@@ -332,6 +311,27 @@
       "shortName": "CAD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 31,
+    "matchesPlayed": 30,
+    "matchesWon": 7,
+    "matchesDrawn": 10,
+    "matchesLost": 13,
+    "goalsFor": 28,
+    "goalsAgainst": 38,
+    "goalDifference": -10,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
