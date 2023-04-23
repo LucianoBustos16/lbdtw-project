@@ -1,10 +1,10 @@
 [
   {
     "rank": 1,
-    "points": 30,
-    "matchesPlayed": 12,
+    "points": 31,
+    "matchesPlayed": 13,
     "matchesWon": 10,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 2,
     "goalsFor": 22,
     "goalsAgainst": 5,
@@ -486,6 +486,27 @@
     "rank": 24,
     "points": 11,
     "matchesPlayed": 13,
+    "matchesWon": 1,
+    "matchesDrawn": 8,
+    "matchesLost": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 13,
+    "goalDifference": -4,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 25,
+    "points": 11,
+    "matchesPlayed": 13,
     "matchesWon": 3,
     "matchesDrawn": 2,
     "matchesLost": 8,
@@ -504,7 +525,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 26,
     "points": 11,
     "matchesPlayed": 12,
     "matchesWon": 3,
@@ -521,27 +542,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 26,
-    "points": 10,
-    "matchesPlayed": 12,
-    "matchesWon": 1,
-    "matchesDrawn": 7,
-    "matchesLost": 4,
-    "goalsFor": 9,
-    "goalsAgainst": 13,
-    "goalDifference": -4,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
