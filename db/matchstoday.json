@@ -69,7 +69,7 @@
         ]
       },
       {
-        "hour": "40' ",
+        "hour": "45+4' ",
         "teams": [
           {
             "localImgId": "33.png",
@@ -97,12 +97,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "11' ",
+        "hour": "20' ",
         "teams": [
           {
             "localImgId": "8.png",
@@ -248,7 +248,7 @@
         ]
       },
       {
-        "hour": "53' ",
+        "hour": "62' ",
         "teams": [
           {
             "localImgId": "48.png",
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "hour": "07' ",
+        "hour": "16' ",
         "teams": [
           {
             "localImgId": "32.png",
@@ -935,7 +935,7 @@
         ]
       },
       {
-        "hour": "46' ",
+        "hour": "55' ",
         "teams": [
           {
             "localImgId": "47.png",
@@ -950,7 +950,7 @@
         ]
       },
       {
-        "hour": "46' ",
+        "hour": "54' ",
         "teams": [
           {
             "localImgId": "171.png",
@@ -965,7 +965,7 @@
         ]
       },
       {
-        "hour": "08' ",
+        "hour": "17' ",
         "teams": [
           {
             "localImgId": "187.png",
@@ -1164,6 +1164,124 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
               "league": "LPF"
             },
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Reserva - Torneo Proyeccion",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "5.png",
+            "name": {
+              "id": "Banfield",
+              "color": "#007934",
+              "colorSecondary": "#B49759",
+              "name": "Banfield",
+              "shortName": "BAN",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+              "league": "LPF"
+            },
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "33.png",
+            "name": {
+              "id": "Instituto",
+              "color": "#E0312B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Instituto",
+              "shortName": "IACC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1072.png",
+            "name": "Twente",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1285.png",
+            "name": "Sparta R.",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1287.png",
+            "name": "Go Ahead",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "1320.png",
+            "name": "F. Sittard",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "684.png",
+            "name": "PSV",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "571.png",
+            "name": "Ajax",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "978.png",
+            "name": "Feyenoord",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1299.png",
+            "name": "Utrecht",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "985.png",
+            "name": "AZ Alkmaar",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1324.png",
+            "name": "RKC Waalwijk",
             "visitantScore": "0"
           }
         ]
