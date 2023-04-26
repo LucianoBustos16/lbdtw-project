@@ -6,9 +6,9 @@
     "matchesWon": 24,
     "matchesDrawn": 4,
     "matchesLost": 3,
-    "goalsFor": 54,
+    "goalsFor": 55,
     "goalsAgainst": 11,
-    "goalDifference": 43,
+    "goalDifference": 44,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -175,8 +175,8 @@
     "matchesDrawn": 10,
     "matchesLost": 10,
     "goalsFor": 38,
-    "goalsAgainst": 36,
-    "goalDifference": 2,
+    "goalsAgainst": 37,
+    "goalDifference": 1,
     "team": {
       "id": "Rayo-Vallecano",
       "color": "#e21921 ",
@@ -232,6 +232,27 @@
   },
   {
     "rank": 12,
+    "points": 39,
+    "matchesPlayed": 31,
+    "matchesWon": 10,
+    "matchesDrawn": 9,
+    "matchesLost": 12,
+    "goalsFor": 37,
+    "goalsAgainst": 42,
+    "goalDifference": -5,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
     "points": 38,
     "matchesPlayed": 30,
     "matchesWon": 10,
@@ -248,27 +269,6 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 37,
-    "matchesPlayed": 31,
-    "matchesWon": 9,
-    "matchesDrawn": 10,
-    "matchesLost": 12,
-    "goalsFor": 36,
-    "goalsAgainst": 42,
-    "goalDifference": -6,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,14 +400,14 @@
   },
   {
     "rank": 20,
-    "points": 14,
+    "points": 13,
     "matchesPlayed": 31,
     "matchesWon": 2,
-    "matchesDrawn": 8,
-    "matchesLost": 21,
+    "matchesDrawn": 7,
+    "matchesLost": 22,
     "goalsFor": 20,
-    "goalsAgainst": 61,
-    "goalDifference": -41,
+    "goalsAgainst": 62,
+    "goalDifference": -42,
     "team": {
       "id": "Elche",
       "color": "#016935",
