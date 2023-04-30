@@ -385,7 +385,7 @@
         ]
       },
       {
-        "hour": "59' ",
+        "hour": "67' ",
         "teams": [
           {
             "localImgId": "534.png",
@@ -465,7 +465,7 @@
         ]
       },
       {
-        "hour": "84' ",
+        "hour": "90+2' ",
         "teams": [
           {
             "localImgId": "652.png",
@@ -475,7 +475,7 @@
           {
             "visitantImgId": "644.png",
             "name": "Lorient",
-            "visitantScore": "2"
+            "visitantScore": "3"
           }
         ]
       },
@@ -560,12 +560,12 @@
         ]
       },
       {
-        "hour": "44' ",
+        "hour": "E. T. ",
         "teams": [
           {
             "localImgId": "554.png",
             "name": "Fiorentina",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "565.png",
@@ -661,7 +661,7 @@
         ]
       },
       {
-        "hour": "17' ",
+        "hour": "25' ",
         "teams": [
           {
             "localImgId": "520.png",
@@ -747,7 +747,7 @@
         ]
       },
       {
-        "hour": "59' ",
+        "hour": "67' ",
         "teams": [
           {
             "localImgId": "618.png",
@@ -1064,6 +1064,68 @@
     ]
   },
   {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "8.png",
+            "name": {
+              "id": "Estudiantes",
+              "color": "#E41815",
+              "colorSecondary": "#FFF",
+              "name": "Estudiantes (LP)",
+              "shortName": "EST",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "6.png",
+            "name": {
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "66.png",
+            "name": "El Porvenir",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "5.png",
+            "name": {
+              "id": "Banfield",
+              "color": "#007934",
+              "colorSecondary": "#B49759",
+              "name": "Banfield",
+              "shortName": "BAN",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Reserva - Torneo Proyeccion",
     "matches": [
       {
@@ -1336,7 +1398,7 @@
     "competition": "Liga Chile",
     "matches": [
       {
-        "hour": "44' ",
+        "hour": "45+7' ",
         "teams": [
           {
             "localImgId": "721.png",
