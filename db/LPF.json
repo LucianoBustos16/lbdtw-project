@@ -64,6 +64,27 @@
   },
   {
     "rank": 4,
+    "points": 27,
+    "matchesPlayed": 15,
+    "matchesWon": 8,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 14,
+    "goalsAgainst": 11,
+    "goalDifference": 3,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 25,
     "matchesPlayed": 14,
     "matchesWon": 7,
@@ -80,27 +101,6 @@
       "shortName": "LAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 25,
-    "matchesPlayed": 15,
-    "matchesWon": 7,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
-    "goalsFor": 13,
-    "goalsAgainst": 11,
-    "goalDifference": 2,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
       "league": "LPF"
     }
   },
@@ -465,27 +465,6 @@
     "rank": 23,
     "points": 15,
     "matchesPlayed": 15,
-    "matchesWon": 2,
-    "matchesDrawn": 9,
-    "matchesLost": 4,
-    "goalsFor": 12,
-    "goalsAgainst": 17,
-    "goalDifference": -5,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 24,
-    "points": 15,
-    "matchesPlayed": 15,
     "matchesWon": 3,
     "matchesDrawn": 6,
     "matchesLost": 6,
@@ -504,7 +483,7 @@
     }
   },
   {
-    "rank": 25,
+    "rank": 24,
     "points": 15,
     "matchesPlayed": 14,
     "matchesWon": 4,
@@ -521,6 +500,27 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 25,
+    "points": 14,
+    "matchesPlayed": 15,
+    "matchesWon": 2,
+    "matchesDrawn": 8,
+    "matchesLost": 5,
+    "goalsFor": 12,
+    "goalsAgainst": 18,
+    "goalDifference": -6,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
