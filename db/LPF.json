@@ -69,6 +69,27 @@
     "matchesWon": 8,
     "matchesDrawn": 3,
     "matchesLost": 4,
+    "goalsFor": 24,
+    "goalsAgainst": 12,
+    "goalDifference": 12,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 27,
+    "matchesPlayed": 15,
+    "matchesWon": 8,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
     "goalsFor": 18,
     "goalsAgainst": 13,
     "goalDifference": 5,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 27,
     "matchesPlayed": 15,
     "matchesWon": 8,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 26,
     "matchesPlayed": 15,
     "matchesWon": 7,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 25,
     "matchesPlayed": 14,
     "matchesWon": 7,
@@ -143,27 +164,6 @@
       "shortName": "LAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 24,
-    "matchesPlayed": 14,
-    "matchesWon": 7,
-    "matchesDrawn": 3,
-    "matchesLost": 4,
-    "goalsFor": 23,
-    "goalsAgainst": 12,
-    "goalDifference": 11,
-    "team": {
-      "id": "Talleres",
-      "color": "#00184C",
-      "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
       "league": "LPF"
     }
   },
@@ -275,13 +275,13 @@
   {
     "rank": 14,
     "points": 18,
-    "matchesPlayed": 14,
+    "matchesPlayed": 15,
     "matchesWon": 5,
     "matchesDrawn": 3,
-    "matchesLost": 6,
+    "matchesLost": 7,
     "goalsFor": 17,
-    "goalsAgainst": 19,
-    "goalDifference": -2,
+    "goalsAgainst": 20,
+    "goalDifference": -3,
     "team": {
       "id": "Racing-Club",
       "color": "#009DDB",
