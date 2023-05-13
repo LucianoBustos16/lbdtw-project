@@ -174,6 +174,27 @@
     "matchesWon": 6,
     "matchesDrawn": 5,
     "matchesLost": 5,
+    "goalsFor": 20,
+    "goalsAgainst": 14,
+    "goalDifference": 6,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 23,
+    "matchesPlayed": 16,
+    "matchesWon": 6,
+    "matchesDrawn": 5,
+    "matchesLost": 5,
     "goalsFor": 18,
     "goalsAgainst": 18,
     "goalDifference": 0,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 21,
     "matchesPlayed": 15,
     "matchesWon": 5,
@@ -206,27 +227,6 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 20,
-    "matchesPlayed": 15,
-    "matchesWon": 5,
-    "matchesDrawn": 5,
-    "matchesLost": 5,
-    "goalsFor": 19,
-    "goalsAgainst": 14,
-    "goalDifference": 5,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -527,13 +527,13 @@
   {
     "rank": 26,
     "points": 14,
-    "matchesPlayed": 15,
+    "matchesPlayed": 16,
     "matchesWon": 2,
     "matchesDrawn": 8,
-    "matchesLost": 5,
+    "matchesLost": 6,
     "goalsFor": 12,
-    "goalsAgainst": 18,
-    "goalDifference": -6,
+    "goalsAgainst": 19,
+    "goalDifference": -7,
     "team": {
       "id": "Atletico-Tucuman",
       "color": "#71AFDB",
