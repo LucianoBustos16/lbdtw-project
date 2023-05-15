@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 38,
+    "points": 37,
     "matchesPlayed": 16,
     "matchesWon": 12,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 26,
-    "goalsAgainst": 6,
-    "goalDifference": 20,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 27,
+    "goalsAgainst": 8,
+    "goalDifference": 19,
     "team": {
       "id": "River",
       "color": "#E30520",
@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 30,
+    "matchesPlayed": 16,
+    "matchesWon": 9,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 29,
+    "goalsAgainst": 15,
+    "goalDifference": 14,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
     "points": 29,
     "matchesPlayed": 16,
     "matchesWon": 8,
@@ -59,27 +80,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 28,
-    "matchesPlayed": 16,
-    "matchesWon": 8,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
-    "goalsFor": 27,
-    "goalsAgainst": 14,
-    "goalDifference": 13,
-    "team": {
-      "id": "Talleres",
-      "color": "#00184C",
-      "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
       "league": "LPF"
     }
   },
