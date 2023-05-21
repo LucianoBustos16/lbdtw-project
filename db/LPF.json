@@ -48,6 +48,27 @@
     "matchesWon": 9,
     "matchesDrawn": 4,
     "matchesLost": 4,
+    "goalsFor": 30,
+    "goalsAgainst": 16,
+    "goalDifference": 14,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 31,
+    "matchesPlayed": 17,
+    "matchesWon": 9,
+    "matchesDrawn": 4,
+    "matchesLost": 4,
     "goalsFor": 20,
     "goalsAgainst": 14,
     "goalDifference": 6,
@@ -59,27 +80,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 30,
-    "matchesPlayed": 17,
-    "matchesWon": 9,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 29,
-    "goalsAgainst": 16,
-    "goalDifference": 13,
-    "team": {
-      "id": "Talleres",
-      "color": "#00184C",
-      "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
       "league": "LPF"
     }
   },
@@ -106,27 +106,6 @@
   },
   {
     "rank": 6,
-    "points": 30,
-    "matchesPlayed": 17,
-    "matchesWon": 9,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 15,
-    "goalsAgainst": 13,
-    "goalDifference": 2,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
     "points": 29,
     "matchesPlayed": 17,
     "matchesWon": 8,
@@ -147,7 +126,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "points": 28,
     "matchesPlayed": 16,
     "matchesWon": 8,
@@ -164,6 +143,27 @@
       "shortName": "LAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 28,
+    "matchesPlayed": 17,
+    "matchesWon": 8,
+    "matchesDrawn": 4,
+    "matchesLost": 5,
+    "goalsFor": 15,
+    "goalsAgainst": 14,
+    "goalDifference": 1,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
       "league": "LPF"
     }
   },
