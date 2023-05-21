@@ -36,7 +36,7 @@
         ]
       },
       {
-        "hour": "07' ",
+        "hour": "17' ",
         "teams": [
           {
             "localImgId": "81.png",
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "hour": "05' ",
+        "hour": "15' ",
         "teams": [
           {
             "localImgId": "7.png",
@@ -170,7 +170,7 @@
         ]
       },
       {
-        "hour": "07' ",
+        "hour": "17' ",
         "teams": [
           {
             "localImgId": "senegal.gif",
@@ -180,17 +180,17 @@
           {
             "visitantImgId": "japon.gif",
             "name": "Japon",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "07' ",
+        "hour": "17' ",
         "teams": [
           {
             "localImgId": "italia.gif",
             "name": "Italia",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "brasil.gif",
@@ -942,7 +942,7 @@
         ]
       },
       {
-        "hour": "50' ",
+        "hour": "60' ",
         "teams": [
           {
             "localImgId": "190.png",
@@ -957,7 +957,7 @@
         ]
       },
       {
-        "hour": "46' ",
+        "hour": "56' ",
         "teams": [
           {
             "localImgId": "169.png",
@@ -972,7 +972,7 @@
         ]
       },
       {
-        "hour": "01' ",
+        "hour": "11' ",
         "teams": [
           {
             "localImgId": "167.png",
@@ -1222,6 +1222,101 @@
           {
             "visitantImgId": "594.png",
             "name": "Internacional",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "1330.png",
+            "name": "Boyaca Chico",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "758.png",
+            "name": "America Cali",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "Susp.",
+        "teams": [
+          {
+            "localImgId": "736.png",
+            "name": "Guarani (P)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1768.png",
+            "name": "Sp. Trinidense",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:30  ",
+        "teams": [
+          {
+            "localImgId": "1699.png",
+            "name": "Resistencia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1701.png",
+            "name": "Tacuary",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
+      {
+        "hour": "18:30  ",
+        "teams": [
+          {
+            "localImgId": "1336.png",
+            "name": "Cobresal",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "774.png",
+            "name": "Union Espa�ola",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
+      {
+        "hour": "Ida: Guadalajara 0 - 1 America",
+        "teams": [
+          {
+            "localImgId": "688.png",
+            "name": "America",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "844.png",
+            "name": "Guadalajara",
             "visitantScore": ""
           }
         ]
