@@ -127,14 +127,35 @@
   },
   {
     "rank": 7,
-    "points": 51,
+    "points": 50,
     "matchesPlayed": 36,
     "matchesWon": 14,
-    "matchesDrawn": 9,
-    "matchesLost": 13,
-    "goalsFor": 46,
+    "matchesDrawn": 8,
+    "matchesLost": 14,
+    "goalsFor": 33,
     "goalsAgainst": 39,
-    "goalDifference": 7,
+    "goalDifference": -6,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 50,
+    "matchesPlayed": 36,
+    "matchesWon": 14,
+    "matchesDrawn": 8,
+    "matchesLost": 14,
+    "goalsFor": 46,
+    "goalsAgainst": 40,
+    "goalDifference": 6,
     "team": {
       "id": "Athletic-Bilbao",
       "color": "#E2231A",
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 49,
     "matchesPlayed": 36,
     "matchesWon": 13,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 49,
     "matchesPlayed": 36,
     "matchesWon": 13,
@@ -185,27 +206,6 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 48,
-    "matchesPlayed": 36,
-    "matchesWon": 13,
-    "matchesDrawn": 9,
-    "matchesLost": 14,
-    "goalsFor": 32,
-    "goalsAgainst": 39,
-    "goalDifference": -7,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
