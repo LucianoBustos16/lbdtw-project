@@ -8,7 +8,7 @@ const schedule = await getAllMatch ({league})
 ---
   {
     schedule
-    .filter(fecha => fecha.matches.some(match => !match.score.includes('-')))
+    .filter(fecha => fecha.matches.some(match => !match.score.includes('-') && !match.score.includes('Aplazado')))
     .slice(0, 1)
     .map((fecha) => {
       return (
