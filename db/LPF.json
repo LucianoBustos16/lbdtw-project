@@ -64,6 +64,27 @@
   },
   {
     "rank": 4,
+    "points": 32,
+    "matchesPlayed": 18,
+    "matchesWon": 9,
+    "matchesDrawn": 5,
+    "matchesLost": 4,
+    "goalsFor": 23,
+    "goalsAgainst": 11,
+    "goalDifference": 12,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 31,
     "matchesPlayed": 17,
     "matchesWon": 9,
@@ -80,27 +101,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 30,
-    "matchesPlayed": 18,
-    "matchesWon": 8,
-    "matchesDrawn": 6,
-    "matchesLost": 4,
-    "goalsFor": 22,
-    "goalsAgainst": 11,
-    "goalDifference": 11,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -384,27 +384,6 @@
     "matchesWon": 5,
     "matchesDrawn": 4,
     "matchesLost": 8,
-    "goalsFor": 19,
-    "goalsAgainst": 26,
-    "goalDifference": -7,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 19,
-    "matchesPlayed": 17,
-    "matchesWon": 5,
-    "matchesDrawn": 4,
-    "matchesLost": 8,
     "goalsFor": 12,
     "goalsAgainst": 19,
     "goalDifference": -7,
@@ -420,7 +399,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 20,
     "points": 18,
     "matchesPlayed": 17,
     "matchesWon": 3,
@@ -441,7 +420,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 21,
     "points": 18,
     "matchesPlayed": 18,
     "matchesWon": 3,
@@ -462,7 +441,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "points": 18,
     "matchesPlayed": 17,
     "matchesWon": 4,
@@ -483,7 +462,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 23,
     "points": 18,
     "matchesPlayed": 18,
     "matchesWon": 3,
@@ -500,6 +479,27 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 24,
+    "points": 18,
+    "matchesPlayed": 17,
+    "matchesWon": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 9,
+    "goalsFor": 19,
+    "goalsAgainst": 27,
+    "goalDifference": -8,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
