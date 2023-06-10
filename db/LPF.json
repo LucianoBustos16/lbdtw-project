@@ -69,6 +69,27 @@
     "matchesWon": 10,
     "matchesDrawn": 5,
     "matchesLost": 4,
+    "goalsFor": 27,
+    "goalsAgainst": 17,
+    "goalDifference": 10,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 35,
+    "matchesPlayed": 19,
+    "matchesWon": 10,
+    "matchesDrawn": 5,
+    "matchesLost": 4,
     "goalsFor": 25,
     "goalsAgainst": 16,
     "goalDifference": 9,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 34,
     "matchesPlayed": 20,
     "matchesWon": 9,
@@ -101,27 +122,6 @@
       "shortName": "ROS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 33,
-    "matchesPlayed": 19,
-    "matchesWon": 9,
-    "matchesDrawn": 6,
-    "matchesLost": 4,
-    "goalsFor": 26,
-    "goalsAgainst": 17,
-    "goalDifference": 9,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -190,14 +190,14 @@
   },
   {
     "rank": 10,
-    "points": 28,
+    "points": 27,
     "matchesPlayed": 20,
     "matchesWon": 8,
-    "matchesDrawn": 4,
-    "matchesLost": 8,
+    "matchesDrawn": 3,
+    "matchesLost": 9,
     "goalsFor": 22,
-    "goalsAgainst": 17,
-    "goalDifference": 5,
+    "goalsAgainst": 18,
+    "goalDifference": 4,
     "team": {
       "id": "Boca",
       "color": "#023F86",
