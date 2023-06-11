@@ -56,7 +56,7 @@
         ]
       },
       {
-        "hour": "E. T. ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "6.png",
@@ -70,7 +70,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "13.png",
@@ -89,7 +89,7 @@
         ]
       },
       {
-        "hour": "21:30  ",
+        "hour": "72' ",
         "teams": [
           {
             "localImgId": "52.png",
@@ -103,7 +103,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "4.png",
@@ -117,7 +117,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -497,17 +497,17 @@
         ]
       },
       {
-        "hour": "21:00  ",
+        "hour": "90+6' ",
         "teams": [
           {
             "localImgId": "586.png",
             "name": "Botafogo",
-            "localScore": ""
+            "localScore": "2"
           },
           {
             "visitantImgId": "863.png",
             "name": "Fortaleza",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -517,17 +517,17 @@
     "competition": "Liga Colombia",
     "matches": [
       {
-        "hour": "21:30  ",
+        "hour": "67' ",
         "teams": [
           {
             "localImgId": "1030.png",
             "name": "Dep. Pasto",
-            "localScore": ""
+            "localScore": "2"
           },
           {
             "visitantImgId": "882.png",
             "name": "Rionegro A.",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -552,7 +552,7 @@
         ]
       },
       {
-        "hour": "72' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "1768.png",
@@ -562,7 +562,7 @@
           {
             "visitantImgId": "751.png",
             "name": "Nacional (P)",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       }
@@ -572,27 +572,27 @@
     "competition": "Mls",
     "matches": [
       {
-        "hour": "21' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "911.png",
             "name": "Atlanta United",
-            "localScore": "1"
+            "localScore": "3"
           },
           {
             "visitantImgId": "915.png",
             "name": "DC United",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "21' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "916.png",
             "name": "Montreal",
-            "localScore": "2"
+            "localScore": "4"
           },
           {
             "visitantImgId": "928.png",
@@ -602,16 +602,106 @@
         ]
       },
       {
-        "hour": "21' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "1709.png",
             "name": "Charlotte FC",
-            "localScore": "1"
+            "localScore": "3"
           },
           {
             "visitantImgId": "932.png",
             "name": "Seattle Sounders",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "917.png",
+            "name": "New England",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1371.png",
+            "name": "Inter Miami",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "922.png",
+            "name": "Toronto FC",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1372.png",
+            "name": "Nashville SC",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "80' ",
+        "teams": [
+          {
+            "localImgId": "920.png",
+            "name": "Orlando City",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "923.png",
+            "name": "Colorado",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "61' ",
+        "teams": [
+          {
+            "localImgId": "912.png",
+            "name": "Chicago Fire",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "914.png",
+            "name": "Columbus Crew",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "62' ",
+        "teams": [
+          {
+            "localImgId": "925.png",
+            "name": "Houston Dynamo",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "926.png",
+            "name": "Los Angeles FC",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "66' ",
+        "teams": [
+          {
+            "localImgId": "933.png",
+            "name": "Kansas City",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1605.png",
+            "name": "Austin FC",
             "visitantScore": "1"
           }
         ]
@@ -620,104 +710,14 @@
         "hour": "21' ",
         "teams": [
           {
-            "localImgId": "917.png",
-            "name": "New England",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "1371.png",
-            "name": "Inter Miami",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "21' ",
-        "teams": [
-          {
-            "localImgId": "922.png",
-            "name": "Toronto FC",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "1372.png",
-            "name": "Nashville SC",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "21:10  ",
-        "teams": [
-          {
-            "localImgId": "920.png",
-            "name": "Orlando City",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "923.png",
-            "name": "Colorado",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:30  ",
-        "teams": [
-          {
-            "localImgId": "912.png",
-            "name": "Chicago Fire",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "914.png",
-            "name": "Columbus Crew",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:30  ",
-        "teams": [
-          {
-            "localImgId": "925.png",
-            "name": "Houston Dynamo",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "926.png",
-            "name": "Los Angeles FC",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:30  ",
-        "teams": [
-          {
-            "localImgId": "933.png",
-            "name": "Kansas City",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "1605.png",
-            "name": "Austin FC",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "22:30  ",
-        "teams": [
-          {
             "localImgId": "930.png",
             "name": "Real Salt Lake",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "918.png",
             "name": "New York FC",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
