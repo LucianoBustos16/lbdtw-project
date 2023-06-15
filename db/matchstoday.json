@@ -1,39 +1,19 @@
 [
   {
-    "competition": "Copa Argentina",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "22.png",
-            "name": "Aldosivi",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "36.png",
-            "name": "San Martin (SJ)",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Liga Naciones Uefa",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "15:45  ",
         "teams": [
           {
-            "localImgId": "paisesbajos.gif",
-            "name": "Paises Bajos",
-            "localScore": "2"
+            "localImgId": "espana.gif",
+            "name": "Espa�a",
+            "localScore": ""
           },
           {
-            "visitantImgId": "croacia.gif",
-            "name": "Croacia",
-            "visitantScore": "4"
+            "visitantImgId": "italia.gif",
+            "name": "Italia",
+            "visitantScore": ""
           }
         ]
       }
@@ -43,86 +23,37 @@
     "competition": "Amistosos Internacionales",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "09:00  ",
         "teams": [
           {
-            "localImgId": "uruguay.gif",
-            "name": "Uruguay",
-            "localScore": "4"
+            "localImgId": "argentina.gif",
+            "name": "Argentina",
+            "localScore": ""
           },
           {
-            "visitantImgId": "nicaragua.gif",
-            "name": "Nicaragua",
-            "visitantScore": "1"
+            "visitantImgId": "australia.gif",
+            "name": "Australia",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Primera Nacional",
+    "competition": "B Metro",
     "matches": [
       {
-        "hour": "Pendiente Fecha 10",
+        "hour": "21:05  ",
         "teams": [
           {
-            "localImgId": "34.png",
-            "name": "Patronato",
-            "localScore": "0"
+            "localImgId": "102.png",
+            "name": "Argentino (M)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "23.png",
-            "name": "Alte Brown",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Femenino",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "66.png",
-            "name": "El Porvenir",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "18.png",
-            "name": {
-              "id": "River",
-              "color": "#E30520",
-              "colorSecondary": "#FFFFFF",
-              "name": "River Plate",
-              "shortName": "CARP",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Mls",
-    "matches": [
-      {
-        "hour": "Pendiente Fecha 10",
-        "teams": [
-          {
-            "localImgId": "926.png",
-            "name": "Los Angeles FC",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "925.png",
-            "name": "Houston Dynamo",
-            "visitantScore": "0"
+            "visitantImgId": "93.png",
+            "name": "Villa San Carlos",
+            "visitantScore": ""
           }
         ]
       }
