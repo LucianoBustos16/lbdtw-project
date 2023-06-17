@@ -90,6 +90,27 @@
     "matchesWon": 9,
     "matchesDrawn": 7,
     "matchesLost": 4,
+    "goalsFor": 28,
+    "goalsAgainst": 19,
+    "goalDifference": 9,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 34,
+    "matchesPlayed": 20,
+    "matchesWon": 9,
+    "matchesDrawn": 7,
+    "matchesLost": 4,
     "goalsFor": 29,
     "goalsAgainst": 23,
     "goalDifference": 6,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 33,
     "matchesPlayed": 19,
     "matchesWon": 9,
@@ -122,27 +143,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 33,
-    "matchesPlayed": 20,
-    "matchesWon": 9,
-    "matchesDrawn": 6,
-    "matchesLost": 5,
-    "goalsFor": 27,
-    "goalsAgainst": 19,
-    "goalDifference": 8,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -426,27 +426,6 @@
     "matchesWon": 5,
     "matchesDrawn": 7,
     "matchesLost": 8,
-    "goalsFor": 14,
-    "goalsAgainst": 23,
-    "goalDifference": -9,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 22,
-    "points": 22,
-    "matchesPlayed": 20,
-    "matchesWon": 5,
-    "matchesDrawn": 7,
-    "matchesLost": 8,
     "goalsFor": 16,
     "goalsAgainst": 26,
     "goalDifference": -10,
@@ -462,7 +441,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "points": 21,
     "matchesPlayed": 20,
     "matchesWon": 4,
@@ -483,7 +462,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 23,
     "points": 21,
     "matchesPlayed": 20,
     "matchesWon": 4,
@@ -500,6 +479,27 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 24,
+    "points": 20,
+    "matchesPlayed": 20,
+    "matchesWon": 4,
+    "matchesDrawn": 8,
+    "matchesLost": 8,
+    "goalsFor": 14,
+    "goalsAgainst": 24,
+    "goalDifference": -10,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
