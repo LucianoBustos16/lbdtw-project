@@ -342,6 +342,27 @@
     "matchesWon": 6,
     "matchesDrawn": 7,
     "matchesLost": 8,
+    "goalsFor": 20,
+    "goalsAgainst": 24,
+    "goalDifference": -4,
+    "team": {
+      "id": "Tigre",
+      "color": "#1E448D",
+      "colorSecondary": "#ED2A3C",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 18,
+    "points": 25,
+    "matchesPlayed": 21,
+    "matchesWon": 6,
+    "matchesDrawn": 7,
+    "matchesLost": 8,
     "goalsFor": 16,
     "goalsAgainst": 21,
     "goalDifference": -5,
@@ -357,7 +378,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 19,
     "points": 23,
     "matchesPlayed": 20,
     "matchesWon": 4,
@@ -374,27 +395,6 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 23,
-    "matchesPlayed": 21,
-    "matchesWon": 5,
-    "matchesDrawn": 8,
-    "matchesLost": 8,
-    "goalsFor": 19,
-    "goalsAgainst": 24,
-    "goalDifference": -5,
-    "team": {
-      "id": "Tigre",
-      "color": "#1E448D",
-      "colorSecondary": "#ED2A3C",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
       "league": "LPF"
     }
   },
@@ -505,14 +505,14 @@
   },
   {
     "rank": 25,
-    "points": 19,
+    "points": 18,
     "matchesPlayed": 21,
     "matchesWon": 3,
-    "matchesDrawn": 10,
-    "matchesLost": 8,
+    "matchesDrawn": 9,
+    "matchesLost": 9,
     "goalsFor": 20,
-    "goalsAgainst": 23,
-    "goalDifference": -3,
+    "goalsAgainst": 24,
+    "goalDifference": -4,
     "team": {
       "id": "Velez",
       "color": "#0063A8",
