@@ -255,6 +255,27 @@
     "rank": 13,
     "points": 28,
     "matchesPlayed": 21,
+    "matchesWon": 7,
+    "matchesDrawn": 7,
+    "matchesLost": 7,
+    "goalsFor": 20,
+    "goalsAgainst": 17,
+    "goalDifference": 3,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 28,
+    "matchesPlayed": 21,
     "matchesWon": 8,
     "matchesDrawn": 4,
     "matchesLost": 9,
@@ -273,7 +294,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 27,
     "matchesPlayed": 21,
     "matchesWon": 7,
@@ -290,27 +311,6 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 26,
-    "matchesPlayed": 21,
-    "matchesWon": 6,
-    "matchesDrawn": 8,
-    "matchesLost": 7,
-    "goalsFor": 18,
-    "goalsAgainst": 17,
-    "goalDifference": 1,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
@@ -444,27 +444,6 @@
     "rank": 22,
     "points": 22,
     "matchesPlayed": 21,
-    "matchesWon": 4,
-    "matchesDrawn": 10,
-    "matchesLost": 7,
-    "goalsFor": 17,
-    "goalsAgainst": 23,
-    "goalDifference": -6,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 23,
-    "points": 22,
-    "matchesPlayed": 21,
     "matchesWon": 5,
     "matchesDrawn": 7,
     "matchesLost": 9,
@@ -483,7 +462,7 @@
     }
   },
   {
-    "rank": 24,
+    "rank": 23,
     "points": 21,
     "matchesPlayed": 21,
     "matchesWon": 4,
@@ -500,6 +479,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 24,
+    "points": 21,
+    "matchesPlayed": 21,
+    "matchesWon": 4,
+    "matchesDrawn": 9,
+    "matchesLost": 8,
+    "goalsFor": 17,
+    "goalsAgainst": 25,
+    "goalDifference": -8,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
