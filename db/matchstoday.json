@@ -3,7 +3,7 @@
     "competition": "Liga Profesional",
     "matches": [
       {
-        "hour": "15:00  ",
+        "hour": "08' ",
         "teams": [
           {
             "localImgId": "82.png",
@@ -17,7 +17,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "18.png",
@@ -31,7 +31,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -140,17 +140,17 @@
     "competition": "Primera Nacional",
     "matches": [
       {
-        "hour": "15:00  ",
+        "hour": "09' ",
         "teams": [
           {
             "localImgId": "90.png",
             "name": "Tristan Suarez",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "92.png",
             "name": "Villa Dalmine",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -375,6 +375,35 @@
           {
             "visitantImgId": "122.png",
             "name": "Dep. Paraguayo",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "Pendiente Fecha 2",
+        "teams": [
+          {
+            "localImgId": "106.png",
+            "name": "Excursionistas",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "11.png",
+            "name": {
+              "id": "Huracan",
+              "color": "#FF0000",
+              "colorSecondary": "#FFFFFF",
+              "name": "Huracan",
+              "shortName": "HUR",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": ""
           }
         ]
