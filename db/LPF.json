@@ -216,9 +216,9 @@
     "matchesWon": 8,
     "matchesDrawn": 6,
     "matchesLost": 8,
-    "goalsFor": 28,
+    "goalsFor": 29,
     "goalsAgainst": 30,
-    "goalDifference": -2,
+    "goalDifference": -1,
     "team": {
       "id": "Racing-Club",
       "color": "#009DDB",
@@ -402,27 +402,6 @@
     "rank": 20,
     "points": 24,
     "matchesPlayed": 22,
-    "matchesWon": 4,
-    "matchesDrawn": 12,
-    "matchesLost": 6,
-    "goalsFor": 19,
-    "goalsAgainst": 23,
-    "goalDifference": -4,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 21,
-    "points": 24,
-    "matchesPlayed": 22,
     "matchesWon": 5,
     "matchesDrawn": 9,
     "matchesLost": 8,
@@ -437,6 +416,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 21,
+    "points": 24,
+    "matchesPlayed": 22,
+    "matchesWon": 4,
+    "matchesDrawn": 12,
+    "matchesLost": 6,
+    "goalsFor": 19,
+    "goalsAgainst": 24,
+    "goalDifference": -5,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
