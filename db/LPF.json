@@ -234,6 +234,27 @@
     "rank": 12,
     "points": 30,
     "matchesPlayed": 22,
+    "matchesWon": 7,
+    "matchesDrawn": 9,
+    "matchesLost": 6,
+    "goalsFor": 20,
+    "goalsAgainst": 19,
+    "goalDifference": 1,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 30,
+    "matchesPlayed": 22,
     "matchesWon": 8,
     "matchesDrawn": 6,
     "matchesLost": 8,
@@ -248,27 +269,6 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 29,
-    "matchesPlayed": 22,
-    "matchesWon": 7,
-    "matchesDrawn": 8,
-    "matchesLost": 7,
-    "goalsFor": 19,
-    "goalsAgainst": 19,
-    "goalDifference": 0,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -295,27 +295,6 @@
   },
   {
     "rank": 15,
-    "points": 29,
-    "matchesPlayed": 22,
-    "matchesWon": 8,
-    "matchesDrawn": 5,
-    "matchesLost": 9,
-    "goalsFor": 19,
-    "goalsAgainst": 28,
-    "goalDifference": -9,
-    "team": {
-      "id": "Gimnasia",
-      "color": "#121731",
-      "colorSecondary": "#00AFEF",
-      "name": "Gimnasia (LP)",
-      "shortName": "GLP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 16,
     "points": 28,
     "matchesPlayed": 22,
     "matchesWon": 7,
@@ -336,7 +315,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "points": 27,
     "matchesPlayed": 22,
     "matchesWon": 6,
@@ -353,6 +332,27 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 27,
+    "matchesPlayed": 22,
+    "matchesWon": 7,
+    "matchesDrawn": 6,
+    "matchesLost": 9,
+    "goalsFor": 19,
+    "goalsAgainst": 29,
+    "goalDifference": -10,
+    "team": {
+      "id": "Gimnasia",
+      "color": "#121731",
+      "colorSecondary": "#00AFEF",
+      "name": "Gimnasia (LP)",
+      "shortName": "GLP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
       "league": "LPF"
     }
   },
