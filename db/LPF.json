@@ -106,14 +106,14 @@
   },
   {
     "rank": 6,
-    "points": 37,
+    "points": 36,
     "matchesPlayed": 23,
     "matchesWon": 10,
-    "matchesDrawn": 7,
-    "matchesLost": 6,
+    "matchesDrawn": 6,
+    "matchesLost": 7,
     "goalsFor": 27,
-    "goalsAgainst": 16,
-    "goalDifference": 11,
+    "goalsAgainst": 17,
+    "goalDifference": 10,
     "team": {
       "id": "Defensa-y-Justicia",
       "color": "#ffdd00",
@@ -547,6 +547,27 @@
   },
   {
     "rank": 27,
+    "points": 20,
+    "matchesPlayed": 23,
+    "matchesWon": 6,
+    "matchesDrawn": 2,
+    "matchesLost": 15,
+    "goalsFor": 16,
+    "goalsAgainst": 30,
+    "goalDifference": -14,
+    "team": {
+      "id": "Arsenal",
+      "color": "#13B5EA",
+      "colorSecondary": "#EF3340",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 28,
     "points": 19,
     "matchesPlayed": 22,
     "matchesWon": 4,
@@ -563,27 +584,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 28,
-    "points": 18,
-    "matchesPlayed": 23,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 15,
-    "goalsFor": 15,
-    "goalsAgainst": 30,
-    "goalDifference": -15,
-    "team": {
-      "id": "Arsenal",
-      "color": "#13B5EA",
-      "colorSecondary": "#EF3340",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
       "league": "LPF"
     }
   }
