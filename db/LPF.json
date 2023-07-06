@@ -85,6 +85,27 @@
   },
   {
     "rank": 5,
+    "points": 39,
+    "matchesPlayed": 23,
+    "matchesWon": 11,
+    "matchesDrawn": 6,
+    "matchesLost": 6,
+    "goalsFor": 29,
+    "goalsAgainst": 17,
+    "goalDifference": 12,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 38,
     "matchesPlayed": 23,
     "matchesWon": 10,
@@ -101,27 +122,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 36,
-    "matchesPlayed": 23,
-    "matchesWon": 10,
-    "matchesDrawn": 6,
-    "matchesLost": 7,
-    "goalsFor": 27,
-    "goalsAgainst": 17,
-    "goalDifference": 10,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -547,27 +547,6 @@
   },
   {
     "rank": 27,
-    "points": 20,
-    "matchesPlayed": 23,
-    "matchesWon": 6,
-    "matchesDrawn": 2,
-    "matchesLost": 15,
-    "goalsFor": 16,
-    "goalsAgainst": 30,
-    "goalDifference": -14,
-    "team": {
-      "id": "Arsenal",
-      "color": "#13B5EA",
-      "colorSecondary": "#EF3340",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 28,
     "points": 19,
     "matchesPlayed": 22,
     "matchesWon": 4,
@@ -584,6 +563,27 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 28,
+    "points": 17,
+    "matchesPlayed": 23,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 16,
+    "goalsFor": 16,
+    "goalsAgainst": 32,
+    "goalDifference": -16,
+    "team": {
+      "id": "Arsenal",
+      "color": "#13B5EA",
+      "colorSecondary": "#EF3340",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
       "league": "LPF"
     }
   }
