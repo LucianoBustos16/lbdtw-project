@@ -60,6 +60,34 @@
       },
       {
         "formattedDate": "12 Ago",
+        "timestamp": 1691852400000,
+        "hourMatch": "12:00",
+        "teams": [
+          {
+            "id": "Real-Sociedad",
+            "name": "Real Sociedad",
+            "shortName": "RMD",
+            "color": "#0058b1 ",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Girona",
+            "name": "Girona",
+            "shortName": "GIR",
+            "color": "#E51636",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "12 Ago",
         "timestamp": 1691861400000,
         "hourMatch": "14:30",
         "teams": [
@@ -130,34 +158,6 @@
             "colorSecondary": "#14213d",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "13 Ago",
-        "timestamp": 1691938800000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Real-Sociedad",
-            "name": "Real Sociedad",
-            "shortName": "RMD",
-            "color": "#0058b1 ",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Girona",
-            "name": "Girona",
-            "shortName": "GIR",
-            "color": "#E51636",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
             "league": "LaLiga"
           }
         ],

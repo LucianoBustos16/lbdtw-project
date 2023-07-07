@@ -9391,34 +9391,6 @@
         "hourMatch": "19:30",
         "teams": [
           {
-            "id": "Talleres",
-            "name": "Talleres (C)",
-            "shortName": "CAT",
-            "color": "#00184C",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Union",
-            "name": "Union",
-            "shortName": "USF",
-            "color": "#DA251D",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "formattedDate": "10 Jul",
-        "timestamp": 1689035400000,
-        "hourMatch": "21:30",
-        "teams": [
-          {
             "id": "Boca",
             "name": "Boca Juniors",
             "shortName": "CABJ",
@@ -9442,9 +9414,37 @@
         "score": "30"
       },
       {
+        "formattedDate": "10 Jul",
+        "timestamp": 1689035400000,
+        "hourMatch": "21:30",
+        "teams": [
+          {
+            "id": "Talleres",
+            "name": "Talleres (C)",
+            "shortName": "CAT",
+            "color": "#00184C",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Union",
+            "name": "Union",
+            "shortName": "USF",
+            "color": "#DA251D",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
         "formattedDate": "11 Jul",
-        "timestamp": 1689109200000,
-        "hourMatch": "18:00",
+        "timestamp": 1689111900000,
+        "hourMatch": "18:45",
         "teams": [
           {
             "id": "Rosario-Central",
@@ -9467,12 +9467,12 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "45"
       },
       {
         "formattedDate": "11 Jul",
-        "timestamp": 1689112800000,
-        "hourMatch": "19:00",
+        "timestamp": 1689116400000,
+        "hourMatch": "20:00",
         "teams": [
           {
             "id": "Independiente",
