@@ -116,7 +116,7 @@ export async function getScheduleLaLiga($) {
 			const localTeam = TEAMS.find(team => team.id === localShortName)
 			const visitantTeam = TEAMS.find(team => team.id === visitantShortName)
 			
-			console.log(localTeam)
+
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
 			matches.push({
