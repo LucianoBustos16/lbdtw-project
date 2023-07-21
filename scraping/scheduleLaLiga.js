@@ -22,6 +22,9 @@ const teamId = {
 	'175': 'Atletico-Madrid',
 	'185': 'Betis',
 	'954': 'Elche',
+	'173': 'Alaves',
+	'5683': 'Granada',
+	'407' : 'Las-Palmas',
 }
 
 const SELECTORS = {
@@ -108,6 +111,7 @@ export async function getScheduleLaLiga($) {
 			const formattedDate = day + ' ' + monthServer
 
 
+			console.log(teamId)
 			
 			const getTeamFrom = ({ name }) => TEAMS.find(team => team.teamId === name)
 			const localTeam = TEAMS.find(team => team.id === localShortName)
