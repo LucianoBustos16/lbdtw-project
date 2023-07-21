@@ -7,7 +7,7 @@ const teamId = {
 	'176': 'Celta',
 	'177': 'Espanyol',
 	'192': 'Valladolid',
-	'449': 'Valencia',
+	'449': 'Villareal',
 	'178': 'Barcelona',
 	'184': 'Rayo-Vallecano',
 	'1737': 'Cadiz',
@@ -111,12 +111,12 @@ export async function getScheduleLaLiga($) {
 			const formattedDate = day + ' ' + monthServer
 
 
-			console.log(teamId)
 			
 			const getTeamFrom = ({ name }) => TEAMS.find(team => team.teamId === name)
 			const localTeam = TEAMS.find(team => team.id === localShortName)
 			const visitantTeam = TEAMS.find(team => team.id === visitantShortName)
-
+			
+			console.log(localTeam)
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
 			matches.push({
