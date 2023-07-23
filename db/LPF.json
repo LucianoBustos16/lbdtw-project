@@ -65,6 +65,27 @@
   {
     "rank": 4,
     "points": 42,
+    "matchesPlayed": 26,
+    "matchesWon": 11,
+    "matchesDrawn": 9,
+    "matchesLost": 6,
+    "goalsFor": 33,
+    "goalsAgainst": 21,
+    "goalDifference": 12,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 42,
     "matchesPlayed": 25,
     "matchesWon": 11,
     "matchesDrawn": 9,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 42,
     "matchesPlayed": 26,
     "matchesWon": 11,
@@ -101,27 +122,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 41,
-    "matchesPlayed": 25,
-    "matchesWon": 11,
-    "matchesDrawn": 8,
-    "matchesLost": 6,
-    "goalsFor": 33,
-    "goalsAgainst": 21,
-    "goalDifference": 12,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -337,10 +337,10 @@
   },
   {
     "rank": 17,
-    "points": 29,
-    "matchesPlayed": 25,
+    "points": 30,
+    "matchesPlayed": 26,
     "matchesWon": 7,
-    "matchesDrawn": 8,
+    "matchesDrawn": 9,
     "matchesLost": 10,
     "goalsFor": 23,
     "goalsAgainst": 23,
