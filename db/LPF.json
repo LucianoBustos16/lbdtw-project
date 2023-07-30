@@ -69,6 +69,27 @@
     "matchesWon": 12,
     "matchesDrawn": 9,
     "matchesLost": 6,
+    "goalsFor": 38,
+    "goalsAgainst": 27,
+    "goalDifference": 11,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 45,
+    "matchesPlayed": 27,
+    "matchesWon": 12,
+    "matchesDrawn": 9,
+    "matchesLost": 6,
     "goalsFor": 35,
     "goalsAgainst": 24,
     "goalDifference": 11,
@@ -80,27 +101,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 45,
-    "matchesPlayed": 27,
-    "matchesWon": 12,
-    "matchesDrawn": 9,
-    "matchesLost": 6,
-    "goalsFor": 37,
-    "goalsAgainst": 27,
-    "goalDifference": 10,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -301,8 +301,8 @@
     "matchesDrawn": 11,
     "matchesLost": 8,
     "goalsFor": 25,
-    "goalsAgainst": 29,
-    "goalDifference": -4,
+    "goalsAgainst": 30,
+    "goalDifference": -5,
     "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
