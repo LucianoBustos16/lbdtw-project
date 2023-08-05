@@ -15,7 +15,7 @@ const { local, visitant, score ,hour, date } = Astro.props;
 						src={ local.name.name !==  undefined ? 
 						`https://api.lbdtwplus.com.ar/static/logos/${local.name.id}.svg` :
 						`https://www.promiedos.com.ar/images/64/${local.localImgId}`}
-						alt={`Escudo del equipo ${local.name.name}`}
+						alt={`Escudo de ${local.name.name}`}
 					/>
 
 					<p class="text-right font-semibold">	
@@ -30,7 +30,7 @@ const { local, visitant, score ,hour, date } = Astro.props;
 					src={ visitant.name.name !==  undefined ? 
 						`https://api.lbdtwplus.com.ar/static/logos/${visitant.name.id}.svg` :
 						`https://www.promiedos.com.ar/images/64/${visitant.visitantImgId}`}
-					alt={`Escudo del equipo ${visitant.name.name}`}
+					alt={`Escudo de ${visitant.name.name}`}
 				/>
 					<p class="text-rigth font-semibold">	
 						{visitant.name.name !==  undefined ? `${visitant.name.name}` : `${visitant.name}`}
