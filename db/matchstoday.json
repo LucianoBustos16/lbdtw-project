@@ -3,65 +3,56 @@
     "competition": "Copa Libertadores",
     "matches": [
       {
-        "hour": "Ida: Argentinos 1 - 1 Fluminense",
+        "hour": "Ida: Dep. Pereira 1 - 0 Ind. del Valle",
         "teams": [
           {
-            "localImgId": "591.png",
-            "name": "Fluminense",
-            "localScore": "2"
+            "localImgId": "737.png",
+            "name": "Ind. del Valle",
+            "localScore": ""
           },
           {
-            "visitantImgId": "3.png",
-            "name": {
-              "id": "Argentinos",
-              "color": "#E32021",
-              "colorSecondary": "#00569D",
-              "name": "Argentinos",
-              "shortName": "ARGJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "0"
+            "visitantImgId": "1329.png",
+            "name": "Dep. Pereira",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "584.png",
-            "name": "Paranaense",
-            "localScore": "2 4"
+            "localImgId": "6.png",
+            "name": {
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "720.png",
-            "name": "Bolivar",
-            "visitantScore": "0 5"
+            "visitantImgId": "579.png",
+            "name": "Nacional",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Ida: Bolivar 3 - 1 Paranaense",
+        "hour": "Ida: Nacional 0 - 0 Boca Juniors",
         "teams": [
           {
-            "localImgId": "594.png",
-            "name": "Internacional",
-            "localScore": "2 9"
+            "localImgId": "629.png",
+            "name": "Palmeiras",
+            "localScore": ""
           },
           {
-            "visitantImgId": "18.png",
-            "name": {
-              "id": "River",
-              "color": "#E30520",
-              "colorSecondary": "#FFFFFF",
-              "name": "River Plate",
-              "shortName": "CARP",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "1 8"
+            "visitantImgId": "583.png",
+            "name": "Atl. Mineiro",
+            "visitantScore": ""
           }
         ]
       }
@@ -71,180 +62,79 @@
     "competition": "Copa Sudamericana",
     "matches": [
       {
-        "hour": "Ida: Libertad (P) 0 - 1 Fortaleza",
+        "hour": "Ida: Botafogo 2 - 1 Guarani (P)",
         "teams": [
           {
-            "localImgId": "863.png",
-            "name": "Fortaleza",
-            "localScore": "1"
+            "localImgId": "736.png",
+            "name": "Guarani (P)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "719.png",
-            "name": "Libertad (P)",
-            "visitantScore": "1"
+            "visitantImgId": "586.png",
+            "name": "Botafogo",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "29.png",
-            "name": {
-              "id": "Defensa-y-Justicia",
-              "color": "#ffdd00",
-              "colorSecondary": "#007A3F",
-              "name": "Def y Justicia",
-              "shortName": "DYJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "1"
+            "localImgId": "592.png",
+            "name": "Goias",
+            "localScore": ""
           },
           {
-            "visitantImgId": "717.png",
-            "name": "Emelec",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Ida: Emelec 1 - 2 Def y Justicia",
-        "teams": [
-          {
-            "localImgId": "14.png",
+            "visitantImgId": "8.png",
             "name": {
-              "id": "Newells",
-              "color": "#ED1C24",
-              "colorSecondary": "#000000",
-              "name": "Newells",
-              "shortName": "NOB",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+              "id": "Estudiantes",
+              "color": "#E41815",
+              "colorSecondary": "#FFF",
+              "name": "Estudiantes (LP)",
+              "shortName": "EST",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "587.png",
-            "name": "Corinthians",
-            "visitantScore": "0"
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Leagues Cup",
+    "competition": "Copa Argentina",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "17:30  ",
         "teams": [
           {
-            "localImgId": "908.png",
-            "name": "Toluca",
-            "localScore": "2 2"
+            "localImgId": "33.png",
+            "name": {
+              "id": "Instituto",
+              "color": "#E0312B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Instituto",
+              "shortName": "IACC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "928.png",
-            "name": "Minnesota",
-            "visitantScore": "2 4"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "688.png",
-            "name": "America",
-            "localScore": "2 5"
-          },
-          {
-            "visitantImgId": "1372.png",
-            "name": "Nashville SC",
-            "visitantScore": "2 6"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "921.png",
-            "name": "Philadelphia",
-            "localScore": "1 4"
-          },
-          {
-            "visitantImgId": "919.png",
-            "name": "New York RB",
-            "visitantScore": "1 3"
-          }
-        ]
-      },
-      {
-        "hour": "45+4' ",
-        "teams": [
-          {
-            "localImgId": "906.png",
-            "name": "Tigres UANL",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "899.png",
-            "name": "Monterrey",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "20' ",
-        "teams": [
-          {
-            "localImgId": "926.png",
-            "name": "Los Angeles FC",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "930.png",
-            "name": "Real Salt Lake",
-            "visitantScore": "0"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Mundial Femenino",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "colombia.gif",
-            "name": "Colombia",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "jamaica.gif",
-            "name": "Jamaica",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "francia.gif",
-            "name": "Francia",
-            "localScore": "4"
-          },
-          {
-            "visitantImgId": "marruecos.gif",
-            "name": "Marruecos",
-            "visitantScore": "0"
+            "visitantImgId": "11.png",
+            "name": {
+              "id": "Huracan",
+              "color": "#FF0000",
+              "colorSecondary": "#FFFFFF",
+              "name": "Huracan",
+              "shortName": "HUR",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       }
