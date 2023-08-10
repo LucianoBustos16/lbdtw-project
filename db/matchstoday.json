@@ -3,56 +3,41 @@
     "competition": "Copa Libertadores",
     "matches": [
       {
-        "hour": "Ida: Dep. Pereira 1 - 0 Ind. del Valle",
+        "hour": "Ida: Atl. Nacional 4 - 2 Racing Club",
         "teams": [
           {
-            "localImgId": "737.png",
-            "name": "Ind. del Valle",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "1329.png",
-            "name": "Dep. Pereira",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "6.png",
+            "localImgId": "17.png",
             "name": {
-              "id": "Boca",
-              "color": "#023F86",
-              "colorSecondary": "#F7A600",
-              "name": "Boca Juniors",
-              "shortName": "CABJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "id": "Racing-Club",
+              "color": "#009DDB",
+              "colorSecondary": "#FFFFFF",
+              "name": "Racing Club",
+              "shortName": "RAC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
               "league": "LPF"
             },
-            "localScore": "2 4"
+            "localScore": ""
           },
           {
-            "visitantImgId": "579.png",
-            "name": "Nacional",
-            "visitantScore": "2 2"
+            "visitantImgId": "662.png",
+            "name": "Atl. Nacional",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Ida: Nacional 0 - 0 Boca Juniors",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "629.png",
-            "name": "Palmeiras",
-            "localScore": "0"
+            "localImgId": "575.png",
+            "name": "Olimpia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "583.png",
-            "name": "Atl. Mineiro",
-            "visitantScore": "0"
+            "visitantImgId": "590.png",
+            "name": "Flamengo",
+            "visitantScore": ""
           }
         ]
       }
@@ -62,79 +47,96 @@
     "competition": "Copa Sudamericana",
     "matches": [
       {
-        "hour": "Ida: Botafogo 2 - 1 Guarani (P)",
+        "hour": "Ida: San Lorenzo 1 - 0 Sao Paulo",
         "teams": [
           {
-            "localImgId": "736.png",
-            "name": "Guarani (P)",
-            "localScore": "0"
+            "localImgId": "569.png",
+            "name": "Sao Paulo",
+            "localScore": ""
           },
           {
-            "visitantImgId": "586.png",
-            "name": "Botafogo",
-            "visitantScore": "0"
+            "visitantImgId": "19.png",
+            "name": {
+              "id": "San-Lorenzo",
+              "color": "#BF1B27",
+              "colorSecondary": "#263D54",
+              "name": "San Lorenzo",
+              "shortName": "SL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "592.png",
-            "name": "Goias",
-            "localScore": "0"
+            "localImgId": "764.png",
+            "name": "Liga Quito",
+            "localScore": ""
           },
           {
-            "visitantImgId": "8.png",
-            "name": {
-              "id": "Estudiantes",
-              "color": "#E41815",
-              "colorSecondary": "#FFF",
-              "name": "Estudiantes (LP)",
-              "shortName": "EST",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "2"
+            "visitantImgId": "1692.png",
+            "name": "�ublense",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "Ida: �ublense 0 - 1 Liga Quito",
+        "teams": [
+          {
+            "localImgId": "1025.png",
+            "name": "Bragantino",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "779.png",
+            "name": "America MG",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Copa Argentina",
+    "competition": "Mundial Femenino",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "22:00  ",
         "teams": [
           {
-            "localImgId": "33.png",
-            "name": {
-              "id": "Instituto",
-              "color": "#E0312B",
-              "colorSecondary": "#FFFFFF",
-              "name": "Instituto",
-              "shortName": "IACC",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "0"
+            "localImgId": "espana.gif",
+            "name": "Espa�a",
+            "localScore": ""
           },
           {
-            "visitantImgId": "11.png",
-            "name": {
-              "id": "Huracan",
-              "color": "#FF0000",
-              "colorSecondary": "#FFFFFF",
-              "name": "Huracan",
-              "shortName": "HUR",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "2"
+            "visitantImgId": "paisesbajos.gif",
+            "name": "Paises Bajos",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "1332.png",
+            "name": "A. Petrolera",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1334.png",
+            "name": "Envigado",
+            "visitantScore": ""
           }
         ]
       }
