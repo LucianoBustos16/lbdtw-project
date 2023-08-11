@@ -1,102 +1,64 @@
 [
   {
-    "competition": "Copa Libertadores",
+    "competition": "Leagues Cup",
     "matches": [
       {
-        "hour": "Ida: Atl. Nacional 4 - 2 Racing Club",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "17.png",
-            "name": {
-              "id": "Racing-Club",
-              "color": "#009DDB",
-              "colorSecondary": "#FFFFFF",
-              "name": "Racing Club",
-              "shortName": "RAC",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "3"
+            "localImgId": "921.png",
+            "name": "Philadelphia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "662.png",
-            "name": "Atl. Nacional",
-            "visitantScore": "0"
+            "visitantImgId": "904.png",
+            "name": "Queretaro",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "21:30  ",
         "teams": [
           {
-            "localImgId": "575.png",
-            "name": "Olimpia",
-            "localScore": "3"
+            "localImgId": "1372.png",
+            "name": "Nashville SC",
+            "localScore": ""
           },
           {
-            "visitantImgId": "590.png",
-            "name": "Flamengo",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Copa Sudamericana",
-    "matches": [
-      {
-        "hour": "Ida: San Lorenzo 1 - 0 Sao Paulo",
-        "teams": [
-          {
-            "localImgId": "569.png",
-            "name": "Sao Paulo",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "19.png",
-            "name": {
-              "id": "San-Lorenzo",
-              "color": "#BF1B27",
-              "colorSecondary": "#263D54",
-              "name": "San Lorenzo",
-              "shortName": "SL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "0"
+            "visitantImgId": "928.png",
+            "name": "Minnesota",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "21:30  ",
         "teams": [
           {
-            "localImgId": "764.png",
-            "name": "Liga Quito",
-            "localScore": "2 4"
+            "localImgId": "1371.png",
+            "name": "Inter Miami",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1692.png",
-            "name": "�ublense",
-            "visitantScore": "3 3"
+            "visitantImgId": "1709.png",
+            "name": "Charlotte FC",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Ida: �ublense 0 - 1 Liga Quito",
+        "hour": "23:30  ",
         "teams": [
           {
-            "localImgId": "1025.png",
-            "name": "Bragantino",
-            "localScore": "3 3"
+            "localImgId": "926.png",
+            "name": "Los Angeles FC",
+            "localScore": ""
           },
           {
-            "visitantImgId": "779.png",
-            "name": "America MG",
-            "visitantScore": "3 4"
+            "visitantImgId": "899.png",
+            "name": "Monterrey",
+            "visitantScore": ""
           }
         ]
       }
@@ -106,17 +68,148 @@
     "competition": "Mundial Femenino",
     "matches": [
       {
-        "hour": "90+7' ",
+        "hour": "04:30  ",
         "teams": [
           {
-            "localImgId": "espana.gif",
-            "name": "Espa�a",
-            "localScore": "1"
+            "localImgId": "japon.gif",
+            "name": "Japon",
+            "localScore": ""
           },
           {
-            "visitantImgId": "paisesbajos.gif",
-            "name": "Paises Bajos",
-            "visitantScore": "1"
+            "visitantImgId": "suecia.gif",
+            "name": "Suecia",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Premier League",
+    "matches": [
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "634.png",
+            "name": "Burnley",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "535.png",
+            "name": "Manchester City",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "La Liga",
+    "matches": [
+      {
+        "hour": "14:30  ",
+        "teams": [
+          {
+            "localImgId": "623.png",
+            "name": {
+              "id": "Almeria",
+              "color": "#e0040b",
+              "colorSecondary": "#FFFFFF",
+              "name": "Almeria",
+              "shortName": "ALM",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Almeria.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Almeria-white.svg",
+              "league": "LaLiga"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "516.png",
+            "name": {
+              "id": "Rayo-Vallecano",
+              "color": "#e21921 ",
+              "colorSecondary": "#FFF",
+              "name": "Rayo Vallecano",
+              "shortName": "RYV",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
+              "league": "LaLiga"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localImgId": "525.png",
+            "name": {
+              "id": "Sevilla",
+              "color": "#CD3529",
+              "colorSecondary": "#FFF",
+              "name": "Sevilla",
+              "shortName": "SEV",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+              "league": "LaLiga"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "526.png",
+            "name": {
+              "id": "Valencia",
+              "color": "#ff671f",
+              "colorSecondary": "#FFF",
+              "name": "Valencia",
+              "shortName": "VAL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+              "league": "LaLiga"
+            },
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Francia",
+    "matches": [
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "651.png",
+            "name": "Niza",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "643.png",
+            "name": "Lille",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "1717.png",
+            "name": "Volendam",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1325.png",
+            "name": "Vitesse",
+            "visitantScore": ""
           }
         ]
       }
@@ -126,17 +219,72 @@
     "competition": "Liga Colombia",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "20:20  ",
         "teams": [
           {
-            "localImgId": "1332.png",
-            "name": "A. Petrolera",
-            "localScore": "3"
+            "localImgId": "882.png",
+            "name": "Rionegro A.",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1334.png",
-            "name": "Envigado",
-            "visitantScore": "1"
+            "visitantImgId": "773.png",
+            "name": "Dep. Cali",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "22:30  ",
+        "teams": [
+          {
+            "localImgId": "875.png",
+            "name": "Dep. Tolima",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1611.png",
+            "name": "Atl. Huila",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "1702.png",
+            "name": "Sp. Ameliano",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "751.png",
+            "name": "Nacional (P)",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
+      {
+        "hour": "18:00  ",
+        "teams": [
+          {
+            "localImgId": "1336.png",
+            "name": "Cobresal",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1367.png",
+            "name": "Magallanes",
+            "visitantScore": ""
           }
         ]
       }
