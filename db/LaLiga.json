@@ -94,13 +94,13 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -115,13 +115,13 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
@@ -148,6 +148,48 @@
   },
   {
     "rank": 8,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "goalDifference": 0,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 0,
+    "goalsAgainst": 0,
+    "goalDifference": 0,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 10,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -168,7 +210,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 11,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -189,7 +231,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 12,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -210,7 +252,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 13,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -231,7 +273,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 14,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -252,28 +294,7 @@
     }
   },
   {
-    "rank": 13,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 14,
+    "rank": 15,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -294,7 +315,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -311,27 +332,6 @@
       "shortName": "GRN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
