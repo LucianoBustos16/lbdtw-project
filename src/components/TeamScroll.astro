@@ -3,22 +3,26 @@ import { getAllTemas } from "@services/teams.js";
 
 const teams = await getAllTemas();
 
+const {
+    league,
+}
+    = Astro.props
 ---
-<div class='flex col-span-4 md:hidden flex-col'>
+<div class='flex col-span-4 flex-col'>
     <h4 class="font-bold">Equipos</h4>
 
     <div class="overflow-scroll p-4 scrollbar-hide">
         <div class="swiper w-full h-full flex gap-2 snap-mandatory scroll-m-4">
 
-            { teams.map((team) => {
+            { teams
+            .filter(team => team.league === `${league}`)
+            .map((team) => {
                 const {image, id, name} = team
                 return(
                 <a href={`/equipos/${id}`}>
-                    <div class="swiper-wrapper snap-start">
-                    
+                    <div class="swiper-wrapper snap-start">                    
                         <div class="bg-white w-16 h-16 p-2 rounded-lg shadow-md">
-                            <img src={image}
-                            alt=`escudo de ${name}`>
+                            <img src={image} alt={`Escudo de ${name}`} width="48" height="48">
                         </div>
                         </div>
                     </a>

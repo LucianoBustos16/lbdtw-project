@@ -1,10 +1,13 @@
 import { Hono } from 'hono'
 import { serveStatic } from 'hono/serve-static.module'
-import leaderboard from '../db/leaderboard.json'
+import LPF from '../db/LPF.json'
+import LaLiga from '../db/LaLiga.json'
 import nextmatch from '../db/nextmatch.json'
-import schedule from '../db/schedule.json'
+import scheduleLPF from '../db/scheduleLPF.json'
+import scheduleLaLiga from '../db/scheduleLaLiga.json'
 import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
+import leagues from '../db/leagues.json'
 
 
 const app = new Hono()
@@ -12,13 +15,24 @@ const app = new Hono()
 app.get('/', (ctx) =>
 	ctx.json([
 		{
-			endpoint: '/leaderboard',
-			description: 'Returns the leaderboard',
+			endpoint: '/LPF',
+			description: 'Returns the leaderboardLPF',
 			parameters:[
 				{
 					name: 'team',
-					endpoint: 'leaderboard/:teamId',
-					description: 'Return leaderboard info from TeamId'
+					endpoint: 'LPF/:teamId',
+					description: 'Return leaderboardLPF info from TeamId'
+				}
+			]
+		},
+		{
+			endpoint: '/LaLiga',
+			description: 'Returns the leaderboardLPF',
+			parameters:[
+				{
+					name: 'team',
+					endpoint: 'LaLiga/:teamId',
+					description: 'Return leaderboardLPF info from TeamId'
 				}
 			]
 		},
@@ -27,12 +41,20 @@ app.get('/', (ctx) =>
 			description: 'Returns the next match to Belgrano'
 		},
 		{
-			endpoint: '/schedule',
+			endpoint: '/scheduleLPF',
+			description: 'Returns the fixture',
+		},
+		{
+			endpoint: '/scheduleLaLiga',
 			description: 'Returns the fixture',
 		},
 		{
 			endpoint: '/teams',
 			description: 'Returns all LPF  teams',
+		},
+		{
+			endpoint: '/leagues',
+			description: 'Returns all leagues',
 		},
 		{
 			endpoint: '/matchstoday',
@@ -41,13 +63,24 @@ app.get('/', (ctx) =>
 	]))
 
 
-app.get('/leaderboard' , (ctx) => {
-	return ctx.json(leaderboard)
+app.get('/LPF' , (ctx) => {
+	return ctx.json(LPF)
 })
 
-app.get('/leaderboard/:teamId', (ctx) => {
+app.get('/LPF/:teamId', (ctx) => {
 	const teamId = ctx.req.param('teamId')
-	const foundTeam = leaderboard.find((stats) => stats.team.id === teamId )
+	const foundTeam = leaderboardLPF.find((stats) => stats.team.id === teamId )
+
+	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
+})
+
+app.get('/LaLiga' , (ctx) => {
+	return ctx.json(LaLiga)
+})
+
+app.get('/LaLiga/:teamId', (ctx) => {
+	const teamId = ctx.req.param('teamId')
+	const foundTeam = LaLiga.find((stats) => stats.team.id === teamId )
 
 	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
 })
@@ -56,14 +89,20 @@ app.get('/nextmatch' , (ctx) => {
 	return ctx.json(nextmatch)
 })
 
-app.get('/schedule' , (ctx) => {
-	return ctx.json(schedule)
+app.get('/scheduleLPF' , (ctx) => {
+	return ctx.json(scheduleLPF)
+})
+
+app.get('/scheduleLaLiga' , (ctx) => {
+	return ctx.json(scheduleLaLiga)
 })
 
 app.get('/teams' , (ctx) => {
 	return ctx.json(teams)
 })
-
+app.get('/leagues' , (ctx) => {
+	return ctx.json(leagues)
+})
 app.get('/matchstoday' , (ctx) => {
 	return ctx.json(matchstoday)
 })

@@ -1,41 +1,43 @@
 ---
-const { local, visitant, date, score, hourMatch } = Astro.props
----
+const { local, visitant, date, hour, round } = Astro.props
 
+---
 	<div class="shadow-md p-4 rounded-xl bg-white">
 
-			<div class="grid items-center gap-4" style="grid-template-columns: 1fr auto 1fr;">
+		<h4 class="font-bold">Próximo partido<span class="font-normal text-slate-600">- Fecha {round}</span></h4>
+
+			<div class="grid items-center">
+
+				<div class="flex justify-center gap-2">
+
+
 				
 				<a href={`/equipos/${local.id}`} class="flex gap-1 items-center group transition-all justify-end hover:scale-105">
 					
-					<p class="text-right font-semibold">
-						{local.name}	
-					</p>
-
-					<img
-				class='h-8 object-contain my-2'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.webp`}
-				alt={`Escudo del equipo ${local.name}`}
-			/>	
+				<img
+						class="h-16 w-16 object-contain my-2"
+						src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.svg`}
+						alt={`Escudo del equipo ${local.name}`}
+					/>	
 				</a>
-				
-				<div class='text-center rounded-sm p-2'>
-					<p class="text-gray-400 uppercase text-sm">{date}</p>
-					<p class="text-[#0598D1] text-xl">{hourMatch}</p>		
-				</div>
-				
-				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-105">
-					
+
+				<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-105">					
 					<img
-				class='h-8 object-contain'
-				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.webp`}
+				class='h-16 w-16 object-contain'
+				src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.svg`}
 				alt={`Escudo del equipo ${visitant.name}`}
 				/>
-					<p class="text-left font-semibold">
-						{visitant.name}	
-					</p>
 					
 				</a>
+
+			</div>
+				
+				<div class='text-center rounded-sm p-2'>
+					<p class="text-gray-800 text-4xl">{date}</p>
+					<p class="text-gray-800 text-4xl">{hour}</p>
+				</div>
+				
+				
 
 			</div>
 

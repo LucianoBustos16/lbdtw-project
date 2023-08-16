@@ -1,26 +1,40 @@
 import * as cheerio from 'cheerio'
-import { getLeaderBoard } from './leaderboard.js'
+import { getLeaderBoardLPF } from './LPF.js'
+import {getLeaderBoardLaLiga} from './LaLiga.js'
 import { getNextMatch } from './nextmatch.js'
-import { getSchedule } from './schedule.js'
+import { getSchedule } from './scheduleLPF.js'
+import { getScheduleLaLiga } from './scheduleLaLiga.js'
 import { getMatchsToday } from './matchstoday.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from '../db/index.js'
 
 // URLS para scrapear
 export const SCRAPINGS = {
-    leaderboard: {
+    LPF: {
         url: 'https://www.promiedos.com.ar/primera',
-        scraper: getLeaderBoard,
+        scraper: getLeaderBoardLPF,
     },
+    LaLiga: {
+      url: 'https://www.promiedos.com.ar/espana',
+      scraper: getLeaderBoardLaLiga,
+  },
+  //   leaderboardLPF: {
+  //     url: 'https://www.promiedos.com.ar/primera',
+  //     scraper: getLeaderBoard,
+  // },
 
-    nextmatch: {
-        url: 'https://es.besoccer.com/equipo/partidos/belgrano',
-        scraper: getNextMatch,
-    },
-    schedule: {
+    // nextmatch: {
+    //     url: 'https://es.besoccer.com/equipo/belgrano',
+    //     scraper: getNextMatch,
+    // },
+    scheduleLPF: {
         url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
         scraper: getSchedule,
   },
+  scheduleLaLiga: {
+    url: 'https://www.marca.com/futbol/primera-division/calendario.html',
+    scraper: getScheduleLaLiga,
+},
     matchstoday: {
       url: 'https://www.promiedos.com.ar/',
       scraper: getMatchsToday,

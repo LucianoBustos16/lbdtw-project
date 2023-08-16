@@ -1,0 +1,36 @@
+---
+import TabsLeagues from "@components/TabsLeagues.astro"
+import Layout from "@layouts/Layout.astro"
+
+export async function getStaticPaths() {
+    const response = await fetch('https://api.lbdtwplus.com.ar/leagues')
+    const leagues = await response.json()
+
+return leagues.map(league => ({
+    params: { shortName: league.shortName},
+    props: {... league}
+}))
+}
+
+const {
+    name,
+    logoWhite,
+    shortName,
+    color,
+}
+    = Astro.props
+
+---
+
+<Layout title={name}>
+    
+    <div class="flex items-center flex-col p-4" style={`background:${color}`}>
+        <img src={logoWhite} class="w-32 h-32" alt='Escudo de {name}'>
+        <h1 class="text-white font-bold text-2xl">{name}</h1>
+     </div>
+    
+    <TabsLeagues color={color} shortName={shortName}/>
+
+
+
+</Layout>

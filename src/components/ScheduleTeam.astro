@@ -1,40 +1,38 @@
 ---
-import SectionTitle from '@components/SectionTitle.astro'
-import Container from '@components/Container.astro'
-import { getAllMatch } from '@services/scheduleTeam.js'
+import { getAllMatch } from '@services/schedule.js'
 import ScheduleRow from '@components/ScheduleRow.astro'
 
-const schedule = await getAllMatch()
-const { teamId } = Astro.props
+const { league, teamId } = Astro.props
+
+const schedule = await getAllMatch({league})
 
 ---
 
-
-		<main class='max-w-4xl mx-auto my-4'>
-			{
-				schedule.map((day) => {
-					return (
-						<section>
-							<h2 class='font-bold text-xl my-8'>Fecha {day.fecha}</h2>
-							<table class='w-full'>
-								<tbody>
-									{day.matches.filter(match =>
-										match.teams[0].id === teamId || match.teams[1].id === teamId).map((match) => (
-											
-										<ScheduleRow
-											local={match.teams[0]}
-											visitant={match.teams[1]}
-											score={match.score}
-											date={match.date}
-											hourMatch={match.hourMatch}
-											round= {day.fecha}
-											/>
-											
-									))}
-								</tbody>
-							</table>
-						</section>
-					)
-				})
-			}
-		</main>
+<main class='max-w-4xl mx-auto my-4'>
+	{
+		schedule.map((day) => {
+			return (
+				<section>
+					<h2 class='font-bold text-xl my-2'>Fecha {day.fecha}</h2>
+					<table class='w-full'>
+						<tbody>
+							{day.matches.filter(match =>
+								match.teams[0].id === teamId || match.teams[1].id === teamId).map((match) => (
+									
+								<ScheduleRow
+									local={match.teams[0]}
+									visitant={match.teams[1]}
+									score={match.score}
+									date={match.formattedDate}
+									hourMatch={match.hourMatch}
+									round= {day.fecha}
+								/>
+									
+							))}
+						</tbody>
+					</table>
+				</section>
+			)
+		})
+	}
+</main>

@@ -1,6 +1,6 @@
 export const findLeaderboardBy = async ({teamId}) => {
     try {
-        const response = await fetch(`https://api.lbdtwplus.com.ar/leaderboard/${teamId}`)
+        const response = await fetch(`https://api.lbdtwplus.com.ar/leaderboardLPF/${teamId}`)
         const teamStats = await response.json()
         return teamStats
     }

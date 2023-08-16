@@ -1,86 +1,69 @@
 ---
-const { local, visitant, hour } = Astro.props;
+const { local, visitant, score ,hour, date } = Astro.props;
 ---
 
 
-	<!-- <div class="shadow-md p-4 bg-white">
+	<div class="shadow-md p-4 my-2 bg-white rounded-2xl">
 
-		<div class="grid items-center gap-4" style="grid-template-columns: 1fr auto 1fr;">
-				
-				<div class="flex gap-1 items-center group transition-all justify-end hover:scale-110">
-			
-					<p class="text-right font-semibold">
-						{local.name}	
-					</p>
-		
+		<div class="flex justify-between items-center gap-4" >
+
+			<div>
+				<div class="flex gap-1 items-center group transition-all hover:scale-110">
+
 					<img
-				class='h-8 object-contain my-2'
-				src={`https://promiedos.com.ar/${local.localImg}`}
-				alt={`Escudo del equipo ${local.name}`}
-			/>	
+						class='h-8 object-contain my-2'
+						src={ local.name.name !==  undefined ? 
+						`https://api.lbdtwplus.com.ar/static/logos/${local.name.id}.svg` :
+						`https://www.promiedos.com.ar/images/64/${local.localImgId}`}
+						alt={`Escudo de ${local.name.name}`}
+					/>
+
+					<p class="text-right font-semibold">	
+						{local.name.name !==  undefined ? `${local.name.name}` : `${local.name}`}
+					</p>
+
 				</div>
 
-				
-				<div class='text-center rounded-sm p-2'>
-					<p class="text-gray-400 uppercase text-sm">{local.localScore} - {visitant.visitantScore}</p>	
-				</div>
-				
 				<div class="flex gap-1 items-center group transition-all justify-start hover:scale-110">
 					<img
 					class='h-8 object-contain my-2'
-					src={`https://promiedos.com.ar/${visitant.visitantImg}`}
-					alt={`Escudo del equipo ${visitant.name}`}
-				/>	
-					<p class="text-rigth font-semibold">
-						{visitant.name}	
+					src={ visitant.name.name !==  undefined ? 
+						`https://api.lbdtwplus.com.ar/static/logos/${visitant.name.id}.svg` :
+						`https://www.promiedos.com.ar/images/64/${visitant.visitantImgId}`}
+					alt={`Escudo de ${visitant.name.name}`}
+				/>
+					<p class="text-rigth font-semibold">	
+						{visitant.name.name !==  undefined ? `${visitant.name.name}` : `${visitant.name}`}
 					</p>
 		
 					
 				</div>
+
+			</div>
+				
+			
+			<div class='flex h-full items-center gap-2 rounded-sm p-2'>				
+				<p class="font-semibold">{hour}</p>
+				{local.localScore !== '' || visitant.visitantScore !== ''
+					?
+					<div class='text-center flex flex-col justify-between rounded-sm h-full'>
+						<p>{local.localScore}</p><p>{visitant.visitantScore}</p>
+					</div> 
+					: null }
+			
+			</div>
+				
+
+				
+				
+					
+
+				
+
+				
+				
 					
 
 			</div>
 
-	</div> -->
-<div class="text-slate-700 bg-white flex justify-between border-b">
-	
-	<div class="p-4 w-full">
-		<div class="flex items-center justify-between">
-			<div class="flex items-center font-bold gap-1 ">
-				<img
-					class="h-8 object-contain my-2"
-					src={`https://www.promiedos.com.ar/images/64/${local.localId}.png`}
-					alt={`Escudo del equipo ${local.name}`}
-				/>
-				{local.name}
-			</div>
-			<p class="font-bold">
-				{local.localScore}
-			</p>
-		</div>
-
-		<div class="flex items-center justify-between">
-			<div class="flex items-center font-bold gap-1">
-				<img
-					class="h-8 object-contain my-2"
-					src={`https://www.promiedos.com.ar/images/64/${visitant.visitantId}.png`}
-					alt={`Escudo del equipo ${visitant.name}`}
-				/>
-				{visitant.name}
-			</div>
-			<p class="font-bold">
-				{visitant.visitantScore}				
-			</p>
-		</div>
 	</div>
-	<div class={`flex justify-center items-center p-4 w-24 hour ${hour} font-bold text-slate-600` }>
-		{hour}
-	</div>
-</div>
-
-<style>
-	.Final{
-		color: #475569 ;
-	}
-
-</style>

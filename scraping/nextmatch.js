@@ -29,14 +29,20 @@
         'Central Córdoba': 'Central-Cordoba',
         'Gimnasia La Plata': 'Gimnasia',
         'Colón': 'Colon',
+        'Athletic Bilbao': "Athletic-Bilbao",
+        'Atletico Madrid': "Atletico-Madrid",
+        'Celta de Vigo': "Celta",
+        'Rayo Vallecano': "Rayo-Vallecano",
+        'Real Madrid': "Real-Madrid",
+        'Real Sociedad': "Real-Sociedad",
     }
 
 
     const NEXTMATCH_SELECTORS = {
         live: {selector: '.info-head .match-status-label .live', typeOf: 'string'},
         competition: {selector: '.info-head .middle-info', typeOf: 'string'},
-        teamLocal: {selector: 'div:nth-child(2) .team-name .name', typeOf: 'string'},
-        teamVisitant: {selector: 'div:nth-child(4) .team-name .name', typeOf: 'string'},
+        teamLocal: {selector: '.panel-body .team-info .team_left .name', typeOf: 'string'},
+        teamVisitant: {selector: '.panel-body .team-info .team_right .name', typeOf: 'string'},
         marker: {selector: '.marker .time', typeOf: 'string'},
         goalsLocal: {selector: '.marker .r1', typeOf: 'number'},
         goalsVisitant: {selector: '.marker .r2', typeOf: 'number'},
@@ -47,7 +53,7 @@
     
 
     export async function getNextMatch($) {
-        const $rows = $('#mod_detail_team_matches_on .match-list-new div:nth-child(2) .panel-body .match-link a ')
+        const $rows = $('#mod_nextLastMatch')
     
         const getTeamFrom = ({ name }) => TEAMS.find(team => team.id === name)
     
@@ -95,6 +101,7 @@
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
 
+            console.log(`${date} ${hour} GMT+1`)
 
             const [day, month] = fecha.split("/")
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']

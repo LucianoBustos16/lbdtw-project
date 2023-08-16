@@ -2,9 +2,13 @@
 import Layout from '../layouts/Layout.astro';
 import Container from '../components/Container.astro';
 import Table from '@components/Table.astro';
-import Nextmatch from '@components/Nextmatch.astro';
 import TeamScroll from '@components/TeamScroll.astro';
 import MatchsToday from '@components/MatchsToday.astro';
+import LeaguesScroll from '@components/LeaguesScroll.astro';
+import CABNextMatchTeam from '@components/CABNextMatchTeam.astro';
+import OthersMatchsToday from '@components/OthersMatchsToday.astro';
+
+
 ---
 
 <Layout title="">
@@ -12,31 +16,23 @@ import MatchsToday from '@components/MatchsToday.astro';
 	<main>
 		<Container>
 
-			
-
-
 			<div class='grid grid-cols-4 lg:grid-cols-8 gap-10 w-full px-4 md:px-8'>
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
-
-				
+					
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-10'>
-					<Nextmatch></Nextmatch>					
+					<CABNextMatchTeam teamId={"Belgrano"} league={"LPF"}></CABNextMatchTeam>    			
 				</div>
 
-				
-				<TeamScroll></TeamScroll>
+				<LeaguesScroll></LeaguesScroll>
 				
 				<div class='flex col-span-4  xl:col-span-4 flex-col gap-y-1'>
 					<MatchsToday></MatchsToday>
+					<OthersMatchsToday></OthersMatchsToday>
+					<!-- <MatchsToday league={'LaLiga'}></MatchsToday> -->
 
 				</div>
 				
 			</div>
-				
-				<div class='col-span-4  xl:col-span-4 flex flex-col gap-y-4'>
-					<h4 class="font-bold">Posiciones</h4>
-					<Table />
-				</div>
 				
 			</div>
 		</Container>

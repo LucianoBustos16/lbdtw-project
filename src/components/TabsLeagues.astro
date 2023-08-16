@@ -1,0 +1,99 @@
+---
+import ScheduleLeague from "@components/ScheduleLeague.astro"
+import TeamScroll from "@components/TeamScroll.astro"
+import Table from "@components/Table.astro"
+import ScheduleToday from "./ScheduleToday.astro";
+
+const {
+  color,
+  shortName,
+} = Astro.props
+
+---
+
+<!-- Tab links -->
+<div class="tab flex justify-center text-white" style={`background:${color}`}>
+    <button class="tablinks  opacity-70" onclick="openCity(event, 'General')" id="defaultOpen">General</button>
+    <button class="tablinks  opacity-70" onclick="openCity(event, 'Posiciones')" >Posiciones</button>
+    <button class="tablinks  opacity-70" onclick="openCity(event, 'Fixture')">Fixture</button>
+</div>
+  
+  <!-- Tab content -->
+  <div id="General" class="tabcontent">
+
+      <TeamScroll league={shortName}/>
+      <ScheduleToday league={shortName}/>
+
+  </div>
+  
+  <div id="Posiciones" class="tabcontent">
+    <Table shortName={shortName}/>
+  </div>
+
+  <div id="Fixture" class="tabcontent">
+    <ScheduleLeague league={shortName}/>
+  </div>
+  
+  <script is:inline>
+    function openCity(evt, cityName) {
+  // Declare all variables
+  var i, tabcontent, tablinks;
+
+  // Get all elements with class="tabcontent" and hide them
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Get all elements with class="tablinks" and remove the class "active"
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Show the current tab, and add an "active" class to the button that opened the tab
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+  </script>
+
+  
+
+  <style>
+    /* Style the tab */
+.tab {
+  overflow: hidden;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+ 
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  opacity: 1;
+  font-weight: bold;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 16px 16px;
+  border-top: none;
+}
+  </style>

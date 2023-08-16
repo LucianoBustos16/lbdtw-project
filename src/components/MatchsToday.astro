@@ -1,68 +1,51 @@
 ---
 import { getMatchsToday } from '@services/matchstoday.js'
+import { getAllLeagues } from '@services/leagues.js'
 import MatchsTodayRow from '@components/MatchsTodayRow.astro'
 
 const matchsToday = await getMatchsToday()
+const allLeagues = await getAllLeagues()
+const leagueNames = allLeagues.map((league) => league.name)
+const filteredMatchs = matchsToday.filter((matchs) => leagueNames.includes(matchs.competition))
 
 ---
 
 {
-  matchsToday.map((matchs) => {
+  matchsToday
+  .filter((matchs) => {
+    if (filteredMatchs.length === 0) {
+      return true;
+    } else {
+      return leagueNames.includes(matchs.competition);
+    }
+  })
+  .map((matchs) => {
     return (
       <section class='my-2'>
-        <div class="bg-white rounded-lg w-full overflow-hidden shadow-md">
+
           
-        <button class="collapsible font-bold bg-white rounded-lg p-4 w-full text-left">{matchs.competition}</button>
+        <h2 class=" font-bold w-full text-left">{matchs.competition}</h2>
+        
         <div class="content">
           
-          <div class="swiper w-full h-full grid xl:grid-cols-2 snap-mandatory scroll-m-4">
-            {matchs.matches.map((match) => ( 
+          <div class="swiper gap-4 w-full h-full grid xl:grid-cols-2 snap-mandatory scroll-m-4">
+            {matchs.matches
+              .map((match) => (    
+
               <MatchsTodayRow
                 local={match.teams[0]}
                 visitant={match.teams[1]}
                 hour={match.hour}
-                date={match.date}
+                date={match.formattedDate}
                 hourMatch={match.hourMatch}
                 round= {matchs.fecha}
+                score={match.score}             
                 />
                 
             ))}
           </div>
         </div>
-      </div>
       </section>
     )
   })
 }
-
-
-<script is:inline>
-
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      if (content.style.maxHeight){
-        content.style.maxHeight = null;
-      } else {
-        content.style.maxHeight = content.scrollHeight + "px";
-      } 
-    });
-  }
-</script>
-
-<style>
-.active{
-  border-radius: 8px 8px 0 0;
-}
-
-.content {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
-}
-</style>

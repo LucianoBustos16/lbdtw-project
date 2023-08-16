@@ -1,9 +1,9 @@
 ---
-import { getAllMatch } from '@services/scheduleTeam.js'
+import { getAllMatch } from '@services/schedule.js'
 import NextMatchRow from '@components/NextMatchRow.astro'
 
-const schedule = await getAllMatch()
-const { teamId } = Astro.props
+const { teamId, league } = Astro.props
+const schedule = await getAllMatch({league})
 ---
 
 {
@@ -20,10 +20,11 @@ const { teamId } = Astro.props
                   local={match.teams[0]}
                   visitant={match.teams[1]}
                   score={match.score}
-                  date={match.date}
+                  date={match.formattedDate}
                   hour={match.hour}
                   timestamp={match.timestamp}
                   hourMatch={match.hourMatch}
+                  round={fecha.fecha}
                 />                                
               ))
             }

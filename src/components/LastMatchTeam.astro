@@ -1,9 +1,10 @@
 ---
-import { getAllMatch } from '@services/scheduleTeam.js'
+import { getAllMatch } from '@services/schedule.js'
 import LastMatchRow from '@components/LastMatchRow.astro'
 
-const schedule = await getAllMatch()
-const { teamId } = Astro.props
+const { league, teamId } = Astro.props
+
+const schedule = await getAllMatch({league})
 ---
 
 {

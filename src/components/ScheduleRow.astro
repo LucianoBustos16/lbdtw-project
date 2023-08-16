@@ -13,8 +13,8 @@ const { local, score, visitant, date, hourMatch  } = Astro.props
 			</p>
 
 			<img
-		class='h-8 object-contain my-2'
-		src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.webp`}
+		class='h-8 w-8 object-contain my-2'
+		src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.svg`}
 		alt={`Escudo del equipo ${local.name}`}
 	/>	
 		</a>
@@ -22,8 +22,8 @@ const { local, score, visitant, date, hourMatch  } = Astro.props
 		<div class='text-center rounded-sm p-2'>
 
 			
-			<p class="text-gray-400 uppercase text-sm">{ score.includes("-") ? '' : date }</p>
-			<p class="text-[#0598D1] text-xl">{ score.includes("-") ? score : hourMatch }</p>
+			<p class="text-gray-400 uppercase text-sm">{ score.includes("-") || score.includes("Aplazado") ? '' : date }</p>
+			<p class="text-[#0598D1] text-xl">{ score.includes("-") || score.includes("Aplazado") ? score : hourMatch }</p>
 			<h3 class='animate-fadeIn animate-delay-200 italic text-white/80 text-lg -rotate-[10deg]'>
 			</h3>
 		</div>
@@ -31,8 +31,8 @@ const { local, score, visitant, date, hourMatch  } = Astro.props
 		<a href={`/equipos/${visitant.id}`} class="flex gap-1 items-center group transition-all hover:scale-110">
 			
 			<img
-		class='h-8 object-contain'
-		src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.webp`}
+		class='h-8 w-8 object-contain'
+		src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.svg`}
 		alt={`Escudo del equipo ${visitant.name}`}
 		/>
 			<p class="text-left font-semibold">

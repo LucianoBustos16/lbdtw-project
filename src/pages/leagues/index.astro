@@ -1,0 +1,16 @@
+---
+import Container from "@components/Container.astro";
+import SectionTitle from "@components/SectionTitle.astro";
+import TeamSelectorCards from "@components/TeamSelectorCards.astro";
+import Layout from "@layouts/Layout.astro";
+---
+
+<Layout title="Equipos">
+    <SectionTitle title="Equipo" />
+
+    <Container>
+        <div class="p-10 md:p-20 -mt-10 bg-white dark:bg-gray-800 shadow-2xl rounded-3xl">
+            <TeamSelectorCards></TeamSelectorCards>
+        </div>
+    </Container>
+</Layout>

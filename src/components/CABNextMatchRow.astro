@@ -1,0 +1,53 @@
+---
+const { local, visitant, date, round, hourMatch } = Astro.props
+
+---
+	<div class="shadow-md p-4 relative rounded-xl bg-[#004A79] text-white">
+
+		<span class="font-bold text-xs mr-2 px-2.5 py-0.5 rounded-full bg-gray-100 text-gray-700">⚽ Destacado<span class="font-normal opacity-80 ml-1">- Fecha {round}</span></span>
+			<div class="grid items-center gap-2 my-3" style="grid-template-columns: 1fr auto 1fr;" >
+
+				<a href={`/equipos/${local.id}`} class="flex flex-col gap-1 items-center group transition-all justify-end hover:scale-105">
+					
+					<img
+						class="h-20 w-20 object-contain my-2"
+						src={`https://api.lbdtwplus.com.ar/static/logos/${local.id}.svg`}
+						alt={`Escudo del equipo ${local.name}`}
+					/>	
+					
+					<p class="text-lg">{local.name}</p>
+
+				</a>
+				
+				<div class='text-center rounded-sm p-2'>
+					<p class=" text-lg">{date}</p>
+					<p class=" text-lg">{hourMatch} hs.</p>
+				</div>
+
+				<a href={`/equipos/${visitant.id}`} class="flex flex-col gap-1 items-center group transition-all hover:scale-105">					
+					<img
+						class='h-20 w-20 object-contain my-2'
+						src={`https://api.lbdtwplus.com.ar/static/logos/${visitant.id}.svg`}
+						alt={`Escudo del equipo ${visitant.name}`}
+					/>
+
+					<p class=" text-lg">{visitant.name}</p>			
+					
+				</a>
+
+				
+				
+				
+				
+
+			</div>
+
+			<figure class="opacity-5 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 h-64 w-64">
+				<img
+						class='object-contain my-2 opacity-30'
+						src={`https://api.lbdtwplus.com.ar/static/logos/LPF-white.svg`}
+						alt={`Escudo de la LPF`}
+					/>
+			</figure>
+
+	</div>

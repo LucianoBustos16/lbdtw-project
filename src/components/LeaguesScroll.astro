@@ -1,0 +1,30 @@
+---
+import { getAllLeagues } from "@services/leagues.js";
+
+const leagues = await getAllLeagues();
+
+---
+<div class='flex col-span-4 flex-col'>
+    <h4 class="font-bold">Ligas</h4>
+
+    <div class="overflow-scroll p-4 scrollbar-hide">
+        <div class="swiper w-full h-full flex gap-2 snap-mandatory scroll-m-4">
+
+            { leagues.map((league) => {
+                const {logo, shortName, name} = league
+                return(
+                <a href={`/leagues/${shortName}`}>
+                    <div class="swiper-wrapper snap-start">
+                    
+                        <div class="bg-white w-16 h-16 p-2 rounded-lg shadow-md">
+                            <img src={logo} alt={`Escudo de la ${name}`} width="48" height="48">
+                        </div>
+                        </div>
+                    </a>
+
+                )
+                })
+                }
+        </div>
+    </div>
+</div>

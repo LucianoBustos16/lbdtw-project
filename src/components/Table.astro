@@ -1,10 +1,17 @@
 ---
-const response = await fetch( 'https://api.lbdtwplus.com.ar/leaderboard' );
-const leaderboard = await response.json();
+// const response = await fetch( 'https://api.lbdtwplus.com.ar/leaderboardLPF' );
+// const leaderboardLPF = await response.json();
+
+import { findLeaderboardBy } from '@services/leaderboardAuto.js'
+
+const { shortName, league } = Astro.props
+
+const leaderboard = await findLeaderboardBy({shortName})
 ---
-<div class="relative overflow-x-auto shadow-md rounded-lg">
+
+<div class="relative overflow-x-auto shadow-md rounded-2xl">
     <table class="w-full text-sm text-center text-gray-500">
-        <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+        <thead class="text-xs text-gray-700 bg-white">
             <tr>
                 <th scope="col" class="px-2 py-3">
                     #
@@ -52,7 +59,7 @@ const leaderboard = await response.json();
                         href={`/equipos/${team.id}`}
                         class="flex gap-1 items-center group transition-all hover:scale-105"
                     >
-                    <img src={team.image} alt="Escudo de ${team.name}" class=" w-6" width="24" height="24">
+                    <img src={team.image} alt={`Escudo de ${team.name}`} class=" w-6" width="24" height="24">
                     <div class="font-normal hidden md:block">{team.name}</div>
                     <div class="font-normal md:hidden">{team.shortName}</div>
                     </a>
