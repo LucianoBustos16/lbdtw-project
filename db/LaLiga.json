@@ -73,13 +73,13 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
-      "id": "Cadiz",
-      "color": "#EEEF28",
-      "colorSecondary": "#346DBE",
-      "name": "Cadiz",
-      "shortName": "CAD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
+      "id": "Barcelona",
+      "color": "#004B95",
+      "colorSecondary": "#A4234B",
+      "name": "Barcelona",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -211,6 +211,27 @@
   },
   {
     "rank": 11,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
+      "id": "Cadiz",
+      "color": "#EEEF28",
+      "colorSecondary": "#346DBE",
+      "name": "Cadiz",
+      "shortName": "CAD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 12,
     "points": 2,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -227,27 +248,6 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 2,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Barcelona",
-      "color": "#004B95",
-      "colorSecondary": "#A4234B",
-      "name": "Barcelona",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
       "league": "LaLiga"
     }
   },
