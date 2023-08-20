@@ -48,48 +48,6 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 4,
-    "goalsAgainst": 1,
-    "goalDifference": 3,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "Barcelona",
-      "color": "#004B95",
-      "colorSecondary": "#A4234B",
-      "name": "Barcelona",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
     "goalsFor": 3,
     "goalsAgainst": 1,
     "goalDifference": 2,
@@ -105,7 +63,70 @@
     }
   },
   {
+    "rank": 4,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "goalDifference": 1,
+    "team": {
+      "id": "Betis",
+      "color": "#008835",
+      "colorSecondary": "#FFF",
+      "name": "Betis",
+      "shortName": "BET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 1,
+    "goalDifference": 3,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
     "rank": 6,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "goalDifference": 2,
+    "team": {
+      "id": "Barcelona",
+      "color": "#004B95",
+      "colorSecondary": "#A4234B",
+      "name": "Barcelona",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -122,27 +143,6 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Betis",
-      "color": "#008835",
-      "colorSecondary": "#FFF",
-      "name": "Betis",
-      "shortName": "BET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
       "league": "LaLiga"
     }
   },
@@ -217,8 +217,8 @@
     "matchesDrawn": 0,
     "matchesLost": 1,
     "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
     "team": {
       "id": "Cadiz",
       "color": "#EEEF28",
