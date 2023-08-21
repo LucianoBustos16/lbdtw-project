@@ -11,7 +11,7 @@ import { writeDBFile } from '../db/index.js'
 // URLS para scrapear
 export const SCRAPINGS = {
     LPF: {
-        url: 'https://www.promiedos.com.ar/primera',
+        url: 'https://www.promiedos.com.ar/copadeliga',
         scraper: getLeaderBoardLPF,
     },
     LaLiga: {
@@ -28,7 +28,8 @@ export const SCRAPINGS = {
     //     scraper: getNextMatch,
     // },
     scheduleLPF: {
-        url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
+        // url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
+        url: 'https://argentina.as.com/resultados/futbol/copa_liga_argentina/calendario/',
         scraper: getSchedule,
   },
   scheduleLaLiga: {
