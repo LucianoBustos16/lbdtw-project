@@ -262,13 +262,13 @@
     "goalsAgainst": 2,
     "goalDifference": -1,
     "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -283,18 +283,60 @@
     "goalsAgainst": 2,
     "goalDifference": -1,
     "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
   {
     "rank": 15,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
+    "team": {
+      "id": "Sevilla",
+      "color": "#CD3529",
+      "colorSecondary": "#FFF",
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Alaves",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Alaves",
+      "shortName": "ALV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -315,7 +357,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 18,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -332,48 +374,6 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Sevilla",
-      "color": "#CD3529",
-      "colorSecondary": "#FFF",
-      "name": "Sevilla",
-      "shortName": "SEV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Alaves",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Alaves",
-      "shortName": "ALV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
       "league": "LaLiga"
     }
   },
