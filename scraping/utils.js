@@ -70,7 +70,6 @@ export async function scrapeAndSave(name){
     const $ = await scrape(url)
     const content = await scraper($)
     logSuccess(`[${name}] scraped successfully`)
-    console.log(url)
 
     logInfo(`Writting [${name}] to database...`)
 
