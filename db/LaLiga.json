@@ -154,8 +154,8 @@
     "matchesDrawn": 0,
     "matchesLost": 1,
     "goalsFor": 4,
-    "goalsAgainst": 3,
-    "goalDifference": 1,
+    "goalsAgainst": 4,
+    "goalDifference": 0,
     "team": {
       "id": "Alaves",
       "color": "#002246",
@@ -359,6 +359,27 @@
   {
     "rank": 18,
     "points": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 4,
+    "goalsAgainst": 6,
+    "goalDifference": -2,
+    "team": {
+      "id": "Sevilla",
+      "color": "#CD3529",
+      "colorSecondary": "#FFF",
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 19,
+    "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
     "matchesDrawn": 0,
@@ -374,27 +395,6 @@
       "shortName": "GRN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 0,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 3,
-    "goalsAgainst": 6,
-    "goalDifference": -3,
-    "team": {
-      "id": "Sevilla",
-      "color": "#CD3529",
-      "colorSecondary": "#FFF",
-      "name": "Sevilla",
-      "shortName": "SEV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
       "league": "LaLiga"
     }
   },
