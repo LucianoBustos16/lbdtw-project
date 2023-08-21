@@ -73,6 +73,27 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
       "id": "Instituto",
       "color": "#E0312B",
       "colorSecondary": "#FFFFFF",
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -126,49 +147,7 @@
     }
   },
   {
-    "rank": 7,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 8,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -189,7 +168,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -210,7 +189,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -227,6 +206,27 @@
       "shortName": "ARS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
       "league": "LPF"
     }
   },
@@ -1009,27 +1009,6 @@
   },
   {
     "rank": 7,
-    "points": 31,
-    "matchesPlayed": 28,
-    "matchesWon": 7,
-    "matchesDrawn": 10,
-    "matchesLost": 11,
-    "goalsFor": 21,
-    "goalsAgainst": 32,
-    "goalDifference": -11,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
     "points": 30,
     "matchesPlayed": 28,
     "matchesWon": 6,
@@ -1046,6 +1025,27 @@
       "shortName": "VEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 30,
+    "matchesPlayed": 28,
+    "matchesWon": 7,
+    "matchesDrawn": 9,
+    "matchesLost": 12,
+    "goalsFor": 21,
+    "goalsAgainst": 33,
+    "goalDifference": -12,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
       "league": "LPF"
     }
   },
@@ -1116,6 +1116,27 @@
     "rank": 12,
     "points": 28,
     "matchesPlayed": 28,
+    "matchesWon": 7,
+    "matchesDrawn": 7,
+    "matchesLost": 14,
+    "goalsFor": 19,
+    "goalsAgainst": 29,
+    "goalDifference": -10,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 28,
+    "matchesPlayed": 28,
     "matchesWon": 5,
     "matchesDrawn": 13,
     "matchesLost": 10,
@@ -1130,27 +1151,6 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 26,
-    "matchesPlayed": 28,
-    "matchesWon": 6,
-    "matchesDrawn": 8,
-    "matchesLost": 14,
-    "goalsFor": 18,
-    "goalsAgainst": 29,
-    "goalDifference": -11,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
