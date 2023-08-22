@@ -367,6 +367,27 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
       "id": "San-Lorenzo",
       "color": "#BF1B27",
       "colorSecondary": "#263D54",
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -399,7 +420,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -420,49 +441,7 @@
     }
   },
   {
-    "rank": 7,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 8,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -483,7 +462,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -504,7 +483,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -521,6 +500,27 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
@@ -826,6 +826,27 @@
     "matchesDrawn": 11,
     "matchesLost": 8,
     "goalsFor": 25,
+    "goalsAgainst": 24,
+    "goalDifference": 1,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 38,
+    "matchesPlayed": 28,
+    "matchesWon": 9,
+    "matchesDrawn": 11,
+    "matchesLost": 8,
+    "goalsFor": 25,
     "goalsAgainst": 27,
     "goalDifference": -2,
     "team": {
@@ -840,7 +861,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 37,
     "matchesPlayed": 28,
     "matchesWon": 9,
@@ -857,27 +878,6 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 36,
-    "matchesPlayed": 28,
-    "matchesWon": 8,
-    "matchesDrawn": 12,
-    "matchesLost": 8,
-    "goalsFor": 24,
-    "goalsAgainst": 24,
-    "goalDifference": 0,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -1035,27 +1035,6 @@
     "matchesWon": 7,
     "matchesDrawn": 9,
     "matchesLost": 12,
-    "goalsFor": 20,
-    "goalsAgainst": 30,
-    "goalDifference": -10,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 30,
-    "matchesPlayed": 28,
-    "matchesWon": 7,
-    "matchesDrawn": 9,
-    "matchesLost": 12,
     "goalsFor": 21,
     "goalsAgainst": 34,
     "goalDifference": -13,
@@ -1071,7 +1050,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 30,
     "matchesPlayed": 28,
     "matchesWon": 7,
@@ -1088,6 +1067,27 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 29,
+    "matchesPlayed": 28,
+    "matchesWon": 7,
+    "matchesDrawn": 8,
+    "matchesLost": 13,
+    "goalsFor": 20,
+    "goalsAgainst": 31,
+    "goalDifference": -11,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
