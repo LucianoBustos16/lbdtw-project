@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 6,
+    "matchesPlayed": 2,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 2,
+    "goalDifference": 2,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -21,7 +42,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -38,27 +59,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -199,27 +199,6 @@
     "goalsAgainst": 1,
     "goalDifference": -1,
     "team": {
-      "id": "Arsenal",
-      "color": "#13B5EA",
-      "colorSecondary": "#EF3340",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
       "colorSecondary": "#FFF",
@@ -231,7 +210,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 11,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -248,6 +227,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -2,
+    "team": {
+      "id": "Arsenal",
+      "color": "#13B5EA",
+      "colorSecondary": "#EF3340",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
       "league": "LPF"
     }
   },
@@ -673,6 +673,27 @@
   },
   {
     "rank": 5,
+    "points": 46,
+    "matchesPlayed": 29,
+    "matchesWon": 13,
+    "matchesDrawn": 7,
+    "matchesLost": 9,
+    "goalsFor": 35,
+    "goalsAgainst": 24,
+    "goalDifference": 11,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 45,
     "matchesPlayed": 28,
     "matchesWon": 12,
@@ -693,7 +714,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 45,
     "matchesPlayed": 28,
     "matchesWon": 12,
@@ -714,7 +735,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 44,
     "matchesPlayed": 27,
     "matchesWon": 12,
@@ -731,27 +752,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 43,
-    "matchesPlayed": 28,
-    "matchesWon": 12,
-    "matchesDrawn": 7,
-    "matchesLost": 9,
-    "goalsFor": 34,
-    "goalsAgainst": 24,
-    "goalDifference": 10,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -1157,13 +1157,13 @@
   {
     "rank": 14,
     "points": 22,
-    "matchesPlayed": 28,
+    "matchesPlayed": 29,
     "matchesWon": 6,
     "matchesDrawn": 4,
-    "matchesLost": 18,
+    "matchesLost": 19,
     "goalsFor": 18,
-    "goalsAgainst": 35,
-    "goalDifference": -17,
+    "goalsAgainst": 36,
+    "goalDifference": -18,
     "team": {
       "id": "Arsenal",
       "color": "#13B5EA",
