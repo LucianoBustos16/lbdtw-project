@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 7,
+    "points": 9,
     "matchesPlayed": 3,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
+    "matchesWon": 3,
+    "matchesDrawn": 0,
     "matchesLost": 0,
-    "goalsFor": 5,
+    "goalsFor": 6,
     "goalsAgainst": 1,
-    "goalDifference": 4,
+    "goalDifference": 5,
     "team": {
       "id": "Real-Madrid",
       "color": "#004996",
@@ -295,27 +295,6 @@
   },
   {
     "rank": 15,
-    "points": 2,
-    "matchesPlayed": 3,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -332,6 +311,27 @@
       "shortName": "MALL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 1,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 4,
+    "goalDifference": -3,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
       "league": "LaLiga"
     }
   },
