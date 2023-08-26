@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 6,
+    "matchesPlayed": 2,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 0,
+    "goalDifference": 3,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -21,7 +42,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -38,27 +59,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
@@ -275,13 +275,13 @@
   {
     "rank": 14,
     "points": 0,
-    "matchesPlayed": 1,
+    "matchesPlayed": 2,
     "matchesWon": 0,
     "matchesDrawn": 0,
-    "matchesLost": 1,
+    "matchesLost": 2,
     "goalsFor": 0,
-    "goalsAgainst": 3,
-    "goalDifference": -3,
+    "goalsAgainst": 5,
+    "goalDifference": -5,
     "team": {
       "id": "Gimnasia",
       "color": "#121731",
@@ -1009,6 +1009,27 @@
   },
   {
     "rank": 7,
+    "points": 31,
+    "matchesPlayed": 29,
+    "matchesWon": 6,
+    "matchesDrawn": 13,
+    "matchesLost": 10,
+    "goalsFor": 23,
+    "goalsAgainst": 33,
+    "goalDifference": -10,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 30,
     "matchesPlayed": 28,
     "matchesWon": 6,
@@ -1029,7 +1050,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 30,
     "matchesPlayed": 28,
     "matchesWon": 7,
@@ -1050,15 +1071,15 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 30,
-    "matchesPlayed": 28,
+    "matchesPlayed": 29,
     "matchesWon": 7,
     "matchesDrawn": 9,
-    "matchesLost": 12,
+    "matchesLost": 13,
     "goalsFor": 24,
-    "goalsAgainst": 41,
-    "goalDifference": -17,
+    "goalsAgainst": 43,
+    "goalDifference": -19,
     "team": {
       "id": "Gimnasia",
       "color": "#121731",
@@ -1071,7 +1092,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 29,
     "matchesPlayed": 28,
     "matchesWon": 7,
@@ -1092,7 +1113,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 28,
     "matchesPlayed": 28,
     "matchesWon": 7,
@@ -1113,7 +1134,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 28,
     "matchesPlayed": 28,
     "matchesWon": 6,
@@ -1130,27 +1151,6 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 28,
-    "matchesPlayed": 28,
-    "matchesWon": 5,
-    "matchesDrawn": 13,
-    "matchesLost": 10,
-    "goalsFor": 21,
-    "goalsAgainst": 33,
-    "goalDifference": -12,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
