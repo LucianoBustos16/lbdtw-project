@@ -22,10 +22,10 @@
   },
   {
     "rank": 2,
-    "points": 3,
-    "matchesPlayed": 1,
+    "points": 4,
+    "matchesPlayed": 2,
     "matchesWon": 1,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 3,
     "goalsAgainst": 0,
@@ -43,10 +43,10 @@
   },
   {
     "rank": 3,
-    "points": 3,
-    "matchesPlayed": 1,
+    "points": 4,
+    "matchesPlayed": 2,
     "matchesWon": 1,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 2,
     "goalsAgainst": 0,
@@ -295,6 +295,27 @@
   },
   {
     "rank": 1,
+    "points": 6,
+    "matchesPlayed": 2,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 0,
+    "goalDifference": 3,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -357,7 +378,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -374,27 +395,6 @@
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 0,
-    "goalDifference": 2,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -489,27 +489,6 @@
     "matchesWon": 0,
     "matchesDrawn": 0,
     "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
     "goalsFor": 1,
     "goalsAgainst": 3,
     "goalDifference": -2,
@@ -525,7 +504,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 11,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -542,6 +521,27 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -2,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -610,10 +610,10 @@
   },
   {
     "rank": 2,
-    "points": 53,
-    "matchesPlayed": 28,
+    "points": 54,
+    "matchesPlayed": 29,
     "matchesWon": 15,
-    "matchesDrawn": 8,
+    "matchesDrawn": 9,
     "matchesLost": 5,
     "goalsFor": 45,
     "goalsAgainst": 23,
@@ -674,13 +674,13 @@
   {
     "rank": 5,
     "points": 45,
-    "matchesPlayed": 28,
+    "matchesPlayed": 29,
     "matchesWon": 12,
     "matchesDrawn": 9,
-    "matchesLost": 7,
+    "matchesLost": 8,
     "goalsFor": 38,
-    "goalsAgainst": 28,
-    "goalDifference": 10,
+    "goalsAgainst": 29,
+    "goalDifference": 9,
     "team": {
       "id": "Lanus",
       "color": "#7A1D2D",
@@ -799,6 +799,27 @@
   },
   {
     "rank": 11,
+    "points": 41,
+    "matchesPlayed": 29,
+    "matchesWon": 10,
+    "matchesDrawn": 11,
+    "matchesLost": 8,
+    "goalsFor": 27,
+    "goalsAgainst": 24,
+    "goalDifference": 3,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
     "points": 40,
     "matchesPlayed": 29,
     "matchesWon": 11,
@@ -815,27 +836,6 @@
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 38,
-    "matchesPlayed": 28,
-    "matchesWon": 9,
-    "matchesDrawn": 11,
-    "matchesLost": 8,
-    "goalsFor": 26,
-    "goalsAgainst": 24,
-    "goalDifference": 2,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -1094,6 +1094,27 @@
   {
     "rank": 11,
     "points": 29,
+    "matchesPlayed": 29,
+    "matchesWon": 7,
+    "matchesDrawn": 8,
+    "matchesLost": 14,
+    "goalsFor": 20,
+    "goalsAgainst": 29,
+    "goalDifference": -9,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 29,
     "matchesPlayed": 28,
     "matchesWon": 7,
     "matchesDrawn": 8,
@@ -1109,27 +1130,6 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 28,
-    "matchesPlayed": 28,
-    "matchesWon": 7,
-    "matchesDrawn": 7,
-    "matchesLost": 14,
-    "goalsFor": 20,
-    "goalsAgainst": 29,
-    "goalDifference": -9,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
