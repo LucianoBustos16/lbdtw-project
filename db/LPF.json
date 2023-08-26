@@ -295,6 +295,48 @@
   },
   {
     "rank": 1,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
+    "goalDifference": 1,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#BF1B27",
+      "colorSecondary": "#263D54",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -315,7 +357,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 4,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -336,7 +378,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 5,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -353,48 +395,6 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#BF1B27",
-      "colorSecondary": "#263D54",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
       "league": "LPF"
     }
   },
@@ -631,10 +631,10 @@
   },
   {
     "rank": 3,
-    "points": 49,
-    "matchesPlayed": 28,
+    "points": 50,
+    "matchesPlayed": 29,
     "matchesWon": 13,
-    "matchesDrawn": 10,
+    "matchesDrawn": 11,
     "matchesLost": 5,
     "goalsFor": 24,
     "goalsAgainst": 13,
@@ -799,10 +799,10 @@
   },
   {
     "rank": 11,
-    "points": 39,
-    "matchesPlayed": 28,
+    "points": 40,
+    "matchesPlayed": 29,
     "matchesWon": 11,
-    "matchesDrawn": 6,
+    "matchesDrawn": 7,
     "matchesLost": 11,
     "goalsFor": 22,
     "goalsAgainst": 27,
