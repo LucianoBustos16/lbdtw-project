@@ -295,14 +295,14 @@
   },
   {
     "rank": 1,
-    "points": 6,
+    "points": 4,
     "matchesPlayed": 2,
-    "matchesWon": 2,
-    "matchesDrawn": 0,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 4,
-    "goalsAgainst": 2,
-    "goalDifference": 2,
+    "goalsAgainst": 3,
+    "goalDifference": 1,
     "team": {
       "id": "Belgrano",
       "color": "#3A9CD0",
@@ -316,6 +316,27 @@
   },
   {
     "rank": 2,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#BF1B27",
+      "colorSecondary": "#263D54",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -357,7 +378,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -378,28 +399,28 @@
     }
   },
   {
-    "rank": 5,
-    "points": 3,
+    "rank": 6,
+    "points": 2,
     "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
-      "id": "San-Lorenzo",
-      "color": "#BF1B27",
-      "colorSecondary": "#263D54",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -420,28 +441,28 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 1,
-    "matchesPlayed": 1,
+    "matchesPlayed": 2,
     "matchesWon": 0,
     "matchesDrawn": 1,
-    "matchesLost": 0,
+    "matchesLost": 1,
     "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
     "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -462,7 +483,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -479,27 +500,6 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -631,14 +631,14 @@
   },
   {
     "rank": 3,
-    "points": 49,
+    "points": 50,
     "matchesPlayed": 29,
     "matchesWon": 13,
-    "matchesDrawn": 10,
-    "matchesLost": 6,
-    "goalsFor": 25,
+    "matchesDrawn": 11,
+    "matchesLost": 5,
+    "goalsFor": 26,
     "goalsAgainst": 15,
-    "goalDifference": 10,
+    "goalDifference": 11,
     "team": {
       "id": "San-Lorenzo",
       "color": "#BF1B27",
@@ -673,6 +673,27 @@
   },
   {
     "rank": 5,
+    "points": 46,
+    "matchesPlayed": 29,
+    "matchesWon": 12,
+    "matchesDrawn": 10,
+    "matchesLost": 7,
+    "goalsFor": 36,
+    "goalsAgainst": 26,
+    "goalDifference": 10,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 45,
     "matchesPlayed": 28,
     "matchesWon": 12,
@@ -689,27 +710,6 @@
       "shortName": "LAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 45,
-    "matchesPlayed": 28,
-    "matchesWon": 12,
-    "matchesDrawn": 9,
-    "matchesLost": 7,
-    "goalsFor": 36,
-    "goalsAgainst": 26,
-    "goalDifference": 10,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -778,27 +778,6 @@
   },
   {
     "rank": 10,
-    "points": 42,
-    "matchesPlayed": 29,
-    "matchesWon": 12,
-    "matchesDrawn": 6,
-    "matchesLost": 11,
-    "goalsFor": 24,
-    "goalsAgainst": 28,
-    "goalDifference": -4,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
     "points": 41,
     "matchesPlayed": 27,
     "matchesWon": 11,
@@ -815,6 +794,27 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 40,
+    "matchesPlayed": 29,
+    "matchesWon": 11,
+    "matchesDrawn": 7,
+    "matchesLost": 11,
+    "goalsFor": 24,
+    "goalsAgainst": 29,
+    "goalDifference": -5,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
       "league": "LPF"
     }
   },
@@ -988,10 +988,10 @@
   },
   {
     "rank": 6,
-    "points": 31,
-    "matchesPlayed": 28,
+    "points": 32,
+    "matchesPlayed": 29,
     "matchesWon": 6,
-    "matchesDrawn": 13,
+    "matchesDrawn": 14,
     "matchesLost": 9,
     "goalsFor": 20,
     "goalsAgainst": 26,
