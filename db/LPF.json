@@ -6,6 +6,27 @@
     "matchesWon": 2,
     "matchesDrawn": 0,
     "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 1,
+    "goalDifference": 4,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 6,
+    "matchesPlayed": 2,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
     "goalsFor": 3,
     "goalsAgainst": 0,
     "goalDifference": 3,
@@ -21,36 +42,15 @@
     }
   },
   {
-    "rank": 2,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 4,
-    "goalsAgainst": 1,
-    "goalDifference": 3,
-    "team": {
-      "id": "Talleres",
-      "color": "#00184C",
-      "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 3,
-    "points": 4,
+    "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
     "goalsFor": 3,
-    "goalsAgainst": 1,
-    "goalDifference": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 1,
     "team": {
       "id": "Huracan",
       "color": "#FF0000",
@@ -610,14 +610,14 @@
   },
   {
     "rank": 2,
-    "points": 54,
+    "points": 56,
     "matchesPlayed": 29,
-    "matchesWon": 15,
-    "matchesDrawn": 9,
+    "matchesWon": 16,
+    "matchesDrawn": 8,
     "matchesLost": 5,
-    "goalsFor": 46,
+    "goalsFor": 47,
     "goalsAgainst": 24,
-    "goalDifference": 22,
+    "goalDifference": 23,
     "team": {
       "id": "Talleres",
       "color": "#00184C",
@@ -1094,27 +1094,6 @@
   {
     "rank": 11,
     "points": 29,
-    "matchesPlayed": 29,
-    "matchesWon": 7,
-    "matchesDrawn": 8,
-    "matchesLost": 14,
-    "goalsFor": 21,
-    "goalsAgainst": 30,
-    "goalDifference": -9,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 29,
     "matchesPlayed": 28,
     "matchesWon": 7,
     "matchesDrawn": 8,
@@ -1134,7 +1113,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 28,
     "matchesPlayed": 28,
     "matchesWon": 6,
@@ -1151,6 +1130,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 28,
+    "matchesPlayed": 29,
+    "matchesWon": 7,
+    "matchesDrawn": 7,
+    "matchesLost": 15,
+    "goalsFor": 21,
+    "goalsAgainst": 31,
+    "goalDifference": -10,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
