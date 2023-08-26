@@ -301,6 +301,27 @@
     "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 4,
+    "goalsAgainst": 2,
+    "goalDifference": 2,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 4,
     "goalsAgainst": 3,
     "goalDifference": 1,
     "team": {
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -332,27 +353,6 @@
       "shortName": "SL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
@@ -506,27 +506,6 @@
   {
     "rank": 11,
     "points": 0,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 2,
-    "goalsAgainst": 4,
-    "goalDifference": -2,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
     "matchesDrawn": 0,
@@ -546,7 +525,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -567,7 +546,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 13,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -584,6 +563,27 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 5,
+    "goalDifference": -3,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -700,8 +700,8 @@
     "matchesDrawn": 9,
     "matchesLost": 8,
     "goalsFor": 37,
-    "goalsAgainst": 28,
-    "goalDifference": 9,
+    "goalsAgainst": 29,
+    "goalDifference": 8,
     "team": {
       "id": "Estudiantes",
       "color": "#E41815",
@@ -947,6 +947,27 @@
   {
     "rank": 4,
     "points": 34,
+    "matchesPlayed": 29,
+    "matchesWon": 7,
+    "matchesDrawn": 13,
+    "matchesLost": 9,
+    "goalsFor": 23,
+    "goalsAgainst": 27,
+    "goalDifference": -4,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 34,
     "matchesPlayed": 28,
     "matchesWon": 9,
     "matchesDrawn": 7,
@@ -962,27 +983,6 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 34,
-    "matchesPlayed": 29,
-    "matchesWon": 7,
-    "matchesDrawn": 13,
-    "matchesLost": 9,
-    "goalsFor": 22,
-    "goalsAgainst": 27,
-    "goalDifference": -5,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
