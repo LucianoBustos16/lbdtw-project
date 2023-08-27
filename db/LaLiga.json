@@ -64,6 +64,27 @@
   },
   {
     "rank": 4,
+    "points": 7,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
+    "team": {
+      "id": "Betis",
+      "color": "#008835",
+      "colorSecondary": "#FFF",
+      "name": "Betis",
+      "shortName": "BET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 5,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -143,27 +164,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Betis",
-      "color": "#008835",
-      "colorSecondary": "#FFF",
-      "name": "Betis",
-      "shortName": "BET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
       "league": "LaLiga"
     }
   },
@@ -212,27 +212,6 @@
   {
     "rank": 11,
     "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
-    "goalDifference": 0,
-    "team": {
-      "id": "Athletic-Bilbao",
-      "color": "#E2231A",
-      "colorSecondary": "#FFFFFF",
-      "name": "Athletic Bilbao",
-      "shortName": "ATH",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 3,
     "matchesPlayed": 3,
     "matchesWon": 0,
     "matchesDrawn": 3,
@@ -252,7 +231,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 3,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -269,6 +248,27 @@
       "shortName": "VIL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 3,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 3,
+    "goalDifference": -1,
+    "team": {
+      "id": "Athletic-Bilbao",
+      "color": "#E2231A",
+      "colorSecondary": "#FFFFFF",
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
       "league": "LaLiga"
     }
   },
