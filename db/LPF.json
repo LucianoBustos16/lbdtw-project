@@ -342,6 +342,27 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
     "goalsFor": 4,
     "goalsAgainst": 3,
     "goalDifference": 1,
@@ -357,7 +378,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -399,7 +420,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -416,27 +437,6 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
@@ -548,27 +548,6 @@
   {
     "rank": 13,
     "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 2,
-    "goalDifference": -2,
-    "team": {
-      "id": "Tigre",
-      "color": "#1E448D",
-      "colorSecondary": "#ED2A3C",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 0,
     "matchesPlayed": 2,
     "matchesWon": 0,
     "matchesDrawn": 0,
@@ -584,6 +563,27 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 0,
+    "goalsAgainst": 4,
+    "goalDifference": -4,
+    "team": {
+      "id": "Tigre",
+      "color": "#1E448D",
+      "colorSecondary": "#ED2A3C",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
       "league": "LPF"
     }
   },
@@ -822,6 +822,27 @@
     "rank": 12,
     "points": 40,
     "matchesPlayed": 29,
+    "matchesWon": 10,
+    "matchesDrawn": 10,
+    "matchesLost": 9,
+    "goalsFor": 39,
+    "goalsAgainst": 36,
+    "goalDifference": 3,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 40,
+    "matchesPlayed": 29,
     "matchesWon": 11,
     "matchesDrawn": 7,
     "matchesLost": 11,
@@ -840,7 +861,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 38,
     "matchesPlayed": 28,
     "matchesWon": 9,
@@ -857,27 +878,6 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 37,
-    "matchesPlayed": 28,
-    "matchesWon": 9,
-    "matchesDrawn": 10,
-    "matchesLost": 9,
-    "goalsFor": 37,
-    "goalsAgainst": 36,
-    "goalDifference": 1,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
@@ -926,27 +926,6 @@
   {
     "rank": 3,
     "points": 34,
-    "matchesPlayed": 28,
-    "matchesWon": 9,
-    "matchesDrawn": 7,
-    "matchesLost": 12,
-    "goalsFor": 27,
-    "goalsAgainst": 31,
-    "goalDifference": -4,
-    "team": {
-      "id": "Tigre",
-      "color": "#1E448D",
-      "colorSecondary": "#ED2A3C",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 34,
     "matchesPlayed": 29,
     "matchesWon": 7,
     "matchesDrawn": 13,
@@ -966,7 +945,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 4,
     "points": 34,
     "matchesPlayed": 28,
     "matchesWon": 9,
@@ -983,6 +962,27 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 34,
+    "matchesPlayed": 29,
+    "matchesWon": 9,
+    "matchesDrawn": 7,
+    "matchesLost": 13,
+    "goalsFor": 27,
+    "goalsAgainst": 33,
+    "goalDifference": -6,
+    "team": {
+      "id": "Tigre",
+      "color": "#1E448D",
+      "colorSecondary": "#ED2A3C",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
       "league": "LPF"
     }
   },
