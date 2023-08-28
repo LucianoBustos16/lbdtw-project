@@ -48,6 +48,27 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 4,
+    "goalDifference": 2,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
     "goalsFor": 3,
     "goalsAgainst": 2,
     "goalDifference": 1,
@@ -63,7 +84,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -101,27 +122,6 @@
       "shortName": "ARGJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 4,
-    "goalsAgainst": 4,
-    "goalDifference": 0,
-    "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
       "league": "LPF"
     }
   },
@@ -233,27 +233,6 @@
   {
     "rank": 12,
     "points": 0,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2,
-    "team": {
-      "id": "Barracas-Central",
-      "color": "#ec1c24",
-      "colorSecondary": "#FFF",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
     "matchesDrawn": 0,
@@ -269,6 +248,27 @@
       "shortName": "BAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 0,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 5,
+    "goalDifference": -4,
+    "team": {
+      "id": "Barracas-Central",
+      "color": "#ec1c24",
+      "colorSecondary": "#FFF",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -594,9 +594,9 @@
     "matchesWon": 20,
     "matchesDrawn": 4,
     "matchesLost": 5,
-    "goalsFor": 54,
+    "goalsFor": 56,
     "goalsAgainst": 24,
-    "goalDifference": 30,
+    "goalDifference": 32,
     "team": {
       "id": "River",
       "color": "#E30520",
@@ -931,8 +931,8 @@
     "matchesDrawn": 11,
     "matchesLost": 10,
     "goalsFor": 26,
-    "goalsAgainst": 33,
-    "goalDifference": -7,
+    "goalsAgainst": 35,
+    "goalDifference": -9,
     "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
