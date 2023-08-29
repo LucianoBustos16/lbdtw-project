@@ -28,8 +28,8 @@ export const SCRAPINGS = {
     //     scraper: getNextMatch,
     // },
     scheduleLPF: {
-        // url: 'https://www.marca.com/futbol/argentina/calendario.html?intcmp=MENUMIGA&s_kw=futbol-argentina-calendario',
-        url: 'https://argentina.as.com/resultados/futbol/copa_liga_argentina/calendario/',
+        url: 'https://www.marca.com/futbol/argentina/copa-lpf/calendario.html?intcmp=MENUMIGA&s_kw=calendario',
+        // url: 'https://argentina.as.com/resultados/futbol/copa_liga_argentina/calendario/',
         scraper: getSchedule,
   },
   scheduleLaLiga: {
