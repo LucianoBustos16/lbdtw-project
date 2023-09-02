@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 7,
+    "points": 9,
     "matchesPlayed": 3,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
+    "matchesWon": 3,
+    "matchesDrawn": 0,
     "matchesLost": 0,
-    "goalsFor": 3,
+    "goalsFor": 4,
     "goalsAgainst": 0,
-    "goalDifference": 3,
+    "goalDifference": 4,
     "team": {
       "id": "Colon",
       "color": "#C80000",
@@ -65,27 +65,6 @@
   {
     "rank": 4,
     "points": 4,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 1,
@@ -105,7 +84,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 5,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -126,7 +105,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 6,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -147,7 +126,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -168,7 +147,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -185,6 +164,27 @@
       "shortName": "ARS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 3,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 3,
+    "goalDifference": 0,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
@@ -1030,6 +1030,27 @@
   },
   {
     "rank": 8,
+    "points": 34,
+    "matchesPlayed": 30,
+    "matchesWon": 7,
+    "matchesDrawn": 13,
+    "matchesLost": 10,
+    "goalsFor": 24,
+    "goalsAgainst": 33,
+    "goalDifference": -9,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
     "points": 33,
     "matchesPlayed": 29,
     "matchesWon": 8,
@@ -1046,27 +1067,6 @@
       "shortName": "BAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 32,
-    "matchesPlayed": 30,
-    "matchesWon": 6,
-    "matchesDrawn": 14,
-    "matchesLost": 10,
-    "goalsFor": 23,
-    "goalsAgainst": 33,
-    "goalDifference": -10,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
@@ -1135,14 +1135,14 @@
   },
   {
     "rank": 13,
-    "points": 29,
+    "points": 28,
     "matchesPlayed": 30,
     "matchesWon": 7,
-    "matchesDrawn": 8,
-    "matchesLost": 15,
+    "matchesDrawn": 7,
+    "matchesLost": 16,
     "goalsFor": 21,
-    "goalsAgainst": 31,
-    "goalDifference": -10,
+    "goalsAgainst": 32,
+    "goalDifference": -11,
     "team": {
       "id": "Huracan",
       "color": "#FF0000",
