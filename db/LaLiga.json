@@ -1,10 +1,10 @@
 [
   {
     "rank": 1,
-    "points": 9,
-    "matchesPlayed": 3,
+    "points": 10,
+    "matchesPlayed": 4,
     "matchesWon": 3,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 6,
     "goalsAgainst": 1,
@@ -211,6 +211,27 @@
   },
   {
     "rank": 11,
+    "points": 5,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "goalDifference": -2,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 12,
     "points": 4,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -248,27 +269,6 @@
       "shortName": "CDV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 4,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
