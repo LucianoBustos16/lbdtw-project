@@ -107,6 +107,27 @@
   {
     "rank": 6,
     "points": 6,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 3,
+    "goalDifference": 3,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
     "matchesDrawn": 0,
@@ -122,27 +143,6 @@
       "shortName": "ATH",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 3,
-    "goalDifference": 2,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
       "league": "LaLiga"
     }
   },
@@ -322,8 +322,8 @@
     "matchesDrawn": 0,
     "matchesLost": 3,
     "goalsFor": 5,
-    "goalsAgainst": 10,
-    "goalDifference": -5,
+    "goalsAgainst": 11,
+    "goalDifference": -6,
     "team": {
       "id": "Granada",
       "color": "#002246",
