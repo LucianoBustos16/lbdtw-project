@@ -69,7 +69,7 @@
         ]
       },
       {
-        "hour": "56' ",
+        "hour": "64' ",
         "teams": [
           {
             "localImgId": "11.png",
@@ -83,7 +83,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "7.png",
@@ -102,7 +102,7 @@
         ]
       },
       {
-        "hour": "60' ",
+        "hour": "68' ",
         "teams": [
           {
             "localImgId": "26.png",
@@ -130,7 +130,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
@@ -248,7 +248,7 @@
         ]
       },
       {
-        "hour": "51' ",
+        "hour": "59' ",
         "teams": [
           {
             "localImgId": "16.png",
@@ -928,6 +928,71 @@
     ]
   },
   {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1812.png",
+            "name": "Almere City",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1322.png",
+            "name": "PEC Zwolle",
+            "visitantScore": "2"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1287.png",
+            "name": "Go Ahead",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1318.png",
+            "name": "Heerenveen",
+            "visitantScore": "2"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1324.png",
+            "name": "RKC Waalwijk",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "684.png",
+            "name": "PSV",
+            "visitantScore": "4"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1292.png",
+            "name": "Heracles",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1720.png",
+            "name": "Excelsior",
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Brasileirao",
     "matches": [
       {
@@ -1011,7 +1076,7 @@
         ]
       },
       {
-        "hour": "17' ",
+        "hour": "25' ",
         "teams": [
           {
             "localImgId": "1764.png",
@@ -1022,6 +1087,376 @@
             "visitantImgId": "724.png",
             "name": "Def. Sporting",
             "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "82' ",
+        "teams": [
+          {
+            "localImgId": "760.png",
+            "name": "Jaguares (C)",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "759.png",
+            "name": "Ind. Medellin",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "18' ",
+        "teams": [
+          {
+            "localImgId": "735.png",
+            "name": "Ind. Santa Fe",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "739.png",
+            "name": "Junior",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "22:20  ",
+        "teams": [
+          {
+            "localImgId": "1332.png",
+            "name": "A. Petrolera",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "758.png",
+            "name": "America Cali",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1701.png",
+            "name": "Tacuary",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "718.png",
+            "name": "Cerro Porte�o",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "719.png",
+            "name": "Libertad (P)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "753.png",
+            "name": "Sp. Luque�o",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "721.png",
+            "name": "Univ. de Chile",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "723.png",
+            "name": "Colo Colo",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "66' ",
+        "teams": [
+          {
+            "localImgId": "1029.png",
+            "name": "Huachipato",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1337.png",
+            "name": "Curico Unido",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "903.png",
+            "name": "Puebla",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "907.png",
+            "name": "Tijuana",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "27' ",
+        "teams": [
+          {
+            "localImgId": "897.png",
+            "name": "Leon FC",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "901.png",
+            "name": "Necaxa",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "22:00  ",
+        "teams": [
+          {
+            "localImgId": "905.png",
+            "name": "Santos Laguna",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "909.png",
+            "name": "Pumas UNAM",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "22:05  ",
+        "teams": [
+          {
+            "localImgId": "906.png",
+            "name": "Tigres UANL",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "904.png",
+            "name": "Queretaro",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Mls",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "918.png",
+            "name": "New York FC",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "934.png",
+            "name": "Vancouver",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "916.png",
+            "name": "Montreal",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "914.png",
+            "name": "Columbus Crew",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "915.png",
+            "name": "DC United",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "912.png",
+            "name": "Chicago Fire",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "913.png",
+            "name": "Cincinnati",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "920.png",
+            "name": "Orlando City",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "917.png",
+            "name": "New England",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1605.png",
+            "name": "Austin FC",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "924.png",
+            "name": "Dallas",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "911.png",
+            "name": "Atlanta United",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "1372.png",
+            "name": "Nashville SC",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1709.png",
+            "name": "Charlotte FC",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "933.png",
+            "name": "Kansas City",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1802.png",
+            "name": "St. Louis City",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "22:30  ",
+        "teams": [
+          {
+            "localImgId": "930.png",
+            "name": "Real Salt Lake",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "923.png",
+            "name": "Colorado",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "23:30  ",
+        "teams": [
+          {
+            "localImgId": "927.png",
+            "name": "L.A. Galaxy",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "925.png",
+            "name": "Houston Dynamo",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "23:30  ",
+        "teams": [
+          {
+            "localImgId": "931.png",
+            "name": "SJ Earthquakes",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "928.png",
+            "name": "Minnesota",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "23:30  ",
+        "teams": [
+          {
+            "localImgId": "932.png",
+            "name": "Seattle Sounders",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "929.png",
+            "name": "Portland Timbers",
+            "visitantScore": ""
           }
         ]
       }
