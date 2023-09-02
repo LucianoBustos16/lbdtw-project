@@ -421,27 +421,6 @@
   },
   {
     "rank": 7,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -462,7 +441,49 @@
     }
   },
   {
+    "rank": 8,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
+      "colorSecondary": "#FFFFFF",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
     "rank": 9,
+    "points": 3,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 2,
+    "goalsAgainst": 3,
+    "goalDifference": -1,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -483,7 +504,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -500,27 +521,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 1,
-    "matchesPlayed": 3,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -652,6 +652,27 @@
   },
   {
     "rank": 4,
+    "points": 48,
+    "matchesPlayed": 30,
+    "matchesWon": 13,
+    "matchesDrawn": 9,
+    "matchesLost": 8,
+    "goalsFor": 40,
+    "goalsAgainst": 30,
+    "goalDifference": 10,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 47,
     "matchesPlayed": 29,
     "matchesWon": 14,
@@ -668,27 +689,6 @@
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 46,
-    "matchesPlayed": 30,
-    "matchesWon": 12,
-    "matchesDrawn": 10,
-    "matchesLost": 8,
-    "goalsFor": 39,
-    "goalsAgainst": 30,
-    "goalDifference": 9,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -736,14 +736,14 @@
   },
   {
     "rank": 8,
-    "points": 45,
+    "points": 44,
     "matchesPlayed": 29,
     "matchesWon": 12,
-    "matchesDrawn": 9,
-    "matchesLost": 8,
+    "matchesDrawn": 8,
+    "matchesLost": 9,
     "goalsFor": 39,
-    "goalsAgainst": 33,
-    "goalDifference": 6,
+    "goalsAgainst": 34,
+    "goalDifference": 5,
     "team": {
       "id": "Godoy-Cruz",
       "color": "#2670CA",
