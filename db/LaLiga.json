@@ -149,6 +149,27 @@
   {
     "rank": 8,
     "points": 6,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 4,
+    "goalsAgainst": 3,
+    "goalDifference": 1,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
     "matchesDrawn": 0,
@@ -164,27 +185,6 @@
       "shortName": "VAL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
       "league": "LaLiga"
     }
   },
@@ -321,8 +321,8 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 3,
-    "goalsFor": 4,
-    "goalsAgainst": 8,
+    "goalsFor": 5,
+    "goalsAgainst": 9,
     "goalDifference": -4,
     "team": {
       "id": "Granada",
