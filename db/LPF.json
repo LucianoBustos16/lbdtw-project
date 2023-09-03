@@ -86,6 +86,27 @@
   {
     "rank": 5,
     "points": 4,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 7,
+    "goalsAgainst": 4,
+    "goalDifference": 3,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 4,
     "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 1,
@@ -105,28 +126,28 @@
     }
   },
   {
-    "rank": 6,
-    "points": 3,
-    "matchesPlayed": 2,
+    "rank": 7,
+    "points": 4,
+    "matchesPlayed": 3,
     "matchesWon": 1,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 7,
-    "goalsAgainst": 4,
-    "goalDifference": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
     "team": {
-      "id": "River",
-      "color": "#E30520",
+      "id": "Velez",
+      "color": "#0063A8",
       "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -185,27 +206,6 @@
       "shortName": "ARS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 2,
-    "goalDifference": 0,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
@@ -589,10 +589,10 @@
   },
   {
     "rank": 1,
-    "points": 64,
-    "matchesPlayed": 29,
+    "points": 65,
+    "matchesPlayed": 30,
     "matchesWon": 20,
-    "matchesDrawn": 4,
+    "matchesDrawn": 5,
     "matchesLost": 5,
     "goalsFor": 57,
     "goalsAgainst": 24,
@@ -1074,6 +1074,27 @@
     "rank": 10,
     "points": 31,
     "matchesPlayed": 30,
+    "matchesWon": 6,
+    "matchesDrawn": 13,
+    "matchesLost": 11,
+    "goalsFor": 26,
+    "goalsAgainst": 29,
+    "goalDifference": -3,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 31,
+    "matchesPlayed": 30,
     "matchesWon": 8,
     "matchesDrawn": 7,
     "matchesLost": 15,
@@ -1092,7 +1113,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 31,
     "matchesPlayed": 30,
     "matchesWon": 6,
@@ -1109,27 +1130,6 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 30,
-    "matchesPlayed": 29,
-    "matchesWon": 6,
-    "matchesDrawn": 12,
-    "matchesLost": 11,
-    "goalsFor": 26,
-    "goalsAgainst": 29,
-    "goalDifference": -3,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
