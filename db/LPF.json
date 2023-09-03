@@ -316,14 +316,14 @@
   },
   {
     "rank": 2,
-    "points": 7,
+    "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
     "goalsFor": 3,
-    "goalsAgainst": 0,
-    "goalDifference": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
     "team": {
       "id": "Sarmiento",
       "color": "#008349",
@@ -442,6 +442,27 @@
   },
   {
     "rank": 8,
+    "points": 4,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -462,7 +483,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 3,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -479,27 +500,6 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 2,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -652,6 +652,27 @@
   },
   {
     "rank": 4,
+    "points": 48,
+    "matchesPlayed": 29,
+    "matchesWon": 13,
+    "matchesDrawn": 9,
+    "matchesLost": 7,
+    "goalsFor": 37,
+    "goalsAgainst": 23,
+    "goalDifference": 14,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 47,
     "matchesPlayed": 29,
     "matchesWon": 14,
@@ -668,27 +689,6 @@
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 46,
-    "matchesPlayed": 29,
-    "matchesWon": 12,
-    "matchesDrawn": 10,
-    "matchesLost": 7,
-    "goalsFor": 36,
-    "goalsAgainst": 23,
-    "goalDifference": 13,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -888,27 +888,6 @@
     "matchesWon": 9,
     "matchesDrawn": 10,
     "matchesLost": 11,
-    "goalsFor": 26,
-    "goalsAgainst": 26,
-    "goalDifference": 0,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 37,
-    "matchesPlayed": 30,
-    "matchesWon": 9,
-    "matchesDrawn": 10,
-    "matchesLost": 11,
     "goalsFor": 25,
     "goalsAgainst": 35,
     "goalDifference": -10,
@@ -920,6 +899,27 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 36,
+    "matchesPlayed": 30,
+    "matchesWon": 9,
+    "matchesDrawn": 9,
+    "matchesLost": 12,
+    "goalsFor": 26,
+    "goalsAgainst": 27,
+    "goalDifference": -1,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
