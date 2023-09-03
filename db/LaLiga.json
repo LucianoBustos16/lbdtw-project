@@ -22,14 +22,14 @@
   },
   {
     "rank": 2,
-    "points": 8,
+    "points": 10,
     "matchesPlayed": 4,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
+    "matchesWon": 3,
+    "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 6,
+    "goalsFor": 7,
     "goalsAgainst": 2,
-    "goalDifference": 4,
+    "goalDifference": 5,
     "team": {
       "id": "Girona",
       "color": "#E51636",
@@ -297,27 +297,6 @@
     "rank": 15,
     "points": 3,
     "matchesPlayed": 4,
-    "matchesWon": 0,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 3,
-    "matchesPlayed": 4,
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 3,
@@ -336,7 +315,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "points": 3,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -353,6 +332,27 @@
       "shortName": "GRN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 2,
+    "matchesPlayed": 4,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "goalDifference": -2,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
