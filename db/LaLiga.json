@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 8,
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 2,
+    "goalDifference": 4,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
     "points": 7,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -38,27 +59,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 7,
-    "matchesPlayed": 3,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 2,
-    "goalDifference": 4,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -297,6 +297,27 @@
     "rank": 15,
     "points": 3,
     "matchesPlayed": 4,
+    "matchesWon": 0,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 3,
+    "matchesPlayed": 4,
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 3,
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 3,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -332,27 +353,6 @@
       "shortName": "GRN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 2,
-    "matchesPlayed": 3,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
