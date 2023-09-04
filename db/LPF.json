@@ -300,27 +300,6 @@
     "matchesWon": 2,
     "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 2,
-    "goalDifference": 3,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 7,
-    "matchesPlayed": 3,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
     "goalsFor": 4,
     "goalsAgainst": 1,
     "goalDifference": 3,
@@ -336,7 +315,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 2,
     "points": 7,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -353,6 +332,27 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 7,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 3,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
@@ -573,9 +573,9 @@
     "matchesWon": 0,
     "matchesDrawn": 0,
     "matchesLost": 3,
-    "goalsFor": 2,
+    "goalsFor": 3,
     "goalsAgainst": 7,
-    "goalDifference": -5,
+    "goalDifference": -4,
     "team": {
       "id": "Estudiantes",
       "color": "#E41815",
@@ -737,6 +737,27 @@
   {
     "rank": 8,
     "points": 45,
+    "matchesPlayed": 30,
+    "matchesWon": 12,
+    "matchesDrawn": 9,
+    "matchesLost": 9,
+    "goalsFor": 38,
+    "goalsAgainst": 31,
+    "goalDifference": 7,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 45,
     "matchesPlayed": 29,
     "matchesWon": 12,
     "matchesDrawn": 9,
@@ -752,27 +773,6 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 45,
-    "matchesPlayed": 30,
-    "matchesWon": 12,
-    "matchesDrawn": 9,
-    "matchesLost": 9,
-    "goalsFor": 37,
-    "goalsAgainst": 31,
-    "goalDifference": 6,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -805,8 +805,8 @@
     "matchesDrawn": 10,
     "matchesLost": 9,
     "goalsFor": 41,
-    "goalsAgainst": 37,
-    "goalDifference": 4,
+    "goalsAgainst": 38,
+    "goalDifference": 3,
     "team": {
       "id": "Racing-Club",
       "color": "#009DDB",
