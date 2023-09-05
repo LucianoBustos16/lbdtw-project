@@ -1591,28 +1591,112 @@
     "fecha": 5,
     "matches": [
       {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "formattedDate": "18 Sep",
+        "timestamp": 1695078000000,
+        "hourMatch": "20:00",
         "teams": [
           {
-            "id": "Argentinos",
-            "name": "Argentinos",
-            "shortName": "ARGJ",
-            "color": "#E32021",
-            "colorSecondary": "#00569D",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+            "id": "Lanus",
+            "name": "Lanus",
+            "shortName": "LAN",
+            "color": "#7A1D2D",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Talleres",
-            "name": "Talleres (C)",
-            "shortName": "CAT",
-            "color": "#00184C",
+            "id": "Sarmiento",
+            "name": "Sarmiento (J)",
+            "shortName": "SARM",
+            "color": "#008349",
             "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "19 Sep",
+        "timestamp": 1695159900000,
+        "hourMatch": "18:45",
+        "teams": [
+          {
+            "id": "Central-Cordoba",
+            "name": "Central Cba (SdE)",
+            "shortName": "CSE",
+            "color": "#000",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Boca",
+            "name": "Boca Juniors",
+            "shortName": "CABJ",
+            "color": "#023F86",
+            "colorSecondary": "#F7A600",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "45"
+      },
+      {
+        "formattedDate": "19 Sep",
+        "timestamp": 1695168000000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "Huracan",
+            "name": "Huracan",
+            "shortName": "HUR",
+            "color": "#FF0000",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Gimnasia",
+            "name": "Gimnasia (LP)",
+            "shortName": "GLP",
+            "color": "#121731",
+            "colorSecondary": "#00AFEF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "19 Sep",
+        "timestamp": 1695168000000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "Rosario-Central",
+            "name": "Rosario Central",
+            "shortName": "ROS",
+            "color": "#F9DF34",
+            "colorSecondary": "#173B6A",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Independiente",
+            "name": "Independiente",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
             "league": "LPF"
           }
         ],
@@ -1652,62 +1736,6 @@
         "hourMatch": "16:00",
         "teams": [
           {
-            "id": "Belgrano",
-            "name": "Belgrano",
-            "shortName": "BEL",
-            "color": "#3A9CD0",
-            "colorSecondary": "#1D1D1B",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Platense",
-            "name": "Platense",
-            "shortName": "PLA",
-            "color": "#633B1B",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Central-Cordoba",
-            "name": "Central Cba (SdE)",
-            "shortName": "CSE",
-            "color": "#000",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Boca",
-            "name": "Boca Juniors",
-            "shortName": "CABJ",
-            "color": "#023F86",
-            "colorSecondary": "#F7A600",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
             "id": "Defensa-y-Justicia",
             "name": "Def y Justicia",
             "shortName": "DYJ",
@@ -1732,8 +1760,8 @@
       },
       {
         "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "timestamp": 1695245400000,
+        "hourMatch": "18:30",
         "teams": [
           {
             "id": "Estudiantes",
@@ -1756,40 +1784,40 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "30"
       },
       {
         "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "timestamp": 1695245400000,
+        "hourMatch": "18:30",
         "teams": [
           {
-            "id": "Huracan",
-            "name": "Huracan",
-            "shortName": "HUR",
-            "color": "#FF0000",
+            "id": "Velez",
+            "name": "Velez",
+            "shortName": "VEL",
+            "color": "#0063A8",
             "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Gimnasia",
-            "name": "Gimnasia (LP)",
-            "shortName": "GLP",
-            "color": "#121731",
-            "colorSecondary": "#00AFEF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+            "id": "Arsenal",
+            "name": "Arsenal",
+            "shortName": "ARS",
+            "color": "#13B5EA",
+            "colorSecondary": "#EF3340",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "30"
       },
       {
         "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "timestamp": 1695254400000,
+        "hourMatch": "21:00",
         "teams": [
           {
             "id": "Instituto",
@@ -1816,36 +1844,8 @@
       },
       {
         "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Lanus",
-            "name": "Lanus",
-            "shortName": "LAN",
-            "color": "#7A1D2D",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Sarmiento",
-            "name": "Sarmiento (J)",
-            "shortName": "SARM",
-            "color": "#008349",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "timestamp": 1695254400000,
+        "hourMatch": "21:00",
         "teams": [
           {
             "id": "Racing-Club",
@@ -1871,65 +1871,37 @@
         "score": "00"
       },
       {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "formattedDate": "21 Sep",
+        "timestamp": 1695326400000,
+        "hourMatch": "17:00",
         "teams": [
           {
-            "id": "River",
-            "name": "River Plate",
-            "shortName": "CARP",
-            "color": "#E30520",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+            "id": "Belgrano",
+            "name": "Belgrano",
+            "shortName": "BEL",
+            "color": "#3A9CD0",
+            "colorSecondary": "#1D1D1B",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Atletico-Tucuman",
-            "name": "Atl Tucuman",
-            "shortName": "TUC",
-            "color": "#71AFDB",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+            "id": "Platense",
+            "name": "Platense",
+            "shortName": "PLA",
+            "color": "#633B1B",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
             "league": "LPF"
           }
         ],
         "score": "00"
       },
       {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Rosario-Central",
-            "name": "Rosario Central",
-            "shortName": "ROS",
-            "color": "#F9DF34",
-            "colorSecondary": "#173B6A",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Independiente",
-            "name": "Independiente",
-            "shortName": "IND",
-            "color": "#EC1C24",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "formattedDate": "21 Sep",
+        "timestamp": 1695331800000,
+        "hourMatch": "18:30",
         "teams": [
           {
             "id": "Union",
@@ -1952,31 +1924,59 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "30"
       },
       {
-        "formattedDate": "20 Sep",
-        "timestamp": 1695236400000,
-        "hourMatch": "16:00",
+        "formattedDate": "21 Sep",
+        "timestamp": 1695334500000,
+        "hourMatch": "19:15",
         "teams": [
           {
-            "id": "Velez",
-            "name": "Velez",
-            "shortName": "VEL",
-            "color": "#0063A8",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+            "id": "Argentinos",
+            "name": "Argentinos",
+            "shortName": "ARGJ",
+            "color": "#E32021",
+            "colorSecondary": "#00569D",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Arsenal",
-            "name": "Arsenal",
-            "shortName": "ARS",
-            "color": "#13B5EA",
-            "colorSecondary": "#EF3340",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+            "id": "Talleres",
+            "name": "Talleres (C)",
+            "shortName": "CAT",
+            "color": "#00184C",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "15"
+      },
+      {
+        "formattedDate": "21 Sep",
+        "timestamp": 1695340800000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "River",
+            "name": "River Plate",
+            "shortName": "CARP",
+            "color": "#E30520",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Atletico-Tucuman",
+            "name": "Atl Tucuman",
+            "shortName": "TUC",
+            "color": "#71AFDB",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
             "league": "LPF"
           }
         ],
@@ -1988,148 +1988,8 @@
     "fecha": 6,
     "matches": [
       {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Atletico-Tucuman",
-            "name": "Atl Tucuman",
-            "shortName": "TUC",
-            "color": "#71AFDB",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Arsenal",
-            "name": "Arsenal",
-            "shortName": "ARS",
-            "color": "#13B5EA",
-            "colorSecondary": "#EF3340",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Banfield",
-            "name": "Banfield",
-            "shortName": "BAN",
-            "color": "#007934",
-            "colorSecondary": "#B49759",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "River",
-            "name": "River Plate",
-            "shortName": "CARP",
-            "color": "#E30520",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Boca",
-            "name": "Boca Juniors",
-            "shortName": "CABJ",
-            "color": "#023F86",
-            "colorSecondary": "#F7A600",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Lanus",
-            "name": "Lanus",
-            "shortName": "LAN",
-            "color": "#7A1D2D",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Central-Cordoba",
-            "name": "Central Cba (SdE)",
-            "shortName": "CSE",
-            "color": "#000",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Defensa-y-Justicia",
-            "name": "Def y Justicia",
-            "shortName": "DYJ",
-            "color": "#ffdd00",
-            "colorSecondary": "#007A3F",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Colon",
-            "name": "Colon",
-            "shortName": "COL",
-            "color": "#C80000",
-            "colorSecondary": "#000",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Argentinos",
-            "name": "Argentinos",
-            "shortName": "ARGJ",
-            "color": "#E32021",
-            "colorSecondary": "#00569D",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
+        "formattedDate": "23 Sep",
+        "timestamp": 1695495600000,
         "hourMatch": "16:00",
         "teams": [
           {
@@ -2156,37 +2016,65 @@
         "score": "00"
       },
       {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
+        "formattedDate": "23 Sep",
+        "timestamp": 1695504600000,
+        "hourMatch": "18:30",
         "teams": [
           {
-            "id": "Godoy-Cruz",
-            "name": "Godoy Cruz",
-            "shortName": "GCM",
-            "color": "#2670CA",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+            "id": "Boca",
+            "name": "Boca Juniors",
+            "shortName": "CABJ",
+            "color": "#023F86",
+            "colorSecondary": "#F7A600",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Racing-Club",
-            "name": "Racing Club",
-            "shortName": "RAC",
-            "color": "#009DDB",
+            "id": "Lanus",
+            "name": "Lanus",
+            "shortName": "LAN",
+            "color": "#7A1D2D",
             "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "23 Sep",
+        "timestamp": 1695513600000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "Central-Cordoba",
+            "name": "Central Cba (SdE)",
+            "shortName": "CSE",
+            "color": "#000",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Defensa-y-Justicia",
+            "name": "Def y Justicia",
+            "shortName": "DYJ",
+            "color": "#ffdd00",
+            "colorSecondary": "#007A3F",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
             "league": "LPF"
           }
         ],
         "score": "00"
       },
       {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
+        "formattedDate": "23 Sep",
+        "timestamp": 1695513600000,
+        "hourMatch": "21:00",
         "teams": [
           {
             "id": "Huracan",
@@ -2213,8 +2101,8 @@
       },
       {
         "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
+        "timestamp": 1695578400000,
+        "hourMatch": "15:00",
         "teams": [
           {
             "id": "Independiente",
@@ -2241,8 +2129,36 @@
       },
       {
         "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
+        "timestamp": 1695585600000,
+        "hourMatch": "17:00",
+        "teams": [
+          {
+            "id": "Godoy-Cruz",
+            "name": "Godoy Cruz",
+            "shortName": "GCM",
+            "color": "#2670CA",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Racing-Club",
+            "name": "Racing Club",
+            "shortName": "RAC",
+            "color": "#009DDB",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "24 Sep",
+        "timestamp": 1695591900000,
+        "hourMatch": "18:45",
         "teams": [
           {
             "id": "Newells",
@@ -2265,39 +2181,67 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "45"
       },
       {
         "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
+        "timestamp": 1695593700000,
+        "hourMatch": "19:15",
         "teams": [
           {
-            "id": "Platense",
-            "name": "Platense",
-            "shortName": "PLA",
-            "color": "#633B1B",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+            "id": "Tigre",
+            "name": "Tigre",
+            "shortName": "TIG",
+            "color": "#1E448D",
+            "colorSecondary": "#ED2A3C",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Union",
-            "name": "Union",
-            "shortName": "USF",
-            "color": "#DA251D",
+            "id": "San-Lorenzo",
+            "name": "San Lorenzo",
+            "shortName": "SL",
+            "color": "#BF1B27",
+            "colorSecondary": "#263D54",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "15"
+      },
+      {
+        "formattedDate": "24 Sep",
+        "timestamp": 1695600000000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "Banfield",
+            "name": "Banfield",
+            "shortName": "BAN",
+            "color": "#007934",
+            "colorSecondary": "#B49759",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "River",
+            "name": "River Plate",
+            "shortName": "CARP",
+            "color": "#E30520",
             "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
             "league": "LPF"
           }
         ],
         "score": "00"
       },
       {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
+        "formattedDate": "25 Sep",
+        "timestamp": 1695668400000,
         "hourMatch": "16:00",
         "teams": [
           {
@@ -2324,9 +2268,93 @@
         "score": "00"
       },
       {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
+        "formattedDate": "25 Sep",
+        "timestamp": 1695677400000,
+        "hourMatch": "18:30",
+        "teams": [
+          {
+            "id": "Colon",
+            "name": "Colon",
+            "shortName": "COL",
+            "color": "#C80000",
+            "colorSecondary": "#000",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Argentinos",
+            "name": "Argentinos",
+            "shortName": "ARGJ",
+            "color": "#E32021",
+            "colorSecondary": "#00569D",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "25 Sep",
+        "timestamp": 1695677400000,
+        "hourMatch": "18:30",
+        "teams": [
+          {
+            "id": "Platense",
+            "name": "Platense",
+            "shortName": "PLA",
+            "color": "#633B1B",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Union",
+            "name": "Union",
+            "shortName": "USF",
+            "color": "#DA251D",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "25 Sep",
+        "timestamp": 1695686400000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "Atletico-Tucuman",
+            "name": "Atl Tucuman",
+            "shortName": "TUC",
+            "color": "#71AFDB",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Arsenal",
+            "name": "Arsenal",
+            "shortName": "ARS",
+            "color": "#13B5EA",
+            "colorSecondary": "#EF3340",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "25 Sep",
+        "timestamp": 1695686400000,
+        "hourMatch": "21:00",
         "teams": [
           {
             "id": "Talleres",
@@ -2346,34 +2374,6 @@
             "colorSecondary": "#FFF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "24 Sep",
-        "timestamp": 1695582000000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Tigre",
-            "name": "Tigre",
-            "shortName": "TIG",
-            "color": "#1E448D",
-            "colorSecondary": "#ED2A3C",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "San-Lorenzo",
-            "name": "San Lorenzo",
-            "shortName": "SL",
-            "color": "#BF1B27",
-            "colorSecondary": "#263D54",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
             "league": "LPF"
           }
         ],
