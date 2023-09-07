@@ -1,78 +1,189 @@
 [
   {
-    "competition": "Copa Argentina",
+    "competition": "Eliminatorias Conmebol",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "19:30  ",
         "teams": [
           {
-            "localImgId": "154.png",
-            "name": "Estudiantes (RC)",
-            "localScore": "0 5"
+            "localImgId": "paraguay.gif",
+            "name": "Paraguay",
+            "localScore": ""
           },
           {
-            "visitantImgId": "29.png",
-            "name": {
-              "id": "Defensa-y-Justicia",
-              "color": "#ffdd00",
-              "colorSecondary": "#007A3F",
-              "name": "Def y Justicia",
-              "shortName": "DYJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "0 6"
+            "visitantImgId": "peru.gif",
+            "name": "Peru",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "colombia.gif",
+            "name": "Colombia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "venezuela.gif",
+            "name": "Venezuela",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localImgId": "argentina.gif",
+            "name": "Argentina",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "ecuador.gif",
+            "name": "Ecuador",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Liga Colombia",
+    "competition": "Elim. Eurocopa",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "11:00  ",
         "teams": [
           {
-            "localImgId": "1334.png",
-            "name": "Envigado",
-            "localScore": "0"
+            "localImgId": "kazajistan.gif",
+            "name": "Kazajistan",
+            "localScore": ""
           },
           {
-            "visitantImgId": "758.png",
-            "name": "America Cali",
-            "visitantScore": "0"
+            "visitantImgId": "finlandia.gif",
+            "name": "Finlandia",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "13:00  ",
         "teams": [
           {
-            "localImgId": "875.png",
-            "name": "Dep. Tolima",
-            "localScore": "2"
+            "localImgId": "lituania.gif",
+            "name": "Lituania",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1329.png",
-            "name": "Dep. Pereira",
-            "visitantScore": "3"
+            "visitantImgId": "montenegro.gif",
+            "name": "Montenegro",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "76' ",
+        "hour": "15:45  ",
         "teams": [
           {
-            "localImgId": "773.png",
-            "name": "Dep. Cali",
-            "localScore": "1"
+            "localImgId": "francia.gif",
+            "name": "Francia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "735.png",
-            "name": "Ind. Santa Fe",
-            "visitantScore": "2"
+            "visitantImgId": "irlanda.gif",
+            "name": "Irlanda",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "paisesbajos.gif",
+            "name": "Paises Bajos",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "grecia.gif",
+            "name": "Grecia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "polonia.gif",
+            "name": "Polonia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "islasferoe.gif",
+            "name": "Islas Feroe",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "repcheca.gif",
+            "name": "Rep. Checa",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "albania.gif",
+            "name": "Albania",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "serbia.gif",
+            "name": "Serbia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "hungria.gif",
+            "name": "Hungria",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "dinamarca.gif",
+            "name": "Dinamarca",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "sanmarino.gif",
+            "name": "San Marino",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "eslovenia.gif",
+            "name": "Eslovenia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "irlandanorte.gif",
+            "name": "Irlanda Norte",
+            "visitantScore": ""
           }
         ]
       }
