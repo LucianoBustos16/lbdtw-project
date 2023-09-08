@@ -1083,34 +1083,6 @@
         "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "Atletico-Madrid",
-            "name": "Atletico Madrid",
-            "shortName": "ATM",
-            "color": "#CB3524",
-            "colorSecondary": "#272E61",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Sevilla",
-            "name": "Sevilla",
-            "shortName": "SEV",
-            "color": "#CD3529",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "Aplazado"
-      },
-      {
-        "formattedDate": "Invalid undefined",
-        "timestamp": null,
-        "hourMatch": "Date:undefined",
-        "teams": [
-          {
             "id": "Osasuna",
             "name": "Osasuna",
             "shortName": "OSA",
@@ -1132,6 +1104,34 @@
           }
         ],
         "score": "1-2"
+      },
+      {
+        "formattedDate": "23 Dic",
+        "timestamp": 1703340900000,
+        "hourMatch": "11:15",
+        "teams": [
+          {
+            "id": "Atletico-Madrid",
+            "name": "Atletico Madrid",
+            "shortName": "ATM",
+            "color": "#CB3524",
+            "colorSecondary": "#272E61",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Sevilla",
+            "name": "Sevilla",
+            "shortName": "SEV",
+            "color": "#CD3529",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "15"
       }
     ]
   },
