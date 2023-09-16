@@ -259,8 +259,29 @@
     "matchesDrawn": 2,
     "matchesLost": 2,
     "goalsFor": 4,
-    "goalsAgainst": 6,
-    "goalDifference": -2,
+    "goalsAgainst": 5,
+    "goalDifference": -1,
+    "team": {
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 4,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 4,
+    "goalsAgainst": 7,
+    "goalDifference": -3,
     "team": {
       "id": "Celta",
       "color": "#6CACE4",
@@ -273,7 +294,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -290,27 +311,6 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 3,
-    "matchesPlayed": 5,
-    "matchesWon": 0,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
-    "goalsFor": 3,
-    "goalsAgainst": 5,
-    "goalDifference": -2,
-    "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
