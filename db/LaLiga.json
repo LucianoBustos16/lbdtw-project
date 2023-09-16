@@ -64,6 +64,27 @@
   },
   {
     "rank": 4,
+    "points": 10,
+    "matchesPlayed": 5,
+    "matchesWon": 3,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 7,
+    "goalsAgainst": 4,
+    "goalDifference": 3,
+    "team": {
+      "id": "Athletic-Bilbao",
+      "color": "#E2231A",
+      "colorSecondary": "#FFFFFF",
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 5,
     "points": 9,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -84,49 +105,7 @@
     }
   },
   {
-    "rank": 5,
-    "points": 8,
-    "matchesPlayed": 5,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 6,
-    "goalsAgainst": 4,
-    "goalDifference": 2,
-    "team": {
-      "id": "Athletic-Bilbao",
-      "color": "#E2231A",
-      "colorSecondary": "#FFFFFF",
-      "name": "Athletic Bilbao",
-      "shortName": "ATH",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
     "rank": 6,
-    "points": 8,
-    "matchesPlayed": 5,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
-    "goalDifference": 1,
-    "team": {
-      "id": "Cadiz",
-      "color": "#EEEF28",
-      "colorSecondary": "#346DBE",
-      "name": "Cadiz",
-      "shortName": "CAD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
     "points": 7,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -147,7 +126,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "points": 7,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -164,6 +143,27 @@
       "shortName": "BET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 5,
+    "goalDifference": 0,
+    "team": {
+      "id": "Cadiz",
+      "color": "#EEEF28",
+      "colorSecondary": "#346DBE",
+      "name": "Cadiz",
+      "shortName": "CAD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
       "league": "LaLiga"
     }
   },
