@@ -200,7 +200,7 @@
         ]
       },
       {
-        "hour": "90+3' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "156.png",
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "hour": "12' ",
+        "hour": "25' ",
         "teams": [
           {
             "localImgId": "23.png",
@@ -923,10 +923,90 @@
     ]
   },
   {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "978.png",
+            "name": "Feyenoord",
+            "localScore": "6"
+          },
+          {
+            "visitantImgId": "1318.png",
+            "name": "Heerenveen",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1325.png",
+            "name": "Vitesse",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "1324.png",
+            "name": "RKC Waalwijk",
+            "visitantScore": "2"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1320.png",
+            "name": "F. Sittard",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1717.png",
+            "name": "Volendam",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "684.png",
+            "name": "PSV",
+            "localScore": "4"
+          },
+          {
+            "visitantImgId": "1610.png",
+            "name": "NEC",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1292.png",
+            "name": "Heracles",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1299.png",
+            "name": "Utrecht",
+            "visitantScore": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Brasileirao",
     "matches": [
       {
-        "hour": "90+1' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "599.png",
@@ -958,10 +1038,115 @@
     ]
   },
   {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "22:15  ",
+        "teams": [
+          {
+            "localImgId": "758.png",
+            "name": "America Cali",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1330.png",
+            "name": "Boyaca Chico",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "41' ",
+        "teams": [
+          {
+            "localImgId": "1701.png",
+            "name": "Tacuary",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "719.png",
+            "name": "Libertad (P)",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "575.png",
+            "name": "Olimpia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1700.png",
+            "name": "Gral Caballero",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "907.png",
+            "name": "Tijuana",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "908.png",
+            "name": "Toluca",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "901.png",
+            "name": "Necaxa",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "970.png",
+            "name": "FC Juarez",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "22:00  ",
+        "teams": [
+          {
+            "localImgId": "899.png",
+            "name": "Monterrey",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "897.png",
+            "name": "Leon FC",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Mls",
     "matches": [
       {
-        "hour": "59' ",
+        "hour": "72' ",
         "teams": [
           {
             "localImgId": "918.png",
@@ -976,17 +1161,17 @@
         ]
       },
       {
-        "hour": "18:00  ",
+        "hour": "01' ",
         "teams": [
           {
             "localImgId": "911.png",
             "name": "Atlanta United",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "1371.png",
             "name": "Inter Miami",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
