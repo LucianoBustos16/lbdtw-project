@@ -23,6 +23,27 @@
   {
     "rank": 2,
     "points": 10,
+    "matchesPlayed": 5,
+    "matchesWon": 3,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 9,
+    "goalsAgainst": 4,
+    "goalDifference": 5,
+    "team": {
+      "id": "Athletic-Bilbao",
+      "color": "#E2231A",
+      "colorSecondary": "#FFFFFF",
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 10,
     "matchesPlayed": 4,
     "matchesWon": 3,
     "matchesDrawn": 1,
@@ -38,27 +59,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 10,
-    "matchesPlayed": 5,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 8,
-    "goalsAgainst": 4,
-    "goalDifference": 4,
-    "team": {
-      "id": "Athletic-Bilbao",
-      "color": "#E2231A",
-      "colorSecondary": "#FFFFFF",
-      "name": "Athletic Bilbao",
-      "shortName": "ATH",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
       "league": "LaLiga"
     }
   },
@@ -154,8 +154,8 @@
     "matchesDrawn": 1,
     "matchesLost": 2,
     "goalsFor": 5,
-    "goalsAgainst": 6,
-    "goalDifference": -1,
+    "goalsAgainst": 7,
+    "goalDifference": -2,
     "team": {
       "id": "Cadiz",
       "color": "#EEEF28",
