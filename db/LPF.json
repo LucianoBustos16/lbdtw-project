@@ -325,13 +325,13 @@
     "goalsAgainst": 3,
     "goalDifference": 2,
     "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "id": "San-Lorenzo",
+      "color": "#BF1B27",
+      "colorSecondary": "#263D54",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
       "league": "LPF"
     }
   },
@@ -358,6 +358,27 @@
   },
   {
     "rank": 4,
+    "points": 7,
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -395,27 +416,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 4,
-    "goalsAgainst": 3,
-    "goalDifference": 1,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#BF1B27",
-      "colorSecondary": "#263D54",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
       "league": "LPF"
     }
   },
@@ -631,14 +631,14 @@
   },
   {
     "rank": 3,
-    "points": 52,
+    "points": 54,
     "matchesPlayed": 31,
-    "matchesWon": 13,
-    "matchesDrawn": 13,
+    "matchesWon": 14,
+    "matchesDrawn": 12,
     "matchesLost": 5,
-    "goalsFor": 27,
+    "goalsFor": 28,
     "goalsAgainst": 16,
-    "goalDifference": 11,
+    "goalDifference": 12,
     "team": {
       "id": "San-Lorenzo",
       "color": "#BF1B27",
@@ -799,27 +799,6 @@
   },
   {
     "rank": 11,
-    "points": 44,
-    "matchesPlayed": 31,
-    "matchesWon": 11,
-    "matchesDrawn": 11,
-    "matchesLost": 9,
-    "goalsFor": 41,
-    "goalsAgainst": 38,
-    "goalDifference": 3,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
     "points": 43,
     "matchesPlayed": 31,
     "matchesWon": 10,
@@ -836,6 +815,27 @@
       "shortName": "NOB",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 43,
+    "matchesPlayed": 31,
+    "matchesWon": 11,
+    "matchesDrawn": 10,
+    "matchesLost": 10,
+    "goalsFor": 41,
+    "goalsAgainst": 39,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
