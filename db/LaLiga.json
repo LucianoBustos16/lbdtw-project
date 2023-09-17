@@ -338,6 +338,27 @@
   {
     "rank": 17,
     "points": 3,
+    "matchesPlayed": 5,
+    "matchesWon": 0,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "goalDifference": -2,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 18,
+    "points": 3,
     "matchesPlayed": 4,
     "matchesWon": 1,
     "matchesDrawn": 0,
@@ -357,28 +378,28 @@
     }
   },
   {
-    "rank": 18,
-    "points": 2,
+    "rank": 19,
+    "points": 1,
     "matchesPlayed": 4,
     "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 5,
+    "goalsAgainst": 8,
+    "goalDifference": -3,
     "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "id": "Sevilla",
+      "color": "#CD3529",
+      "colorSecondary": "#FFF",
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
       "league": "LaLiga"
     }
   },
   {
-    "rank": 19,
+    "rank": 20,
     "points": 1,
     "matchesPlayed": 5,
     "matchesWon": 0,
@@ -395,27 +416,6 @@
       "shortName": "ALM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Almeria.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Almeria-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 0,
-    "matchesPlayed": 3,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 3,
-    "goalsFor": 5,
-    "goalsAgainst": 8,
-    "goalDifference": -3,
-    "team": {
-      "id": "Sevilla",
-      "color": "#CD3529",
-      "colorSecondary": "#FFF",
-      "name": "Sevilla",
-      "shortName": "SEV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
       "league": "LaLiga"
     }
   }
