@@ -90,6 +90,27 @@
     "matchesWon": 2,
     "matchesDrawn": 0,
     "matchesLost": 2,
+    "goalsFor": 8,
+    "goalsAgainst": 6,
+    "goalDifference": 2,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 6,
+    "matchesPlayed": 4,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
     "goalsFor": 5,
     "goalsAgainst": 4,
     "goalDifference": 1,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 5,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -210,36 +231,15 @@
     }
   },
   {
-    "rank": 11,
-    "points": 3,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 7,
-    "goalsAgainst": 6,
-    "goalDifference": 1,
-    "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 12,
     "points": 3,
-    "matchesPlayed": 3,
+    "matchesPlayed": 4,
     "matchesWon": 1,
     "matchesDrawn": 0,
-    "matchesLost": 2,
+    "matchesLost": 3,
     "goalsFor": 4,
-    "goalsAgainst": 5,
-    "goalDifference": -1,
+    "goalsAgainst": 6,
+    "goalDifference": -2,
     "team": {
       "id": "Arsenal",
       "color": "#13B5EA",
@@ -589,14 +589,14 @@
   },
   {
     "rank": 1,
-    "points": 64,
-    "matchesPlayed": 30,
-    "matchesWon": 20,
+    "points": 67,
+    "matchesPlayed": 31,
+    "matchesWon": 21,
     "matchesDrawn": 4,
     "matchesLost": 6,
-    "goalsFor": 57,
+    "goalsFor": 58,
     "goalsAgainst": 26,
-    "goalDifference": 31,
+    "goalDifference": 32,
     "team": {
       "id": "River",
       "color": "#E30520",
@@ -1157,13 +1157,13 @@
   {
     "rank": 14,
     "points": 25,
-    "matchesPlayed": 30,
+    "matchesPlayed": 31,
     "matchesWon": 7,
     "matchesDrawn": 4,
-    "matchesLost": 19,
+    "matchesLost": 20,
     "goalsFor": 22,
-    "goalsAgainst": 39,
-    "goalDifference": -17,
+    "goalsAgainst": 40,
+    "goalDifference": -18,
     "team": {
       "id": "Arsenal",
       "color": "#13B5EA",
