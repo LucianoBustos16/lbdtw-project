@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 15,
+    "matchesPlayed": 5,
+    "matchesWon": 5,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 10,
+    "goalsAgainst": 3,
+    "goalDifference": 7,
+    "team": {
+      "id": "Real-Madrid",
+      "color": "#004996",
+      "colorSecondary": "#FFF ",
+      "name": "Real Madrid",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
     "points": 13,
     "matchesPlayed": 5,
     "matchesWon": 4,
@@ -17,27 +38,6 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 13,
-    "matchesPlayed": 5,
-    "matchesWon": 4,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 9,
-    "goalsAgainst": 3,
-    "goalDifference": 6,
-    "team": {
-      "id": "Real-Madrid",
-      "color": "#004996",
-      "colorSecondary": "#FFF ",
-      "name": "Real Madrid",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -150,27 +150,6 @@
     "rank": 8,
     "points": 7,
     "matchesPlayed": 5,
-    "matchesWon": 1,
-    "matchesDrawn": 4,
-    "matchesLost": 0,
-    "goalsFor": 8,
-    "goalsAgainst": 6,
-    "goalDifference": 2,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 7,
-    "matchesPlayed": 5,
     "matchesWon": 2,
     "matchesDrawn": 1,
     "matchesLost": 2,
@@ -189,7 +168,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -210,7 +189,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -227,6 +206,27 @@
       "shortName": "BET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 6,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 8,
+    "goalsAgainst": 7,
+    "goalDifference": 1,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
       "league": "LaLiga"
     }
   },
