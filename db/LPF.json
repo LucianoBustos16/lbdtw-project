@@ -388,6 +388,48 @@
     "goalsAgainst": 4,
     "goalDifference": 1,
     "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 6,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
+    "team": {
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
+      "colorSecondary": "#FFFFFF",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 6,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
+    "team": {
       "id": "San-Lorenzo",
       "color": "#BF1B27",
       "colorSecondary": "#263D54",
@@ -399,7 +441,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 8,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -420,7 +462,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 9,
     "points": 6,
     "matchesPlayed": 4,
     "matchesWon": 2,
@@ -437,48 +479,6 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 5,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
-    "goalDifference": 1,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 5,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
-    "goalDifference": 1,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
@@ -715,6 +715,27 @@
   },
   {
     "rank": 7,
+    "points": 47,
+    "matchesPlayed": 31,
+    "matchesWon": 12,
+    "matchesDrawn": 11,
+    "matchesLost": 8,
+    "goalsFor": 42,
+    "goalsAgainst": 36,
+    "goalDifference": 6,
+    "team": {
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
+      "colorSecondary": "#FFFFFF",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 46,
     "matchesPlayed": 31,
     "matchesWon": 12,
@@ -735,7 +756,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 46,
     "matchesPlayed": 31,
     "matchesWon": 12,
@@ -752,27 +773,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 46,
-    "matchesPlayed": 30,
-    "matchesWon": 12,
-    "matchesDrawn": 10,
-    "matchesLost": 8,
-    "goalsFor": 42,
-    "goalsAgainst": 36,
-    "goalDifference": 6,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
@@ -862,10 +862,10 @@
   },
   {
     "rank": 14,
-    "points": 41,
-    "matchesPlayed": 30,
+    "points": 42,
+    "matchesPlayed": 31,
     "matchesWon": 11,
-    "matchesDrawn": 8,
+    "matchesDrawn": 9,
     "matchesLost": 11,
     "goalsFor": 25,
     "goalsAgainst": 30,
