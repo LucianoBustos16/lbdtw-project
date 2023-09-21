@@ -321,9 +321,9 @@
     "matchesWon": 2,
     "matchesDrawn": 3,
     "matchesLost": 0,
-    "goalsFor": 7,
+    "goalsFor": 8,
     "goalsAgainst": 4,
-    "goalDifference": 3,
+    "goalDifference": 4,
     "team": {
       "id": "Belgrano",
       "color": "#3A9CD0",
@@ -510,27 +510,6 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 3,
-    "goalsFor": 5,
-    "goalsAgainst": 9,
-    "goalDifference": -4,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 4,
-    "matchesPlayed": 5,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
     "goalsFor": 2,
     "goalsAgainst": 6,
     "goalDifference": -4,
@@ -542,6 +521,27 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 4,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 5,
+    "goalsAgainst": 10,
+    "goalDifference": -5,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
@@ -825,9 +825,9 @@
     "matchesWon": 12,
     "matchesDrawn": 9,
     "matchesLost": 11,
-    "goalsFor": 27,
+    "goalsFor": 28,
     "goalsAgainst": 30,
-    "goalDifference": -3,
+    "goalDifference": -2,
     "team": {
       "id": "Belgrano",
       "color": "#3A9CD0",
@@ -969,27 +969,6 @@
     "rank": 5,
     "points": 38,
     "matchesPlayed": 32,
-    "matchesWon": 10,
-    "matchesDrawn": 8,
-    "matchesLost": 14,
-    "goalsFor": 31,
-    "goalsAgainst": 38,
-    "goalDifference": -7,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 38,
-    "matchesPlayed": 32,
     "matchesWon": 9,
     "matchesDrawn": 11,
     "matchesLost": 12,
@@ -1004,6 +983,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 38,
+    "matchesPlayed": 32,
+    "matchesWon": 10,
+    "matchesDrawn": 8,
+    "matchesLost": 14,
+    "goalsFor": 31,
+    "goalsAgainst": 39,
+    "goalDifference": -8,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
