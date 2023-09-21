@@ -405,6 +405,48 @@
     "matchesWon": 1,
     "matchesDrawn": 4,
     "matchesLost": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 4,
+    "goalDifference": 2,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 4,
+    "matchesLost": 0,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
+    "team": {
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
+      "colorSecondary": "#FFFFFF",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 1,
+    "matchesDrawn": 4,
+    "matchesLost": 0,
     "goalsFor": 5,
     "goalsAgainst": 4,
     "goalDifference": 1,
@@ -420,7 +462,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 9,
     "points": 6,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -437,48 +479,6 @@
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 4,
-    "goalDifference": 2,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
-    "goalDifference": 1,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
@@ -694,6 +694,27 @@
   },
   {
     "rank": 6,
+    "points": 48,
+    "matchesPlayed": 32,
+    "matchesWon": 12,
+    "matchesDrawn": 12,
+    "matchesLost": 8,
+    "goalsFor": 42,
+    "goalsAgainst": 36,
+    "goalDifference": 6,
+    "team": {
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
+      "colorSecondary": "#FFFFFF",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
     "points": 47,
     "matchesPlayed": 31,
     "matchesWon": 13,
@@ -714,7 +735,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 47,
     "matchesPlayed": 32,
     "matchesWon": 12,
@@ -735,7 +756,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 47,
     "matchesPlayed": 32,
     "matchesWon": 12,
@@ -752,27 +773,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 47,
-    "matchesPlayed": 31,
-    "matchesWon": 12,
-    "matchesDrawn": 11,
-    "matchesLost": 8,
-    "goalsFor": 42,
-    "goalsAgainst": 36,
-    "goalDifference": 6,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
@@ -1009,6 +1009,27 @@
   },
   {
     "rank": 7,
+    "points": 37,
+    "matchesPlayed": 32,
+    "matchesWon": 7,
+    "matchesDrawn": 16,
+    "matchesLost": 9,
+    "goalsFor": 25,
+    "goalsAgainst": 29,
+    "goalDifference": -4,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 36,
     "matchesPlayed": 32,
     "matchesWon": 8,
@@ -1025,27 +1046,6 @@
       "shortName": "VEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 36,
-    "matchesPlayed": 31,
-    "matchesWon": 7,
-    "matchesDrawn": 15,
-    "matchesLost": 9,
-    "goalsFor": 25,
-    "goalsAgainst": 29,
-    "goalDifference": -4,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
