@@ -300,6 +300,27 @@
     "matchesWon": 1,
     "matchesDrawn": 2,
     "matchesLost": 3,
+    "goalsFor": 2,
+    "goalsAgainst": 4,
+    "goalDifference": -2,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 5,
+    "matchesPlayed": 6,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
     "goalsFor": 7,
     "goalsAgainst": 10,
     "goalDifference": -3,
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 4,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 4,
     "matchesPlayed": 6,
     "matchesWon": 1,
@@ -357,15 +378,15 @@
     }
   },
   {
-    "rank": 18,
-    "points": 4,
+    "rank": 19,
+    "points": 3,
     "matchesPlayed": 6,
     "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 4,
+    "matchesDrawn": 0,
+    "matchesLost": 5,
     "goalsFor": 9,
-    "goalsAgainst": 16,
-    "goalDifference": -7,
+    "goalsAgainst": 17,
+    "goalDifference": -8,
     "team": {
       "id": "Granada",
       "color": "#002246",
@@ -374,27 +395,6 @@
       "shortName": "GRN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 3,
-    "matchesPlayed": 6,
-    "matchesWon": 0,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 1,
-    "goalsAgainst": 4,
-    "goalDifference": -3,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
