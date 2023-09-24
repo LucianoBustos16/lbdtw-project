@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 12,
+    "matchesPlayed": 6,
+    "matchesWon": 4,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 8,
+    "goalsAgainst": 4,
+    "goalDifference": 4,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
     "points": 10,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -21,7 +42,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 10,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -42,7 +63,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 9,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -63,49 +84,7 @@
     }
   },
   {
-    "rank": 4,
-    "points": 9,
-    "matchesPlayed": 5,
-    "matchesWon": 3,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 7,
-    "goalsAgainst": 4,
-    "goalDifference": 3,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 5,
-    "points": 9,
-    "matchesPlayed": 5,
-    "matchesWon": 3,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 7,
-    "goalsAgainst": 5,
-    "goalDifference": 2,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
     "points": 9,
     "matchesPlayed": 5,
     "matchesWon": 3,
@@ -122,6 +101,27 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 9,
+    "matchesPlayed": 6,
+    "matchesWon": 3,
+    "matchesDrawn": 0,
+    "matchesLost": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "goalDifference": 1,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
@@ -338,13 +338,13 @@
   {
     "rank": 3,
     "points": 9,
-    "matchesPlayed": 5,
+    "matchesPlayed": 6,
     "matchesWon": 2,
     "matchesDrawn": 3,
-    "matchesLost": 0,
+    "matchesLost": 1,
     "goalsFor": 6,
-    "goalsAgainst": 3,
-    "goalDifference": 3,
+    "goalsAgainst": 5,
+    "goalDifference": 1,
     "team": {
       "id": "Defensa-y-Justicia",
       "color": "#ffdd00",
@@ -358,6 +358,27 @@
   },
   {
     "rank": 4,
+    "points": 9,
+    "matchesPlayed": 6,
+    "matchesWon": 3,
+    "matchesDrawn": 0,
+    "matchesLost": 3,
+    "goalsFor": 6,
+    "goalsAgainst": 8,
+    "goalDifference": -2,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 8,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 8,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -399,7 +420,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 7,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -420,7 +441,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -441,7 +462,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -462,7 +483,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -479,27 +500,6 @@
       "shortName": "SL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 6,
-    "matchesPlayed": 5,
-    "matchesWon": 2,
-    "matchesDrawn": 0,
-    "matchesLost": 3,
-    "goalsFor": 4,
-    "goalsAgainst": 8,
-    "goalDifference": -4,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
@@ -632,13 +632,13 @@
   {
     "rank": 3,
     "points": 53,
-    "matchesPlayed": 32,
+    "matchesPlayed": 33,
     "matchesWon": 14,
     "matchesDrawn": 11,
-    "matchesLost": 7,
+    "matchesLost": 8,
     "goalsFor": 42,
-    "goalsAgainst": 26,
-    "goalDifference": 16,
+    "goalsAgainst": 28,
+    "goalDifference": 14,
     "team": {
       "id": "Defensa-y-Justicia",
       "color": "#ffdd00",
@@ -1009,6 +1009,27 @@
   },
   {
     "rank": 7,
+    "points": 38,
+    "matchesPlayed": 33,
+    "matchesWon": 10,
+    "matchesDrawn": 8,
+    "matchesLost": 15,
+    "goalsFor": 26,
+    "goalsAgainst": 38,
+    "goalDifference": -12,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 37,
     "matchesPlayed": 32,
     "matchesWon": 7,
@@ -1029,15 +1050,36 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
+    "points": 37,
+    "matchesPlayed": 33,
+    "matchesWon": 10,
+    "matchesDrawn": 7,
+    "matchesLost": 16,
+    "goalsFor": 26,
+    "goalsAgainst": 33,
+    "goalDifference": -7,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
     "points": 36,
-    "matchesPlayed": 32,
+    "matchesPlayed": 33,
     "matchesWon": 8,
     "matchesDrawn": 12,
-    "matchesLost": 12,
+    "matchesLost": 13,
     "goalsFor": 31,
-    "goalsAgainst": 32,
-    "goalDifference": -1,
+    "goalsAgainst": 33,
+    "goalDifference": -2,
     "team": {
       "id": "Velez",
       "color": "#0063A8",
@@ -1050,7 +1092,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 11,
     "points": 36,
     "matchesPlayed": 32,
     "matchesWon": 9,
@@ -1071,7 +1113,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 12,
     "points": 36,
     "matchesPlayed": 33,
     "matchesWon": 9,
@@ -1088,48 +1130,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 35,
-    "matchesPlayed": 32,
-    "matchesWon": 9,
-    "matchesDrawn": 8,
-    "matchesLost": 15,
-    "goalsFor": 24,
-    "goalsAgainst": 38,
-    "goalDifference": -14,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 34,
-    "matchesPlayed": 32,
-    "matchesWon": 9,
-    "matchesDrawn": 7,
-    "matchesLost": 16,
-    "goalsFor": 25,
-    "goalsAgainst": 33,
-    "goalDifference": -8,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
