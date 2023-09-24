@@ -107,6 +107,27 @@
   {
     "rank": 6,
     "points": 9,
+    "matchesPlayed": 6,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 11,
+    "goalsAgainst": 9,
+    "goalDifference": 2,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 9,
     "matchesPlayed": 5,
     "matchesWon": 3,
     "matchesDrawn": 0,
@@ -122,27 +143,6 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 8,
-    "matchesPlayed": 6,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 7,
-    "goalsAgainst": 9,
-    "goalDifference": -2,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
@@ -171,27 +171,6 @@
     "rank": 9,
     "points": 7,
     "matchesPlayed": 6,
-    "matchesWon": 1,
-    "matchesDrawn": 4,
-    "matchesLost": 1,
-    "goalsFor": 10,
-    "goalsAgainst": 9,
-    "goalDifference": 1,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 7,
-    "matchesPlayed": 6,
     "matchesWon": 2,
     "matchesDrawn": 1,
     "matchesLost": 3,
@@ -210,7 +189,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -227,6 +206,27 @@
       "shortName": "CAD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 7,
+    "matchesPlayed": 6,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 10,
+    "goalDifference": -3,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
