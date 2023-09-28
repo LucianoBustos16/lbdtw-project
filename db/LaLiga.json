@@ -107,6 +107,27 @@
   {
     "rank": 6,
     "points": 11,
+    "matchesPlayed": 6,
+    "matchesWon": 3,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 13,
+    "goalsAgainst": 5,
+    "goalDifference": 8,
+    "team": {
+      "id": "Atletico-Madrid",
+      "color": "#CB3524",
+      "colorSecondary": "#272E61",
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 11,
     "matchesPlayed": 7,
     "matchesWon": 3,
     "matchesDrawn": 2,
@@ -122,27 +143,6 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 10,
-    "matchesPlayed": 5,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 13,
-    "goalsAgainst": 5,
-    "goalDifference": 8,
-    "team": {
-      "id": "Atletico-Madrid",
-      "color": "#CB3524",
-      "colorSecondary": "#272E61",
-      "name": "Atletico Madrid",
-      "shortName": "ATM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -216,6 +216,27 @@
     "matchesWon": 2,
     "matchesDrawn": 2,
     "matchesLost": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 8,
+    "goalDifference": -1,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 8,
+    "matchesPlayed": 7,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
     "goalsFor": 10,
     "goalsAgainst": 13,
     "goalDifference": -3,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 7,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -248,27 +269,6 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 7,
-    "matchesPlayed": 6,
-    "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 8,
-    "goalDifference": -1,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
