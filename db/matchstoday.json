@@ -102,7 +102,7 @@
         ]
       },
       {
-        "hour": "19:00  ",
+        "hour": "11' ",
         "teams": [
           {
             "localImgId": "17.png",
@@ -116,7 +116,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "12.png",
@@ -130,7 +130,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "1"
           }
         ]
       },
@@ -263,7 +263,7 @@
         ]
       },
       {
-        "hour": "E. T. ",
+        "hour": "51' ",
         "teams": [
           {
             "localImgId": "34.png",
@@ -278,17 +278,142 @@
         ]
       },
       {
-        "hour": "19:00  ",
+        "hour": "09' ",
         "teams": [
           {
             "localImgId": "85.png",
             "name": "Alvarado",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "204.png",
             "name": "Agropecuario",
-            "visitantScore": ""
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Premier League",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "530.png",
+            "name": "Aston Villa",
+            "localScore": "6"
+          },
+          {
+            "visitantImgId": "694.png",
+            "name": "Brighton And Hove",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "677.png",
+            "name": "Bournemouth",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "529.png",
+            "name": "Arsenal FC",
+            "visitantScore": "4"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "532.png",
+            "name": "Everton",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1215.png",
+            "name": "Luton Town",
+            "visitantScore": "2"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "536.png",
+            "name": "Manchester United",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "621.png",
+            "name": "Crystal Palace",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "537.png",
+            "name": "Newcastle",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "634.png",
+            "name": "Burnley",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "547.png",
+            "name": "West Ham",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "938.png",
+            "name": "Sheffield United",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "780.png",
+            "name": "Wolverhampton",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "535.png",
+            "name": "Manchester City",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "545.png",
+            "name": "Tottenham",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "534.png",
+            "name": "Liverpool",
+            "visitantScore": "1"
           }
         ]
       }
