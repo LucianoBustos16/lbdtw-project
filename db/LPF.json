@@ -212,6 +212,27 @@
   {
     "rank": 11,
     "points": 6,
+    "matchesPlayed": 7,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 5,
+    "goalsFor": 7,
+    "goalsAgainst": 11,
+    "goalDifference": -4,
+    "team": {
+      "id": "Arsenal",
+      "color": "#13B5EA",
+      "colorSecondary": "#EF3340",
+      "name": "Arsenal",
+      "shortName": "ARS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 6,
     "matchesPlayed": 6,
     "matchesWon": 2,
     "matchesDrawn": 0,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 6,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 5,
     "matchesPlayed": 6,
     "matchesWon": 1,
@@ -269,27 +290,6 @@
       "shortName": "ROS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 4,
-    "matchesPlayed": 7,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 5,
-    "goalsFor": 6,
-    "goalsAgainst": 11,
-    "goalDifference": -5,
-    "team": {
-      "id": "Arsenal",
-      "color": "#13B5EA",
-      "colorSecondary": "#EF3340",
-      "name": "Arsenal",
-      "shortName": "ARS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
       "league": "LPF"
     }
   },
@@ -337,27 +337,6 @@
   },
   {
     "rank": 3,
-    "points": 10,
-    "matchesPlayed": 7,
-    "matchesWon": 2,
-    "matchesDrawn": 4,
-    "matchesLost": 1,
-    "goalsFor": 7,
-    "goalsAgainst": 5,
-    "goalDifference": 2,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
     "points": 9,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -374,6 +353,27 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 9,
+    "matchesPlayed": 7,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "goalDifference": 1,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -632,27 +632,6 @@
   {
     "rank": 3,
     "points": 54,
-    "matchesPlayed": 34,
-    "matchesWon": 14,
-    "matchesDrawn": 12,
-    "matchesLost": 8,
-    "goalsFor": 43,
-    "goalsAgainst": 28,
-    "goalDifference": 15,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 54,
     "matchesPlayed": 33,
     "matchesWon": 13,
     "matchesDrawn": 15,
@@ -668,6 +647,27 @@
       "shortName": "SL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 53,
+    "matchesPlayed": 34,
+    "matchesWon": 14,
+    "matchesDrawn": 11,
+    "matchesLost": 9,
+    "goalsFor": 43,
+    "goalsAgainst": 29,
+    "goalDifference": 14,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -1156,14 +1156,14 @@
   },
   {
     "rank": 14,
-    "points": 26,
+    "points": 28,
     "matchesPlayed": 34,
-    "matchesWon": 7,
-    "matchesDrawn": 5,
+    "matchesWon": 8,
+    "matchesDrawn": 4,
     "matchesLost": 22,
-    "goalsFor": 24,
+    "goalsFor": 25,
     "goalsAgainst": 45,
-    "goalDifference": -21,
+    "goalDifference": -20,
     "team": {
       "id": "Arsenal",
       "color": "#13B5EA",
