@@ -213,6 +213,27 @@
     "rank": 11,
     "points": 6,
     "matchesPlayed": 7,
+    "matchesWon": 1,
+    "matchesDrawn": 3,
+    "matchesLost": 3,
+    "goalsFor": 5,
+    "goalsAgainst": 8,
+    "goalDifference": -3,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 6,
+    "matchesPlayed": 7,
     "matchesWon": 2,
     "matchesDrawn": 0,
     "matchesLost": 5,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 6,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 6,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -269,27 +290,6 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 5,
-    "matchesPlayed": 6,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 5,
-    "goalsAgainst": 8,
-    "goalDifference": -3,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -381,6 +381,27 @@
     "rank": 5,
     "points": 9,
     "matchesPlayed": 7,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "goalDifference": 1,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 9,
+    "matchesPlayed": 7,
     "matchesWon": 1,
     "matchesDrawn": 6,
     "matchesLost": 0,
@@ -399,7 +420,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 9,
     "matchesPlayed": 6,
     "matchesWon": 3,
@@ -420,7 +441,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 8,
     "matchesPlayed": 6,
     "matchesWon": 1,
@@ -437,27 +458,6 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 8,
-    "matchesPlayed": 6,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
-    "goalsFor": 6,
-    "goalsAgainst": 5,
-    "goalDifference": 1,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -799,10 +799,10 @@
   },
   {
     "rank": 11,
-    "points": 47,
-    "matchesPlayed": 33,
+    "points": 48,
+    "matchesPlayed": 34,
     "matchesWon": 11,
-    "matchesDrawn": 14,
+    "matchesDrawn": 15,
     "matchesLost": 8,
     "goalsFor": 41,
     "goalsAgainst": 37,
@@ -862,10 +862,10 @@
   },
   {
     "rank": 14,
-    "points": 43,
-    "matchesPlayed": 33,
+    "points": 44,
+    "matchesPlayed": 34,
     "matchesWon": 10,
-    "matchesDrawn": 13,
+    "matchesDrawn": 14,
     "matchesLost": 10,
     "goalsFor": 30,
     "goalsAgainst": 29,
