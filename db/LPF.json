@@ -132,6 +132,27 @@
     "matchesWon": 3,
     "matchesDrawn": 1,
     "matchesLost": 3,
+    "goalsFor": 6,
+    "goalsAgainst": 5,
+    "goalDifference": 1,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 10,
+    "matchesPlayed": 7,
+    "matchesWon": 3,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
     "goalsFor": 7,
     "goalsAgainst": 8,
     "goalDifference": -1,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 9,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 9,
     "matchesPlayed": 6,
     "matchesWon": 2,
@@ -185,27 +206,6 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 8,
-    "matchesPlayed": 7,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 5,
-    "goalsAgainst": 5,
-    "goalDifference": 0,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
       "league": "LPF"
     }
   },
@@ -568,14 +568,14 @@
   },
   {
     "rank": 14,
-    "points": 4,
+    "points": 3,
     "matchesPlayed": 7,
     "matchesWon": 0,
-    "matchesDrawn": 4,
-    "matchesLost": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
     "goalsFor": 4,
-    "goalsAgainst": 7,
-    "goalDifference": -3,
+    "goalsAgainst": 8,
+    "goalDifference": -4,
     "team": {
       "id": "Lanus",
       "color": "#7A1D2D",
@@ -758,27 +758,6 @@
   {
     "rank": 9,
     "points": 49,
-    "matchesPlayed": 34,
-    "matchesWon": 12,
-    "matchesDrawn": 13,
-    "matchesLost": 9,
-    "goalsFor": 42,
-    "goalsAgainst": 34,
-    "goalDifference": 8,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 49,
     "matchesPlayed": 33,
     "matchesWon": 12,
     "matchesDrawn": 13,
@@ -794,6 +773,27 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 48,
+    "matchesPlayed": 34,
+    "matchesWon": 12,
+    "matchesDrawn": 12,
+    "matchesLost": 10,
+    "goalsFor": 42,
+    "goalsAgainst": 35,
+    "goalDifference": 7,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -988,6 +988,27 @@
   },
   {
     "rank": 6,
+    "points": 40,
+    "matchesPlayed": 34,
+    "matchesWon": 10,
+    "matchesDrawn": 10,
+    "matchesLost": 14,
+    "goalsFor": 27,
+    "goalsAgainst": 37,
+    "goalDifference": -10,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
     "points": 39,
     "matchesPlayed": 33,
     "matchesWon": 9,
@@ -1008,7 +1029,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 38,
     "matchesPlayed": 34,
     "matchesWon": 10,
@@ -1025,27 +1046,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 38,
-    "matchesPlayed": 34,
-    "matchesWon": 9,
-    "matchesDrawn": 11,
-    "matchesLost": 14,
-    "goalsFor": 26,
-    "goalsAgainst": 37,
-    "goalDifference": -11,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
       "league": "LPF"
     }
   },
