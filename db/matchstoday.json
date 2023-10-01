@@ -36,7 +36,7 @@
         ]
       },
       {
-        "hour": "16:30  ",
+        "hour": "00' ",
         "teams": [
           {
             "localImgId": "7.png",
@@ -50,7 +50,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "39.png",
@@ -64,7 +64,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -140,12 +140,12 @@
     "competition": "Primera Nacional",
     "matches": [
       {
-        "hour": "19' ",
+        "hour": "27' ",
         "teams": [
           {
             "localImgId": "31.png",
             "name": "Gimnasia (J)",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "41.png",
@@ -155,7 +155,7 @@
         ]
       },
       {
-        "hour": "19' ",
+        "hour": "27' ",
         "teams": [
           {
             "localImgId": "178.png",
@@ -270,7 +270,7 @@
         ]
       },
       {
-        "hour": "38' ",
+        "hour": "45+1' ",
         "teams": [
           {
             "localImgId": "564.png",
@@ -356,7 +356,7 @@
         ]
       },
       {
-        "hour": "22' ",
+        "hour": "30' ",
         "teams": [
           {
             "localImgId": "510.png",
@@ -384,12 +384,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
               "league": "LaLiga"
             },
-            "visitantScore": "1"
+            "visitantScore": "2"
           }
         ]
       },
       {
-        "hour": "22' ",
+        "hour": "30' ",
         "teams": [
           {
             "localImgId": "517.png",
@@ -442,7 +442,7 @@
         ]
       },
       {
-        "hour": "19' ",
+        "hour": "28' ",
         "teams": [
           {
             "localImgId": "15.png",
@@ -457,32 +457,32 @@
         ]
       },
       {
-        "hour": "16:30  ",
+        "hour": "00' ",
         "teams": [
           {
             "localImgId": "99.png",
             "name": "Defensores (VR)",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "57.png",
             "name": "Gimnasia (CdU)",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
       {
-        "hour": "16:30  ",
+        "hour": "01' ",
         "teams": [
           {
             "localImgId": "288.png",
             "name": "Defensores (P)",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "208.png",
             "name": "Independiente CH",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -578,6 +578,71 @@
             "visitantImgId": "59.png",
             "name": "Liniers",
             "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Brasileirao",
+    "matches": [
+      {
+        "hour": "30' ",
+        "teams": [
+          {
+            "localImgId": "588.png",
+            "name": "Coritiba",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "584.png",
+            "name": "Paranaense",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "31' ",
+        "teams": [
+          {
+            "localImgId": "582.png",
+            "name": "Cruzeiro",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "779.png",
+            "name": "America MG",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "31' ",
+        "teams": [
+          {
+            "localImgId": "598.png",
+            "name": "Santos",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "599.png",
+            "name": "Vasco da Gama",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "18:30  ",
+        "teams": [
+          {
+            "localImgId": "1025.png",
+            "name": "Bragantino",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "629.png",
+            "name": "Palmeiras",
+            "visitantScore": ""
           }
         ]
       }
