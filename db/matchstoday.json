@@ -41,12 +41,12 @@
     "competition": "Primera Nacional",
     "matches": [
       {
-        "hour": "71' ",
+        "hour": "88' ",
         "teams": [
           {
             "localImgId": "46.png",
             "name": "Brown (PM)",
-            "localScore": "1"
+            "localScore": "2"
           },
           {
             "visitantImgId": "85.png",
@@ -56,17 +56,17 @@
         ]
       },
       {
-        "hour": "17:00  ",
+        "hour": "14' ",
         "teams": [
           {
             "localImgId": "42.png",
             "name": "Nueva Chicago",
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "43.png",
             "name": "Def. de Belgrano",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -106,7 +106,7 @@
         ]
       },
       {
-        "hour": "53' ",
+        "hour": "70' ",
         "teams": [
           {
             "localImgId": "942.png",
@@ -126,7 +126,7 @@
     "competition": "La Liga",
     "matches": [
       {
-        "hour": "E. T. ",
+        "hour": "56' ",
         "teams": [
           {
             "localImgId": "509.png",
@@ -164,17 +164,17 @@
     "competition": "Bundesliga",
     "matches": [
       {
-        "hour": "73' ",
+        "hour": "90' ",
         "teams": [
           {
             "localImgId": "604.png",
             "name": "Monchengladbach",
-            "localScore": "1"
+            "localScore": "2"
           },
           {
             "visitantImgId": "613.png",
             "name": "Mainz 05",
-            "visitantScore": "1"
+            "visitantScore": "2"
           }
         ]
       }
@@ -184,7 +184,7 @@
     "competition": "Femenino",
     "matches": [
       {
-        "hour": "72' ",
+        "hour": "89' ",
         "teams": [
           {
             "localImgId": "5.png",
@@ -204,6 +204,80 @@
             "visitantImgId": "43.png",
             "name": "Def. de Belgrano",
             "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Libertadores Femenina",
+    "matches": [
+      {
+        "hour": "18' ",
+        "teams": [
+          {
+            "localImgId": "1040.png",
+            "name": "Always Ready",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "1766.png",
+            "name": "Libertad Limpe�o",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "18' ",
+        "teams": [
+          {
+            "localImgId": "579.png",
+            "name": "Nacional",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "594.png",
+            "name": "Internacional",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "19:30  ",
+        "teams": [
+          {
+            "localImgId": "587.png",
+            "name": "Corinthians",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "723.png",
+            "name": "Colo Colo",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:30  ",
+        "teams": [
+          {
+            "localImgId": "6.png",
+            "name": {
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "758.png",
+            "name": "America Cali",
+            "visitantScore": ""
           }
         ]
       }
@@ -251,7 +325,7 @@
     "competition": "Liga Francia",
     "matches": [
       {
-        "hour": "E. T. ",
+        "hour": "58' ",
         "teams": [
           {
             "localImgId": "701.png",
@@ -261,7 +335,7 @@
           {
             "visitantImgId": "650.png",
             "name": "Nantes",
-            "visitantScore": "0"
+            "visitantScore": "2"
           }
         ]
       }
