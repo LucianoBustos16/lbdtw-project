@@ -169,14 +169,35 @@
   },
   {
     "rank": 9,
-    "points": 11,
+    "points": 10,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 3,
+    "goalsFor": 12,
+    "goalsAgainst": 14,
+    "goalDifference": -2,
+    "team": {
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 10,
     "matchesPlayed": 9,
     "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
+    "matchesDrawn": 1,
+    "matchesLost": 5,
     "goalsFor": 9,
-    "goalsAgainst": 10,
-    "goalDifference": -1,
+    "goalsAgainst": 11,
+    "goalDifference": -2,
     "team": {
       "id": "Valencia",
       "color": "#ff671f",
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 10,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 9,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 9,
     "matchesPlayed": 9,
     "matchesWon": 2,
@@ -248,27 +269,6 @@
       "shortName": "CAD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 8,
-    "matchesPlayed": 9,
-    "matchesWon": 1,
-    "matchesDrawn": 5,
-    "matchesLost": 3,
-    "goalsFor": 11,
-    "goalsAgainst": 14,
-    "goalDifference": -3,
-    "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
