@@ -297,6 +297,27 @@
     "rank": 1,
     "points": 12,
     "matchesPlayed": 8,
+    "matchesWon": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 2,
+    "goalsFor": 8,
+    "goalsAgainst": 6,
+    "goalDifference": 2,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 12,
+    "matchesPlayed": 8,
     "matchesWon": 2,
     "matchesDrawn": 6,
     "matchesLost": 0,
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 12,
     "matchesPlayed": 7,
     "matchesWon": 3,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 11,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -357,7 +378,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 10,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -395,27 +416,6 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 10,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 4,
-    "matchesLost": 2,
-    "goalsFor": 7,
-    "goalsAgainst": 6,
-    "goalDifference": 1,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -568,14 +568,14 @@
   },
   {
     "rank": 14,
-    "points": 4,
+    "points": 3,
     "matchesPlayed": 8,
     "matchesWon": 0,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 5,
     "goalsFor": 4,
-    "goalsAgainst": 8,
-    "goalDifference": -4,
+    "goalsAgainst": 9,
+    "goalDifference": -5,
     "team": {
       "id": "Lanus",
       "color": "#7A1D2D",
@@ -631,6 +631,27 @@
   },
   {
     "rank": 3,
+    "points": 56,
+    "matchesPlayed": 35,
+    "matchesWon": 15,
+    "matchesDrawn": 11,
+    "matchesLost": 9,
+    "goalsFor": 44,
+    "goalsAgainst": 29,
+    "goalDifference": 15,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
     "points": 55,
     "matchesPlayed": 35,
     "matchesWon": 13,
@@ -647,27 +668,6 @@
       "shortName": "SL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 54,
-    "matchesPlayed": 35,
-    "matchesWon": 14,
-    "matchesDrawn": 12,
-    "matchesLost": 9,
-    "goalsFor": 43,
-    "goalsAgainst": 29,
-    "goalDifference": 14,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
@@ -778,14 +778,14 @@
   },
   {
     "rank": 10,
-    "points": 49,
+    "points": 48,
     "matchesPlayed": 35,
     "matchesWon": 12,
-    "matchesDrawn": 13,
-    "matchesLost": 10,
+    "matchesDrawn": 12,
+    "matchesLost": 11,
     "goalsFor": 42,
-    "goalsAgainst": 35,
-    "goalDifference": 7,
+    "goalsAgainst": 36,
+    "goalDifference": 6,
     "team": {
       "id": "Lanus",
       "color": "#7A1D2D",
