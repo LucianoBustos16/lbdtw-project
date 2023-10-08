@@ -237,6 +237,48 @@
     "matchesWon": 2,
     "matchesDrawn": 3,
     "matchesLost": 4,
+    "goalsFor": 10,
+    "goalsAgainst": 13,
+    "goalDifference": -3,
+    "team": {
+      "id": "Villarreal",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Villarreal",
+      "shortName": "VIL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 4,
+    "goalsAgainst": 7,
+    "goalDifference": -3,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
     "goalsFor": 8,
     "goalsAgainst": 12,
     "goalDifference": -4,
@@ -252,7 +294,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 15,
     "points": 8,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -273,7 +315,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 16,
     "points": 8,
     "matchesPlayed": 9,
     "matchesWon": 1,
@@ -290,48 +332,6 @@
       "shortName": "MALL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 8,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 10,
-    "goalsAgainst": 13,
-    "goalDifference": -3,
-    "team": {
-      "id": "Villarreal",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Villarreal",
-      "shortName": "VIL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 8,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 4,
-    "goalsAgainst": 7,
-    "goalDifference": -3,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
