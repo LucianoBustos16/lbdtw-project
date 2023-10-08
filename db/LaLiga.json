@@ -49,8 +49,8 @@
     "matchesDrawn": 2,
     "matchesLost": 1,
     "goalsFor": 19,
-    "goalsAgainst": 9,
-    "goalDifference": 10,
+    "goalsAgainst": 10,
+    "goalDifference": 9,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -342,6 +342,27 @@
     "matchesWon": 2,
     "matchesDrawn": 2,
     "matchesLost": 5,
+    "goalsFor": 15,
+    "goalsAgainst": 21,
+    "goalDifference": -6,
+    "team": {
+      "id": "Granada",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Granada",
+      "shortName": "GRN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 18,
+    "points": 8,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 5,
     "goalsFor": 7,
     "goalsAgainst": 13,
     "goalDifference": -6,
@@ -353,27 +374,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 8,
-    "matchesPlayed": 9,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 5,
-    "goalsFor": 14,
-    "goalsAgainst": 21,
-    "goalDifference": -7,
-    "team": {
-      "id": "Granada",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Granada",
-      "shortName": "GRN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
       "league": "LaLiga"
     }
   },

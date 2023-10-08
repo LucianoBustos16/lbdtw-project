@@ -426,30 +426,9 @@
     "matchesWon": 2,
     "matchesDrawn": 5,
     "matchesLost": 1,
-    "goalsFor": 5,
-    "goalsAgainst": 3,
-    "goalDifference": 2,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 9,
-    "matchesPlayed": 8,
-    "matchesWon": 1,
-    "matchesDrawn": 6,
-    "matchesLost": 1,
-    "goalsFor": 6,
+    "goalsFor": 7,
     "goalsAgainst": 5,
-    "goalDifference": 1,
+    "goalDifference": 2,
     "team": {
       "id": "Union",
       "color": "#DA251D",
@@ -458,6 +437,27 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 10,
+    "matchesPlayed": 8,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 5,
+    "goalsAgainst": 4,
+    "goalDifference": 1,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
@@ -990,12 +990,33 @@
     "rank": 6,
     "points": 41,
     "matchesPlayed": 35,
+    "matchesWon": 8,
+    "matchesDrawn": 17,
+    "matchesLost": 10,
+    "goalsFor": 26,
+    "goalsAgainst": 30,
+    "goalDifference": -4,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 40,
+    "matchesPlayed": 35,
     "matchesWon": 9,
-    "matchesDrawn": 14,
-    "matchesLost": 12,
+    "matchesDrawn": 13,
+    "matchesLost": 13,
     "goalsFor": 28,
-    "goalsAgainst": 29,
-    "goalDifference": -1,
+    "goalsAgainst": 30,
+    "goalDifference": -2,
     "team": {
       "id": "Sarmiento",
       "color": "#008349",
@@ -1008,7 +1029,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 40,
     "matchesPlayed": 35,
     "matchesWon": 10,
@@ -1029,7 +1050,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 40,
     "matchesPlayed": 34,
     "matchesWon": 10,
@@ -1046,27 +1067,6 @@
       "shortName": "BAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 39,
-    "matchesPlayed": 35,
-    "matchesWon": 7,
-    "matchesDrawn": 18,
-    "matchesLost": 10,
-    "goalsFor": 25,
-    "goalsAgainst": 30,
-    "goalDifference": -5,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
