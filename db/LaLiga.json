@@ -44,13 +44,13 @@
   {
     "rank": 3,
     "points": 20,
-    "matchesPlayed": 8,
+    "matchesPlayed": 9,
     "matchesWon": 6,
     "matchesDrawn": 2,
-    "matchesLost": 0,
+    "matchesLost": 1,
     "goalsFor": 19,
-    "goalsAgainst": 8,
-    "goalDifference": 11,
+    "goalsAgainst": 9,
+    "goalDifference": 10,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -358,6 +358,27 @@
   },
   {
     "rank": 18,
+    "points": 8,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 5,
+    "goalsFor": 14,
+    "goalsAgainst": 21,
+    "goalDifference": -7,
+    "team": {
+      "id": "Granada",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Granada",
+      "shortName": "GRN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 19,
     "points": 6,
     "matchesPlayed": 9,
     "matchesWon": 1,
@@ -374,27 +395,6 @@
       "shortName": "CDV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 5,
-    "matchesPlayed": 8,
-    "matchesWon": 1,
-    "matchesDrawn": 2,
-    "matchesLost": 5,
-    "goalsFor": 13,
-    "goalsAgainst": 21,
-    "goalDifference": -8,
-    "team": {
-      "id": "Granada",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Granada",
-      "shortName": "GRN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
       "league": "LaLiga"
     }
   },
