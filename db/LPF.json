@@ -90,9 +90,9 @@
     "matchesWon": 4,
     "matchesDrawn": 1,
     "matchesLost": 3,
-    "goalsFor": 8,
+    "goalsFor": 9,
     "goalsAgainst": 8,
-    "goalDifference": 0,
+    "goalDifference": 1,
     "team": {
       "id": "Velez",
       "color": "#0063A8",
@@ -217,8 +217,8 @@
     "matchesDrawn": 4,
     "matchesLost": 2,
     "goalsFor": 4,
-    "goalsAgainst": 4,
-    "goalDifference": 0,
+    "goalsAgainst": 5,
+    "goalDifference": -1,
     "team": {
       "id": "Atletico-Tucuman",
       "color": "#71AFDB",
@@ -821,27 +821,6 @@
   {
     "rank": 12,
     "points": 47,
-    "matchesPlayed": 35,
-    "matchesWon": 11,
-    "matchesDrawn": 14,
-    "matchesLost": 10,
-    "goalsFor": 29,
-    "goalsAgainst": 31,
-    "goalDifference": -2,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 47,
     "matchesPlayed": 34,
     "matchesWon": 12,
     "matchesDrawn": 11,
@@ -857,6 +836,27 @@
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 47,
+    "matchesPlayed": 35,
+    "matchesWon": 11,
+    "matchesDrawn": 14,
+    "matchesLost": 10,
+    "goalsFor": 29,
+    "goalsAgainst": 32,
+    "goalDifference": -3,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
@@ -1035,6 +1035,27 @@
     "matchesWon": 9,
     "matchesDrawn": 13,
     "matchesLost": 13,
+    "goalsFor": 33,
+    "goalsAgainst": 35,
+    "goalDifference": -2,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 40,
+    "matchesPlayed": 35,
+    "matchesWon": 9,
+    "matchesDrawn": 13,
+    "matchesLost": 13,
     "goalsFor": 28,
     "goalsAgainst": 30,
     "goalDifference": -2,
@@ -1046,27 +1067,6 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 40,
-    "matchesPlayed": 35,
-    "matchesWon": 9,
-    "matchesDrawn": 13,
-    "matchesLost": 13,
-    "goalsFor": 32,
-    "goalsAgainst": 35,
-    "goalDifference": -3,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
