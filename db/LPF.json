@@ -85,6 +85,27 @@
   },
   {
     "rank": 5,
+    "points": 13,
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 8,
+    "goalDifference": 0,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 12,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -164,27 +185,6 @@
       "shortName": "BAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 11,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 5,
-    "matchesLost": 1,
-    "goalsFor": 4,
-    "goalsAgainst": 3,
-    "goalDifference": 1,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
@@ -211,22 +211,22 @@
   },
   {
     "rank": 11,
-    "points": 11,
+    "points": 10,
     "matchesPlayed": 8,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 8,
-    "goalDifference": -1,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 4,
+    "goalsAgainst": 4,
+    "goalDifference": 0,
     "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
@@ -820,14 +820,14 @@
   },
   {
     "rank": 12,
-    "points": 48,
+    "points": 47,
     "matchesPlayed": 35,
     "matchesWon": 11,
-    "matchesDrawn": 15,
-    "matchesLost": 9,
+    "matchesDrawn": 14,
+    "matchesLost": 10,
     "goalsFor": 29,
-    "goalsAgainst": 30,
-    "goalDifference": -1,
+    "goalsAgainst": 31,
+    "goalDifference": -2,
     "team": {
       "id": "Atletico-Tucuman",
       "color": "#71AFDB",
@@ -1053,6 +1053,27 @@
     "rank": 9,
     "points": 40,
     "matchesPlayed": 35,
+    "matchesWon": 9,
+    "matchesDrawn": 13,
+    "matchesLost": 13,
+    "goalsFor": 32,
+    "goalsAgainst": 35,
+    "goalDifference": -3,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 40,
+    "matchesPlayed": 35,
     "matchesWon": 10,
     "matchesDrawn": 10,
     "matchesLost": 15,
@@ -1067,27 +1088,6 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 38,
-    "matchesPlayed": 35,
-    "matchesWon": 8,
-    "matchesDrawn": 14,
-    "matchesLost": 13,
-    "goalsFor": 31,
-    "goalsAgainst": 35,
-    "goalDifference": -4,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
