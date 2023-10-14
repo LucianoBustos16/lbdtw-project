@@ -258,7 +258,7 @@
     "competition": "Primera C",
     "matches": [
       {
-        "hour": "15:00  ",
+        "hour": "Desempate Campeon",
         "teams": [
           {
             "localImgId": "106.png",
@@ -273,7 +273,7 @@
         ]
       },
       {
-        "hour": "15:30  ",
+        "hour": "15:00  ",
         "teams": [
           {
             "localImgId": "386.png",
@@ -513,6 +513,72 @@
               "shortName": "ARGJ",
               "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "81.png",
+            "name": {
+              "id": "Sarmiento",
+              "color": "#008349",
+              "colorSecondary": "#FFFFFF",
+              "name": "Sarmiento (J)",
+              "shortName": "SARM",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "8.png",
+            "name": {
+              "id": "Estudiantes",
+              "color": "#E41815",
+              "colorSecondary": "#FFF",
+              "name": "Estudiantes (LP)",
+              "shortName": "EST",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "19.png",
+            "name": {
+              "id": "San-Lorenzo",
+              "color": "#BF1B27",
+              "colorSecondary": "#263D54",
+              "name": "San Lorenzo",
+              "shortName": "SL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
