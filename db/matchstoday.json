@@ -33,7 +33,7 @@
         ]
       },
       {
-        "hour": "70' ",
+        "hour": "78' ",
         "teams": [
           {
             "localImgId": "bulgaria.gif",
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "hour": "70' ",
+        "hour": "78' ",
         "teams": [
           {
             "localImgId": "eslovenia.gif",
@@ -378,6 +378,92 @@
           {
             "visitantImgId": "122.png",
             "name": "Dep. Paraguayo",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "439.png",
+            "name": "S.A.T.",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:35  ",
+        "teams": [
+          {
+            "localImgId": "43.png",
+            "name": "Def. de Belgrano",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "26.png",
+            "name": {
+              "id": "Belgrano",
+              "color": "#3A9CD0",
+              "colorSecondary": "#1D1D1B",
+              "name": "Belgrano",
+              "shortName": "BEL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "11.png",
+            "name": {
+              "id": "Huracan",
+              "color": "#FF0000",
+              "colorSecondary": "#FFFFFF",
+              "name": "Huracan",
+              "shortName": "HUR",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "9.png",
+            "name": {
+              "id": "Gimnasia",
+              "color": "#121731",
+              "colorSecondary": "#00AFEF",
+              "name": "Gimnasia (LP)",
+              "shortName": "GLP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": ""
           }
         ]
