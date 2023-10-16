@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "90+5' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "5.png",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "hour": "18:00  ",
+        "hour": "02' ",
         "teams": [
           {
             "localImgId": "78.png",
@@ -50,7 +50,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "13.png",
@@ -64,7 +64,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -372,7 +372,7 @@
         ]
       },
       {
-        "hour": "04' ",
+        "hour": "18' ",
         "teams": [
           {
             "localImgId": "61.png",
@@ -383,6 +383,94 @@
             "visitantImgId": "101.png",
             "name": "San Miguel",
             "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "12.png",
+            "name": {
+              "id": "Independiente",
+              "color": "#EC1C24",
+              "colorSecondary": "#FFFFFF",
+              "name": "Independiente",
+              "shortName": "IND",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+              "league": "LPF"
+            },
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "5.png",
+            "name": {
+              "id": "Banfield",
+              "color": "#007934",
+              "colorSecondary": "#B49759",
+              "name": "Banfield",
+              "shortName": "BAN",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "30.png",
+            "name": "Ferro",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "64.png",
+            "name": "Estudiantes (BA)",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "20:05  ",
+        "teams": [
+          {
+            "localImgId": "1611.png",
+            "name": "Atl. Huila",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1334.png",
+            "name": "Envigado",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "22:15  ",
+        "teams": [
+          {
+            "localImgId": "1333.png",
+            "name": "Bucaramanga",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1330.png",
+            "name": "Boyaca Chico",
+            "visitantScore": ""
           }
         ]
       }
