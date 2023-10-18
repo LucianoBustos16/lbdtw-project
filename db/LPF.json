@@ -321,6 +321,27 @@
     "matchesWon": 4,
     "matchesDrawn": 2,
     "matchesLost": 3,
+    "goalsFor": 9,
+    "goalsAgainst": 11,
+    "goalDifference": -2,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 14,
+    "matchesPlayed": 9,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
     "goalsFor": 7,
     "goalsAgainst": 9,
     "goalDifference": -2,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 12,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -357,7 +378,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 12,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 12,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -395,27 +416,6 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 12,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 8,
-    "goalsAgainst": 11,
-    "goalDifference": -3,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
@@ -526,14 +526,14 @@
   },
   {
     "rank": 12,
-    "points": 7,
+    "points": 6,
     "matchesPlayed": 9,
     "matchesWon": 1,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 5,
     "goalsFor": 4,
-    "goalsAgainst": 8,
-    "goalDifference": -4,
+    "goalsAgainst": 9,
+    "goalDifference": -5,
     "team": {
       "id": "Estudiantes",
       "color": "#E41815",
@@ -757,27 +757,6 @@
   },
   {
     "rank": 9,
-    "points": 52,
-    "matchesPlayed": 36,
-    "matchesWon": 13,
-    "matchesDrawn": 13,
-    "matchesLost": 10,
-    "goalsFor": 39,
-    "goalsAgainst": 32,
-    "goalDifference": 7,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
     "points": 51,
     "matchesPlayed": 35,
     "matchesWon": 15,
@@ -794,6 +773,27 @@
       "shortName": "CABJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 51,
+    "matchesPlayed": 36,
+    "matchesWon": 13,
+    "matchesDrawn": 12,
+    "matchesLost": 11,
+    "goalsFor": 39,
+    "goalsAgainst": 33,
+    "goalDifference": 6,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -862,6 +862,27 @@
   },
   {
     "rank": 14,
+    "points": 48,
+    "matchesPlayed": 36,
+    "matchesWon": 13,
+    "matchesDrawn": 9,
+    "matchesLost": 14,
+    "goalsFor": 35,
+    "goalsAgainst": 40,
+    "goalDifference": -5,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 1,
     "points": 46,
     "matchesPlayed": 35,
     "matchesWon": 11,
@@ -878,27 +899,6 @@
       "shortName": "NOB",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 1,
-    "points": 46,
-    "matchesPlayed": 36,
-    "matchesWon": 12,
-    "matchesDrawn": 10,
-    "matchesLost": 14,
-    "goalsFor": 34,
-    "goalsAgainst": 40,
-    "goalDifference": -6,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
