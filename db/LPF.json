@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 18,
+    "matchesPlayed": 9,
+    "matchesWon": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 9,
+    "goalsAgainst": 4,
+    "goalDifference": 5,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
     "points": 16,
     "matchesPlayed": 8,
     "matchesWon": 5,
@@ -17,27 +38,6 @@
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 15,
-    "matchesPlayed": 8,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 8,
-    "goalsAgainst": 4,
-    "goalDifference": 4,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
@@ -233,13 +233,13 @@
   {
     "rank": 12,
     "points": 10,
-    "matchesPlayed": 8,
+    "matchesPlayed": 9,
     "matchesWon": 3,
     "matchesDrawn": 1,
-    "matchesLost": 4,
+    "matchesLost": 5,
     "goalsFor": 7,
-    "goalsAgainst": 14,
-    "goalDifference": -7,
+    "goalsAgainst": 15,
+    "goalDifference": -8,
     "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
@@ -904,35 +904,14 @@
   },
   {
     "rank": 2,
-    "points": 45,
-    "matchesPlayed": 35,
+    "points": 46,
+    "matchesPlayed": 36,
     "matchesWon": 11,
-    "matchesDrawn": 12,
-    "matchesLost": 12,
-    "goalsFor": 32,
-    "goalsAgainst": 44,
-    "goalDifference": -12,
-    "team": {
-      "id": "Barracas-Central",
-      "color": "#ec1c24",
-      "colorSecondary": "#FFF",
-      "name": "Barracas Central",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 43,
-    "matchesPlayed": 35,
-    "matchesWon": 10,
     "matchesDrawn": 13,
     "matchesLost": 12,
-    "goalsFor": 31,
+    "goalsFor": 32,
     "goalsAgainst": 36,
-    "goalDifference": -5,
+    "goalDifference": -4,
     "team": {
       "id": "Independiente",
       "color": "#EC1C24",
@@ -941,6 +920,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 45,
+    "matchesPlayed": 36,
+    "matchesWon": 11,
+    "matchesDrawn": 12,
+    "matchesLost": 13,
+    "goalsFor": 32,
+    "goalsAgainst": 45,
+    "goalDifference": -13,
+    "team": {
+      "id": "Barracas-Central",
+      "color": "#ec1c24",
+      "colorSecondary": "#FFF",
+      "name": "Barracas Central",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
       "league": "LPF"
     }
   },
