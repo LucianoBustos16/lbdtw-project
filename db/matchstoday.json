@@ -173,7 +173,7 @@
     "competition": "Reserva - Copa Proyeccion",
     "matches": [
       {
-        "hour": "09' ",
+        "hour": "25' ",
         "teams": [
           {
             "localImgId": "10.png",
@@ -201,12 +201,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "10' ",
+        "hour": "26' ",
         "teams": [
           {
             "localImgId": "14.png",
@@ -239,40 +239,7 @@
         ]
       },
       {
-        "hour": "11:00  ",
-        "teams": [
-          {
-            "localImgId": "19.png",
-            "name": {
-              "id": "San-Lorenzo",
-              "color": "#BF1B27",
-              "colorSecondary": "#263D54",
-              "name": "San Lorenzo",
-              "shortName": "SL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "81.png",
-            "name": {
-              "id": "Sarmiento",
-              "color": "#008349",
-              "colorSecondary": "#FFFFFF",
-              "name": "Sarmiento (J)",
-              "shortName": "SARM",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "11' ",
+        "hour": "27' ",
         "teams": [
           {
             "localImgId": "8.png",
@@ -305,7 +272,7 @@
         ]
       },
       {
-        "hour": "08' ",
+        "hour": "24' ",
         "teams": [
           {
             "localImgId": "39.png",
@@ -333,12 +300,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "2"
           }
         ]
       },
       {
-        "hour": "10' ",
+        "hour": "26' ",
         "teams": [
           {
             "localImgId": "26.png",
@@ -366,7 +333,40 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "2"
+          }
+        ]
+      },
+      {
+        "hour": "11:30  ",
+        "teams": [
+          {
+            "localImgId": "19.png",
+            "name": {
+              "id": "San-Lorenzo",
+              "color": "#BF1B27",
+              "colorSecondary": "#263D54",
+              "name": "San Lorenzo",
+              "shortName": "SL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "81.png",
+            "name": {
+              "id": "Sarmiento",
+              "color": "#008349",
+              "colorSecondary": "#FFFFFF",
+              "name": "Sarmiento (J)",
+              "shortName": "SARM",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       }
