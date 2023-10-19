@@ -316,6 +316,27 @@
   },
   {
     "rank": 2,
+    "points": 15,
+    "matchesPlayed": 9,
+    "matchesWon": 3,
+    "matchesDrawn": 6,
+    "matchesLost": 0,
+    "goalsFor": 9,
+    "goalsAgainst": 6,
+    "goalDifference": 3,
+    "team": {
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
+      "colorSecondary": "#FFFFFF",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -353,27 +374,6 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 13,
-    "matchesPlayed": 9,
-    "matchesWon": 2,
-    "matchesDrawn": 7,
-    "matchesLost": 0,
-    "goalsFor": 8,
-    "goalsAgainst": 6,
-    "goalDifference": 2,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
@@ -484,14 +484,14 @@
   },
   {
     "rank": 10,
-    "points": 10,
+    "points": 9,
     "matchesPlayed": 9,
     "matchesWon": 1,
-    "matchesDrawn": 7,
-    "matchesLost": 1,
+    "matchesDrawn": 6,
+    "matchesLost": 2,
     "goalsFor": 6,
-    "goalsAgainst": 8,
-    "goalDifference": -2,
+    "goalsAgainst": 9,
+    "goalDifference": -3,
     "team": {
       "id": "San-Lorenzo",
       "color": "#BF1B27",
@@ -654,33 +654,12 @@
     "rank": 4,
     "points": 56,
     "matchesPlayed": 36,
-    "matchesWon": 13,
-    "matchesDrawn": 17,
-    "matchesLost": 6,
-    "goalsFor": 29,
-    "goalsAgainst": 21,
-    "goalDifference": 8,
-    "team": {
-      "id": "San-Lorenzo",
-      "color": "#BF1B27",
-      "colorSecondary": "#263D54",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 54,
-    "matchesPlayed": 36,
-    "matchesWon": 13,
-    "matchesDrawn": 15,
+    "matchesWon": 14,
+    "matchesDrawn": 14,
     "matchesLost": 8,
-    "goalsFor": 45,
+    "goalsFor": 46,
     "goalsAgainst": 38,
-    "goalDifference": 7,
+    "goalDifference": 8,
     "team": {
       "id": "Godoy-Cruz",
       "color": "#2670CA",
@@ -689,6 +668,27 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 55,
+    "matchesPlayed": 36,
+    "matchesWon": 13,
+    "matchesDrawn": 16,
+    "matchesLost": 7,
+    "goalsFor": 29,
+    "goalsAgainst": 22,
+    "goalDifference": 7,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#BF1B27",
+      "colorSecondary": "#263D54",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
       "league": "LPF"
     }
   },
