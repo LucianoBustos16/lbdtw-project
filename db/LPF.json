@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 16,
+    "matchesPlayed": 9,
+    "matchesWon": 5,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 11,
+    "goalsAgainst": 9,
+    "goalDifference": 2,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -59,27 +80,6 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 14,
-    "matchesPlayed": 9,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 10,
-    "goalsAgainst": 9,
-    "goalDifference": 1,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
@@ -148,27 +148,6 @@
   },
   {
     "rank": 8,
-    "points": 12,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 8,
-    "goalDifference": -1,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -189,7 +168,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -210,7 +189,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 11,
     "matchesPlayed": 9,
     "matchesWon": 2,
@@ -227,6 +206,27 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 11,
+    "matchesPlayed": 9,
+    "matchesWon": 3,
+    "matchesDrawn": 2,
+    "matchesLost": 4,
+    "goalsFor": 7,
+    "goalsAgainst": 9,
+    "goalDifference": -2,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -379,6 +379,27 @@
   },
   {
     "rank": 5,
+    "points": 13,
+    "matchesPlayed": 9,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 4,
+    "goalDifference": 2,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 12,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -399,15 +420,15 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 12,
-    "matchesPlayed": 8,
+    "matchesPlayed": 9,
     "matchesWon": 3,
     "matchesDrawn": 3,
-    "matchesLost": 2,
+    "matchesLost": 3,
     "goalsFor": 10,
-    "goalsAgainst": 10,
-    "goalDifference": 0,
+    "goalsAgainst": 11,
+    "goalDifference": -1,
     "team": {
       "id": "Racing-Club",
       "color": "#009DDB",
@@ -420,7 +441,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 3,
@@ -441,7 +462,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 11,
     "matchesPlayed": 8,
     "matchesWon": 2,
@@ -458,27 +479,6 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 10,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 4,
-    "matchesLost": 2,
-    "goalsFor": 5,
-    "goalsAgainst": 4,
-    "goalDifference": 1,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
@@ -694,14 +694,14 @@
   },
   {
     "rank": 6,
-    "points": 54,
+    "points": 53,
     "matchesPlayed": 36,
     "matchesWon": 13,
-    "matchesDrawn": 15,
-    "matchesLost": 8,
+    "matchesDrawn": 14,
+    "matchesLost": 9,
     "goalsFor": 43,
-    "goalsAgainst": 37,
-    "goalDifference": 6,
+    "goalsAgainst": 38,
+    "goalDifference": 5,
     "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
@@ -821,13 +821,13 @@
   {
     "rank": 12,
     "points": 48,
-    "matchesPlayed": 35,
+    "matchesPlayed": 36,
     "matchesWon": 12,
     "matchesDrawn": 12,
-    "matchesLost": 11,
+    "matchesLost": 12,
     "goalsFor": 46,
-    "goalsAgainst": 45,
-    "goalDifference": 1,
+    "goalsAgainst": 46,
+    "goalDifference": 0,
     "team": {
       "id": "Racing-Club",
       "color": "#009DDB",
@@ -947,6 +947,48 @@
   {
     "rank": 4,
     "points": 43,
+    "matchesPlayed": 36,
+    "matchesWon": 10,
+    "matchesDrawn": 13,
+    "matchesLost": 13,
+    "goalsFor": 35,
+    "goalsAgainst": 36,
+    "goalDifference": -1,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 43,
+    "matchesPlayed": 36,
+    "matchesWon": 10,
+    "matchesDrawn": 13,
+    "matchesLost": 13,
+    "goalsFor": 29,
+    "goalsAgainst": 30,
+    "goalDifference": -1,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 43,
     "matchesPlayed": 35,
     "matchesWon": 10,
     "matchesDrawn": 13,
@@ -966,7 +1008,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 7,
     "points": 43,
     "matchesPlayed": 36,
     "matchesWon": 11,
@@ -987,7 +1029,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 8,
     "points": 42,
     "matchesPlayed": 36,
     "matchesWon": 10,
@@ -1008,28 +1050,7 @@
     }
   },
   {
-    "rank": 7,
-    "points": 41,
-    "matchesPlayed": 36,
-    "matchesWon": 9,
-    "matchesDrawn": 14,
-    "matchesLost": 13,
-    "goalsFor": 34,
-    "goalsAgainst": 36,
-    "goalDifference": -2,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
+    "rank": 9,
     "points": 41,
     "matchesPlayed": 35,
     "matchesWon": 8,
@@ -1050,7 +1071,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 41,
     "matchesPlayed": 36,
     "matchesWon": 10,
@@ -1067,27 +1088,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 40,
-    "matchesPlayed": 35,
-    "matchesWon": 9,
-    "matchesDrawn": 13,
-    "matchesLost": 13,
-    "goalsFor": 28,
-    "goalsAgainst": 30,
-    "goalDifference": -2,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
