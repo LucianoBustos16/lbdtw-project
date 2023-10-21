@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 24,
+    "points": 25,
     "matchesPlayed": 10,
     "matchesWon": 8,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 20,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 21,
     "goalsAgainst": 7,
-    "goalDifference": 13,
+    "goalDifference": 14,
     "team": {
       "id": "Real-Madrid",
       "color": "#004996",
@@ -195,27 +195,6 @@
     "matchesWon": 3,
     "matchesDrawn": 2,
     "matchesLost": 4,
-    "goalsFor": 14,
-    "goalsAgainst": 12,
-    "goalDifference": 2,
-    "team": {
-      "id": "Sevilla",
-      "color": "#CD3529",
-      "colorSecondary": "#FFF",
-      "name": "Sevilla",
-      "shortName": "SEV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 11,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
     "goalsFor": 10,
     "goalsAgainst": 11,
     "goalDifference": -1,
@@ -231,7 +210,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 11,
     "points": 11,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -252,7 +231,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 11,
     "matchesPlayed": 10,
     "matchesWon": 2,
@@ -269,6 +248,27 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 9,
+    "matchesPlayed": 9,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 14,
+    "goalsAgainst": 13,
+    "goalDifference": 1,
+    "team": {
+      "id": "Sevilla",
+      "color": "#CD3529",
+      "colorSecondary": "#FFF",
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
       "league": "LaLiga"
     }
   },
