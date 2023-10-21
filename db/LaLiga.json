@@ -27,6 +27,27 @@
     "matchesWon": 7,
     "matchesDrawn": 1,
     "matchesLost": 1,
+    "goalsFor": 21,
+    "goalsAgainst": 8,
+    "goalDifference": 13,
+    "team": {
+      "id": "Atletico-Madrid",
+      "color": "#CB3524",
+      "colorSecondary": "#272E61",
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 22,
+    "matchesPlayed": 9,
+    "matchesWon": 7,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
     "goalsFor": 19,
     "goalsAgainst": 11,
     "goalDifference": 8,
@@ -42,7 +63,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 21,
     "matchesPlayed": 9,
     "matchesWon": 6,
@@ -59,27 +80,6 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 20,
-    "matchesPlayed": 9,
-    "matchesWon": 6,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 20,
-    "goalsAgainst": 8,
-    "goalDifference": 12,
-    "team": {
-      "id": "Atletico-Madrid",
-      "color": "#CB3524",
-      "colorSecondary": "#272E61",
-      "name": "Atletico Madrid",
-      "shortName": "ATM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -358,14 +358,14 @@
   },
   {
     "rank": 18,
-    "points": 7,
+    "points": 6,
     "matchesPlayed": 10,
     "matchesWon": 1,
-    "matchesDrawn": 4,
-    "matchesLost": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 6,
     "goalsFor": 10,
-    "goalsAgainst": 15,
-    "goalDifference": -5,
+    "goalsAgainst": 16,
+    "goalDifference": -6,
     "team": {
       "id": "Celta",
       "color": "#6CACE4",
