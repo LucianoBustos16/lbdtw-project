@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 25,
+    "matchesPlayed": 10,
+    "matchesWon": 8,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 22,
+    "goalsAgainst": 13,
+    "goalDifference": 9,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
     "points": 22,
     "matchesPlayed": 9,
     "matchesWon": 7,
@@ -38,27 +59,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 22,
-    "matchesPlayed": 10,
-    "matchesWon": 7,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 20,
-    "goalsAgainst": 13,
-    "goalDifference": 7,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,14 +400,14 @@
   },
   {
     "rank": 20,
-    "points": 6,
+    "points": 3,
     "matchesPlayed": 10,
-    "matchesWon": 1,
+    "matchesWon": 0,
     "matchesDrawn": 3,
-    "matchesLost": 6,
+    "matchesLost": 7,
     "goalsFor": 13,
-    "goalsAgainst": 25,
-    "goalDifference": -12,
+    "goalsAgainst": 27,
+    "goalDifference": -14,
     "team": {
       "id": "Almeria",
       "color": "#e0040b",
