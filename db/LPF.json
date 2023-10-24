@@ -401,6 +401,27 @@
   {
     "rank": 6,
     "points": 13,
+    "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 3,
+    "goalsFor": 9,
+    "goalsAgainst": 8,
+    "goalDifference": 1,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 13,
     "matchesPlayed": 9,
     "matchesWon": 3,
     "matchesDrawn": 4,
@@ -420,32 +441,11 @@
     }
   },
   {
-    "rank": 7,
-    "points": 12,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 8,
-    "goalDifference": 1,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 8,
-    "points": 11,
-    "matchesPlayed": 9,
+    "points": 12,
+    "matchesPlayed": 10,
     "matchesWon": 2,
-    "matchesDrawn": 5,
+    "matchesDrawn": 6,
     "matchesLost": 2,
     "goalsFor": 8,
     "goalsAgainst": 7,
@@ -631,10 +631,10 @@
   },
   {
     "rank": 3,
-    "points": 56,
-    "matchesPlayed": 36,
+    "points": 57,
+    "matchesPlayed": 37,
     "matchesWon": 15,
-    "matchesDrawn": 11,
+    "matchesDrawn": 12,
     "matchesLost": 10,
     "goalsFor": 45,
     "goalsAgainst": 31,
@@ -1030,6 +1030,27 @@
   },
   {
     "rank": 8,
+    "points": 42,
+    "matchesPlayed": 37,
+    "matchesWon": 8,
+    "matchesDrawn": 18,
+    "matchesLost": 11,
+    "goalsFor": 27,
+    "goalsAgainst": 32,
+    "goalDifference": -5,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
     "points": 41,
     "matchesPlayed": 37,
     "matchesWon": 9,
@@ -1050,7 +1071,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 41,
     "matchesPlayed": 37,
     "matchesWon": 9,
@@ -1067,27 +1088,6 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 41,
-    "matchesPlayed": 36,
-    "matchesWon": 8,
-    "matchesDrawn": 17,
-    "matchesLost": 11,
-    "goalsFor": 27,
-    "goalsAgainst": 32,
-    "goalDifference": -5,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
