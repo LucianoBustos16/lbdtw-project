@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 16,
+    "matchesPlayed": 10,
+    "matchesWon": 5,
+    "matchesDrawn": 1,
+    "matchesLost": 4,
+    "goalsFor": 14,
+    "goalsAgainst": 10,
+    "goalDifference": 4,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
     "points": 15,
     "matchesPlayed": 10,
     "matchesWon": 3,
@@ -63,7 +84,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 15,
     "matchesPlayed": 10,
     "matchesWon": 4,
@@ -80,27 +101,6 @@
       "shortName": "BAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 15,
-    "matchesPlayed": 10,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 15,
-    "goalsAgainst": 14,
-    "goalDifference": 1,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -171,27 +171,6 @@
     "rank": 9,
     "points": 13,
     "matchesPlayed": 10,
-    "matchesWon": 4,
-    "matchesDrawn": 1,
-    "matchesLost": 5,
-    "goalsFor": 12,
-    "goalsAgainst": 10,
-    "goalDifference": 2,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 13,
-    "matchesPlayed": 10,
     "matchesWon": 3,
     "matchesDrawn": 4,
     "matchesLost": 3,
@@ -210,7 +189,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 12,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -227,6 +206,27 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 12,
+    "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 15,
+    "goalsAgainst": 16,
+    "goalDifference": -1,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -674,27 +674,6 @@
   {
     "rank": 5,
     "points": 55,
-    "matchesPlayed": 37,
-    "matchesWon": 15,
-    "matchesDrawn": 10,
-    "matchesLost": 12,
-    "goalsFor": 46,
-    "goalsAgainst": 36,
-    "goalDifference": 10,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 55,
     "matchesPlayed": 36,
     "matchesWon": 13,
     "matchesDrawn": 16,
@@ -714,7 +693,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 6,
     "points": 55,
     "matchesPlayed": 37,
     "matchesWon": 13,
@@ -735,7 +714,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "points": 54,
     "matchesPlayed": 37,
     "matchesWon": 16,
@@ -756,7 +735,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 54,
     "matchesPlayed": 37,
     "matchesWon": 14,
@@ -777,7 +756,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 53,
     "matchesPlayed": 36,
     "matchesWon": 14,
@@ -794,6 +773,27 @@
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 52,
+    "matchesPlayed": 37,
+    "matchesWon": 14,
+    "matchesDrawn": 10,
+    "matchesLost": 13,
+    "goalsFor": 46,
+    "goalsAgainst": 38,
+    "goalDifference": 8,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -1093,6 +1093,27 @@
   },
   {
     "rank": 11,
+    "points": 41,
+    "matchesPlayed": 37,
+    "matchesWon": 11,
+    "matchesDrawn": 8,
+    "matchesLost": 18,
+    "goalsFor": 32,
+    "goalsAgainst": 39,
+    "goalDifference": -7,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
     "points": 40,
     "matchesPlayed": 36,
     "matchesWon": 10,
@@ -1113,7 +1134,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 39,
     "matchesPlayed": 36,
     "matchesWon": 8,
@@ -1130,27 +1151,6 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 38,
-    "matchesPlayed": 37,
-    "matchesWon": 10,
-    "matchesDrawn": 8,
-    "matchesLost": 19,
-    "goalsFor": 30,
-    "goalsAgainst": 39,
-    "goalDifference": -9,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
