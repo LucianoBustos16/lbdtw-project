@@ -45,6 +45,27 @@
     "rank": 3,
     "points": 15,
     "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 6,
+    "matchesLost": 1,
+    "goalsFor": 9,
+    "goalsAgainst": 5,
+    "goalDifference": 4,
+    "team": {
+      "id": "Instituto",
+      "color": "#E0312B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Instituto",
+      "shortName": "IACC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 15,
+    "matchesPlayed": 10,
     "matchesWon": 4,
     "matchesDrawn": 3,
     "matchesLost": 3,
@@ -63,28 +84,28 @@
     }
   },
   {
-    "rank": 4,
-    "points": 14,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 5,
-    "matchesLost": 1,
-    "goalsFor": 9,
-    "goalsAgainst": 5,
-    "goalDifference": 4,
+    "rank": 5,
+    "points": 15,
+    "matchesPlayed": 10,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 3,
+    "goalsFor": 15,
+    "goalsAgainst": 14,
+    "goalDifference": 1,
     "team": {
-      "id": "Instituto",
-      "color": "#E0312B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Instituto",
-      "shortName": "IACC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 14,
     "matchesPlayed": 10,
     "matchesWon": 4,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 14,
     "matchesPlayed": 10,
     "matchesWon": 4,
@@ -147,15 +168,15 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 13,
-    "matchesPlayed": 9,
+    "matchesPlayed": 10,
     "matchesWon": 4,
     "matchesDrawn": 1,
-    "matchesLost": 4,
+    "matchesLost": 5,
     "goalsFor": 12,
-    "goalsAgainst": 9,
-    "goalDifference": 3,
+    "goalsAgainst": 10,
+    "goalDifference": 2,
     "team": {
       "id": "Huracan",
       "color": "#FF0000",
@@ -168,7 +189,28 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
+    "points": 13,
+    "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 9,
+    "goalDifference": -1,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
     "points": 12,
     "matchesPlayed": 9,
     "matchesWon": 3,
@@ -185,48 +227,6 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 12,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 14,
-    "goalsAgainst": 14,
-    "goalDifference": 0,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 12,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 8,
-    "goalsAgainst": 9,
-    "goalDifference": -1,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -321,8 +321,8 @@
     "matchesWon": 4,
     "matchesDrawn": 4,
     "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 11,
+    "goalsFor": 13,
+    "goalsAgainst": 12,
     "goalDifference": 1,
     "team": {
       "id": "Racing-Club",
@@ -489,8 +489,8 @@
     "matchesWon": 3,
     "matchesDrawn": 1,
     "matchesLost": 6,
-    "goalsFor": 12,
-    "goalsAgainst": 13,
+    "goalsFor": 13,
+    "goalsAgainst": 14,
     "goalDifference": -1,
     "team": {
       "id": "Boca",
@@ -674,6 +674,27 @@
   {
     "rank": 5,
     "points": 55,
+    "matchesPlayed": 37,
+    "matchesWon": 15,
+    "matchesDrawn": 10,
+    "matchesLost": 12,
+    "goalsFor": 46,
+    "goalsAgainst": 36,
+    "goalDifference": 10,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 55,
     "matchesPlayed": 36,
     "matchesWon": 13,
     "matchesDrawn": 16,
@@ -693,14 +714,35 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
+    "points": 55,
+    "matchesPlayed": 37,
+    "matchesWon": 13,
+    "matchesDrawn": 16,
+    "matchesLost": 8,
+    "goalsFor": 44,
+    "goalsAgainst": 38,
+    "goalDifference": 6,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 54,
     "matchesPlayed": 37,
     "matchesWon": 16,
     "matchesDrawn": 6,
     "matchesLost": 15,
-    "goalsFor": 45,
-    "goalsAgainst": 37,
+    "goalsFor": 46,
+    "goalsAgainst": 38,
     "goalDifference": 8,
     "team": {
       "id": "Boca",
@@ -714,7 +756,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 9,
     "points": 54,
     "matchesPlayed": 37,
     "matchesWon": 14,
@@ -735,28 +777,7 @@
     }
   },
   {
-    "rank": 8,
-    "points": 54,
-    "matchesPlayed": 36,
-    "matchesWon": 13,
-    "matchesDrawn": 15,
-    "matchesLost": 8,
-    "goalsFor": 44,
-    "goalsAgainst": 38,
-    "goalDifference": 6,
-    "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
+    "rank": 10,
     "points": 53,
     "matchesPlayed": 36,
     "matchesWon": 14,
@@ -777,35 +798,14 @@
     }
   },
   {
-    "rank": 10,
-    "points": 52,
-    "matchesPlayed": 36,
-    "matchesWon": 14,
-    "matchesDrawn": 10,
-    "matchesLost": 12,
-    "goalsFor": 45,
-    "goalsAgainst": 36,
-    "goalDifference": 9,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 11,
     "points": 52,
     "matchesPlayed": 37,
     "matchesWon": 13,
     "matchesDrawn": 13,
     "matchesLost": 11,
-    "goalsFor": 48,
-    "goalsAgainst": 46,
+    "goalsFor": 49,
+    "goalsAgainst": 47,
     "goalDifference": 2,
     "team": {
       "id": "Racing-Club",
@@ -904,6 +904,27 @@
   },
   {
     "rank": 2,
+    "points": 47,
+    "matchesPlayed": 37,
+    "matchesWon": 11,
+    "matchesDrawn": 14,
+    "matchesLost": 12,
+    "goalsFor": 33,
+    "goalsAgainst": 40,
+    "goalDifference": -7,
+    "team": {
+      "id": "Instituto",
+      "color": "#E0312B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Instituto",
+      "shortName": "IACC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 46,
     "matchesPlayed": 36,
     "matchesWon": 11,
@@ -920,27 +941,6 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 46,
-    "matchesPlayed": 36,
-    "matchesWon": 11,
-    "matchesDrawn": 13,
-    "matchesLost": 12,
-    "goalsFor": 33,
-    "goalsAgainst": 40,
-    "goalDifference": -7,
-    "team": {
-      "id": "Instituto",
-      "color": "#E0312B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Instituto",
-      "shortName": "IACC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
       "league": "LPF"
     }
   },
@@ -1136,13 +1136,13 @@
   {
     "rank": 13,
     "points": 38,
-    "matchesPlayed": 36,
+    "matchesPlayed": 37,
     "matchesWon": 10,
     "matchesDrawn": 8,
-    "matchesLost": 18,
+    "matchesLost": 19,
     "goalsFor": 30,
-    "goalsAgainst": 38,
-    "goalDifference": -8,
+    "goalsAgainst": 39,
+    "goalDifference": -9,
     "team": {
       "id": "Huracan",
       "color": "#FF0000",
