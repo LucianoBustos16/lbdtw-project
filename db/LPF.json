@@ -295,14 +295,14 @@
   },
   {
     "rank": 1,
-    "points": 20,
+    "points": 18,
     "matchesPlayed": 10,
-    "matchesWon": 5,
-    "matchesDrawn": 5,
+    "matchesWon": 4,
+    "matchesDrawn": 6,
     "matchesLost": 0,
     "goalsFor": 15,
-    "goalsAgainst": 7,
-    "goalDifference": 8,
+    "goalsAgainst": 8,
+    "goalDifference": 7,
     "team": {
       "id": "Belgrano",
       "color": "#3A9CD0",
@@ -358,6 +358,27 @@
   },
   {
     "rank": 4,
+    "points": 15,
+    "matchesPlayed": 10,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 10,
+    "goalDifference": -2,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 14,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -395,27 +416,6 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 14,
-    "matchesPlayed": 10,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 7,
-    "goalsAgainst": 10,
-    "goalDifference": -3,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
@@ -673,27 +673,6 @@
   },
   {
     "rank": 5,
-    "points": 56,
-    "matchesPlayed": 37,
-    "matchesWon": 15,
-    "matchesDrawn": 11,
-    "matchesLost": 11,
-    "goalsFor": 35,
-    "goalsAgainst": 33,
-    "goalDifference": 2,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
     "points": 55,
     "matchesPlayed": 36,
     "matchesWon": 13,
@@ -714,7 +693,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 6,
     "points": 55,
     "matchesPlayed": 37,
     "matchesWon": 13,
@@ -735,7 +714,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 7,
     "points": 54,
     "matchesPlayed": 37,
     "matchesWon": 16,
@@ -756,7 +735,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 54,
     "matchesPlayed": 37,
     "matchesWon": 14,
@@ -773,6 +752,27 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 54,
+    "matchesPlayed": 37,
+    "matchesWon": 14,
+    "matchesDrawn": 12,
+    "matchesLost": 11,
+    "goalsFor": 35,
+    "goalsAgainst": 34,
+    "goalDifference": 1,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
       "league": "LPF"
     }
   },
@@ -993,6 +993,27 @@
     "matchesWon": 11,
     "matchesDrawn": 11,
     "matchesLost": 15,
+    "goalsFor": 28,
+    "goalsAgainst": 40,
+    "goalDifference": -12,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 44,
+    "matchesPlayed": 37,
+    "matchesWon": 11,
+    "matchesDrawn": 11,
+    "matchesLost": 15,
     "goalsFor": 35,
     "goalsAgainst": 53,
     "goalDifference": -18,
@@ -1004,27 +1025,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 43,
-    "matchesPlayed": 37,
-    "matchesWon": 11,
-    "matchesDrawn": 10,
-    "matchesLost": 16,
-    "goalsFor": 27,
-    "goalsAgainst": 40,
-    "goalDifference": -13,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
