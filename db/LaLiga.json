@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 26,
+    "matchesPlayed": 11,
+    "matchesWon": 8,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 24,
+    "goalsAgainst": 13,
+    "goalDifference": 11,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
     "points": 25,
     "matchesPlayed": 10,
     "matchesWon": 8,
@@ -17,27 +38,6 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 25,
-    "matchesPlayed": 10,
-    "matchesWon": 8,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 24,
-    "goalsAgainst": 13,
-    "goalDifference": 11,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -358,10 +358,10 @@
   },
   {
     "rank": 18,
-    "points": 6,
-    "matchesPlayed": 10,
+    "points": 7,
+    "matchesPlayed": 11,
     "matchesWon": 1,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 6,
     "goalsFor": 10,
     "goalsAgainst": 18,
