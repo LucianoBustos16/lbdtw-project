@@ -190,6 +190,27 @@
   },
   {
     "rank": 10,
+    "points": 14,
+    "matchesPlayed": 11,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 5,
+    "goalsFor": 7,
+    "goalsAgainst": 9,
+    "goalDifference": -2,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
     "points": 13,
     "matchesPlayed": 10,
     "matchesWon": 4,
@@ -206,27 +227,6 @@
       "shortName": "OSA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 12,
-    "matchesPlayed": 11,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 6,
-    "goalsAgainst": 9,
-    "goalDifference": -3,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,14 +400,14 @@
   },
   {
     "rank": 20,
-    "points": 4,
+    "points": 3,
     "matchesPlayed": 11,
     "matchesWon": 0,
-    "matchesDrawn": 4,
-    "matchesLost": 7,
+    "matchesDrawn": 3,
+    "matchesLost": 8,
     "goalsFor": 13,
-    "goalsAgainst": 29,
-    "goalDifference": -16,
+    "goalsAgainst": 30,
+    "goalDifference": -17,
     "team": {
       "id": "Almeria",
       "color": "#e0040b",
