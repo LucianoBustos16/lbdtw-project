@@ -148,6 +148,27 @@
   },
   {
     "rank": 8,
+    "points": 15,
+    "matchesPlayed": 11,
+    "matchesWon": 3,
+    "matchesDrawn": 6,
+    "matchesLost": 2,
+    "goalsFor": 12,
+    "goalsAgainst": 14,
+    "goalDifference": -2,
+    "team": {
+      "id": "Betis",
+      "color": "#008835",
+      "colorSecondary": "#FFF",
+      "name": "Betis",
+      "shortName": "BET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
     "points": 14,
     "matchesPlayed": 10,
     "matchesWon": 4,
@@ -164,27 +185,6 @@
       "shortName": "VAL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 14,
-    "matchesPlayed": 10,
-    "matchesWon": 3,
-    "matchesDrawn": 5,
-    "matchesLost": 2,
-    "goalsFor": 12,
-    "goalsAgainst": 14,
-    "goalDifference": -2,
-    "team": {
-      "id": "Betis",
-      "color": "#008835",
-      "colorSecondary": "#FFF",
-      "name": "Betis",
-      "shortName": "BET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
       "league": "LaLiga"
     }
   },
@@ -211,10 +211,10 @@
   },
   {
     "rank": 11,
-    "points": 13,
-    "matchesPlayed": 10,
+    "points": 14,
+    "matchesPlayed": 11,
     "matchesWon": 4,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 5,
     "goalsFor": 11,
     "goalsAgainst": 14,
