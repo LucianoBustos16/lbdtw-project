@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 25,
+    "matchesPlayed": 10,
+    "matchesWon": 8,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 24,
+    "goalsAgainst": 8,
+    "goalDifference": 16,
+    "team": {
+      "id": "Atletico-Madrid",
+      "color": "#CB3524",
+      "colorSecondary": "#272E61",
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 4,
     "points": 24,
     "matchesPlayed": 11,
     "matchesWon": 7,
@@ -59,27 +80,6 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 23,
-    "matchesPlayed": 10,
-    "matchesWon": 7,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 23,
-    "goalsAgainst": 8,
-    "goalDifference": 15,
-    "team": {
-      "id": "Atletico-Madrid",
-      "color": "#CB3524",
-      "colorSecondary": "#272E61",
-      "name": "Atletico Madrid",
-      "shortName": "ATM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -295,27 +295,6 @@
   },
   {
     "rank": 15,
-    "points": 10,
-    "matchesPlayed": 11,
-    "matchesWon": 2,
-    "matchesDrawn": 4,
-    "matchesLost": 5,
-    "goalsFor": 8,
-    "goalsAgainst": 14,
-    "goalDifference": -6,
-    "team": {
-      "id": "Alaves",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Alaves",
-      "shortName": "ALV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
     "points": 9,
     "matchesPlayed": 11,
     "matchesWon": 1,
@@ -336,7 +315,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "points": 9,
     "matchesPlayed": 10,
     "matchesWon": 2,
@@ -353,6 +332,27 @@
       "shortName": "VIL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 9,
+    "matchesPlayed": 11,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 6,
+    "goalsFor": 8,
+    "goalsAgainst": 15,
+    "goalDifference": -7,
+    "team": {
+      "id": "Alaves",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Alaves",
+      "shortName": "ALV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
       "league": "LaLiga"
     }
   },
