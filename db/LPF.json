@@ -49,6 +49,27 @@
     "matchesDrawn": 2,
     "matchesLost": 4,
     "goalsFor": 14,
+    "goalsAgainst": 10,
+    "goalDifference": 4,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 17,
+    "matchesPlayed": 11,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 4,
+    "goalsFor": 14,
     "goalsAgainst": 12,
     "goalDifference": 2,
     "team": {
@@ -63,7 +84,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 17,
     "matchesPlayed": 11,
     "matchesWon": 5,
@@ -80,27 +101,6 @@
       "shortName": "VEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 16,
-    "matchesPlayed": 10,
-    "matchesWon": 5,
-    "matchesDrawn": 1,
-    "matchesLost": 4,
-    "goalsFor": 14,
-    "goalsAgainst": 10,
-    "goalDifference": 4,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
@@ -274,10 +274,10 @@
   },
   {
     "rank": 14,
-    "points": 10,
-    "matchesPlayed": 10,
+    "points": 11,
+    "matchesPlayed": 11,
     "matchesWon": 3,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 6,
     "goalsFor": 8,
     "goalsAgainst": 19,
@@ -358,10 +358,10 @@
   },
   {
     "rank": 4,
-    "points": 15,
-    "matchesPlayed": 10,
+    "points": 16,
+    "matchesPlayed": 11,
     "matchesWon": 4,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 3,
     "goalsFor": 11,
     "goalsAgainst": 13,
@@ -380,6 +380,27 @@
   {
     "rank": 5,
     "points": 15,
+    "matchesPlayed": 11,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 11,
+    "goalsAgainst": 8,
+    "goalDifference": 3,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 15,
     "matchesPlayed": 10,
     "matchesWon": 4,
     "matchesDrawn": 3,
@@ -395,27 +416,6 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 14,
-    "matchesPlayed": 10,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 11,
-    "goalsAgainst": 8,
-    "goalDifference": 3,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -862,10 +862,10 @@
   },
   {
     "rank": 14,
-    "points": 49,
-    "matchesPlayed": 37,
+    "points": 50,
+    "matchesPlayed": 38,
     "matchesWon": 12,
-    "matchesDrawn": 13,
+    "matchesDrawn": 14,
     "matchesLost": 12,
     "goalsFor": 35,
     "goalsAgainst": 32,
@@ -883,10 +883,10 @@
   },
   {
     "rank": 1,
-    "points": 49,
-    "matchesPlayed": 37,
+    "points": 50,
+    "matchesPlayed": 38,
     "matchesWon": 13,
-    "matchesDrawn": 10,
+    "matchesDrawn": 11,
     "matchesLost": 14,
     "goalsFor": 37,
     "goalsAgainst": 42,
@@ -967,10 +967,10 @@
   },
   {
     "rank": 5,
-    "points": 45,
-    "matchesPlayed": 37,
+    "points": 46,
+    "matchesPlayed": 38,
     "matchesWon": 11,
-    "matchesDrawn": 12,
+    "matchesDrawn": 13,
     "matchesLost": 14,
     "goalsFor": 33,
     "goalsAgainst": 49,
@@ -1095,6 +1095,27 @@
     "rank": 11,
     "points": 42,
     "matchesPlayed": 38,
+    "matchesWon": 11,
+    "matchesDrawn": 9,
+    "matchesLost": 18,
+    "goalsFor": 32,
+    "goalsAgainst": 39,
+    "goalDifference": -7,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 42,
+    "matchesPlayed": 38,
     "matchesWon": 9,
     "matchesDrawn": 15,
     "matchesLost": 14,
@@ -1109,27 +1130,6 @@
       "shortName": "COL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 41,
-    "matchesPlayed": 37,
-    "matchesWon": 11,
-    "matchesDrawn": 8,
-    "matchesLost": 18,
-    "goalsFor": 32,
-    "goalsAgainst": 39,
-    "goalDifference": -7,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
