@@ -342,9 +342,9 @@
     "matchesWon": 5,
     "matchesDrawn": 3,
     "matchesLost": 3,
-    "goalsFor": 9,
+    "goalsFor": 10,
     "goalsAgainst": 10,
-    "goalDifference": -1,
+    "goalDifference": 0,
     "team": {
       "id": "Central-Cordoba",
       "color": "#000",
@@ -447,27 +447,6 @@
     "matchesWon": 2,
     "matchesDrawn": 6,
     "matchesLost": 3,
-    "goalsFor": 8,
-    "goalsAgainst": 8,
-    "goalDifference": 0,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 12,
-    "matchesPlayed": 11,
-    "matchesWon": 2,
-    "matchesDrawn": 6,
-    "matchesLost": 3,
     "goalsFor": 7,
     "goalsAgainst": 7,
     "goalDifference": 0,
@@ -479,6 +458,27 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 12,
+    "matchesPlayed": 11,
+    "matchesWon": 2,
+    "matchesDrawn": 6,
+    "matchesLost": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 9,
+    "goalDifference": -1,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
@@ -951,9 +951,9 @@
     "matchesWon": 12,
     "matchesDrawn": 11,
     "matchesLost": 15,
-    "goalsFor": 29,
+    "goalsFor": 30,
     "goalsAgainst": 40,
-    "goalDifference": -11,
+    "goalDifference": -10,
     "team": {
       "id": "Central-Cordoba",
       "color": "#000",
@@ -1095,27 +1095,6 @@
     "rank": 11,
     "points": 42,
     "matchesPlayed": 38,
-    "matchesWon": 8,
-    "matchesDrawn": 18,
-    "matchesLost": 12,
-    "goalsFor": 27,
-    "goalsAgainst": 33,
-    "goalDifference": -6,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 42,
-    "matchesPlayed": 38,
     "matchesWon": 11,
     "matchesDrawn": 9,
     "matchesLost": 18,
@@ -1130,6 +1109,27 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 42,
+    "matchesPlayed": 38,
+    "matchesWon": 8,
+    "matchesDrawn": 18,
+    "matchesLost": 12,
+    "goalsFor": 27,
+    "goalsAgainst": 34,
+    "goalDifference": -7,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
