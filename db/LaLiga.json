@@ -43,14 +43,14 @@
   },
   {
     "rank": 3,
-    "points": 26,
+    "points": 25,
     "matchesPlayed": 11,
     "matchesWon": 8,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
     "goalsFor": 25,
-    "goalsAgainst": 9,
-    "goalDifference": 16,
+    "goalsAgainst": 10,
+    "goalDifference": 15,
     "team": {
       "id": "Atletico-Madrid",
       "color": "#CB3524",
@@ -169,6 +169,27 @@
   },
   {
     "rank": 9,
+    "points": 17,
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 5,
+    "goalsFor": 9,
+    "goalsAgainst": 10,
+    "goalDifference": -1,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 10,
     "points": 15,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -185,27 +206,6 @@
       "shortName": "VAL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 15,
-    "matchesPlayed": 12,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 8,
-    "goalsAgainst": 10,
-    "goalDifference": -2,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
