@@ -48,9 +48,9 @@
     "matchesWon": 8,
     "matchesDrawn": 1,
     "matchesLost": 2,
-    "goalsFor": 25,
+    "goalsFor": 26,
     "goalsAgainst": 11,
-    "goalDifference": 14,
+    "goalDifference": 15,
     "team": {
       "id": "Atletico-Madrid",
       "color": "#CB3524",
@@ -128,27 +128,6 @@
   {
     "rank": 7,
     "points": 17,
-    "matchesPlayed": 12,
-    "matchesWon": 5,
-    "matchesDrawn": 2,
-    "matchesLost": 5,
-    "goalsFor": 10,
-    "goalsAgainst": 10,
-    "goalDifference": 0,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 17,
     "matchesPlayed": 11,
     "matchesWon": 4,
     "matchesDrawn": 5,
@@ -168,7 +147,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 17,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -185,6 +164,27 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 17,
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 5,
+    "goalsFor": 10,
+    "goalsAgainst": 11,
+    "goalDifference": -1,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
