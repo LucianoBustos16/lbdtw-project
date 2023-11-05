@@ -295,6 +295,27 @@
   },
   {
     "rank": 1,
+    "points": 19,
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchesDrawn": 4,
+    "matchesLost": 3,
+    "goalsFor": 10,
+    "goalsAgainst": 10,
+    "goalDifference": 0,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
     "points": 18,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 18,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -336,32 +357,11 @@
     }
   },
   {
-    "rank": 3,
-    "points": 18,
-    "matchesPlayed": 11,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 3,
-    "goalsFor": 10,
-    "goalsAgainst": 10,
-    "goalDifference": 0,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 4,
-    "points": 17,
-    "matchesPlayed": 11,
+    "points": 18,
+    "matchesPlayed": 12,
     "matchesWon": 4,
-    "matchesDrawn": 5,
+    "matchesDrawn": 6,
     "matchesLost": 2,
     "goalsFor": 15,
     "goalsAgainst": 14,
@@ -779,6 +779,27 @@
   {
     "rank": 10,
     "points": 54,
+    "matchesPlayed": 39,
+    "matchesWon": 13,
+    "matchesDrawn": 15,
+    "matchesLost": 11,
+    "goalsFor": 51,
+    "goalsAgainst": 49,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 54,
     "matchesPlayed": 38,
     "matchesWon": 14,
     "matchesDrawn": 12,
@@ -794,27 +815,6 @@
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 53,
-    "matchesPlayed": 38,
-    "matchesWon": 13,
-    "matchesDrawn": 14,
-    "matchesLost": 11,
-    "goalsFor": 51,
-    "goalsAgainst": 49,
-    "goalDifference": 2,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
@@ -946,10 +946,10 @@
   },
   {
     "rank": 4,
-    "points": 47,
-    "matchesPlayed": 38,
+    "points": 48,
+    "matchesPlayed": 39,
     "matchesWon": 12,
-    "matchesDrawn": 11,
+    "matchesDrawn": 12,
     "matchesLost": 15,
     "goalsFor": 30,
     "goalsAgainst": 40,
