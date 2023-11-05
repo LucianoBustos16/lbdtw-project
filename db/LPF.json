@@ -85,6 +85,27 @@
   },
   {
     "rank": 5,
+    "points": 18,
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 13,
+    "goalsAgainst": 12,
+    "goalDifference": 1,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 17,
     "matchesPlayed": 11,
     "matchesWon": 5,
@@ -105,49 +126,7 @@
     }
   },
   {
-    "rank": 6,
-    "points": 17,
-    "matchesPlayed": 12,
-    "matchesWon": 5,
-    "matchesDrawn": 2,
-    "matchesLost": 5,
-    "goalsFor": 12,
-    "goalsAgainst": 12,
-    "goalDifference": 0,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
     "rank": 7,
-    "points": 16,
-    "matchesPlayed": 12,
-    "matchesWon": 4,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
-    "goalsFor": 12,
-    "goalsAgainst": 9,
-    "goalDifference": 3,
-    "team": {
-      "id": "Talleres",
-      "color": "#00184C",
-      "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
     "points": 16,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -168,7 +147,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 16,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -189,7 +168,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 15,
     "matchesPlayed": 12,
     "matchesWon": 4,
@@ -206,6 +185,27 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 14,
+    "matchesPlayed": 12,
+    "matchesWon": 3,
+    "matchesDrawn": 5,
+    "matchesLost": 4,
+    "goalsFor": 12,
+    "goalsAgainst": 10,
+    "goalDifference": 2,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
       "league": "LPF"
     }
   },
@@ -610,14 +610,14 @@
   },
   {
     "rank": 2,
-    "points": 66,
+    "points": 64,
     "matchesPlayed": 39,
-    "matchesWon": 18,
-    "matchesDrawn": 12,
+    "matchesWon": 17,
+    "matchesDrawn": 13,
     "matchesLost": 9,
     "goalsFor": 54,
-    "goalsAgainst": 32,
-    "goalDifference": 22,
+    "goalsAgainst": 33,
+    "goalDifference": 21,
     "team": {
       "id": "Talleres",
       "color": "#00184C",
@@ -1011,6 +1011,27 @@
     "rank": 7,
     "points": 45,
     "matchesPlayed": 39,
+    "matchesWon": 10,
+    "matchesDrawn": 15,
+    "matchesLost": 14,
+    "goalsFor": 37,
+    "goalsAgainst": 39,
+    "goalDifference": -2,
+    "team": {
+      "id": "Velez",
+      "color": "#0063A8",
+      "colorSecondary": "#FFFFFF",
+      "name": "Velez",
+      "shortName": "VEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 45,
+    "matchesPlayed": 39,
     "matchesWon": 12,
     "matchesDrawn": 9,
     "matchesLost": 18,
@@ -1029,7 +1050,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 45,
     "matchesPlayed": 39,
     "matchesWon": 11,
@@ -1046,27 +1067,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 44,
-    "matchesPlayed": 39,
-    "matchesWon": 10,
-    "matchesDrawn": 14,
-    "matchesLost": 15,
-    "goalsFor": 36,
-    "goalsAgainst": 39,
-    "goalDifference": -3,
-    "team": {
-      "id": "Velez",
-      "color": "#0063A8",
-      "colorSecondary": "#FFFFFF",
-      "name": "Velez",
-      "shortName": "VEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
       "league": "LPF"
     }
   },
