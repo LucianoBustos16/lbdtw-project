@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 22,
+    "matchesPlayed": 12,
+    "matchesWon": 6,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 13,
+    "goalsAgainst": 8,
+    "goalDifference": 5,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 20,
     "matchesPlayed": 12,
     "matchesWon": 6,
@@ -38,27 +59,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 19,
-    "matchesPlayed": 12,
-    "matchesWon": 5,
-    "matchesDrawn": 4,
-    "matchesLost": 3,
-    "goalsFor": 11,
-    "goalsAgainst": 8,
-    "goalDifference": 3,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
@@ -127,27 +127,6 @@
   },
   {
     "rank": 7,
-    "points": 17,
-    "matchesPlayed": 12,
-    "matchesWon": 4,
-    "matchesDrawn": 5,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 7,
-    "goalDifference": 0,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
     "points": 16,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -168,7 +147,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 16,
     "matchesPlayed": 11,
     "matchesWon": 4,
@@ -189,7 +168,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 15,
     "matchesPlayed": 12,
     "matchesWon": 4,
@@ -206,6 +185,27 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 14,
+    "matchesPlayed": 12,
+    "matchesWon": 3,
+    "matchesDrawn": 5,
+    "matchesLost": 4,
+    "goalsFor": 7,
+    "goalsAgainst": 9,
+    "goalDifference": -2,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
@@ -799,27 +799,6 @@
   },
   {
     "rank": 11,
-    "points": 54,
-    "matchesPlayed": 39,
-    "matchesWon": 13,
-    "matchesDrawn": 15,
-    "matchesLost": 11,
-    "goalsFor": 32,
-    "goalsAgainst": 34,
-    "goalDifference": -2,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
     "points": 53,
     "matchesPlayed": 38,
     "matchesWon": 13,
@@ -840,7 +819,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 52,
     "matchesPlayed": 39,
     "matchesWon": 14,
@@ -857,6 +836,27 @@
       "shortName": "ARGJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 51,
+    "matchesPlayed": 39,
+    "matchesWon": 12,
+    "matchesDrawn": 15,
+    "matchesLost": 12,
+    "goalsFor": 32,
+    "goalsAgainst": 36,
+    "goalDifference": -4,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
@@ -884,6 +884,27 @@
   {
     "rank": 1,
     "points": 50,
+    "matchesPlayed": 39,
+    "matchesWon": 12,
+    "matchesDrawn": 14,
+    "matchesLost": 13,
+    "goalsFor": 36,
+    "goalsAgainst": 40,
+    "goalDifference": -4,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 50,
     "matchesPlayed": 38,
     "matchesWon": 13,
     "matchesDrawn": 11,
@@ -903,7 +924,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 50,
     "matchesPlayed": 39,
     "matchesWon": 12,
@@ -920,27 +941,6 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 47,
-    "matchesPlayed": 39,
-    "matchesWon": 11,
-    "matchesDrawn": 14,
-    "matchesLost": 14,
-    "goalsFor": 34,
-    "goalsAgainst": 40,
-    "goalDifference": -6,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
