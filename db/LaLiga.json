@@ -316,6 +316,27 @@
   },
   {
     "rank": 16,
+    "points": 10,
+    "matchesPlayed": 12,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 6,
+    "goalsFor": 9,
+    "goalsAgainst": 16,
+    "goalDifference": -7,
+    "team": {
+      "id": "Alaves",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Alaves",
+      "shortName": "ALV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
     "points": 9,
     "matchesPlayed": 12,
     "matchesWon": 1,
@@ -332,27 +353,6 @@
       "shortName": "MALL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 9,
-    "matchesPlayed": 11,
-    "matchesWon": 2,
-    "matchesDrawn": 3,
-    "matchesLost": 6,
-    "goalsFor": 9,
-    "goalsAgainst": 16,
-    "goalDifference": -7,
-    "team": {
-      "id": "Alaves",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Alaves",
-      "shortName": "ALV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,10 +400,10 @@
   },
   {
     "rank": 20,
-    "points": 3,
-    "matchesPlayed": 11,
+    "points": 4,
+    "matchesPlayed": 12,
     "matchesWon": 0,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 8,
     "goalsFor": 14,
     "goalsAgainst": 31,
