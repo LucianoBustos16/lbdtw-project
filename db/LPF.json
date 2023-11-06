@@ -380,27 +380,6 @@
   {
     "rank": 5,
     "points": 16,
-    "matchesPlayed": 12,
-    "matchesWon": 4,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
-    "goalsFor": 11,
-    "goalsAgainst": 8,
-    "goalDifference": 3,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 16,
     "matchesPlayed": 11,
     "matchesWon": 4,
     "matchesDrawn": 4,
@@ -420,7 +399,49 @@
     }
   },
   {
+    "rank": 6,
+    "points": 15,
+    "matchesPlayed": 12,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 5,
+    "goalsFor": 11,
+    "goalsAgainst": 9,
+    "goalDifference": 2,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
     "rank": 7,
+    "points": 15,
+    "matchesPlayed": 12,
+    "matchesWon": 3,
+    "matchesDrawn": 6,
+    "matchesLost": 3,
+    "goalsFor": 8,
+    "goalsAgainst": 7,
+    "goalDifference": 1,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 14,
     "matchesPlayed": 12,
     "matchesWon": 3,
@@ -437,27 +458,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 13,
-    "matchesPlayed": 12,
-    "matchesWon": 2,
-    "matchesDrawn": 7,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 7,
-    "goalDifference": 0,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
@@ -846,27 +846,6 @@
     "matchesWon": 12,
     "matchesDrawn": 15,
     "matchesLost": 12,
-    "goalsFor": 35,
-    "goalsAgainst": 32,
-    "goalDifference": 3,
-    "team": {
-      "id": "Newells",
-      "color": "#ED1C24",
-      "colorSecondary": "#000000",
-      "name": "Newells",
-      "shortName": "NOB",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 51,
-    "matchesPlayed": 39,
-    "matchesWon": 12,
-    "matchesDrawn": 15,
-    "matchesLost": 12,
     "goalsFor": 32,
     "goalsAgainst": 36,
     "goalDifference": -4,
@@ -878,6 +857,27 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 50,
+    "matchesPlayed": 39,
+    "matchesWon": 12,
+    "matchesDrawn": 14,
+    "matchesLost": 13,
+    "goalsFor": 35,
+    "goalsAgainst": 33,
+    "goalDifference": 2,
+    "team": {
+      "id": "Newells",
+      "color": "#ED1C24",
+      "colorSecondary": "#000000",
+      "name": "Newells",
+      "shortName": "NOB",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
       "league": "LPF"
     }
   },
@@ -1032,6 +1032,27 @@
     "rank": 8,
     "points": 45,
     "matchesPlayed": 39,
+    "matchesWon": 10,
+    "matchesDrawn": 15,
+    "matchesLost": 14,
+    "goalsFor": 31,
+    "goalsAgainst": 33,
+    "goalDifference": -2,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 45,
+    "matchesPlayed": 39,
     "matchesWon": 12,
     "matchesDrawn": 9,
     "matchesLost": 18,
@@ -1050,7 +1071,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 45,
     "matchesPlayed": 39,
     "matchesWon": 11,
@@ -1067,27 +1088,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 43,
-    "matchesPlayed": 39,
-    "matchesWon": 9,
-    "matchesDrawn": 16,
-    "matchesLost": 14,
-    "goalsFor": 30,
-    "goalsAgainst": 33,
-    "goalDifference": -3,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
