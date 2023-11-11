@@ -27,9 +27,9 @@
     "matchesWon": 10,
     "matchesDrawn": 2,
     "matchesLost": 1,
-    "goalsFor": 25,
+    "goalsFor": 27,
     "goalsAgainst": 8,
-    "goalDifference": 17,
+    "goalDifference": 19,
     "team": {
       "id": "Real-Madrid",
       "color": "#004996",
@@ -153,27 +153,6 @@
     "matchesWon": 5,
     "matchesDrawn": 3,
     "matchesLost": 5,
-    "goalsFor": 15,
-    "goalsAgainst": 15,
-    "goalDifference": 0,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 18,
-    "matchesPlayed": 13,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
     "goalsFor": 11,
     "goalsAgainst": 12,
     "goalDifference": -1,
@@ -189,7 +168,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 9,
     "points": 18,
     "matchesPlayed": 13,
     "matchesWon": 4,
@@ -206,6 +185,27 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 18,
+    "matchesPlayed": 13,
+    "matchesWon": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 5,
+    "goalsFor": 15,
+    "goalsAgainst": 17,
+    "goalDifference": -2,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
       "league": "LaLiga"
     }
   },
