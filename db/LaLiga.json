@@ -107,6 +107,27 @@
   {
     "rank": 6,
     "points": 20,
+    "matchesPlayed": 13,
+    "matchesWon": 5,
+    "matchesDrawn": 5,
+    "matchesLost": 3,
+    "goalsFor": 20,
+    "goalsAgainst": 15,
+    "goalDifference": 5,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 20,
     "matchesPlayed": 12,
     "matchesWon": 5,
     "matchesDrawn": 5,
@@ -122,27 +143,6 @@
       "shortName": "BET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 19,
-    "matchesPlayed": 12,
-    "matchesWon": 5,
-    "matchesDrawn": 4,
-    "matchesLost": 3,
-    "goalsFor": 20,
-    "goalsAgainst": 15,
-    "goalDifference": 5,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,10 +400,10 @@
   },
   {
     "rank": 20,
-    "points": 3,
-    "matchesPlayed": 12,
+    "points": 4,
+    "matchesPlayed": 13,
     "matchesWon": 0,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 9,
     "goalsFor": 14,
     "goalsAgainst": 32,
