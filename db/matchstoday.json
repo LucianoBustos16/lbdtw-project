@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "16:00  ",
+        "hour": "01' ",
         "teams": [
           {
             "localImgId": "3.png",
@@ -17,7 +17,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "21.png",
@@ -31,7 +31,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -220,7 +220,7 @@
         ]
       },
       {
-        "hour": "60' ",
+        "hour": "70' ",
         "teams": [
           {
             "localImgId": "677.png",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "hour": "90+4' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "557.png",
@@ -356,7 +356,7 @@
         ]
       },
       {
-        "hour": "58' ",
+        "hour": "68' ",
         "teams": [
           {
             "localImgId": "513.png",
@@ -389,7 +389,7 @@
         ]
       },
       {
-        "hour": "64' ",
+        "hour": "74' ",
         "teams": [
           {
             "localImgId": "511.png",
@@ -403,12 +403,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
               "league": "LaLiga"
             },
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "682.png",
             "name": "Las Palmas",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
@@ -511,7 +511,7 @@
         ]
       },
       {
-        "hour": "63' ",
+        "hour": "73' ",
         "teams": [
           {
             "localImgId": "1266.png",
@@ -546,7 +546,7 @@
         ]
       },
       {
-        "hour": "88' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "101.png",
@@ -627,70 +627,20 @@
     ]
   },
   {
-    "competition": "Eredivisie",
-    "matches": [
-      {
-        "hour": "49' ",
-        "teams": [
-          {
-            "localImgId": "1324.png",
-            "name": "RKC Waalwijk",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "1287.png",
-            "name": "Go Ahead",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "16:00  ",
-        "teams": [
-          {
-            "localImgId": "1072.png",
-            "name": "Twente",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "1610.png",
-            "name": "NEC",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localImgId": "1325.png",
-            "name": "Vitesse",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "1318.png",
-            "name": "Heerenveen",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Brasileirao",
     "matches": [
       {
-        "hour": "16:00  ",
+        "hour": "01' ",
         "teams": [
           {
             "localImgId": "588.png",
             "name": "Coritiba",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "582.png",
             "name": "Cruzeiro",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -770,156 +720,6 @@
           {
             "visitantImgId": "755.png",
             "name": "Cerro (U)",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Liga Paraguay",
-    "matches": [
-      {
-        "hour": "18:30  ",
-        "teams": [
-          {
-            "localImgId": "1702.png",
-            "name": "Sp. Ameliano",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "575.png",
-            "name": "Olimpia",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "20:30  ",
-        "teams": [
-          {
-            "localImgId": "1700.png",
-            "name": "Gral Caballero",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "1341.png",
-            "name": "Guaire�a",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Liga Chile",
-    "matches": [
-      {
-        "hour": "E. T. ",
-        "teams": [
-          {
-            "localImgId": "874.png",
-            "name": "U. Catolica",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "721.png",
-            "name": "Univ. de Chile",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "18:30  ",
-        "teams": [
-          {
-            "localImgId": "1336.png",
-            "name": "Cobresal",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "747.png",
-            "name": "Audax Italiano",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:00  ",
-        "teams": [
-          {
-            "localImgId": "1692.png",
-            "name": "�ublense",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "877.png",
-            "name": "Palestino",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Liga Mexico",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "907.png",
-            "name": "Tijuana",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "902.png",
-            "name": "Pachuca",
-            "visitantScore": "3"
-          }
-        ]
-      },
-      {
-        "hour": "20:00  ",
-        "teams": [
-          {
-            "localImgId": "941.png",
-            "name": "Atl. San Luis",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "905.png",
-            "name": "Santos Laguna",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "20:00  ",
-        "teams": [
-          {
-            "localImgId": "904.png",
-            "name": "Queretaro",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "899.png",
-            "name": "Monterrey",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "22:00  ",
-        "teams": [
-          {
-            "localImgId": "909.png",
-            "name": "Pumas UNAM",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "844.png",
-            "name": "Guadalajara",
             "visitantScore": ""
           }
         ]
