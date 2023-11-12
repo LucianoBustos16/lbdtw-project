@@ -64,14 +64,14 @@
   },
   {
     "rank": 4,
-    "points": 25,
+    "points": 26,
     "matchesPlayed": 12,
     "matchesWon": 8,
-    "matchesDrawn": 1,
-    "matchesLost": 3,
-    "goalsFor": 26,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 27,
     "goalsAgainst": 12,
-    "goalDifference": 14,
+    "goalDifference": 15,
     "team": {
       "id": "Atletico-Madrid",
       "color": "#CB3524",
@@ -232,27 +232,6 @@
   },
   {
     "rank": 12,
-    "points": 15,
-    "matchesPlayed": 13,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 6,
-    "goalsFor": 18,
-    "goalsAgainst": 21,
-    "goalDifference": -3,
-    "team": {
-      "id": "Villarreal",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Villarreal",
-      "shortName": "VIL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
     "points": 14,
     "matchesPlayed": 13,
     "matchesWon": 4,
@@ -269,6 +248,27 @@
       "shortName": "OSA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 13,
+    "matchesPlayed": 13,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 6,
+    "goalsFor": 18,
+    "goalsAgainst": 22,
+    "goalDifference": -4,
+    "team": {
+      "id": "Villarreal",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Villarreal",
+      "shortName": "VIL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
       "league": "LaLiga"
     }
   },
