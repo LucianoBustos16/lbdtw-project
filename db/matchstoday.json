@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "68' ",
+        "hour": "89' ",
         "teams": [
           {
             "localImgId": "29.png",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "hour": "54' ",
+        "hour": "75' ",
         "teams": [
           {
             "localImgId": "7.png",
@@ -50,7 +50,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
               "league": "LPF"
             },
-            "localScore": "2"
+            "localScore": "3"
           },
           {
             "visitantImgId": "52.png",
@@ -303,194 +303,10 @@
     ]
   },
   {
-    "competition": "Serie A",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "560.png",
-            "name": "Napoli",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "659.png",
-            "name": "Empoli",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "554.png",
-            "name": "Fiorentina",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "550.png",
-            "name": "Bologna",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "568.png",
-            "name": "Udinese",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "549.png",
-            "name": "Atalanta",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "558.png",
-            "name": "Lazio",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "564.png",
-            "name": "Roma",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "16:45  ",
-        "teams": [
-          {
-            "localImgId": "556.png",
-            "name": "Inter",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "680.png",
-            "name": "Frosinone",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "La Liga",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "528.png",
-            "name": {
-              "id": "Barcelona",
-              "color": "#004B95",
-              "colorSecondary": "#A4234B",
-              "name": "Barcelona",
-              "shortName": "BAR",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-              "league": "LaLiga"
-            },
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "689.png",
-            "name": {
-              "id": "Alaves",
-              "color": "#002246",
-              "colorSecondary": "#ffe715",
-              "name": "Alaves",
-              "shortName": "ALV",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-              "league": "LaLiga"
-            },
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "69' ",
-        "teams": [
-          {
-            "localImgId": "525.png",
-            "name": {
-              "id": "Sevilla",
-              "color": "#CD3529",
-              "colorSecondary": "#FFF",
-              "name": "Sevilla",
-              "shortName": "SEV",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-              "league": "LaLiga"
-            },
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "517.png",
-            "name": {
-              "id": "Betis",
-              "color": "#008835",
-              "colorSecondary": "#FFF",
-              "name": "Betis",
-              "shortName": "BET",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-              "league": "LaLiga"
-            },
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localImgId": "510.png",
-            "name": {
-              "id": "Atletico-Madrid",
-              "color": "#CB3524",
-              "colorSecondary": "#272E61",
-              "name": "Atletico Madrid",
-              "shortName": "ATM",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-              "league": "LaLiga"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "624.png",
-            "name": {
-              "id": "Villarreal",
-              "color": "#002246",
-              "colorSecondary": "#ffe715",
-              "name": "Villarreal",
-              "shortName": "VIL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
-              "league": "LaLiga"
-            },
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Federal A",
     "matches": [
       {
-        "hour": "29' ",
+        "hour": "E. T. ",
         "teams": [
           {
             "localImgId": "1567.png",
@@ -500,22 +316,22 @@
           {
             "visitantImgId": "1710.png",
             "name": "Argentino (MM)",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "16:00  ",
+        "hour": "16' ",
         "teams": [
           {
             "localImgId": "53.png",
             "name": "Gimnasia (S)",
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "203.png",
             "name": "Villa Mitre (BB)",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -570,7 +386,7 @@
         ]
       },
       {
-        "hour": "23' ",
+        "hour": "44' ",
         "teams": [
           {
             "localImgId": "65.png",
