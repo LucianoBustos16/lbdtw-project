@@ -66,6 +66,27 @@
     "rank": 4,
     "points": 20,
     "matchesPlayed": 13,
+    "matchesWon": 6,
+    "matchesDrawn": 2,
+    "matchesLost": 5,
+    "goalsFor": 17,
+    "goalsAgainst": 14,
+    "goalDifference": 3,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 20,
+    "matchesPlayed": 13,
     "matchesWon": 5,
     "matchesDrawn": 5,
     "matchesLost": 3,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 19,
     "matchesPlayed": 12,
     "matchesWon": 5,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 19,
     "matchesPlayed": 13,
     "matchesWon": 5,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 18,
     "matchesPlayed": 12,
     "matchesWon": 4,
@@ -143,27 +164,6 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 18,
-    "matchesPlayed": 13,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 15,
-    "goalsAgainst": 14,
-    "goalDifference": 1,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
@@ -192,27 +192,6 @@
     "rank": 10,
     "points": 15,
     "matchesPlayed": 13,
-    "matchesWon": 3,
-    "matchesDrawn": 6,
-    "matchesLost": 4,
-    "goalsFor": 12,
-    "goalsAgainst": 10,
-    "goalDifference": 2,
-    "team": {
-      "id": "Talleres",
-      "color": "#00184C",
-      "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 15,
-    "matchesPlayed": 13,
     "matchesWon": 4,
     "matchesDrawn": 3,
     "matchesLost": 6,
@@ -227,6 +206,27 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 14,
+    "matchesPlayed": 13,
+    "matchesWon": 3,
+    "matchesDrawn": 5,
+    "matchesLost": 5,
+    "goalsFor": 12,
+    "goalsAgainst": 12,
+    "goalDifference": 0,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
       "league": "LPF"
     }
   },
@@ -610,14 +610,14 @@
   },
   {
     "rank": 2,
-    "points": 65,
+    "points": 64,
     "matchesPlayed": 40,
     "matchesWon": 17,
-    "matchesDrawn": 14,
-    "matchesLost": 9,
+    "matchesDrawn": 13,
+    "matchesLost": 10,
     "goalsFor": 54,
-    "goalsAgainst": 33,
-    "goalDifference": 21,
+    "goalsAgainst": 35,
+    "goalDifference": 19,
     "team": {
       "id": "Talleres",
       "color": "#00184C",
@@ -1095,6 +1095,27 @@
     "rank": 11,
     "points": 45,
     "matchesPlayed": 40,
+    "matchesWon": 10,
+    "matchesDrawn": 15,
+    "matchesLost": 15,
+    "goalsFor": 37,
+    "goalsAgainst": 47,
+    "goalDifference": -10,
+    "team": {
+      "id": "Colon",
+      "color": "#C80000",
+      "colorSecondary": "#000",
+      "name": "Colon",
+      "shortName": "COL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 45,
+    "matchesPlayed": 40,
     "matchesWon": 11,
     "matchesDrawn": 12,
     "matchesLost": 17,
@@ -1113,7 +1134,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 43,
     "matchesPlayed": 39,
     "matchesWon": 8,
@@ -1130,27 +1151,6 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 43,
-    "matchesPlayed": 40,
-    "matchesWon": 9,
-    "matchesDrawn": 16,
-    "matchesLost": 15,
-    "goalsFor": 35,
-    "goalsAgainst": 47,
-    "goalDifference": -12,
-    "team": {
-      "id": "Colon",
-      "color": "#C80000",
-      "colorSecondary": "#000",
-      "name": "Colon",
-      "shortName": "COL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
       "league": "LPF"
     }
   },
