@@ -321,6 +321,27 @@
     "matchesWon": 5,
     "matchesDrawn": 6,
     "matchesLost": 2,
+    "goalsFor": 19,
+    "goalsAgainst": 14,
+    "goalDifference": 5,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 21,
+    "matchesPlayed": 13,
+    "matchesWon": 5,
+    "matchesDrawn": 6,
+    "matchesLost": 2,
     "goalsFor": 18,
     "goalsAgainst": 15,
     "goalDifference": 3,
@@ -332,27 +353,6 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 21,
-    "matchesPlayed": 13,
-    "matchesWon": 5,
-    "matchesDrawn": 6,
-    "matchesLost": 2,
-    "goalsFor": 17,
-    "goalsAgainst": 14,
-    "goalDifference": 3,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
       "league": "LPF"
     }
   },
@@ -532,8 +532,8 @@
     "matchesDrawn": 7,
     "matchesLost": 4,
     "goalsFor": 9,
-    "goalsAgainst": 11,
-    "goalDifference": -2,
+    "goalsAgainst": 13,
+    "goalDifference": -4,
     "team": {
       "id": "Union",
       "color": "#DA251D",
@@ -783,9 +783,9 @@
     "matchesWon": 15,
     "matchesDrawn": 12,
     "matchesLost": 13,
-    "goalsFor": 37,
+    "goalsFor": 39,
     "goalsAgainst": 40,
-    "goalDifference": -3,
+    "goalDifference": -1,
     "team": {
       "id": "Belgrano",
       "color": "#3A9CD0",
@@ -1141,8 +1141,8 @@
     "matchesDrawn": 19,
     "matchesLost": 13,
     "goalsFor": 28,
-    "goalsAgainst": 36,
-    "goalDifference": -8,
+    "goalsAgainst": 38,
+    "goalDifference": -10,
     "team": {
       "id": "Union",
       "color": "#DA251D",
