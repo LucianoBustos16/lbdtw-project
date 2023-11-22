@@ -1,209 +1,130 @@
 [
   {
-    "competition": "Eliminatorias Conmebol",
+    "competition": "Copa Argentina",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "21:10  ",
         "teams": [
           {
-            "localImgId": "paraguay.gif",
-            "name": "Paraguay",
-            "localScore": "0"
+            "localImgId": "6.png",
+            "name": {
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "colombia.gif",
-            "name": "Colombia",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "uruguay.gif",
-            "name": "Uruguay",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "bolivia.gif",
-            "name": "Bolivia",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "ecuador.gif",
-            "name": "Ecuador",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "chile.gif",
-            "name": "Chile",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "brasil.gif",
-            "name": "Brasil",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "argentina.gif",
-            "name": "Argentina",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "90+3' ",
-        "teams": [
-          {
-            "localImgId": "peru.gif",
-            "name": "Peru",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "venezuela.gif",
-            "name": "Venezuela",
-            "visitantScore": "1"
+            "visitantImgId": "8.png",
+            "name": {
+              "id": "Estudiantes",
+              "color": "#E41815",
+              "colorSecondary": "#FFF",
+              "name": "Estudiantes (LP)",
+              "shortName": "EST",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Elim. Eurocopa",
+    "competition": "Primera Nacional",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "grecia.gif",
-            "name": "Grecia",
-            "localScore": "2"
+            "localImgId": "154.png",
+            "name": "Estudiantes (RC)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "francia.gif",
-            "name": "Francia",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "gibraltar.gif",
-            "name": "Gibraltar",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "paisesbajos.gif",
-            "name": "Paises Bajos",
-            "visitantScore": "6"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "croacia.gif",
-            "name": "Croacia",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "armenia.gif",
-            "name": "Armenia",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "gales.gif",
-            "name": "Gales",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "turquia.gif",
-            "name": "Turquia",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "rumania.gif",
-            "name": "Rumania",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "suiza.gif",
-            "name": "Suiza",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "andorra.gif",
-            "name": "Andorra",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "israel.gif",
-            "name": "Israel",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "kosovo.gif",
-            "name": "Kosovo",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "bielorrusia.gif",
-            "name": "Bielorrusia",
-            "visitantScore": "1"
+            "visitantImgId": "89.png",
+            "name": "Dep. Maipu",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Amistosos Internacionales",
+    "competition": "Reserva - Copa Proyeccion",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "austria.gif",
-            "name": "Austria",
-            "localScore": "2"
+            "localImgId": "26.png",
+            "name": {
+              "id": "Belgrano",
+              "color": "#3A9CD0",
+              "colorSecondary": "#1D1D1B",
+              "name": "Belgrano",
+              "shortName": "BEL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "alemania.gif",
-            "name": "Alemania",
-            "visitantScore": "0"
+            "visitantImgId": "20.png",
+            "name": {
+              "id": "Tigre",
+              "color": "#1E448D",
+              "colorSecondary": "#ED2A3C",
+              "name": "Tigre",
+              "shortName": "TIG",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Brasileirao",
+    "matches": [
+      {
+        "hour": "Pendiente Fecha 33",
+        "teams": [
+          {
+            "localImgId": "582.png",
+            "name": "Cruzeiro",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "599.png",
+            "name": "Vasco da Gama",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "591.png",
+            "name": "Fluminense",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "569.png",
+            "name": "Sao Paulo",
+            "visitantScore": ""
           }
         ]
       }
