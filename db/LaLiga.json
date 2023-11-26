@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 35,
+    "matchesPlayed": 14,
+    "matchesWon": 11,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 29,
+    "goalsAgainst": 9,
+    "goalDifference": 20,
+    "team": {
+      "id": "Real-Madrid",
+      "color": "#004996",
+      "colorSecondary": "#FFF ",
+      "name": "Real Madrid",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
     "points": 34,
     "matchesPlayed": 13,
     "matchesWon": 11,
@@ -17,27 +38,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 33,
-    "matchesPlayed": 14,
-    "matchesWon": 10,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 28,
-    "goalsAgainst": 9,
-    "goalDifference": 19,
-    "team": {
-      "id": "Real-Madrid",
-      "color": "#004996",
-      "colorSecondary": "#FFF ",
-      "name": "Real Madrid",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -316,14 +316,14 @@
   },
   {
     "rank": 16,
-    "points": 11,
+    "points": 10,
     "matchesPlayed": 13,
     "matchesWon": 2,
-    "matchesDrawn": 5,
-    "matchesLost": 6,
+    "matchesDrawn": 4,
+    "matchesLost": 7,
     "goalsFor": 10,
-    "goalsAgainst": 17,
-    "goalDifference": -7,
+    "goalsAgainst": 18,
+    "goalDifference": -8,
     "team": {
       "id": "Cadiz",
       "color": "#EEEF28",
