@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "65' ",
+        "hour": "83' ",
         "teams": [
           {
             "localImgId": "8.png",
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "hour": "65' ",
+        "hour": "83' ",
         "teams": [
           {
             "localImgId": "19.png",
@@ -50,7 +50,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
               "league": "LPF"
             },
-            "localScore": "1"
+            "localScore": "2"
           },
           {
             "visitantImgId": "78.png",
@@ -130,119 +130,6 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Premier League",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "533.png",
-            "name": "Fulham",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "780.png",
-            "name": "Wolverhampton",
-            "visitantScore": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Serie A",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "626.png",
-            "name": "Hellas Verona",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "942.png",
-            "name": "Lecce",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "550.png",
-            "name": "Bologna",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "567.png",
-            "name": "Torino",
-            "visitantScore": "0"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "La Liga",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "696.png",
-            "name": {
-              "id": "Girona",
-              "color": "#E51636",
-              "colorSecondary": "#FFF",
-              "name": "Girona",
-              "shortName": "GIR",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-              "league": "LaLiga"
-            },
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "509.png",
-            "name": {
-              "id": "Athletic-Bilbao",
-              "color": "#E2231A",
-              "colorSecondary": "#FFFFFF",
-              "name": "Athletic Bilbao",
-              "shortName": "ATH",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-              "league": "LaLiga"
-            },
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Brasileirao",
-    "matches": [
-      {
-        "hour": "21:00  ",
-        "teams": [
-          {
-            "localImgId": "592.png",
-            "name": "Goias",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "582.png",
-            "name": "Cruzeiro",
             "visitantScore": ""
           }
         ]
