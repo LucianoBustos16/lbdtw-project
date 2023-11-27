@@ -1,27 +1,6 @@
 [
   {
     "rank": 1,
-    "points": 37,
-    "matchesPlayed": 14,
-    "matchesWon": 12,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 32,
-    "goalsAgainst": 16,
-    "goalDifference": 16,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 2,
     "points": 35,
     "matchesPlayed": 14,
     "matchesWon": 11,
@@ -38,6 +17,27 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 35,
+    "matchesPlayed": 14,
+    "matchesWon": 11,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 32,
+    "goalsAgainst": 17,
+    "goalDifference": 15,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -90,6 +90,27 @@
     "matchesWon": 7,
     "matchesDrawn": 4,
     "matchesLost": 3,
+    "goalsFor": 26,
+    "goalsAgainst": 18,
+    "goalDifference": 8,
+    "team": {
+      "id": "Athletic-Bilbao",
+      "color": "#E2231A",
+      "colorSecondary": "#FFFFFF",
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 25,
+    "matchesPlayed": 14,
+    "matchesWon": 7,
+    "matchesDrawn": 4,
+    "matchesLost": 3,
     "goalsFor": 25,
     "goalsAgainst": 17,
     "goalDifference": 8,
@@ -101,27 +122,6 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 24,
-    "matchesPlayed": 14,
-    "matchesWon": 7,
-    "matchesDrawn": 3,
-    "matchesLost": 4,
-    "goalsFor": 25,
-    "goalsAgainst": 18,
-    "goalDifference": 7,
-    "team": {
-      "id": "Athletic-Bilbao",
-      "color": "#E2231A",
-      "colorSecondary": "#FFFFFF",
-      "name": "Athletic Bilbao",
-      "shortName": "ATH",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
       "league": "LaLiga"
     }
   },
