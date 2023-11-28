@@ -5472,9 +5472,9 @@
         "score": "2-0"
       },
       {
-        "formattedDate": "27 Nov",
-        "timestamp": 1701127800000,
-        "hourMatch": "20:30",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Newells",
@@ -5497,12 +5497,12 @@
             "league": "LPF"
           }
         ],
-        "score": "30"
+        "score": "3-0"
       },
       {
-        "formattedDate": "27 Nov",
-        "timestamp": 1701127800000,
-        "hourMatch": "20:30",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Racing-Club",
@@ -5525,7 +5525,7 @@
             "league": "LPF"
           }
         ],
-        "score": "30"
+        "score": "4-1"
       },
       {
         "formattedDate": "28 Nov",
@@ -5583,6 +5583,123 @@
             "colorSecondary": "#00AFEF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      }
+    ]
+  },
+  {
+    "fecha": 16,
+    "matches": [
+      {
+        "formattedDate": "3 Dic",
+        "timestamp": 1701637200000,
+        "hourMatch": "18:00",
+        "teams": [
+          {
+            "id": "Godoy-Cruz",
+            "name": "Godoy Cruz",
+            "shortName": "GCM",
+            "color": "#2670CA",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Banfield",
+            "name": "Banfield",
+            "shortName": "BAN",
+            "color": "#007934",
+            "colorSecondary": "#B49759",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "3 Dic",
+        "timestamp": 1701637200000,
+        "hourMatch": "18:00",
+        "teams": [
+          {
+            "id": "Huracan",
+            "name": "Huracan",
+            "shortName": "HUR",
+            "color": "#FF0000",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Platense",
+            "name": "Platense",
+            "shortName": "PLA",
+            "color": "#633B1B",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "3 Dic",
+        "timestamp": 1701637200000,
+        "hourMatch": "18:00",
+        "teams": [
+          {
+            "id": "Racing-Club",
+            "name": "Racing Club",
+            "shortName": "RAC",
+            "color": "#009DDB",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Rosario-Central",
+            "name": "Rosario Central",
+            "shortName": "ROS",
+            "color": "#F9DF34",
+            "colorSecondary": "#173B6A",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "3 Dic",
+        "timestamp": 1701637200000,
+        "hourMatch": "18:00",
+        "teams": [
+          {
+            "id": "River",
+            "name": "River Plate",
+            "shortName": "CARP",
+            "color": "#E30520",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Belgrano",
+            "name": "Belgrano",
+            "shortName": "BEL",
+            "color": "#3A9CD0",
+            "colorSecondary": "#1D1D1B",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
             "league": "LPF"
           }
         ],
