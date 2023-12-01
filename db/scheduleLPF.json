@@ -5561,20 +5561,10 @@
     "fecha": 15,
     "matches": [
       {
-        "formattedDate": "1 Dic",
-        "timestamp": 1701457200000,
-        "hourMatch": "16:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
-          {
-            "id": "Colon",
-            "name": "Colon",
-            "shortName": "COL",
-            "color": "#C80000",
-            "colorSecondary": "#000",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-            "league": "LPF"
-          },
           {
             "id": "Gimnasia",
             "name": "Gimnasia (LP)",
@@ -5584,9 +5574,19 @@
             "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
             "league": "LPF"
+          },
+          {
+            "id": "Colon",
+            "name": "Colon",
+            "shortName": "COL",
+            "color": "#C80000",
+            "colorSecondary": "#000",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+            "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "0-0"
       }
     ]
   },
