@@ -1,27 +1,6 @@
 [
   {
     "rank": 1,
-    "points": 36,
-    "matchesPlayed": 15,
-    "matchesWon": 11,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 32,
-    "goalsAgainst": 17,
-    "goalDifference": 15,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 2,
     "points": 35,
     "matchesPlayed": 14,
     "matchesWon": 11,
@@ -38,6 +17,27 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
+    "points": 35,
+    "matchesPlayed": 15,
+    "matchesWon": 11,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 32,
+    "goalsAgainst": 18,
+    "goalDifference": 14,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -148,6 +148,27 @@
   },
   {
     "rank": 8,
+    "points": 22,
+    "matchesPlayed": 15,
+    "matchesWon": 6,
+    "matchesDrawn": 4,
+    "matchesLost": 5,
+    "goalsFor": 17,
+    "goalsAgainst": 18,
+    "goalDifference": -1,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
     "points": 21,
     "matchesPlayed": 15,
     "matchesWon": 6,
@@ -164,27 +185,6 @@
       "shortName": "PAL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 20,
-    "matchesPlayed": 15,
-    "matchesWon": 5,
-    "matchesDrawn": 5,
-    "matchesLost": 5,
-    "goalsFor": 16,
-    "goalsAgainst": 18,
-    "goalDifference": -2,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
       "league": "LaLiga"
     }
   },
