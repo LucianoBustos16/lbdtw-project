@@ -6,21 +6,7 @@
         "hour": "18:00  ",
         "teams": [
           {
-            "localImgId": "45.png",
-            "name": {
-              "id": "Platense",
-              "color": "#633B1B",
-              "colorSecondary": "#FFFFFF",
-              "name": "Platense",
-              "shortName": "PLA",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "10.png",
+            "localImgId": "10.png",
             "name": {
               "id": "Godoy-Cruz",
               "color": "#2670CA",
@@ -31,6 +17,20 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
               "league": "LPF"
             },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
             "visitantScore": ""
           }
         ]
@@ -39,21 +39,7 @@
         "hour": "22:00  ",
         "teams": [
           {
-            "localImgId": "35.png",
-            "name": {
-              "id": "Rosario-Central",
-              "color": "#F9DF34",
-              "colorSecondary": "#173B6A",
-              "name": "Rosario Central",
-              "shortName": "ROS",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "18.png",
+            "localImgId": "18.png",
             "name": {
               "id": "River",
               "color": "#E30520",
@@ -62,6 +48,20 @@
               "shortName": "CARP",
               "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "35.png",
+            "name": {
+              "id": "Rosario-Central",
+              "color": "#F9DF34",
+              "colorSecondary": "#173B6A",
+              "name": "Rosario Central",
+              "shortName": "ROS",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
@@ -74,12 +74,12 @@
     "competition": "Premier League",
     "matches": [
       {
-        "hour": "50' ",
+        "hour": "58' ",
         "teams": [
           {
             "localImgId": "621.png",
             "name": "Crystal Palace",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "534.png",
@@ -219,7 +219,7 @@
     "competition": "La Liga",
     "matches": [
       {
-        "hour": "40' ",
+        "hour": "E. T. ",
         "teams": [
           {
             "localImgId": "689.png",
