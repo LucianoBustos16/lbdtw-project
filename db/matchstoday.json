@@ -6,21 +6,7 @@
         "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "45.png",
-            "name": {
-              "id": "Platense",
-              "color": "#633B1B",
-              "colorSecondary": "#FFFFFF",
-              "name": "Platense",
-              "shortName": "PLA",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "35.png",
+            "localImgId": "35.png",
             "name": {
               "id": "Rosario-Central",
               "color": "#F9DF34",
@@ -29,6 +15,20 @@
               "shortName": "ROS",
               "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
