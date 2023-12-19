@@ -45,6 +45,27 @@
     "rank": 3,
     "points": 35,
     "matchesPlayed": 17,
+    "matchesWon": 11,
+    "matchesDrawn": 2,
+    "matchesLost": 4,
+    "goalsFor": 32,
+    "goalsAgainst": 16,
+    "goalDifference": 16,
+    "team": {
+      "id": "Atletico-Madrid",
+      "color": "#CB3524",
+      "colorSecondary": "#272E61",
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 35,
+    "matchesPlayed": 17,
     "matchesWon": 10,
     "matchesDrawn": 5,
     "matchesLost": 2,
@@ -59,27 +80,6 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 34,
-    "matchesPlayed": 16,
-    "matchesWon": 11,
-    "matchesDrawn": 1,
-    "matchesLost": 4,
-    "goalsFor": 32,
-    "goalsAgainst": 16,
-    "goalDifference": 16,
-    "team": {
-      "id": "Atletico-Madrid",
-      "color": "#CB3524",
-      "colorSecondary": "#272E61",
-      "name": "Atletico Madrid",
-      "shortName": "ATM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -148,10 +148,10 @@
   },
   {
     "rank": 8,
-    "points": 25,
-    "matchesPlayed": 17,
+    "points": 26,
+    "matchesPlayed": 18,
     "matchesWon": 6,
-    "matchesDrawn": 7,
+    "matchesDrawn": 8,
     "matchesLost": 4,
     "goalsFor": 21,
     "goalsAgainst": 20,
@@ -321,27 +321,6 @@
     "matchesWon": 2,
     "matchesDrawn": 8,
     "matchesLost": 7,
-    "goalsFor": 14,
-    "goalsAgainst": 24,
-    "goalDifference": -10,
-    "team": {
-      "id": "Cadiz",
-      "color": "#EEEF28",
-      "colorSecondary": "#346DBE",
-      "name": "Cadiz",
-      "shortName": "CAD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 13,
-    "matchesPlayed": 16,
-    "matchesWon": 2,
-    "matchesDrawn": 7,
-    "matchesLost": 7,
     "goalsFor": 20,
     "goalsAgainst": 24,
     "goalDifference": -4,
@@ -353,6 +332,27 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 14,
+    "matchesPlayed": 17,
+    "matchesWon": 2,
+    "matchesDrawn": 8,
+    "matchesLost": 7,
+    "goalsFor": 14,
+    "goalsAgainst": 24,
+    "goalDifference": -10,
+    "team": {
+      "id": "Cadiz",
+      "color": "#EEEF28",
+      "colorSecondary": "#346DBE",
+      "name": "Cadiz",
+      "shortName": "CAD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
       "league": "LaLiga"
     }
   },
@@ -379,10 +379,10 @@
   },
   {
     "rank": 19,
-    "points": 8,
-    "matchesPlayed": 17,
+    "points": 9,
+    "matchesPlayed": 18,
     "matchesWon": 1,
-    "matchesDrawn": 5,
+    "matchesDrawn": 6,
     "matchesLost": 11,
     "goalsFor": 20,
     "goalsAgainst": 37,
