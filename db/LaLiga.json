@@ -150,27 +150,6 @@
     "rank": 8,
     "points": 26,
     "matchesPlayed": 19,
-    "matchesWon": 7,
-    "matchesDrawn": 5,
-    "matchesLost": 7,
-    "goalsFor": 22,
-    "goalsAgainst": 22,
-    "goalDifference": 0,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 26,
-    "matchesPlayed": 19,
     "matchesWon": 6,
     "matchesDrawn": 8,
     "matchesLost": 5,
@@ -185,6 +164,27 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 26,
+    "matchesPlayed": 19,
+    "matchesWon": 7,
+    "matchesDrawn": 5,
+    "matchesLost": 7,
+    "goalsFor": 22,
+    "goalsAgainst": 23,
+    "goalDifference": -1,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
       "league": "LaLiga"
     }
   },
@@ -258,9 +258,9 @@
     "matchesWon": 5,
     "matchesDrawn": 4,
     "matchesLost": 10,
-    "goalsFor": 26,
+    "goalsFor": 27,
     "goalsAgainst": 38,
-    "goalDifference": -12,
+    "goalDifference": -11,
     "team": {
       "id": "Villarreal",
       "color": "#002246",
