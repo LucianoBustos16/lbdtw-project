@@ -127,14 +127,14 @@
   },
   {
     "rank": 7,
-    "points": 29,
+    "points": 28,
     "matchesPlayed": 19,
     "matchesWon": 6,
-    "matchesDrawn": 11,
-    "matchesLost": 2,
+    "matchesDrawn": 10,
+    "matchesLost": 3,
     "goalsFor": 21,
-    "goalsAgainst": 19,
-    "goalDifference": 2,
+    "goalsAgainst": 20,
+    "goalDifference": 1,
     "team": {
       "id": "Betis",
       "color": "#008835",
@@ -337,6 +337,27 @@
   },
   {
     "rank": 17,
+    "points": 16,
+    "matchesPlayed": 19,
+    "matchesWon": 3,
+    "matchesDrawn": 7,
+    "matchesLost": 9,
+    "goalsFor": 20,
+    "goalsAgainst": 29,
+    "goalDifference": -9,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 18,
     "points": 15,
     "matchesPlayed": 19,
     "matchesWon": 2,
@@ -353,27 +374,6 @@
       "shortName": "CAD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 14,
-    "matchesPlayed": 19,
-    "matchesWon": 2,
-    "matchesDrawn": 8,
-    "matchesLost": 9,
-    "goalsFor": 19,
-    "goalsAgainst": 29,
-    "goalDifference": -10,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
       "league": "LaLiga"
     }
   },
