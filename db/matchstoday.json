@@ -3,55 +3,35 @@
     "competition": "Supercopa Espa�a - Semifinal",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "16:00  ",
         "teams": [
           {
-            "localImgId": "527.png",
+            "localImgId": "528.png",
             "name": {
-              "id": "Real-Madrid",
-              "color": "#004996",
-              "colorSecondary": "#FFF ",
-              "name": "Real Madrid",
-              "shortName": "RMD",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+              "id": "Barcelona",
+              "color": "#004B95",
+              "colorSecondary": "#A4234B",
+              "name": "Barcelona",
+              "shortName": "BAR",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
               "league": "LaLiga"
             },
-            "localScore": "5"
+            "localScore": ""
           },
           {
-            "visitantImgId": "510.png",
+            "visitantImgId": "511.png",
             "name": {
-              "id": "Atletico-Madrid",
-              "color": "#CB3524",
-              "colorSecondary": "#272E61",
-              "name": "Atletico Madrid",
-              "shortName": "ATM",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+              "id": "Osasuna",
+              "color": "#b4001d ",
+              "colorSecondary": "#14213d",
+              "name": "Osasuna",
+              "shortName": "OSA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
               "league": "LaLiga"
             },
-            "visitantScore": "3"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Efl Cup",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "534.png",
-            "name": "Liverpool",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "533.png",
-            "name": "Fulham",
-            "visitantScore": "1"
+            "visitantScore": ""
           }
         ]
       }
@@ -61,32 +41,17 @@
     "competition": "Coppa Italia",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "17:00  ",
         "teams": [
           {
-            "localImgId": "558.png",
-            "name": "Lazio",
-            "localScore": "1"
+            "localImgId": "557.png",
+            "name": "Juventus",
+            "localScore": ""
           },
           {
-            "visitantImgId": "564.png",
-            "name": "Roma",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "559.png",
-            "name": "Milan",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "549.png",
-            "name": "Atalanta",
-            "visitantScore": "2"
+            "visitantImgId": "680.png",
+            "name": "Frosinone",
+            "visitantScore": ""
           }
         ]
       }
