@@ -128,6 +128,27 @@
   {
     "rank": 7,
     "points": 28,
+    "matchesPlayed": 20,
+    "matchesWon": 8,
+    "matchesDrawn": 4,
+    "matchesLost": 8,
+    "goalsFor": 19,
+    "goalsAgainst": 17,
+    "goalDifference": 2,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 28,
     "matchesPlayed": 19,
     "matchesWon": 6,
     "matchesDrawn": 10,
@@ -143,27 +164,6 @@
       "shortName": "BET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 28,
-    "matchesPlayed": 20,
-    "matchesWon": 8,
-    "matchesDrawn": 4,
-    "matchesLost": 8,
-    "goalsFor": 18,
-    "goalsAgainst": 17,
-    "goalDifference": 1,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -280,8 +280,8 @@
     "matchesDrawn": 4,
     "matchesLost": 11,
     "goalsFor": 27,
-    "goalsAgainst": 40,
-    "goalDifference": -13,
+    "goalsAgainst": 41,
+    "goalDifference": -14,
     "team": {
       "id": "Villarreal",
       "color": "#002246",
