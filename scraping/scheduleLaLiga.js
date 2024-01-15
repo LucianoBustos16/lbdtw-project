@@ -118,8 +118,6 @@ export async function getScheduleLaLiga($) {
 			
 
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
-
-			console.log(localTeam)
 			
 			matches.push({
 				formattedDate: formattedDate,
