@@ -7,7 +7,7 @@ const teamId = {
 	'176': 'Celta',
 	'177': 'Espanyol',
 	'192': 'Valladolid',
-	'449': 'Villareal',
+	'449': 'Villarreal',
 	'178': 'Barcelona',
 	'184': 'Rayo-Vallecano',
 	'1737': 'Cadiz',
