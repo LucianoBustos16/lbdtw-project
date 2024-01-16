@@ -30,6 +30,8 @@ const teamId = {
 	'10752': 'Central-Cordoba',
 	'1392': 'Gimnasia',
 	'1027': 'Colon',
+	'8627': 'Independiente-rivadavia',
+	'9319': 'Riestra'
 }
 
 const SELECTORS = {
@@ -123,6 +125,9 @@ export async function getSchedule($) {
 
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
+
+			console.log(localTeam)
+
 			matches.push({
 				formattedDate: formattedDate,
 				timestamp: timestamp,
