@@ -101,8 +101,6 @@
             const [hora, minutos, segundos] = horaCompleta.split(":");
             const hourMatch = (`${hora}:${minutos}`)
 
-            console.log(`${date} ${hour} GMT+1`)
-
             const [day, month] = fecha.split("/")
 			const months = ['Ene','Feb','Mar','Abr','May','Jun','Jul','Ago','Sep','Oct','Nov','Dic']
 			const monthServer = months[horario.getMonth()]

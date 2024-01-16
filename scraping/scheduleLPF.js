@@ -126,8 +126,6 @@ export async function getSchedule($) {
 			const team = getTeamFrom({ name: localTeam, name: visitantTeam })
 			
 
-			console.log(localTeam)
-
 			matches.push({
 				formattedDate: formattedDate,
 				timestamp: timestamp,
