@@ -5731,9 +5731,9 @@
         "score": "1-0"
       },
       {
-        "formattedDate": "20 Ene",
-        "timestamp": 1674216000000,
-        "hourMatch": "09:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Rayo-Vallecano",
@@ -5756,12 +5756,12 @@
             "league": "LaLiga"
           }
         ],
-        "score": "00"
+        "score": "0-2"
       },
       {
-        "formattedDate": "20 Ene",
-        "timestamp": 1674224100000,
-        "hourMatch": "11:15",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Villarreal",
@@ -5784,12 +5784,12 @@
             "league": "LaLiga"
           }
         ],
-        "score": "15"
+        "score": "1-1"
       },
       {
-        "formattedDate": "20 Ene",
-        "timestamp": 1674232200000,
-        "hourMatch": "13:30",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Valencia",
@@ -5812,7 +5812,7 @@
             "league": "LaLiga"
           }
         ],
-        "score": "30"
+        "score": "1-0"
       },
       {
         "formattedDate": "20 Ene",
@@ -6101,34 +6101,6 @@
       },
       {
         "formattedDate": "27 Ene",
-        "timestamp": 1674837000000,
-        "hourMatch": "13:30",
-        "teams": [
-          {
-            "id": "Sevilla",
-            "name": "Sevilla",
-            "shortName": "SEV",
-            "color": "#CD3529",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Osasuna",
-            "name": "Osasuna",
-            "shortName": "OSA",
-            "color": "#b4001d ",
-            "colorSecondary": "#14213d",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "formattedDate": "27 Ene",
         "timestamp": 1674846000000,
         "hourMatch": "16:00",
         "teams": [
@@ -6210,6 +6182,34 @@
           }
         ],
         "score": "15"
+      },
+      {
+        "formattedDate": "28 Ene",
+        "timestamp": 1674923400000,
+        "hourMatch": "13:30",
+        "teams": [
+          {
+            "id": "Sevilla",
+            "name": "Sevilla",
+            "shortName": "SEV",
+            "color": "#CD3529",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Osasuna",
+            "name": "Osasuna",
+            "shortName": "OSA",
+            "color": "#b4001d ",
+            "colorSecondary": "#14213d",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "30"
       },
       {
         "formattedDate": "28 Ene",
