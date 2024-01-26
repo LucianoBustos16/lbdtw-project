@@ -211,6 +211,27 @@
   },
   {
     "rank": 11,
+    "points": 26,
+    "matchesPlayed": 22,
+    "matchesWon": 7,
+    "matchesDrawn": 5,
+    "matchesLost": 10,
+    "goalsFor": 20,
+    "goalsAgainst": 27,
+    "goalDifference": -7,
+    "team": {
+      "id": "Alaves",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Alaves",
+      "shortName": "ALV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 12,
     "points": 25,
     "matchesPlayed": 20,
     "matchesWon": 7,
@@ -227,27 +248,6 @@
       "shortName": "OSA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 24,
-    "matchesPlayed": 22,
-    "matchesWon": 6,
-    "matchesDrawn": 6,
-    "matchesLost": 10,
-    "goalsFor": 19,
-    "goalsAgainst": 27,
-    "goalDifference": -8,
-    "team": {
-      "id": "Alaves",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Alaves",
-      "shortName": "ALV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,14 +400,14 @@
   },
   {
     "rank": 20,
-    "points": 7,
+    "points": 6,
     "matchesPlayed": 22,
     "matchesWon": 0,
-    "matchesDrawn": 7,
-    "matchesLost": 15,
+    "matchesDrawn": 6,
+    "matchesLost": 16,
     "goalsFor": 21,
-    "goalsAgainst": 46,
-    "goalDifference": -25,
+    "goalsAgainst": 47,
+    "goalDifference": -26,
     "team": {
       "id": "Almeria",
       "color": "#e0040b",
