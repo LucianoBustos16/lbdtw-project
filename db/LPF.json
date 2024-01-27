@@ -300,9 +300,9 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 0,
-    "goalsFor": 1,
+    "goalsFor": 2,
     "goalsAgainst": 0,
-    "goalDifference": 1,
+    "goalDifference": 2,
     "team": {
       "id": "Lanus",
       "color": "#7A1D2D",
@@ -574,8 +574,8 @@
     "matchesDrawn": 0,
     "matchesLost": 1,
     "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
+    "goalsAgainst": 2,
+    "goalDifference": -2,
     "team": {
       "id": "San-Lorenzo",
       "color": "#BF1B27",
@@ -615,6 +615,27 @@
     "matchesWon": 1,
     "matchesDrawn": 0,
     "matchesLost": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 0,
+    "goalDifference": 2,
+    "team": {
+      "id": "Lanus",
+      "color": "#7A1D2D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Lanus",
+      "shortName": "LAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
     "goalsFor": 1,
     "goalsAgainst": 0,
     "goalDifference": 1,
@@ -630,7 +651,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -647,27 +668,6 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
-      "id": "Lanus",
-      "color": "#7A1D2D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Lanus",
-      "shortName": "LAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
       "league": "LPF"
     }
   },
@@ -1123,27 +1123,6 @@
     "goalsAgainst": 1,
     "goalDifference": -1,
     "team": {
-      "id": "San-Lorenzo",
-      "color": "#BF1B27",
-      "colorSecondary": "#263D54",
-      "name": "San Lorenzo",
-      "shortName": "SL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
       "id": "Talleres",
       "color": "#00184C",
       "colorSecondary": "#FFFFFF",
@@ -1155,7 +1134,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 13,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -1172,6 +1151,27 @@
       "shortName": "BAN",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 2,
+    "goalDifference": -2,
+    "team": {
+      "id": "San-Lorenzo",
+      "color": "#BF1B27",
+      "colorSecondary": "#263D54",
+      "name": "San Lorenzo",
+      "shortName": "SL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
       "league": "LPF"
     }
   }
