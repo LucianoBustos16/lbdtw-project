@@ -64,22 +64,22 @@
   },
   {
     "rank": 4,
-    "points": 3,
+    "points": 1,
     "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
     "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -136,6 +136,27 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
       "colorSecondary": "#173B6A",
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -206,27 +227,6 @@
       "shortName": "RIE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -724,27 +724,6 @@
     "goalsAgainst": 0,
     "goalDifference": 1,
     "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
-    "team": {
       "id": "Union",
       "color": "#DA251D",
       "colorSecondary": "#FFFFFF",
@@ -752,6 +731,27 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
@@ -808,6 +808,27 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
       "colorSecondary": "#173B6A",
@@ -819,7 +840,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -840,7 +861,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -861,7 +882,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 1,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -882,7 +903,7 @@
     }
   },
   {
-    "rank": 1,
+    "rank": 2,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -903,7 +924,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -924,7 +945,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -945,7 +966,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -966,7 +987,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -987,7 +1008,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -1004,27 +1025,6 @@
       "shortName": "EST",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
