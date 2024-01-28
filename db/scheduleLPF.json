@@ -433,34 +433,6 @@
         "hourMatch": "16:00",
         "teams": [
           {
-            "id": "Gimnasia",
-            "name": "Gimnasia (LP)",
-            "shortName": "GLP",
-            "color": "#121731",
-            "colorSecondary": "#00AFEF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Independiente-rivadavia",
-            "name": "Ind Rivadavia",
-            "shortName": "IND",
-            "color": "#EC1C24",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "30 Ene",
-        "timestamp": 1675113300000,
-        "hourMatch": "18:15",
-        "teams": [
-          {
             "id": "Huracan",
             "name": "Huracan",
             "shortName": "HUR",
@@ -478,6 +450,34 @@
             "colorSecondary": "#FFFFFF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "30 Ene",
+        "timestamp": 1675113300000,
+        "hourMatch": "18:15",
+        "teams": [
+          {
+            "id": "Gimnasia",
+            "name": "Gimnasia (LP)",
+            "shortName": "GLP",
+            "color": "#121731",
+            "colorSecondary": "#00AFEF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Independiente-rivadavia",
+            "name": "Ind Rivadavia",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
             "league": "LPF"
           }
         ],
