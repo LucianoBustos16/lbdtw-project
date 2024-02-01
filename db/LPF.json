@@ -157,27 +157,6 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
-    "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
       "colorSecondary": "#FFF",
@@ -189,11 +168,11 @@
     }
   },
   {
-    "rank": 10,
-    "points": 1,
-    "matchesPlayed": 1,
+    "rank": 9,
+    "points": 2,
+    "matchesPlayed": 2,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 0,
     "goalsFor": 1,
     "goalsAgainst": 1,
@@ -206,6 +185,27 @@
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 2,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -317,6 +317,27 @@
   {
     "rank": 2,
     "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
     "matchesDrawn": 0,
@@ -336,7 +357,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -353,27 +374,6 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
@@ -532,16 +532,16 @@
     "matchesDrawn": 1,
     "matchesLost": 1,
     "goalsFor": 0,
-    "goalsAgainst": 2,
-    "goalDifference": -2,
+    "goalsAgainst": 3,
+    "goalDifference": -3,
     "team": {
-      "id": "Tigre",
-      "color": "#1E448D",
-      "colorSecondary": "#ED2A3C",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
@@ -556,13 +556,13 @@
     "goalsAgainst": 3,
     "goalDifference": -3,
     "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "id": "Tigre",
+      "color": "#1E448D",
+      "colorSecondary": "#ED2A3C",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
       "league": "LPF"
     }
   },
@@ -674,6 +674,27 @@
   {
     "rank": 5,
     "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 1,
+    "goalDifference": 2,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
     "matchesDrawn": 0,
@@ -693,7 +714,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -714,7 +735,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -731,27 +752,6 @@
       "shortName": "HUR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
@@ -892,27 +892,6 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
-      "id": "Rosario-Central",
-      "color": "#F9DF34",
-      "colorSecondary": "#173B6A",
-      "name": "Rosario Central",
-      "shortName": "ROS",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
-    "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
       "colorSecondary": "#FFF",
@@ -924,11 +903,11 @@
     }
   },
   {
-    "rank": 3,
-    "points": 1,
-    "matchesPlayed": 1,
+    "rank": 2,
+    "points": 2,
+    "matchesPlayed": 2,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 0,
     "goalsFor": 1,
     "goalsAgainst": 1,
@@ -941,6 +920,27 @@
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 2,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
+      "id": "Rosario-Central",
+      "color": "#F9DF34",
+      "colorSecondary": "#173B6A",
+      "name": "Rosario Central",
+      "shortName": "ROS",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
       "league": "LPF"
     }
   },
@@ -1098,27 +1098,6 @@
     "matchesWon": 0,
     "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 2,
-    "goalDifference": -2,
-    "team": {
-      "id": "Tigre",
-      "color": "#1E448D",
-      "colorSecondary": "#ED2A3C",
-      "name": "Tigre",
-      "shortName": "TIG",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 1,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
     "goalsFor": 1,
     "goalsAgainst": 4,
     "goalDifference": -3,
@@ -1134,7 +1113,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -1151,6 +1130,27 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 1,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 3,
+    "goalDifference": -3,
+    "team": {
+      "id": "Tigre",
+      "color": "#1E448D",
+      "colorSecondary": "#ED2A3C",
+      "name": "Tigre",
+      "shortName": "TIG",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
       "league": "LPF"
     }
   },
