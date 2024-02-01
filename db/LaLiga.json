@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 57,
+    "matchesPlayed": 22,
+    "matchesWon": 18,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 46,
+    "goalsAgainst": 14,
+    "goalDifference": 32,
+    "team": {
+      "id": "Real-Madrid",
+      "color": "#004996",
+      "colorSecondary": "#FFF ",
+      "name": "Real Madrid",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
     "points": 55,
     "matchesPlayed": 22,
     "matchesWon": 17,
@@ -17,27 +38,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 2,
-    "points": 54,
-    "matchesPlayed": 21,
-    "matchesWon": 17,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 45,
-    "goalsAgainst": 14,
-    "goalDifference": 31,
-    "team": {
-      "id": "Real-Madrid",
-      "color": "#004996",
-      "colorSecondary": "#FFF ",
-      "name": "Real Madrid",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -191,13 +191,13 @@
   {
     "rank": 10,
     "points": 29,
-    "matchesPlayed": 21,
+    "matchesPlayed": 22,
     "matchesWon": 7,
     "matchesDrawn": 8,
-    "matchesLost": 6,
+    "matchesLost": 7,
     "goalsFor": 28,
-    "goalsAgainst": 28,
-    "goalDifference": 0,
+    "goalsAgainst": 29,
+    "goalDifference": -1,
     "team": {
       "id": "Getafe",
       "color": "#00369e",
