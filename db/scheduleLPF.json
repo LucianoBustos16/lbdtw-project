@@ -1194,8 +1194,36 @@
     "fecha": 4,
     "matches": [
       {
-        "formattedDate": "7 Feb",
-        "timestamp": 1675811700000,
+        "formattedDate": "8 Feb",
+        "timestamp": 1675891800000,
+        "hourMatch": "18:30",
+        "teams": [
+          {
+            "id": "Rosario-Central",
+            "name": "Rosario Central",
+            "shortName": "ROS",
+            "color": "#F9DF34",
+            "colorSecondary": "#173B6A",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Independiente-rivadavia",
+            "name": "Ind Rivadavia",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "8 Feb",
+        "timestamp": 1675898100000,
         "hourMatch": "20:15",
         "teams": [
           {
@@ -1276,34 +1304,6 @@
           }
         ],
         "score": "00"
-      },
-      {
-        "formattedDate": "9 Feb",
-        "timestamp": 1675978200000,
-        "hourMatch": "18:30",
-        "teams": [
-          {
-            "id": "Rosario-Central",
-            "name": "Rosario Central",
-            "shortName": "ROS",
-            "color": "#F9DF34",
-            "colorSecondary": "#173B6A",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Independiente-rivadavia",
-            "name": "Ind Rivadavia",
-            "shortName": "IND",
-            "color": "#EC1C24",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "30"
       },
       {
         "formattedDate": "9 Feb",
