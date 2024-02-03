@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 48,
+    "matchesPlayed": 23,
+    "matchesWon": 14,
+    "matchesDrawn": 6,
+    "matchesLost": 3,
+    "goalsFor": 44,
+    "goalsAgainst": 29,
+    "goalDifference": 15,
+    "team": {
+      "id": "Barcelona",
+      "color": "#004B95",
+      "colorSecondary": "#A4234B",
+      "name": "Barcelona",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 4,
     "points": 47,
     "matchesPlayed": 22,
     "matchesWon": 15,
@@ -59,27 +80,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 47,
-    "matchesPlayed": 22,
-    "matchesWon": 14,
-    "matchesDrawn": 5,
-    "matchesLost": 3,
-    "goalsFor": 44,
-    "goalsAgainst": 29,
-    "goalDifference": 15,
-    "team": {
-      "id": "Barcelona",
-      "color": "#004B95",
-      "colorSecondary": "#A4234B",
-      "name": "Barcelona",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -211,10 +211,10 @@
   },
   {
     "rank": 11,
-    "points": 26,
-    "matchesPlayed": 22,
+    "points": 27,
+    "matchesPlayed": 23,
     "matchesWon": 7,
-    "matchesDrawn": 5,
+    "matchesDrawn": 6,
     "matchesLost": 10,
     "goalsFor": 22,
     "goalsAgainst": 27,
