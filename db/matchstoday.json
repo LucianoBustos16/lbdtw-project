@@ -69,6 +69,39 @@
         ]
       },
       {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "78.png",
+            "name": {
+              "id": "Central-Cordoba",
+              "color": "#000",
+              "colorSecondary": "#FFF",
+              "name": "Central Cba (SdE)",
+              "shortName": "CSE",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
         "hour": "21:30  ",
         "teams": [
           {
@@ -95,39 +128,6 @@
               "shortName": "BEL",
               "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:30  ",
-        "teams": [
-          {
-            "localImgId": "45.png",
-            "name": {
-              "id": "Platense",
-              "color": "#633B1B",
-              "colorSecondary": "#FFFFFF",
-              "name": "Platense",
-              "shortName": "PLA",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "78.png",
-            "name": {
-              "id": "Central-Cordoba",
-              "color": "#000",
-              "colorSecondary": "#FFF",
-              "name": "Central Cba (SdE)",
-              "shortName": "CSE",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
@@ -344,7 +344,7 @@
     "competition": "Serie A",
     "matches": [
       {
-        "hour": "67' ",
+        "hour": "86' ",
         "teams": [
           {
             "localImgId": "567.png",
@@ -409,7 +409,7 @@
     "competition": "La Liga",
     "matches": [
       {
-        "hour": "10:00  ",
+        "hour": "19' ",
         "teams": [
           {
             "localImgId": "624.png",
@@ -423,7 +423,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
               "league": "LaLiga"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "1547.png",
@@ -437,7 +437,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
               "league": "LaLiga"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -681,12 +681,12 @@
     "competition": "Liga Francia",
     "matches": [
       {
-        "hour": "E. T. ",
+        "hour": "63' ",
         "teams": [
           {
             "localImgId": "648.png",
             "name": "Monaco",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "1305.png",
@@ -776,7 +776,7 @@
     "competition": "Eredivisie",
     "matches": [
       {
-        "hour": "83' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "1325.png",
@@ -786,7 +786,7 @@
           {
             "visitantImgId": "1287.png",
             "name": "Go Ahead",
-            "visitantScore": "1"
+            "visitantScore": "2"
           }
         ]
       },
