@@ -86,7 +86,7 @@ export async function getSchedule($) {
 			const visitantId = getTeamIdFromImageUrl(visitantImg)
 			const visitantShortName = teamId[visitantId]
 
-			const matchDate = new Date(`${prefixDate} ${hour} GMT+3`)
+			const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
 			const timestamp = Date.parse(matchDate)		
 			
 			const horario = new Date(timestamp);
