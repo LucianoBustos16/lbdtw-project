@@ -6,9 +6,9 @@
     "matchesWon": 2,
     "matchesDrawn": 0,
     "matchesLost": 1,
-    "goalsFor": 5,
+    "goalsFor": 6,
     "goalsAgainst": 3,
-    "goalDifference": 2,
+    "goalDifference": 3,
     "team": {
       "id": "Talleres",
       "color": "#00184C",
@@ -27,17 +27,17 @@
     "matchesWon": 2,
     "matchesDrawn": 0,
     "matchesLost": 1,
-    "goalsFor": 4,
+    "goalsFor": 5,
     "goalsAgainst": 3,
-    "goalDifference": 1,
+    "goalDifference": 2,
     "team": {
-      "id": "Gimnasia",
-      "color": "#121731",
-      "colorSecondary": "#00AFEF",
-      "name": "Gimnasia (LP)",
-      "shortName": "GLP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+      "id": "Independiente-rivadavia",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Ind Rivadavia",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
       "league": "LPF"
     }
   },
@@ -52,13 +52,13 @@
     "goalsAgainst": 3,
     "goalDifference": 1,
     "team": {
-      "id": "Independiente-rivadavia",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Ind Rivadavia",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
+      "id": "Gimnasia",
+      "color": "#121731",
+      "colorSecondary": "#00AFEF",
+      "name": "Gimnasia (LP)",
+      "shortName": "GLP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
       "league": "LPF"
     }
   },
@@ -154,8 +154,8 @@
     "matchesDrawn": 0,
     "matchesLost": 2,
     "goalsFor": 3,
-    "goalsAgainst": 3,
-    "goalDifference": 0,
+    "goalsAgainst": 4,
+    "goalDifference": -1,
     "team": {
       "id": "Huracan",
       "color": "#FF0000",
@@ -175,8 +175,8 @@
     "matchesDrawn": 2,
     "matchesLost": 1,
     "goalsFor": 2,
-    "goalsAgainst": 4,
-    "goalDifference": -2,
+    "goalsAgainst": 5,
+    "goalDifference": -3,
     "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
@@ -611,6 +611,27 @@
   {
     "rank": 2,
     "points": 6,
+    "matchesPlayed": 3,
+    "matchesWon": 2,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 6,
+    "goalsAgainst": 3,
+    "goalDifference": 3,
+    "team": {
+      "id": "Talleres",
+      "color": "#00184C",
+      "colorSecondary": "#FFFFFF",
+      "name": "Talleres (C)",
+      "shortName": "CAT",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
+    "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
     "matchesDrawn": 0,
@@ -630,7 +651,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -640,18 +661,18 @@
     "goalsAgainst": 3,
     "goalDifference": 2,
     "team": {
-      "id": "Talleres",
-      "color": "#00184C",
+      "id": "Independiente-rivadavia",
+      "color": "#EC1C24",
       "colorSecondary": "#FFFFFF",
-      "name": "Talleres (C)",
-      "shortName": "CAT",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "name": "Ind Rivadavia",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
       "league": "LPF"
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 6,
     "matchesPlayed": 2,
     "matchesWon": 2,
@@ -672,7 +693,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 6,
     "matchesPlayed": 3,
     "matchesWon": 2,
@@ -689,27 +710,6 @@
       "shortName": "GLP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 6,
-    "matchesPlayed": 3,
-    "matchesWon": 2,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 4,
-    "goalsAgainst": 3,
-    "goalDifference": 1,
-    "team": {
-      "id": "Independiente-rivadavia",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Ind Rivadavia",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
       "league": "LPF"
     }
   },
@@ -842,27 +842,6 @@
   {
     "rank": 13,
     "points": 3,
-    "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 3,
-    "goalsAgainst": 3,
-    "goalDifference": 0,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
     "matchesDrawn": 0,
@@ -882,7 +861,7 @@
     }
   },
   {
-    "rank": 1,
+    "rank": 14,
     "points": 3,
     "matchesPlayed": 2,
     "matchesWon": 1,
@@ -899,6 +878,27 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 1,
+    "points": 3,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "goalDifference": -1,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
@@ -952,8 +952,8 @@
     "matchesDrawn": 2,
     "matchesLost": 1,
     "goalsFor": 2,
-    "goalsAgainst": 4,
-    "goalDifference": -2,
+    "goalsAgainst": 5,
+    "goalDifference": -3,
     "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
