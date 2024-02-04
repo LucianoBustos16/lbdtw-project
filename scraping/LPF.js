@@ -54,9 +54,9 @@ export async function getLeaderBoardLPF ($) {
              rankCounter = 1;
          }        
         });
-// Divide el array LPF en dos arrays: zonaA y zonaB
-const zonaA = LPF.slice(0, 14);
-const zonaB = LPF.slice(14);
+      // Divide el array LPF en dos arrays: zonaA y zonaB
+      const zonaA = LPF.slice(0, 14);
+      const zonaB = LPF.slice(14);
 
-return { zonaA, zonaB };
-};
+      return { zonaA, zonaB };
+      };
