@@ -298,14 +298,14 @@
   "zonaB": [
     {
       "rank": 1,
-      "points": 7,
+      "points": 9,
       "matchesPlayed": 3,
-      "matchesWon": 2,
-      "matchesDrawn": 1,
+      "matchesWon": 3,
+      "matchesDrawn": 0,
       "matchesLost": 0,
-      "goalsFor": 3,
+      "goalsFor": 4,
       "goalsAgainst": 0,
-      "goalDifference": 3,
+      "goalDifference": 4,
       "team": {
         "id": "Newells",
         "color": "#ED1C24",
@@ -508,14 +508,14 @@
     },
     {
       "rank": 11,
-      "points": 2,
+      "points": 1,
       "matchesPlayed": 3,
       "matchesWon": 0,
-      "matchesDrawn": 2,
-      "matchesLost": 1,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
       "goalsFor": 1,
-      "goalsAgainst": 2,
-      "goalDifference": -1,
+      "goalsAgainst": 3,
+      "goalDifference": -2,
       "team": {
         "id": "Belgrano",
         "color": "#3A9CD0",
@@ -592,6 +592,27 @@
     },
     {
       "rank": 1,
+      "points": 9,
+      "matchesPlayed": 3,
+      "matchesWon": 3,
+      "matchesDrawn": 0,
+      "matchesLost": 0,
+      "goalsFor": 4,
+      "goalsAgainst": 0,
+      "goalDifference": 4,
+      "team": {
+        "id": "Newells",
+        "color": "#ED1C24",
+        "colorSecondary": "#000000",
+        "name": "Newells",
+        "shortName": "NOB",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 7,
       "matchesPlayed": 3,
       "matchesWon": 2,
@@ -608,27 +629,6 @@
         "shortName": "CARP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 2,
-      "points": 7,
-      "matchesPlayed": 3,
-      "matchesWon": 2,
-      "matchesDrawn": 1,
-      "matchesLost": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 0,
-      "goalDifference": 3,
-      "team": {
-        "id": "Newells",
-        "color": "#ED1C24",
-        "colorSecondary": "#000000",
-        "name": "Newells",
-        "shortName": "NOB",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
         "league": "LPF"
       }
     },
@@ -996,27 +996,6 @@
       "matchesWon": 0,
       "matchesDrawn": 2,
       "matchesLost": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 2,
-      "goalDifference": -1,
-      "team": {
-        "id": "Belgrano",
-        "color": "#3A9CD0",
-        "colorSecondary": "#1D1D1B",
-        "name": "Belgrano",
-        "shortName": "BEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 7,
-      "points": 2,
-      "matchesPlayed": 3,
-      "matchesWon": 0,
-      "matchesDrawn": 2,
-      "matchesLost": 1,
       "goalsFor": 2,
       "goalsAgainst": 5,
       "goalDifference": -3,
@@ -1028,6 +1007,27 @@
         "shortName": "ROS",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 7,
+      "points": 1,
+      "matchesPlayed": 3,
+      "matchesWon": 0,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
+      "goalsFor": 1,
+      "goalsAgainst": 3,
+      "goalDifference": -2,
+      "team": {
+        "id": "Belgrano",
+        "color": "#3A9CD0",
+        "colorSecondary": "#1D1D1B",
+        "name": "Belgrano",
+        "shortName": "BEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
         "league": "LPF"
       }
     },
