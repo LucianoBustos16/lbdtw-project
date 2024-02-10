@@ -49,6 +49,27 @@
       "matchesWon": 2,
       "matchesDrawn": 1,
       "matchesLost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 3,
+      "goalDifference": 1,
+      "team": {
+        "id": "Gimnasia",
+        "color": "#121731",
+        "colorSecondary": "#00AFEF",
+        "name": "Gimnasia (LP)",
+        "shortName": "GLP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
+      "points": 7,
+      "matchesPlayed": 4,
+      "matchesWon": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 1,
       "goalsFor": 2,
       "goalsAgainst": 1,
       "goalDifference": 1,
@@ -64,7 +85,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 6,
       "matchesPlayed": 3,
       "matchesWon": 2,
@@ -85,7 +106,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "points": 6,
       "matchesPlayed": 4,
       "matchesWon": 2,
@@ -102,27 +123,6 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
-      "points": 6,
-      "matchesPlayed": 3,
-      "matchesWon": 2,
-      "matchesDrawn": 0,
-      "matchesLost": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 3,
-      "goalDifference": 1,
-      "team": {
-        "id": "Gimnasia",
-        "color": "#121731",
-        "colorSecondary": "#00AFEF",
-        "name": "Gimnasia (LP)",
-        "shortName": "GLP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
         "league": "LPF"
       }
     },
@@ -233,6 +233,27 @@
     },
     {
       "rank": 12,
+      "points": 2,
+      "matchesPlayed": 4,
+      "matchesWon": 0,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 1,
+      "goalsAgainst": 7,
+      "goalDifference": -6,
+      "team": {
+        "id": "Velez",
+        "color": "#0063A8",
+        "colorSecondary": "#FFFFFF",
+        "name": "Velez",
+        "shortName": "VEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 13,
       "points": 1,
       "matchesPlayed": 3,
       "matchesWon": 0,
@@ -253,7 +274,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "points": 1,
       "matchesPlayed": 3,
       "matchesWon": 0,
@@ -270,27 +291,6 @@
         "shortName": "BAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
-      "points": 1,
-      "matchesPlayed": 3,
-      "matchesWon": 0,
-      "matchesDrawn": 1,
-      "matchesLost": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 7,
-      "goalDifference": -6,
-      "team": {
-        "id": "Velez",
-        "color": "#0063A8",
-        "colorSecondary": "#FFFFFF",
-        "name": "Velez",
-        "shortName": "VEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
         "league": "LPF"
       }
     }
@@ -361,6 +361,27 @@
     },
     {
       "rank": 4,
+      "points": 7,
+      "matchesPlayed": 4,
+      "matchesWon": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "goalDifference": 3,
+      "team": {
+        "id": "Racing-Club",
+        "color": "#009DDB",
+        "colorSecondary": "#FFFFFF",
+        "name": "Racing Club",
+        "shortName": "RAC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 5,
       "points": 6,
       "matchesPlayed": 3,
       "matchesWon": 2,
@@ -381,7 +402,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "points": 5,
       "matchesPlayed": 3,
       "matchesWon": 1,
@@ -398,27 +419,6 @@
         "shortName": "CABJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
-      "points": 4,
-      "matchesPlayed": 3,
-      "matchesWon": 1,
-      "matchesDrawn": 1,
-      "matchesLost": 1,
-      "goalsFor": 3,
-      "goalsAgainst": 1,
-      "goalDifference": 2,
-      "team": {
-        "id": "Racing-Club",
-        "color": "#009DDB",
-        "colorSecondary": "#FFFFFF",
-        "name": "Racing Club",
-        "shortName": "RAC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
         "league": "LPF"
       }
     },
@@ -509,13 +509,13 @@
     {
       "rank": 11,
       "points": 2,
-      "matchesPlayed": 3,
+      "matchesPlayed": 4,
       "matchesWon": 0,
       "matchesDrawn": 2,
-      "matchesLost": 1,
+      "matchesLost": 2,
       "goalsFor": 1,
-      "goalsAgainst": 3,
-      "goalDifference": -2,
+      "goalsAgainst": 4,
+      "goalDifference": -3,
       "team": {
         "id": "San-Lorenzo",
         "color": "#BF1B27",
@@ -702,6 +702,48 @@
       "matchesWon": 2,
       "matchesDrawn": 1,
       "matchesLost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "goalDifference": 3,
+      "team": {
+        "id": "Racing-Club",
+        "color": "#009DDB",
+        "colorSecondary": "#FFFFFF",
+        "name": "Racing Club",
+        "shortName": "RAC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 7,
+      "points": 7,
+      "matchesPlayed": 4,
+      "matchesWon": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 1,
+      "goalsFor": 4,
+      "goalsAgainst": 3,
+      "goalDifference": 1,
+      "team": {
+        "id": "Gimnasia",
+        "color": "#121731",
+        "colorSecondary": "#00AFEF",
+        "name": "Gimnasia (LP)",
+        "shortName": "GLP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 8,
+      "points": 7,
+      "matchesPlayed": 4,
+      "matchesWon": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 1,
       "goalsFor": 2,
       "goalsAgainst": 1,
       "goalDifference": 1,
@@ -717,7 +759,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
       "points": 6,
       "matchesPlayed": 3,
       "matchesWon": 2,
@@ -738,7 +780,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 10,
       "points": 6,
       "matchesPlayed": 3,
       "matchesWon": 2,
@@ -759,7 +801,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 11,
       "points": 6,
       "matchesPlayed": 4,
       "matchesWon": 2,
@@ -780,28 +822,7 @@
       }
     },
     {
-      "rank": 10,
-      "points": 6,
-      "matchesPlayed": 3,
-      "matchesWon": 2,
-      "matchesDrawn": 0,
-      "matchesLost": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 3,
-      "goalDifference": 1,
-      "team": {
-        "id": "Gimnasia",
-        "color": "#121731",
-        "colorSecondary": "#00AFEF",
-        "name": "Gimnasia (LP)",
-        "shortName": "GLP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "points": 5,
       "matchesPlayed": 3,
       "matchesWon": 1,
@@ -822,7 +843,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "points": 5,
       "matchesPlayed": 3,
       "matchesWon": 1,
@@ -843,7 +864,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "points": 5,
       "matchesPlayed": 4,
       "matchesWon": 1,
@@ -860,27 +881,6 @@
         "shortName": "ROS",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
-      "points": 4,
-      "matchesPlayed": 3,
-      "matchesWon": 1,
-      "matchesDrawn": 1,
-      "matchesLost": 1,
-      "goalsFor": 3,
-      "goalsAgainst": 1,
-      "goalDifference": 2,
-      "team": {
-        "id": "Racing-Club",
-        "color": "#009DDB",
-        "colorSecondary": "#FFFFFF",
-        "name": "Racing Club",
-        "shortName": "RAC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
         "league": "LPF"
       }
     },
@@ -1018,27 +1018,6 @@
       "matchesDrawn": 2,
       "matchesLost": 1,
       "goalsFor": 1,
-      "goalsAgainst": 3,
-      "goalDifference": -2,
-      "team": {
-        "id": "San-Lorenzo",
-        "color": "#BF1B27",
-        "colorSecondary": "#263D54",
-        "name": "San Lorenzo",
-        "shortName": "SL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 8,
-      "points": 2,
-      "matchesPlayed": 3,
-      "matchesWon": 0,
-      "matchesDrawn": 2,
-      "matchesLost": 1,
-      "goalsFor": 1,
       "goalsAgainst": 4,
       "goalDifference": -3,
       "team": {
@@ -1053,7 +1032,49 @@
       }
     },
     {
+      "rank": 8,
+      "points": 2,
+      "matchesPlayed": 4,
+      "matchesWon": 0,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "goalDifference": -3,
+      "team": {
+        "id": "San-Lorenzo",
+        "color": "#BF1B27",
+        "colorSecondary": "#263D54",
+        "name": "San Lorenzo",
+        "shortName": "SL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
       "rank": 9,
+      "points": 2,
+      "matchesPlayed": 4,
+      "matchesWon": 0,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 1,
+      "goalsAgainst": 7,
+      "goalDifference": -6,
+      "team": {
+        "id": "Velez",
+        "color": "#0063A8",
+        "colorSecondary": "#FFFFFF",
+        "name": "Velez",
+        "shortName": "VEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 10,
       "points": 1,
       "matchesPlayed": 3,
       "matchesWon": 0,
@@ -1074,7 +1095,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "points": 1,
       "matchesPlayed": 3,
       "matchesWon": 0,
@@ -1095,7 +1116,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "points": 1,
       "matchesPlayed": 3,
       "matchesWon": 0,
@@ -1112,27 +1133,6 @@
         "shortName": "BAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 12,
-      "points": 1,
-      "matchesPlayed": 3,
-      "matchesWon": 0,
-      "matchesDrawn": 1,
-      "matchesLost": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 7,
-      "goalDifference": -6,
-      "team": {
-        "id": "Velez",
-        "color": "#0063A8",
-        "colorSecondary": "#FFFFFF",
-        "name": "Velez",
-        "shortName": "VEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
         "league": "LPF"
       }
     },
