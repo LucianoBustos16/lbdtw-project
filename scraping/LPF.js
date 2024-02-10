@@ -56,7 +56,9 @@ export async function getLeaderBoardLPF ($) {
         });
       // Divide el array LPF en dos arrays: zonaA y zonaB
       const zonaA = LPF.slice(0, 14);
-      const zonaB = LPF.slice(14);
+      const zonaB = LPF.slice(14, 28);
+
+      console.log(zonaA, zonaB)
 
       return { zonaA, zonaB };
       };

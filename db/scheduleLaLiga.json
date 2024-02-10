@@ -6558,9 +6558,9 @@
     "fecha": 24,
     "matches": [
       {
-        "formattedDate": "9 Feb",
-        "timestamp": 1675969200000,
-        "hourMatch": "16:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Cadiz",
@@ -6583,7 +6583,7 @@
             "league": "LaLiga"
           }
         ],
-        "score": "00"
+        "score": "0-2"
       },
       {
         "formattedDate": "10 Feb",
@@ -7413,65 +7413,9 @@
     "fecha": 27,
     "matches": [
       {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Athletic-Bilbao",
-            "name": "Athletic Bilbao",
-            "shortName": "ATH",
-            "color": "#E2231A",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Barcelona",
-            "name": "Barcelona",
-            "shortName": "BAR",
-            "color": "#004B95",
-            "colorSecondary": "#A4234B",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Atletico-Madrid",
-            "name": "Atletico Madrid",
-            "shortName": "ATM",
-            "color": "#CB3524",
-            "colorSecondary": "#272E61",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Betis",
-            "name": "Betis",
-            "shortName": "BET",
-            "color": "#008835",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
+        "formattedDate": "1 Mar",
+        "timestamp": 1677697200000,
+        "hourMatch": "16:00",
         "teams": [
           {
             "id": "Celta",
@@ -7497,121 +7441,9 @@
         "score": "00"
       },
       {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Getafe",
-            "name": "Getafe",
-            "shortName": "GET",
-            "color": "#00369e",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Las-Palmas",
-            "name": "Las Palmas",
-            "shortName": "PAL",
-            "color": "#002246",
-            "colorSecondary": "#ffe715",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Mallorca",
-            "name": "Mallorca",
-            "shortName": "MALL",
-            "color": "#cd1609 ",
-            "colorSecondary": "#000",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Girona",
-            "name": "Girona",
-            "shortName": "GIR",
-            "color": "#E51636",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Osasuna",
-            "name": "Osasuna",
-            "shortName": "OSA",
-            "color": "#b4001d ",
-            "colorSecondary": "#14213d",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Alaves",
-            "name": "Alaves",
-            "shortName": "ALV",
-            "color": "#002246",
-            "colorSecondary": "#ffe715",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
-        "teams": [
-          {
-            "id": "Rayo-Vallecano",
-            "name": "Rayo Vallecano",
-            "shortName": "RYV",
-            "color": "#e21921 ",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Cadiz",
-            "name": "Cadiz",
-            "shortName": "CAD",
-            "color": "#EEEF28",
-            "colorSecondary": "#346DBE",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
+        "formattedDate": "2 Mar",
+        "timestamp": 1677758400000,
+        "hourMatch": "09:00",
         "teams": [
           {
             "id": "Sevilla",
@@ -7637,9 +7469,65 @@
         "score": "00"
       },
       {
-        "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
+        "formattedDate": "2 Mar",
+        "timestamp": 1677766500000,
+        "hourMatch": "11:15",
+        "teams": [
+          {
+            "id": "Rayo-Vallecano",
+            "name": "Rayo Vallecano",
+            "shortName": "RYV",
+            "color": "#e21921 ",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Cadiz",
+            "name": "Cadiz",
+            "shortName": "CAD",
+            "color": "#EEEF28",
+            "colorSecondary": "#346DBE",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Cadiz.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Cadiz-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "15"
+      },
+      {
+        "formattedDate": "2 Mar",
+        "timestamp": 1677774600000,
+        "hourMatch": "13:30",
+        "teams": [
+          {
+            "id": "Getafe",
+            "name": "Getafe",
+            "shortName": "GET",
+            "color": "#00369e",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Las-Palmas",
+            "name": "Las Palmas",
+            "shortName": "PAL",
+            "color": "#002246",
+            "colorSecondary": "#ffe715",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "2 Mar",
+        "timestamp": 1677783600000,
+        "hourMatch": "16:00",
         "teams": [
           {
             "id": "Valencia",
@@ -7666,8 +7554,8 @@
       },
       {
         "formattedDate": "3 Mar",
-        "timestamp": 1677855600000,
-        "hourMatch": "12:00",
+        "timestamp": 1677844800000,
+        "hourMatch": "09:00",
         "teams": [
           {
             "id": "Villarreal",
@@ -7687,6 +7575,118 @@
             "colorSecondary": "#ffe715",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "3 Mar",
+        "timestamp": 1677852900000,
+        "hourMatch": "11:15",
+        "teams": [
+          {
+            "id": "Atletico-Madrid",
+            "name": "Atletico Madrid",
+            "shortName": "ATM",
+            "color": "#CB3524",
+            "colorSecondary": "#272E61",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Betis",
+            "name": "Betis",
+            "shortName": "BET",
+            "color": "#008835",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "15"
+      },
+      {
+        "formattedDate": "3 Mar",
+        "timestamp": 1677861000000,
+        "hourMatch": "13:30",
+        "teams": [
+          {
+            "id": "Mallorca",
+            "name": "Mallorca",
+            "shortName": "MALL",
+            "color": "#cd1609 ",
+            "colorSecondary": "#000",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Girona",
+            "name": "Girona",
+            "shortName": "GIR",
+            "color": "#E51636",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "3 Mar",
+        "timestamp": 1677870000000,
+        "hourMatch": "16:00",
+        "teams": [
+          {
+            "id": "Athletic-Bilbao",
+            "name": "Athletic Bilbao",
+            "shortName": "ATH",
+            "color": "#E2231A",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Barcelona",
+            "name": "Barcelona",
+            "shortName": "BAR",
+            "color": "#004B95",
+            "colorSecondary": "#A4234B",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "4 Mar",
+        "timestamp": 1677956400000,
+        "hourMatch": "16:00",
+        "teams": [
+          {
+            "id": "Osasuna",
+            "name": "Osasuna",
+            "shortName": "OSA",
+            "color": "#b4001d ",
+            "colorSecondary": "#14213d",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Alaves",
+            "name": "Alaves",
+            "shortName": "ALV",
+            "color": "#002246",
+            "colorSecondary": "#ffe715",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
             "league": "LaLiga"
           }
         ],

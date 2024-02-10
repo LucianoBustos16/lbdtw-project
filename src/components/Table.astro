@@ -4,14 +4,20 @@
 
 import { findLeaderboardBy } from '@services/leaderboardAuto.js'
 
-const { shortName, league } = Astro.props
-
+const { shortName, league, nameZona } = Astro.props
 const leaderboard = await findLeaderboardBy({shortName})
+
+const zonaA = leaderboard["zonaA"];
 ---
 
-<div class="relative overflow-x-auto shadow-md rounded-2xl">
-    <table class="w-full text-sm text-center text-gray-500">
-        <thead class="text-xs text-gray-700 bg-white">
+
+{
+    Object.keys(leaderboard).map((zona) => (
+    <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+        <h2>Zona {zona}</h2>
+
+        <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+            <thead class="text-xs text-gray-700 bg-white">
             <tr>
                 <th scope="col" class="px-2 py-3">
                     #
@@ -46,52 +52,55 @@ const leaderboard = await findLeaderboardBy({shortName})
             </tr>
         </thead>
         <tbody>
+        
 
-            {leaderboard.map(({ team, rank, points, matchesPlayed, matchesWon, matchesDrawn, matchesLost, goalsFor, goalsAgainst, goalDifference }) => (
+          {leaderboard[zona].map((team) => (
             <tr class={`bg-white border-b  hover:bg-gray-50 `}>
                 <th scope="row" class="px-2 py-4 font-bold text-teal-600">
                     <div class="font-normal text-gray-500 text-center">
-                        {rank}
+                        {team.rank}
                     </div>
                 </th>
                 <th scope="row" class=" px-2 py-4 text-gray-900 whitespace-nowrap">
                     <a
-                        href={`/equipos/${team.id}`}
+                        href={`/equipos/${team.team.id}`}
                         class="flex gap-1 items-center group transition-all hover:scale-105"
                     >
-                    <img src={team.image} alt={`Escudo de ${team.name}`} class=" w-6" width="24" height="24">
-                    <div class="font-normal hidden md:block">{team.name}</div>
-                    <div class="font-normal md:hidden">{team.shortName}</div>
+                    <img src={team.team.image} alt={`Escudo de ${team.team.name}`} class=" w-6" width="24" height="24">
+                    <div class="font-normal hidden md:block">{team.team.name}</div>
+                    <div class="font-normal md:hidden">{team.team.shortName}</div>
                     </a>
                 </th>
                 <th scope="row" class="px-2 py-4 font-black text-teal-600">
-                    {points}
+                    {team.points}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {matchesPlayed}
+                    {team.matchesPlayed}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {matchesWon}
+                    {team.matchesWon}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {matchesDrawn}
+                    {team.matchesDrawn}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {matchesLost}
+                    {team.matchesLost}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {goalsFor}
+                    {team.goalsFor}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {goalsAgainst}
+                    {team.goalsAgainst}
                 </th>
                 <th scope="row" class="font-normal px-2 py-4 text-gray-900 whitespace-nowrap">
-                    {goalDifference}
+                    {team.goalDifference}
                 </th>
             </tr>
-            ))}
+          ))}
 
-
-        </tbody>
-    </table>
-</div>
+          </tbody>
+          </table>
+      </div>
+    ))
+  }
+  
