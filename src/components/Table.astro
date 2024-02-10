@@ -4,17 +4,22 @@
 
 import { findLeaderboardBy } from '@services/leaderboardAuto.js'
 
+interface Props {
+	nameZona?: string;
+    shortName: string;
+}
+
 const { shortName, league, nameZona } = Astro.props
 const leaderboard = await findLeaderboardBy({shortName})
 
-const zonaA = leaderboard["zonaA"];
+
+
+const zona = leaderboard[`${nameZona}`];
+
 ---
 
-
-{
-    Object.keys(leaderboard).map((zona) => (
     <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
-        <h2>Zona {zona}</h2>
+        <h2>Zona</h2>
 
         <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
             <thead class="text-xs text-gray-700 bg-white">
@@ -54,7 +59,7 @@ const zonaA = leaderboard["zonaA"];
         <tbody>
         
 
-          {leaderboard[zona].map((team) => (
+            {zona.map((team, index) => (
             <tr class={`bg-white border-b  hover:bg-gray-50 `}>
                 <th scope="row" class="px-2 py-4 font-bold text-teal-600">
                     <div class="font-normal text-gray-500 text-center">
@@ -101,6 +106,4 @@ const zonaA = leaderboard["zonaA"];
           </tbody>
           </table>
       </div>
-    ))
-  }
   
