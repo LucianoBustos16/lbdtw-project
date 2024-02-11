@@ -190,14 +190,14 @@
   },
   {
     "rank": 10,
-    "points": 31,
+    "points": 33,
     "matchesPlayed": 24,
-    "matchesWon": 7,
-    "matchesDrawn": 10,
+    "matchesWon": 8,
+    "matchesDrawn": 9,
     "matchesLost": 7,
-    "goalsFor": 29,
+    "goalsFor": 30,
     "goalsAgainst": 31,
-    "goalDifference": -2,
+    "goalDifference": -1,
     "team": {
       "id": "Getafe",
       "color": "#00369e",
@@ -295,27 +295,6 @@
   },
   {
     "rank": 15,
-    "points": 21,
-    "matchesPlayed": 24,
-    "matchesWon": 4,
-    "matchesDrawn": 9,
-    "matchesLost": 11,
-    "goalsFor": 24,
-    "goalsAgainst": 32,
-    "goalDifference": -8,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
     "points": 20,
     "matchesPlayed": 23,
     "matchesWon": 4,
@@ -332,6 +311,27 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 20,
+    "matchesPlayed": 24,
+    "matchesWon": 4,
+    "matchesDrawn": 8,
+    "matchesLost": 12,
+    "goalsFor": 24,
+    "goalsAgainst": 33,
+    "goalDifference": -9,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
       "league": "LaLiga"
     }
   },
