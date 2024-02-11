@@ -405,6 +405,27 @@
       "rank": 6,
       "points": 6,
       "matchesPlayed": 4,
+      "matchesWon": 2,
+      "matchesDrawn": 0,
+      "matchesLost": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 3,
+      "goalDifference": 2,
+      "team": {
+        "id": "Lanus",
+        "color": "#7A1D2D",
+        "colorSecondary": "#FFFFFF",
+        "name": "Lanus",
+        "shortName": "LAN",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 7,
+      "points": 6,
+      "matchesPlayed": 4,
       "matchesWon": 1,
       "matchesDrawn": 3,
       "matchesLost": 0,
@@ -419,27 +440,6 @@
         "shortName": "CABJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 7,
-      "points": 6,
-      "matchesPlayed": 4,
-      "matchesWon": 2,
-      "matchesDrawn": 0,
-      "matchesLost": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 3,
-      "goalDifference": 1,
-      "team": {
-        "id": "Lanus",
-        "color": "#7A1D2D",
-        "colorSecondary": "#FFFFFF",
-        "name": "Lanus",
-        "shortName": "LAN",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
         "league": "LPF"
       }
     },
@@ -472,8 +472,8 @@
       "matchesDrawn": 1,
       "matchesLost": 2,
       "goalsFor": 1,
-      "goalsAgainst": 5,
-      "goalDifference": -4,
+      "goalsAgainst": 6,
+      "goalDifference": -5,
       "team": {
         "id": "Platense",
         "color": "#633B1B",
