@@ -319,14 +319,14 @@
     },
     {
       "rank": 2,
-      "points": 10,
+      "points": 12,
       "matchesPlayed": 4,
-      "matchesWon": 3,
-      "matchesDrawn": 1,
+      "matchesWon": 4,
+      "matchesDrawn": 0,
       "matchesLost": 0,
-      "goalsFor": 5,
+      "goalsFor": 6,
       "goalsAgainst": 0,
-      "goalDifference": 5,
+      "goalDifference": 6,
       "team": {
         "id": "Godoy-Cruz",
         "color": "#2670CA",
@@ -492,9 +492,9 @@
       "matchesWon": 1,
       "matchesDrawn": 0,
       "matchesLost": 3,
-      "goalsFor": 1,
+      "goalsFor": 2,
       "goalsAgainst": 4,
-      "goalDifference": -3,
+      "goalDifference": -2,
       "team": {
         "id": "Central-Cordoba",
         "color": "#000",
@@ -514,8 +514,8 @@
       "matchesDrawn": 2,
       "matchesLost": 2,
       "goalsFor": 3,
-      "goalsAgainst": 5,
-      "goalDifference": -2,
+      "goalsAgainst": 6,
+      "goalDifference": -3,
       "team": {
         "id": "Sarmiento",
         "color": "#008349",
@@ -534,27 +534,6 @@
       "matchesWon": 0,
       "matchesDrawn": 2,
       "matchesLost": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 3,
-      "goalDifference": -2,
-      "team": {
-        "id": "Belgrano",
-        "color": "#3A9CD0",
-        "colorSecondary": "#1D1D1B",
-        "name": "Belgrano",
-        "shortName": "BEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 13,
-      "points": 2,
-      "matchesPlayed": 4,
-      "matchesWon": 0,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
       "goalsFor": 2,
       "goalsAgainst": 7,
       "goalDifference": -5,
@@ -566,6 +545,27 @@
         "shortName": "SL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 13,
+      "points": 1,
+      "matchesPlayed": 4,
+      "matchesWon": 0,
+      "matchesDrawn": 1,
+      "matchesLost": 3,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "goalDifference": -3,
+      "team": {
+        "id": "Belgrano",
+        "color": "#3A9CD0",
+        "colorSecondary": "#1D1D1B",
+        "name": "Belgrano",
+        "shortName": "BEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
         "league": "LPF"
       }
     },
