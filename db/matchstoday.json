@@ -36,7 +36,7 @@
         ]
       },
       {
-        "hour": "83' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "6.png",
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "hour": "21:30  ",
+        "hour": "45+4' ",
         "teams": [
           {
             "localImgId": "26.png",
@@ -83,7 +83,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "10.png",
@@ -97,12 +97,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
       {
-        "hour": "21:30  ",
+        "hour": "E. T. ",
         "teams": [
           {
             "localImgId": "78.png",
@@ -116,7 +116,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "81.png",
@@ -130,7 +130,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -215,32 +215,32 @@
         ]
       },
       {
-        "hour": "21:15  ",
+        "hour": "45+2' ",
         "teams": [
           {
             "localImgId": "23.png",
             "name": "Alte Brown",
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "90.png",
             "name": "Tristan Suarez",
-            "visitantScore": ""
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "21:45  ",
+        "hour": "26' ",
         "teams": [
           {
             "localImgId": "83.png",
             "name": "Brown (A)",
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "76.png",
             "name": "Temperley",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -743,7 +743,7 @@
         ]
       },
       {
-        "hour": "75' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "386.png",
@@ -753,6 +753,256 @@
           {
             "visitantImgId": "124.png",
             "name": "Ituzaingo",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Francia",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "642.png",
+            "name": "Lens",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "701.png",
+            "name": "RC Strasbourg",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "652.png",
+            "name": "PSG",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "643.png",
+            "name": "Lille",
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1720.png",
+            "name": "Excelsior",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "1072.png",
+            "name": "Twente",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1812.png",
+            "name": "Almere City",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "985.png",
+            "name": "AZ Alkmaar",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1292.png",
+            "name": "Heracles",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1325.png",
+            "name": "Vitesse",
+            "visitantScore": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "881.png",
+            "name": "La Equidad",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "875.png",
+            "name": "Dep. Tolima",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1333.png",
+            "name": "Bucaramanga",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "880.png",
+            "name": "Once Caldas",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "22:20  ",
+        "teams": [
+          {
+            "localImgId": "759.png",
+            "name": "Ind. Medellin",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "735.png",
+            "name": "Ind. Santa Fe",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "736.png",
+            "name": "Guarani (P)",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "1702.png",
+            "name": "Sp. Ameliano",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "73' ",
+        "teams": [
+          {
+            "localImgId": "575.png",
+            "name": "Olimpia",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "1700.png",
+            "name": "Gral Caballero",
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "907.png",
+            "name": "Tijuana",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "904.png",
+            "name": "Queretaro",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "901.png",
+            "name": "Necaxa",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "908.png",
+            "name": "Toluca",
+            "visitantScore": "3"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "844.png",
+            "name": "Guadalajara",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "970.png",
+            "name": "FC Juarez",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "16' ",
+        "teams": [
+          {
+            "localImgId": "897.png",
+            "name": "Leon FC",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "688.png",
+            "name": "America",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "12' ",
+        "teams": [
+          {
+            "localImgId": "896.png",
+            "name": "Cruz Azul",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "941.png",
+            "name": "Atl. San Luis",
             "visitantScore": "0"
           }
         ]
