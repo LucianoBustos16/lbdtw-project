@@ -16,6 +16,7 @@ const {
 
             { teams
             .filter(team => team.league === `${league}`)
+            .sort((a, b) => a.name.localeCompare(b.name))
             .map((team) => {
                 const {image, id, name} = team
                 return(
