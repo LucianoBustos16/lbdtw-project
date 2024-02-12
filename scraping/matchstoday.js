@@ -42,7 +42,7 @@ const SELECTORS = {
 	matchs: '#partidos #fixturein',
 	competition: '.tituloin',
 	partido: 'tbody tr:not(:first-child):not(.tituloin):not(.goles):not(.choy)',
-	hour: 'tr:not(:first-child):not(.tituloin):not(.goles) td:first-child',
+	hour: 'tr:not(:first-child):not(.tituloin):not(.goles):not(.choy) td:first-child',
 	locals: 'td:nth-child(2) .datoequipo',
 	localsImages: 'td:nth-child(2) img:last-of-type',
 	localScore: 'tbody tr:not(:first-child):not(.tituloin):not(.goles) .game-r1',
