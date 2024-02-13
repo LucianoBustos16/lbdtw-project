@@ -298,6 +298,27 @@
   "zonaB": [
     {
       "rank": 1,
+      "points": 13,
+      "matchesPlayed": 5,
+      "matchesWon": 4,
+      "matchesDrawn": 1,
+      "matchesLost": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 0,
+      "goalDifference": 5,
+      "team": {
+        "id": "Estudiantes",
+        "color": "#E41815",
+        "colorSecondary": "#FFF",
+        "name": "Estudiantes (LP)",
+        "shortName": "EST",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 12,
       "matchesPlayed": 4,
       "matchesWon": 4,
@@ -318,7 +339,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "points": 12,
       "matchesPlayed": 5,
       "matchesWon": 4,
@@ -339,7 +360,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 10,
       "matchesPlayed": 5,
       "matchesWon": 3,
@@ -356,27 +377,6 @@
         "shortName": "RAC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 10,
-      "matchesPlayed": 4,
-      "matchesWon": 3,
-      "matchesDrawn": 1,
-      "matchesLost": 0,
-      "goalsFor": 4,
-      "goalsAgainst": 0,
-      "goalDifference": 4,
-      "team": {
-        "id": "Estudiantes",
-        "color": "#E41815",
-        "colorSecondary": "#FFF",
-        "name": "Estudiantes (LP)",
-        "shortName": "EST",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
         "league": "LPF"
       }
     },
@@ -530,13 +530,13 @@
     {
       "rank": 12,
       "points": 2,
-      "matchesPlayed": 4,
+      "matchesPlayed": 5,
       "matchesWon": 0,
       "matchesDrawn": 2,
-      "matchesLost": 2,
+      "matchesLost": 3,
       "goalsFor": 2,
-      "goalsAgainst": 7,
-      "goalDifference": -5,
+      "goalsAgainst": 8,
+      "goalDifference": -6,
       "team": {
         "id": "San-Lorenzo",
         "color": "#BF1B27",
