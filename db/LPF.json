@@ -382,10 +382,10 @@
     },
     {
       "rank": 5,
-      "points": 7,
-      "matchesPlayed": 4,
+      "points": 8,
+      "matchesPlayed": 5,
       "matchesWon": 2,
-      "matchesDrawn": 1,
+      "matchesDrawn": 2,
       "matchesLost": 1,
       "goalsFor": 6,
       "goalsAgainst": 4,
@@ -403,10 +403,10 @@
     },
     {
       "rank": 6,
-      "points": 6,
-      "matchesPlayed": 4,
+      "points": 7,
+      "matchesPlayed": 5,
       "matchesWon": 2,
-      "matchesDrawn": 0,
+      "matchesDrawn": 1,
       "matchesLost": 2,
       "goalsFor": 5,
       "goalsAgainst": 3,
@@ -514,27 +514,6 @@
       "matchesDrawn": 3,
       "matchesLost": 2,
       "goalsFor": 3,
-      "goalsAgainst": 8,
-      "goalDifference": -5,
-      "team": {
-        "id": "San-Lorenzo",
-        "color": "#BF1B27",
-        "colorSecondary": "#263D54",
-        "name": "San Lorenzo",
-        "shortName": "SL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 12,
-      "points": 2,
-      "matchesPlayed": 4,
-      "matchesWon": 0,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
-      "goalsFor": 3,
       "goalsAgainst": 7,
       "goalDifference": -4,
       "team": {
@@ -549,7 +528,49 @@
       }
     },
     {
+      "rank": 12,
+      "points": 3,
+      "matchesPlayed": 5,
+      "matchesWon": 0,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
+      "goalsFor": 3,
+      "goalsAgainst": 8,
+      "goalDifference": -5,
+      "team": {
+        "id": "San-Lorenzo",
+        "color": "#BF1B27",
+        "colorSecondary": "#263D54",
+        "name": "San Lorenzo",
+        "shortName": "SL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
       "rank": 13,
+      "points": 2,
+      "matchesPlayed": 5,
+      "matchesWon": 0,
+      "matchesDrawn": 2,
+      "matchesLost": 3,
+      "goalsFor": 0,
+      "goalsAgainst": 7,
+      "goalDifference": -7,
+      "team": {
+        "id": "Tigre",
+        "color": "#1E448D",
+        "colorSecondary": "#ED2A3C",
+        "name": "Tigre",
+        "shortName": "TIG",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 14,
       "points": 1,
       "matchesPlayed": 4,
       "matchesWon": 0,
@@ -566,27 +587,6 @@
         "shortName": "BEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
-      "points": 1,
-      "matchesPlayed": 4,
-      "matchesWon": 0,
-      "matchesDrawn": 1,
-      "matchesLost": 3,
-      "goalsFor": 0,
-      "goalsAgainst": 7,
-      "goalDifference": -7,
-      "team": {
-        "id": "Tigre",
-        "color": "#1E448D",
-        "colorSecondary": "#ED2A3C",
-        "name": "Tigre",
-        "shortName": "TIG",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
         "league": "LPF"
       }
     }
