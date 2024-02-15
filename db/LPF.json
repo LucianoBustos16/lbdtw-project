@@ -191,6 +191,27 @@
     },
     {
       "rank": 10,
+      "points": 5,
+      "matchesPlayed": 5,
+      "matchesWon": 1,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 4,
+      "goalsAgainst": 8,
+      "goalDifference": -4,
+      "team": {
+        "id": "Velez",
+        "color": "#0063A8",
+        "colorSecondary": "#FFFFFF",
+        "name": "Velez",
+        "shortName": "VEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 11,
       "points": 4,
       "matchesPlayed": 5,
       "matchesWon": 1,
@@ -207,27 +228,6 @@
         "shortName": "HUR",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 11,
-      "points": 4,
-      "matchesPlayed": 4,
-      "matchesWon": 1,
-      "matchesDrawn": 1,
-      "matchesLost": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 8,
-      "goalDifference": -4,
-      "team": {
-        "id": "Velez",
-        "color": "#0063A8",
-        "colorSecondary": "#FFFFFF",
-        "name": "Velez",
-        "shortName": "VEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
         "league": "LPF"
       }
     },
@@ -275,10 +275,10 @@
     },
     {
       "rank": 14,
-      "points": 1,
-      "matchesPlayed": 4,
+      "points": 2,
+      "matchesPlayed": 5,
       "matchesWon": 0,
-      "matchesDrawn": 1,
+      "matchesDrawn": 2,
       "matchesLost": 3,
       "goalsFor": 0,
       "goalsAgainst": 6,
