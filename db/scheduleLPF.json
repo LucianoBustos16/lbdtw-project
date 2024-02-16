@@ -2670,6 +2670,34 @@
         "hourMatch": "19:00",
         "teams": [
           {
+            "id": "Argentinos",
+            "name": "Argentinos",
+            "shortName": "ARGJ",
+            "color": "#E32021",
+            "colorSecondary": "#00569D",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Platense",
+            "name": "Platense",
+            "shortName": "PLA",
+            "color": "#633B1B",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "26 Feb",
+        "timestamp": 1677449700000,
+        "hourMatch": "19:15",
+        "teams": [
+          {
             "id": "Defensa-y-Justicia",
             "name": "Def y Justicia",
             "shortName": "DYJ",
@@ -2690,31 +2718,31 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "15"
       },
       {
         "formattedDate": "26 Feb",
-        "timestamp": 1677450600000,
-        "hourMatch": "19:30",
+        "timestamp": 1677457800000,
+        "hourMatch": "21:30",
         "teams": [
           {
-            "id": "Argentinos",
-            "name": "Argentinos",
-            "shortName": "ARGJ",
-            "color": "#E32021",
-            "colorSecondary": "#00569D",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+            "id": "Central-Cordoba",
+            "name": "Central Cba (SdE)",
+            "shortName": "CSE",
+            "color": "#000",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
             "league": "LPF"
           },
           {
-            "id": "Platense",
-            "name": "Platense",
-            "shortName": "PLA",
-            "color": "#633B1B",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+            "id": "Atletico-Tucuman",
+            "name": "Atl Tucuman",
+            "shortName": "TUC",
+            "color": "#71AFDB",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
             "league": "LPF"
           }
         ],
@@ -2747,34 +2775,6 @@
           }
         ],
         "score": "30"
-      },
-      {
-        "formattedDate": "26 Feb",
-        "timestamp": 1677458700000,
-        "hourMatch": "21:45",
-        "teams": [
-          {
-            "id": "Central-Cordoba",
-            "name": "Central Cba (SdE)",
-            "shortName": "CSE",
-            "color": "#000",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Atletico-Tucuman",
-            "name": "Atl Tucuman",
-            "shortName": "TUC",
-            "color": "#71AFDB",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "45"
       }
     ]
   },
