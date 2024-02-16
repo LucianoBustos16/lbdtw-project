@@ -46,6 +46,27 @@
       "rank": 3,
       "points": 9,
       "matchesPlayed": 5,
+      "matchesWon": 2,
+      "matchesDrawn": 3,
+      "matchesLost": 0,
+      "goalsFor": 7,
+      "goalsAgainst": 2,
+      "goalDifference": 5,
+      "team": {
+        "id": "Instituto",
+        "color": "#E0312B",
+        "colorSecondary": "#FFFFFF",
+        "name": "Instituto",
+        "shortName": "IACC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
+      "points": 9,
+      "matchesPlayed": 5,
       "matchesWon": 3,
       "matchesDrawn": 0,
       "matchesLost": 2,
@@ -60,27 +81,6 @@
         "shortName": "GLP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 8,
-      "matchesPlayed": 4,
-      "matchesWon": 2,
-      "matchesDrawn": 2,
-      "matchesLost": 0,
-      "goalsFor": 7,
-      "goalsAgainst": 2,
-      "goalDifference": 5,
-      "team": {
-        "id": "Instituto",
-        "color": "#E0312B",
-        "colorSecondary": "#FFFFFF",
-        "name": "Instituto",
-        "shortName": "IACC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
         "league": "LPF"
       }
     },
@@ -154,27 +154,6 @@
       "matchesWon": 2,
       "matchesDrawn": 1,
       "matchesLost": 2,
-      "goalsFor": 6,
-      "goalsAgainst": 9,
-      "goalDifference": -3,
-      "team": {
-        "id": "Velez",
-        "color": "#0063A8",
-        "colorSecondary": "#FFFFFF",
-        "name": "Velez",
-        "shortName": "VEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 9,
-      "points": 6,
-      "matchesPlayed": 4,
-      "matchesWon": 2,
-      "matchesDrawn": 0,
-      "matchesLost": 2,
       "goalsFor": 5,
       "goalsAgainst": 4,
       "goalDifference": 1,
@@ -186,6 +165,27 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 9,
+      "points": 7,
+      "matchesPlayed": 5,
+      "matchesWon": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 9,
+      "goalDifference": -3,
+      "team": {
+        "id": "Velez",
+        "color": "#0063A8",
+        "colorSecondary": "#FFFFFF",
+        "name": "Velez",
+        "shortName": "VEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
         "league": "LPF"
       }
     },
