@@ -191,13 +191,13 @@
   {
     "rank": 10,
     "points": 33,
-    "matchesPlayed": 24,
+    "matchesPlayed": 25,
     "matchesWon": 8,
     "matchesDrawn": 9,
-    "matchesLost": 7,
+    "matchesLost": 8,
     "goalsFor": 32,
-    "goalsAgainst": 33,
-    "goalDifference": -1,
+    "goalsAgainst": 34,
+    "goalDifference": -2,
     "team": {
       "id": "Getafe",
       "color": "#00369e",
@@ -232,6 +232,27 @@
   },
   {
     "rank": 12,
+    "points": 28,
+    "matchesPlayed": 25,
+    "matchesWon": 7,
+    "matchesDrawn": 7,
+    "matchesLost": 11,
+    "goalsFor": 35,
+    "goalsAgainst": 46,
+    "goalDifference": -11,
+    "team": {
+      "id": "Villarreal",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Villarreal",
+      "shortName": "VIL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
     "points": 27,
     "matchesPlayed": 24,
     "matchesWon": 7,
@@ -248,27 +269,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 25,
-    "matchesPlayed": 24,
-    "matchesWon": 6,
-    "matchesDrawn": 7,
-    "matchesLost": 11,
-    "goalsFor": 34,
-    "goalsAgainst": 46,
-    "goalDifference": -12,
-    "team": {
-      "id": "Villarreal",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Villarreal",
-      "shortName": "VIL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
       "league": "LaLiga"
     }
   },
