@@ -298,10 +298,10 @@
   "zonaB": [
     {
       "rank": 1,
-      "points": 13,
-      "matchesPlayed": 5,
+      "points": 14,
+      "matchesPlayed": 6,
       "matchesWon": 4,
-      "matchesDrawn": 1,
+      "matchesDrawn": 2,
       "matchesLost": 0,
       "goalsFor": 6,
       "goalsAgainst": 0,
@@ -341,6 +341,27 @@
     {
       "rank": 3,
       "points": 11,
+      "matchesPlayed": 6,
+      "matchesWon": 3,
+      "matchesDrawn": 2,
+      "matchesLost": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 2,
+      "goalDifference": 9,
+      "team": {
+        "id": "Racing-Club",
+        "color": "#009DDB",
+        "colorSecondary": "#FFFFFF",
+        "name": "Racing Club",
+        "shortName": "RAC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
+      "points": 11,
       "matchesPlayed": 5,
       "matchesWon": 3,
       "matchesDrawn": 2,
@@ -356,27 +377,6 @@
         "shortName": "EST",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 10,
-      "matchesPlayed": 5,
-      "matchesWon": 3,
-      "matchesDrawn": 1,
-      "matchesLost": 1,
-      "goalsFor": 11,
-      "goalsAgainst": 2,
-      "goalDifference": 9,
-      "team": {
-        "id": "Racing-Club",
-        "color": "#009DDB",
-        "colorSecondary": "#FFFFFF",
-        "name": "Racing Club",
-        "shortName": "RAC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
         "league": "LPF"
       }
     },
