@@ -487,6 +487,27 @@
     },
     {
       "rank": 10,
+      "points": 4,
+      "matchesPlayed": 6,
+      "matchesWon": 0,
+      "matchesDrawn": 4,
+      "matchesLost": 2,
+      "goalsFor": 3,
+      "goalsAgainst": 8,
+      "goalDifference": -5,
+      "team": {
+        "id": "San-Lorenzo",
+        "color": "#BF1B27",
+        "colorSecondary": "#263D54",
+        "name": "San Lorenzo",
+        "shortName": "SL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 11,
       "points": 3,
       "matchesPlayed": 5,
       "matchesWon": 1,
@@ -503,27 +524,6 @@
         "shortName": "CSE",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 11,
-      "points": 3,
-      "matchesPlayed": 5,
-      "matchesWon": 0,
-      "matchesDrawn": 3,
-      "matchesLost": 2,
-      "goalsFor": 3,
-      "goalsAgainst": 8,
-      "goalDifference": -5,
-      "team": {
-        "id": "San-Lorenzo",
-        "color": "#BF1B27",
-        "colorSecondary": "#263D54",
-        "name": "San Lorenzo",
-        "shortName": "SL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
         "league": "LPF"
       }
     },
@@ -571,10 +571,10 @@
     },
     {
       "rank": 14,
-      "points": 1,
-      "matchesPlayed": 5,
+      "points": 2,
+      "matchesPlayed": 6,
       "matchesWon": 0,
-      "matchesDrawn": 1,
+      "matchesDrawn": 2,
       "matchesLost": 4,
       "goalsFor": 0,
       "goalsAgainst": 8,
