@@ -28,8 +28,8 @@
       "matchesWon": 3,
       "matchesDrawn": 3,
       "matchesLost": 0,
-      "goalsFor": 11,
-      "goalsAgainst": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 2,
       "goalDifference": 10,
       "team": {
         "id": "River",
@@ -259,8 +259,8 @@
       "matchesWon": 0,
       "matchesDrawn": 3,
       "matchesLost": 3,
-      "goalsFor": 2,
-      "goalsAgainst": 8,
+      "goalsFor": 3,
+      "goalsAgainst": 9,
       "goalDifference": -6,
       "team": {
         "id": "Banfield",
@@ -383,6 +383,27 @@
     {
       "rank": 5,
       "points": 10,
+      "matchesPlayed": 6,
+      "matchesWon": 2,
+      "matchesDrawn": 4,
+      "matchesLost": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "goalDifference": 4,
+      "team": {
+        "id": "Boca",
+        "color": "#023F86",
+        "colorSecondary": "#F7A600",
+        "name": "Boca Juniors",
+        "shortName": "CABJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 6,
+      "points": 10,
       "matchesPlayed": 5,
       "matchesWon": 3,
       "matchesDrawn": 1,
@@ -402,32 +423,11 @@
       }
     },
     {
-      "rank": 6,
-      "points": 9,
-      "matchesPlayed": 5,
-      "matchesWon": 2,
-      "matchesDrawn": 3,
-      "matchesLost": 0,
-      "goalsFor": 5,
-      "goalsAgainst": 1,
-      "goalDifference": 4,
-      "team": {
-        "id": "Boca",
-        "color": "#023F86",
-        "colorSecondary": "#F7A600",
-        "name": "Boca Juniors",
-        "shortName": "CABJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
       "rank": 7,
-      "points": 9,
-      "matchesPlayed": 5,
+      "points": 10,
+      "matchesPlayed": 6,
       "matchesWon": 3,
-      "matchesDrawn": 0,
+      "matchesDrawn": 1,
       "matchesLost": 2,
       "goalsFor": 6,
       "goalsAgainst": 3,
