@@ -320,6 +320,27 @@
     {
       "rank": 2,
       "points": 12,
+      "matchesPlayed": 6,
+      "matchesWon": 4,
+      "matchesDrawn": 0,
+      "matchesLost": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 3,
+      "goalDifference": 4,
+      "team": {
+        "id": "Lanus",
+        "color": "#7A1D2D",
+        "colorSecondary": "#FFFFFF",
+        "name": "Lanus",
+        "shortName": "LAN",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
+      "points": 12,
       "matchesPlayed": 5,
       "matchesWon": 4,
       "matchesDrawn": 0,
@@ -339,7 +360,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 11,
       "matchesPlayed": 5,
       "matchesWon": 3,
@@ -360,7 +381,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 10,
       "matchesPlayed": 6,
       "matchesWon": 3,
@@ -377,27 +398,6 @@
         "shortName": "RAC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
-      "points": 10,
-      "matchesPlayed": 6,
-      "matchesWon": 2,
-      "matchesDrawn": 4,
-      "matchesLost": 0,
-      "goalsFor": 5,
-      "goalsAgainst": 1,
-      "goalDifference": 4,
-      "team": {
-        "id": "Boca",
-        "color": "#023F86",
-        "colorSecondary": "#F7A600",
-        "name": "Boca Juniors",
-        "shortName": "CABJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
         "league": "LPF"
       }
     },
@@ -424,22 +424,22 @@
     },
     {
       "rank": 7,
-      "points": 10,
+      "points": 9,
       "matchesPlayed": 6,
-      "matchesWon": 3,
-      "matchesDrawn": 1,
-      "matchesLost": 2,
-      "goalsFor": 6,
-      "goalsAgainst": 3,
+      "matchesWon": 2,
+      "matchesDrawn": 3,
+      "matchesLost": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 2,
       "goalDifference": 3,
       "team": {
-        "id": "Lanus",
-        "color": "#7A1D2D",
-        "colorSecondary": "#FFFFFF",
-        "name": "Lanus",
-        "shortName": "LAN",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+        "id": "Boca",
+        "color": "#023F86",
+        "colorSecondary": "#F7A600",
+        "name": "Boca Juniors",
+        "shortName": "CABJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
         "league": "LPF"
       }
     },
