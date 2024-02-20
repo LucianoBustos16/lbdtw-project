@@ -130,6 +130,27 @@
       "rank": 7,
       "points": 9,
       "matchesPlayed": 6,
+      "matchesWon": 2,
+      "matchesDrawn": 3,
+      "matchesLost": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 5,
+      "goalDifference": 3,
+      "team": {
+        "id": "Argentinos",
+        "color": "#E32021",
+        "colorSecondary": "#00569D",
+        "name": "Argentinos",
+        "shortName": "ARGJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 8,
+      "points": 9,
+      "matchesPlayed": 6,
       "matchesWon": 3,
       "matchesDrawn": 0,
       "matchesLost": 3,
@@ -144,27 +165,6 @@
         "shortName": "GLP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 8,
-      "points": 8,
-      "matchesPlayed": 5,
-      "matchesWon": 2,
-      "matchesDrawn": 2,
-      "matchesLost": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 5,
-      "goalDifference": 3,
-      "team": {
-        "id": "Argentinos",
-        "color": "#E32021",
-        "colorSecondary": "#00569D",
-        "name": "Argentinos",
-        "shortName": "ARGJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
         "league": "LPF"
       }
     },
@@ -191,10 +191,10 @@
     },
     {
       "rank": 10,
-      "points": 6,
-      "matchesPlayed": 5,
+      "points": 7,
+      "matchesPlayed": 6,
       "matchesWon": 2,
-      "matchesDrawn": 0,
+      "matchesDrawn": 1,
       "matchesLost": 3,
       "goalsFor": 5,
       "goalsAgainst": 6,
