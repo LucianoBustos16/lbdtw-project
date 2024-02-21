@@ -2418,6 +2418,34 @@
         "hourMatch": "19:30",
         "teams": [
           {
+            "id": "Belgrano",
+            "name": "Belgrano",
+            "shortName": "BEL",
+            "color": "#3A9CD0",
+            "colorSecondary": "#1D1D1B",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Talleres",
+            "name": "Talleres (C)",
+            "shortName": "CAT",
+            "color": "#00184C",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
+      },
+      {
+        "formattedDate": "24 Feb",
+        "timestamp": 1677277800000,
+        "hourMatch": "19:30",
+        "teams": [
+          {
             "id": "Huracan",
             "name": "Huracan",
             "shortName": "HUR",
@@ -2442,8 +2470,8 @@
       },
       {
         "formattedDate": "24 Feb",
-        "timestamp": 1677277800000,
-        "hourMatch": "19:30",
+        "timestamp": 1677286800000,
+        "hourMatch": "22:00",
         "teams": [
           {
             "id": "Sarmiento",
@@ -2463,34 +2491,6 @@
             "colorSecondary": "#FFF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "30"
-      },
-      {
-        "formattedDate": "24 Feb",
-        "timestamp": 1677286800000,
-        "hourMatch": "22:00",
-        "teams": [
-          {
-            "id": "Belgrano",
-            "name": "Belgrano",
-            "shortName": "BEL",
-            "color": "#3A9CD0",
-            "colorSecondary": "#1D1D1B",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Talleres",
-            "name": "Talleres (C)",
-            "shortName": "CAT",
-            "color": "#00184C",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
             "league": "LPF"
           }
         ],
