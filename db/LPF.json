@@ -2,10 +2,10 @@
   "zonaA": [
     {
       "rank": 1,
-      "points": 13,
-      "matchesPlayed": 6,
+      "points": 14,
+      "matchesPlayed": 7,
       "matchesWon": 4,
-      "matchesDrawn": 1,
+      "matchesDrawn": 2,
       "matchesLost": 1,
       "goalsFor": 5,
       "goalsAgainst": 1,
@@ -383,6 +383,27 @@
     {
       "rank": 5,
       "points": 11,
+      "matchesPlayed": 7,
+      "matchesWon": 3,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 11,
+      "goalsAgainst": 4,
+      "goalDifference": 7,
+      "team": {
+        "id": "Racing-Club",
+        "color": "#009DDB",
+        "colorSecondary": "#FFFFFF",
+        "name": "Racing Club",
+        "shortName": "RAC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 6,
+      "points": 11,
       "matchesPlayed": 6,
       "matchesWon": 3,
       "matchesDrawn": 2,
@@ -398,27 +419,6 @@
         "shortName": "DYJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
-      "points": 10,
-      "matchesPlayed": 6,
-      "matchesWon": 3,
-      "matchesDrawn": 1,
-      "matchesLost": 2,
-      "goalsFor": 11,
-      "goalsAgainst": 4,
-      "goalDifference": 7,
-      "team": {
-        "id": "Racing-Club",
-        "color": "#009DDB",
-        "colorSecondary": "#FFFFFF",
-        "name": "Racing Club",
-        "shortName": "RAC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
         "league": "LPF"
       }
     },
