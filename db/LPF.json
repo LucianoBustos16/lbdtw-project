@@ -2,14 +2,14 @@
   "zonaA": [
     {
       "rank": 1,
-      "points": 14,
+      "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 4,
-      "matchesDrawn": 2,
-      "matchesLost": 1,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
       "goalsFor": 5,
-      "goalsAgainst": 1,
-      "goalDifference": 4,
+      "goalsAgainst": 2,
+      "goalDifference": 3,
       "team": {
         "id": "Independiente",
         "color": "#EC1C24",
@@ -340,6 +340,27 @@
     },
     {
       "rank": 3,
+      "points": 13,
+      "matchesPlayed": 7,
+      "matchesWon": 4,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
+      "goalsFor": 12,
+      "goalsAgainst": 4,
+      "goalDifference": 8,
+      "team": {
+        "id": "Racing-Club",
+        "color": "#009DDB",
+        "colorSecondary": "#FFFFFF",
+        "name": "Racing Club",
+        "shortName": "RAC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
       "points": 12,
       "matchesPlayed": 6,
       "matchesWon": 4,
@@ -360,7 +381,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 12,
       "matchesPlayed": 6,
       "matchesWon": 4,
@@ -377,27 +398,6 @@
         "shortName": "NOB",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
-      "points": 11,
-      "matchesPlayed": 7,
-      "matchesWon": 3,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
-      "goalsFor": 11,
-      "goalsAgainst": 4,
-      "goalDifference": 7,
-      "team": {
-        "id": "Racing-Club",
-        "color": "#009DDB",
-        "colorSecondary": "#FFFFFF",
-        "name": "Racing Club",
-        "shortName": "RAC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
         "league": "LPF"
       }
     },
