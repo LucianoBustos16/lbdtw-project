@@ -129,6 +129,27 @@
     {
       "rank": 7,
       "points": 10,
+      "matchesPlayed": 7,
+      "matchesWon": 3,
+      "matchesDrawn": 1,
+      "matchesLost": 3,
+      "goalsFor": 9,
+      "goalsAgainst": 9,
+      "goalDifference": 0,
+      "team": {
+        "id": "Gimnasia",
+        "color": "#121731",
+        "colorSecondary": "#00AFEF",
+        "name": "Gimnasia (LP)",
+        "shortName": "GLP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 8,
+      "points": 10,
       "matchesPlayed": 6,
       "matchesWon": 3,
       "matchesDrawn": 1,
@@ -144,27 +165,6 @@
         "shortName": "VEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 8,
-      "points": 9,
-      "matchesPlayed": 6,
-      "matchesWon": 3,
-      "matchesDrawn": 0,
-      "matchesLost": 3,
-      "goalsFor": 9,
-      "goalsAgainst": 9,
-      "goalDifference": 0,
-      "team": {
-        "id": "Gimnasia",
-        "color": "#121731",
-        "colorSecondary": "#00AFEF",
-        "name": "Gimnasia (LP)",
-        "shortName": "GLP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
         "league": "LPF"
       }
     },
@@ -319,10 +319,10 @@
     },
     {
       "rank": 2,
-      "points": 14,
-      "matchesPlayed": 6,
+      "points": 15,
+      "matchesPlayed": 7,
       "matchesWon": 4,
-      "matchesDrawn": 2,
+      "matchesDrawn": 3,
       "matchesLost": 0,
       "goalsFor": 7,
       "goalsAgainst": 1,
