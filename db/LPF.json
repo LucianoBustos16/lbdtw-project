@@ -44,6 +44,27 @@
     },
     {
       "rank": 3,
+      "points": 12,
+      "matchesPlayed": 7,
+      "matchesWon": 3,
+      "matchesDrawn": 3,
+      "matchesLost": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 4,
+      "goalDifference": 2,
+      "team": {
+        "id": "Barracas-Central",
+        "color": "#ec1c24",
+        "colorSecondary": "#FFF",
+        "name": "Barracas Central",
+        "shortName": "BAR",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
       "points": 11,
       "matchesPlayed": 6,
       "matchesWon": 3,
@@ -64,7 +85,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 11,
       "matchesPlayed": 6,
       "matchesWon": 3,
@@ -85,7 +106,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "points": 11,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -102,27 +123,6 @@
         "shortName": "CAT",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
-      "points": 11,
-      "matchesPlayed": 6,
-      "matchesWon": 3,
-      "matchesDrawn": 2,
-      "matchesLost": 1,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
-      "goalDifference": 2,
-      "team": {
-        "id": "Barracas-Central",
-        "color": "#ec1c24",
-        "colorSecondary": "#FFF",
-        "name": "Barracas Central",
-        "shortName": "BAR",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
         "league": "LPF"
       }
     },
@@ -192,13 +192,13 @@
     {
       "rank": 10,
       "points": 6,
-      "matchesPlayed": 6,
+      "matchesPlayed": 7,
       "matchesWon": 2,
       "matchesDrawn": 0,
-      "matchesLost": 4,
+      "matchesLost": 5,
       "goalsFor": 6,
-      "goalsAgainst": 8,
-      "goalDifference": -2,
+      "goalsAgainst": 10,
+      "goalDifference": -4,
       "team": {
         "id": "Independiente-rivadavia",
         "color": "#EC1C24",
@@ -445,6 +445,27 @@
     },
     {
       "rank": 8,
+      "points": 9,
+      "matchesPlayed": 7,
+      "matchesWon": 2,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
+      "goalsFor": 4,
+      "goalsAgainst": 4,
+      "goalDifference": 0,
+      "team": {
+        "id": "Union",
+        "color": "#DA251D",
+        "colorSecondary": "#FFFFFF",
+        "name": "Union",
+        "shortName": "USF",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 9,
       "points": 7,
       "matchesPlayed": 7,
       "matchesWon": 1,
@@ -465,7 +486,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "points": 6,
       "matchesPlayed": 7,
       "matchesWon": 1,
@@ -482,27 +503,6 @@
         "shortName": "BEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 10,
-      "points": 6,
-      "matchesPlayed": 6,
-      "matchesWon": 1,
-      "matchesDrawn": 3,
-      "matchesLost": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 4,
-      "goalDifference": -2,
-      "team": {
-        "id": "Union",
-        "color": "#DA251D",
-        "colorSecondary": "#FFFFFF",
-        "name": "Union",
-        "shortName": "USF",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
         "league": "LPF"
       }
     },
@@ -550,10 +550,10 @@
     },
     {
       "rank": 13,
-      "points": 2,
-      "matchesPlayed": 6,
+      "points": 3,
+      "matchesPlayed": 7,
       "matchesWon": 0,
-      "matchesDrawn": 2,
+      "matchesDrawn": 3,
       "matchesLost": 4,
       "goalsFor": 4,
       "goalsAgainst": 12,
