@@ -234,6 +234,27 @@
     {
       "rank": 12,
       "points": 4,
+      "matchesPlayed": 7,
+      "matchesWon": 0,
+      "matchesDrawn": 4,
+      "matchesLost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
+      "goalDifference": -6,
+      "team": {
+        "id": "Banfield",
+        "color": "#007934",
+        "colorSecondary": "#B49759",
+        "name": "Banfield",
+        "shortName": "BAN",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 13,
+      "points": 4,
       "matchesPlayed": 6,
       "matchesWon": 1,
       "matchesDrawn": 1,
@@ -253,7 +274,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "points": 3,
       "matchesPlayed": 6,
       "matchesWon": 0,
@@ -270,27 +291,6 @@
         "shortName": "TUC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
-      "points": 3,
-      "matchesPlayed": 7,
-      "matchesWon": 0,
-      "matchesDrawn": 3,
-      "matchesLost": 4,
-      "goalsFor": 3,
-      "goalsAgainst": 10,
-      "goalDifference": -7,
-      "team": {
-        "id": "Banfield",
-        "color": "#007934",
-        "colorSecondary": "#B49759",
-        "name": "Banfield",
-        "shortName": "BAN",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
         "league": "LPF"
       }
     }
@@ -340,27 +340,6 @@
     },
     {
       "rank": 3,
-      "points": 15,
-      "matchesPlayed": 7,
-      "matchesWon": 5,
-      "matchesDrawn": 0,
-      "matchesLost": 2,
-      "goalsFor": 9,
-      "goalsAgainst": 4,
-      "goalDifference": 5,
-      "team": {
-        "id": "Lanus",
-        "color": "#7A1D2D",
-        "colorSecondary": "#FFFFFF",
-        "name": "Lanus",
-        "shortName": "LAN",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
       "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 4,
@@ -377,6 +356,27 @@
         "shortName": "RAC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
+      "points": 13,
+      "matchesPlayed": 7,
+      "matchesWon": 4,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 5,
+      "goalDifference": 4,
+      "team": {
+        "id": "Lanus",
+        "color": "#7A1D2D",
+        "colorSecondary": "#FFFFFF",
+        "name": "Lanus",
+        "shortName": "LAN",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
         "league": "LPF"
       }
     },
