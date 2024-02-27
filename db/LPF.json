@@ -65,27 +65,6 @@
     },
     {
       "rank": 4,
-      "points": 13,
-      "matchesPlayed": 7,
-      "matchesWon": 4,
-      "matchesDrawn": 1,
-      "matchesLost": 2,
-      "goalsFor": 9,
-      "goalsAgainst": 9,
-      "goalDifference": 0,
-      "team": {
-        "id": "Velez",
-        "color": "#0063A8",
-        "colorSecondary": "#FFFFFF",
-        "name": "Velez",
-        "shortName": "VEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
       "points": 12,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -106,7 +85,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "points": 11,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -127,7 +106,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "points": 11,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -148,7 +127,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "points": 11,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -165,6 +144,27 @@
         "shortName": "ROS",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 8,
+      "points": 11,
+      "matchesPlayed": 7,
+      "matchesWon": 3,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 11,
+      "goalDifference": -2,
+      "team": {
+        "id": "Velez",
+        "color": "#0063A8",
+        "colorSecondary": "#FFFFFF",
+        "name": "Velez",
+        "shortName": "VEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
         "league": "LPF"
       }
     },
@@ -571,14 +571,14 @@
     },
     {
       "rank": 14,
-      "points": 1,
+      "points": 2,
       "matchesPlayed": 7,
       "matchesWon": 0,
-      "matchesDrawn": 1,
-      "matchesLost": 6,
-      "goalsFor": 0,
+      "matchesDrawn": 2,
+      "matchesLost": 5,
+      "goalsFor": 2,
       "goalsAgainst": 12,
-      "goalDifference": -12,
+      "goalDifference": -10,
       "team": {
         "id": "Tigre",
         "color": "#1E448D",
