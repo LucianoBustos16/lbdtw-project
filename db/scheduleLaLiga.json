@@ -7161,34 +7161,6 @@
         "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "Granada",
-            "name": "Granada",
-            "shortName": "GRN",
-            "color": "#002246",
-            "colorSecondary": "#ffe715",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Valencia",
-            "name": "Valencia",
-            "shortName": "VAL",
-            "color": "#ff671f",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "Aplazado"
-      },
-      {
-        "formattedDate": "Invalid undefined",
-        "timestamp": null,
-        "hourMatch": "Date:undefined",
-        "teams": [
-          {
             "id": "Barcelona",
             "name": "Barcelona",
             "shortName": "BAR",
@@ -7406,6 +7378,34 @@
           }
         ],
         "score": "3-0"
+      },
+      {
+        "formattedDate": "4 Abr",
+        "timestamp": 1680631200000,
+        "hourMatch": "15:00",
+        "teams": [
+          {
+            "id": "Granada",
+            "name": "Granada",
+            "shortName": "GRN",
+            "color": "#002246",
+            "colorSecondary": "#ffe715",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Granada.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Granada-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Valencia",
+            "name": "Valencia",
+            "shortName": "VAL",
+            "color": "#ff671f",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
       }
     ]
   },
