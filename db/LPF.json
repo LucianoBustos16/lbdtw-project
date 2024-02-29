@@ -23,6 +23,27 @@
     },
     {
       "rank": 2,
+      "points": 14,
+      "matchesPlayed": 8,
+      "matchesWon": 4,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 6,
+      "goalDifference": 4,
+      "team": {
+        "id": "Instituto",
+        "color": "#E0312B",
+        "colorSecondary": "#FFFFFF",
+        "name": "Instituto",
+        "shortName": "IACC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
       "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -43,7 +64,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 4,
@@ -60,27 +81,6 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 12,
-      "matchesPlayed": 8,
-      "matchesWon": 3,
-      "matchesDrawn": 3,
-      "matchesLost": 2,
-      "goalsFor": 9,
-      "goalsAgainst": 6,
-      "goalDifference": 3,
-      "team": {
-        "id": "Instituto",
-        "color": "#E0312B",
-        "colorSecondary": "#FFFFFF",
-        "name": "Instituto",
-        "shortName": "IACC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
         "league": "LPF"
       }
     },
@@ -129,27 +129,6 @@
     {
       "rank": 7,
       "points": 11,
-      "matchesPlayed": 8,
-      "matchesWon": 3,
-      "matchesDrawn": 2,
-      "matchesLost": 3,
-      "goalsFor": 9,
-      "goalsAgainst": 9,
-      "goalDifference": 0,
-      "team": {
-        "id": "Gimnasia",
-        "color": "#121731",
-        "colorSecondary": "#00AFEF",
-        "name": "Gimnasia (LP)",
-        "shortName": "GLP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 8,
-      "points": 11,
       "matchesPlayed": 7,
       "matchesWon": 3,
       "matchesDrawn": 2,
@@ -169,7 +148,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "points": 11,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -186,6 +165,27 @@
         "shortName": "VEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 9,
+      "points": 10,
+      "matchesPlayed": 8,
+      "matchesWon": 3,
+      "matchesDrawn": 1,
+      "matchesLost": 4,
+      "goalsFor": 9,
+      "goalsAgainst": 10,
+      "goalDifference": -1,
+      "team": {
+        "id": "Gimnasia",
+        "color": "#121731",
+        "colorSecondary": "#00AFEF",
+        "name": "Gimnasia (LP)",
+        "shortName": "GLP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
         "league": "LPF"
       }
     },
