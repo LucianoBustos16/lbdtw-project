@@ -53,7 +53,7 @@
     "competition": "Copa Argentina",
     "matches": [
       {
-        "hour": "21:10  ",
+        "hour": "13' ",
         "teams": [
           {
             "localImgId": "19.png",
@@ -67,12 +67,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "208.png",
             "name": "Independiente CH",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       }
@@ -321,7 +321,7 @@
         ]
       },
       {
-        "hour": "90+3' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "17.png",
@@ -350,39 +350,6 @@
               "league": "LPF"
             },
             "visitantScore": "3"
-          }
-        ]
-      },
-      {
-        "hour": "21:00  ",
-        "teams": [
-          {
-            "localImgId": "78.png",
-            "name": {
-              "id": "Central-Cordoba",
-              "color": "#000",
-              "colorSecondary": "#FFF",
-              "name": "Central Cba (SdE)",
-              "shortName": "CSE",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "8.png",
-            "name": {
-              "id": "Estudiantes",
-              "color": "#E41815",
-              "colorSecondary": "#FFF",
-              "name": "Estudiantes (LP)",
-              "shortName": "EST",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": ""
           }
         ]
       }
