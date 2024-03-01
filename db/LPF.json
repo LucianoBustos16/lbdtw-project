@@ -2,6 +2,27 @@
   "zonaA": [
     {
       "rank": 1,
+      "points": 15,
+      "matchesPlayed": 8,
+      "matchesWon": 4,
+      "matchesDrawn": 3,
+      "matchesLost": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 5,
+      "goalDifference": 4,
+      "team": {
+        "id": "Barracas-Central",
+        "color": "#ec1c24",
+        "colorSecondary": "#FFF",
+        "name": "Barracas Central",
+        "shortName": "BAR",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 14,
       "matchesPlayed": 7,
       "matchesWon": 4,
@@ -22,7 +43,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "points": 14,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -43,7 +64,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -64,7 +85,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 4,
@@ -81,27 +102,6 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
-      "points": 13,
-      "matchesPlayed": 8,
-      "matchesWon": 3,
-      "matchesDrawn": 4,
-      "matchesLost": 1,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
-      "goalDifference": 2,
-      "team": {
-        "id": "Barracas-Central",
-        "color": "#ec1c24",
-        "colorSecondary": "#FFF",
-        "name": "Barracas Central",
-        "shortName": "BAR",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
         "league": "LPF"
       }
     },
@@ -212,14 +212,14 @@
     },
     {
       "rank": 11,
-      "points": 7,
+      "points": 6,
       "matchesPlayed": 8,
       "matchesWon": 2,
-      "matchesDrawn": 1,
-      "matchesLost": 5,
-      "goalsFor": 7,
-      "goalsAgainst": 12,
-      "goalDifference": -5,
+      "matchesDrawn": 0,
+      "matchesLost": 6,
+      "goalsFor": 8,
+      "goalsAgainst": 15,
+      "goalDifference": -7,
       "team": {
         "id": "Independiente-rivadavia",
         "color": "#EC1C24",
