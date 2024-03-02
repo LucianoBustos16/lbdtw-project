@@ -2,14 +2,14 @@
   "zonaA": [
     {
       "rank": 1,
-      "points": 17,
+      "points": 15,
       "matchesPlayed": 8,
-      "matchesWon": 5,
-      "matchesDrawn": 2,
+      "matchesWon": 4,
+      "matchesDrawn": 3,
       "matchesLost": 1,
       "goalsFor": 14,
-      "goalsAgainst": 7,
-      "goalDifference": 7,
+      "goalsAgainst": 8,
+      "goalDifference": 6,
       "team": {
         "id": "Argentinos",
         "color": "#E32021",
@@ -65,6 +65,27 @@
     },
     {
       "rank": 4,
+      "points": 14,
+      "matchesPlayed": 8,
+      "matchesWon": 4,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 3,
+      "goalDifference": 3,
+      "team": {
+        "id": "Independiente",
+        "color": "#EC1C24",
+        "colorSecondary": "#FFFFFF",
+        "name": "Independiente",
+        "shortName": "IND",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 5,
       "points": 13,
       "matchesPlayed": 7,
       "matchesWon": 3,
@@ -81,27 +102,6 @@
         "shortName": "CARP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
-      "points": 13,
-      "matchesPlayed": 8,
-      "matchesWon": 4,
-      "matchesDrawn": 1,
-      "matchesLost": 3,
-      "goalsFor": 5,
-      "goalsAgainst": 3,
-      "goalDifference": 2,
-      "team": {
-        "id": "Independiente",
-        "color": "#EC1C24",
-        "colorSecondary": "#FFFFFF",
-        "name": "Independiente",
-        "shortName": "IND",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
         "league": "LPF"
       }
     },
