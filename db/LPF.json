@@ -2,22 +2,22 @@
   "zonaA": [
     {
       "rank": 1,
-      "points": 15,
+      "points": 16,
       "matchesPlayed": 8,
-      "matchesWon": 4,
-      "matchesDrawn": 3,
-      "matchesLost": 1,
-      "goalsFor": 14,
-      "goalsAgainst": 8,
-      "goalDifference": 6,
+      "matchesWon": 5,
+      "matchesDrawn": 1,
+      "matchesLost": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 3,
+      "goalDifference": 4,
       "team": {
-        "id": "Argentinos",
-        "color": "#E32021",
-        "colorSecondary": "#00569D",
-        "name": "Argentinos",
-        "shortName": "ARGJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+        "id": "Independiente",
+        "color": "#EC1C24",
+        "colorSecondary": "#FFFFFF",
+        "name": "Independiente",
+        "shortName": "IND",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
         "league": "LPF"
       }
     },
@@ -49,6 +49,27 @@
       "matchesWon": 4,
       "matchesDrawn": 2,
       "matchesLost": 2,
+      "goalsFor": 14,
+      "goalsAgainst": 9,
+      "goalDifference": 5,
+      "team": {
+        "id": "Argentinos",
+        "color": "#E32021",
+        "colorSecondary": "#00569D",
+        "name": "Argentinos",
+        "shortName": "ARGJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
+      "points": 14,
+      "matchesPlayed": 8,
+      "matchesWon": 4,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
       "goalsFor": 12,
       "goalsAgainst": 7,
       "goalDifference": 5,
@@ -60,27 +81,6 @@
         "shortName": "IACC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 14,
-      "matchesPlayed": 8,
-      "matchesWon": 4,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
-      "goalsFor": 6,
-      "goalsAgainst": 3,
-      "goalDifference": 3,
-      "team": {
-        "id": "Independiente",
-        "color": "#EC1C24",
-        "colorSecondary": "#FFFFFF",
-        "name": "Independiente",
-        "shortName": "IND",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
         "league": "LPF"
       }
     },
