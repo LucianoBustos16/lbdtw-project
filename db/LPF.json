@@ -298,14 +298,14 @@
   "zonaB": [
     {
       "rank": 1,
-      "points": 19,
+      "points": 20,
       "matchesPlayed": 8,
       "matchesWon": 6,
-      "matchesDrawn": 1,
-      "matchesLost": 1,
-      "goalsFor": 11,
+      "matchesDrawn": 2,
+      "matchesLost": 0,
+      "goalsFor": 12,
       "goalsAgainst": 2,
-      "goalDifference": 9,
+      "goalDifference": 10,
       "team": {
         "id": "Godoy-Cruz",
         "color": "#2670CA",
@@ -319,27 +319,6 @@
     },
     {
       "rank": 2,
-      "points": 18,
-      "matchesPlayed": 8,
-      "matchesWon": 5,
-      "matchesDrawn": 3,
-      "matchesLost": 0,
-      "goalsFor": 9,
-      "goalsAgainst": 2,
-      "goalDifference": 7,
-      "team": {
-        "id": "Estudiantes",
-        "color": "#E41815",
-        "colorSecondary": "#FFF",
-        "name": "Estudiantes (LP)",
-        "shortName": "EST",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 3,
       "points": 16,
       "matchesPlayed": 8,
       "matchesWon": 5,
@@ -356,6 +335,27 @@
         "shortName": "LAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
+      "points": 16,
+      "matchesPlayed": 8,
+      "matchesWon": 4,
+      "matchesDrawn": 4,
+      "matchesLost": 0,
+      "goalsFor": 9,
+      "goalsAgainst": 3,
+      "goalDifference": 6,
+      "team": {
+        "id": "Estudiantes",
+        "color": "#E41815",
+        "colorSecondary": "#FFF",
+        "name": "Estudiantes (LP)",
+        "shortName": "EST",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
         "league": "LPF"
       }
     },
