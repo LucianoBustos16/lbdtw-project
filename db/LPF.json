@@ -4,27 +4,6 @@
       "rank": 1,
       "points": 16,
       "matchesPlayed": 8,
-      "matchesWon": 4,
-      "matchesDrawn": 4,
-      "matchesLost": 0,
-      "goalsFor": 15,
-      "goalsAgainst": 4,
-      "goalDifference": 11,
-      "team": {
-        "id": "River",
-        "color": "#E30520",
-        "colorSecondary": "#FFFFFF",
-        "name": "River Plate",
-        "shortName": "CARP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 2,
-      "points": 16,
-      "matchesPlayed": 8,
       "matchesWon": 5,
       "matchesDrawn": 1,
       "matchesLost": 2,
@@ -43,7 +22,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "points": 15,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -60,6 +39,27 @@
         "shortName": "BAR",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
+      "points": 14,
+      "matchesPlayed": 8,
+      "matchesWon": 3,
+      "matchesDrawn": 5,
+      "matchesLost": 0,
+      "goalsFor": 15,
+      "goalsAgainst": 5,
+      "goalDifference": 10,
+      "team": {
+        "id": "River",
+        "color": "#E30520",
+        "colorSecondary": "#FFFFFF",
+        "name": "River Plate",
+        "shortName": "CARP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
         "league": "LPF"
       }
     },
@@ -112,6 +112,27 @@
       "matchesWon": 3,
       "matchesDrawn": 3,
       "matchesLost": 2,
+      "goalsFor": 15,
+      "goalsAgainst": 12,
+      "goalDifference": 3,
+      "team": {
+        "id": "Talleres",
+        "color": "#00184C",
+        "colorSecondary": "#FFFFFF",
+        "name": "Talleres (C)",
+        "shortName": "CAT",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 7,
+      "points": 12,
+      "matchesPlayed": 8,
+      "matchesWon": 3,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
       "goalsFor": 9,
       "goalsAgainst": 11,
       "goalDifference": -2,
@@ -123,27 +144,6 @@
         "shortName": "VEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 7,
-      "points": 11,
-      "matchesPlayed": 8,
-      "matchesWon": 3,
-      "matchesDrawn": 2,
-      "matchesLost": 3,
-      "goalsFor": 14,
-      "goalsAgainst": 12,
-      "goalDifference": 2,
-      "team": {
-        "id": "Talleres",
-        "color": "#00184C",
-        "colorSecondary": "#FFFFFF",
-        "name": "Talleres (C)",
-        "shortName": "CAT",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
         "league": "LPF"
       }
     },
