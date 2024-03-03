@@ -4,6 +4,27 @@
       "rank": 1,
       "points": 16,
       "matchesPlayed": 8,
+      "matchesWon": 4,
+      "matchesDrawn": 4,
+      "matchesLost": 0,
+      "goalsFor": 15,
+      "goalsAgainst": 3,
+      "goalDifference": 12,
+      "team": {
+        "id": "River",
+        "color": "#E30520",
+        "colorSecondary": "#FFFFFF",
+        "name": "River Plate",
+        "shortName": "CARP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
+      "points": 16,
+      "matchesPlayed": 8,
       "matchesWon": 5,
       "matchesDrawn": 1,
       "matchesLost": 2,
@@ -22,7 +43,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "points": 15,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -43,7 +64,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 14,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -64,7 +85,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 14,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -81,27 +102,6 @@
         "shortName": "IACC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
-      "points": 13,
-      "matchesPlayed": 7,
-      "matchesWon": 3,
-      "matchesDrawn": 4,
-      "matchesLost": 0,
-      "goalsFor": 13,
-      "goalsAgainst": 3,
-      "goalDifference": 10,
-      "team": {
-        "id": "River",
-        "color": "#E30520",
-        "colorSecondary": "#FFFFFF",
-        "name": "River Plate",
-        "shortName": "CARP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
         "league": "LPF"
       }
     },
@@ -129,13 +129,13 @@
     {
       "rank": 7,
       "points": 11,
-      "matchesPlayed": 7,
+      "matchesPlayed": 8,
       "matchesWon": 3,
       "matchesDrawn": 2,
-      "matchesLost": 2,
+      "matchesLost": 3,
       "goalsFor": 13,
-      "goalsAgainst": 10,
-      "goalDifference": 3,
+      "goalsAgainst": 12,
+      "goalDifference": 1,
       "team": {
         "id": "Talleres",
         "color": "#00184C",
