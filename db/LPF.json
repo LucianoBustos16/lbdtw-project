@@ -2,6 +2,27 @@
   "zonaA": [
     {
       "rank": 1,
+      "points": 18,
+      "matchesPlayed": 9,
+      "matchesWon": 5,
+      "matchesDrawn": 3,
+      "matchesLost": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 6,
+      "goalDifference": 5,
+      "team": {
+        "id": "Barracas-Central",
+        "color": "#ec1c24",
+        "colorSecondary": "#FFF",
+        "name": "Barracas Central",
+        "shortName": "BAR",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 17,
       "matchesPlayed": 9,
       "matchesWon": 5,
@@ -22,15 +43,15 @@
       }
     },
     {
-      "rank": 2,
-      "points": 17,
+      "rank": 3,
+      "points": 16,
       "matchesPlayed": 9,
       "matchesWon": 5,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 3,
       "goalsFor": 8,
-      "goalsAgainst": 4,
-      "goalDifference": 4,
+      "goalsAgainst": 5,
+      "goalDifference": 3,
       "team": {
         "id": "Independiente",
         "color": "#EC1C24",
@@ -39,27 +60,6 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 3,
-      "points": 16,
-      "matchesPlayed": 9,
-      "matchesWon": 4,
-      "matchesDrawn": 4,
-      "matchesLost": 1,
-      "goalsFor": 10,
-      "goalsAgainst": 6,
-      "goalDifference": 4,
-      "team": {
-        "id": "Barracas-Central",
-        "color": "#ec1c24",
-        "colorSecondary": "#FFF",
-        "name": "Barracas Central",
-        "shortName": "BAR",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
         "league": "LPF"
       }
     },
