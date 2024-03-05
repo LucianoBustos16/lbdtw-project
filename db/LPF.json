@@ -2,6 +2,27 @@
   "zonaA": [
     {
       "rank": 1,
+      "points": 17,
+      "matchesPlayed": 9,
+      "matchesWon": 5,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 13,
+      "goalsAgainst": 7,
+      "goalDifference": 6,
+      "team": {
+        "id": "Instituto",
+        "color": "#E0312B",
+        "colorSecondary": "#FFFFFF",
+        "name": "Instituto",
+        "shortName": "IACC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 16,
       "matchesPlayed": 8,
       "matchesWon": 5,
@@ -22,7 +43,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "points": 15,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -43,7 +64,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 14,
       "matchesPlayed": 8,
       "matchesWon": 3,
@@ -64,7 +85,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 14,
       "matchesPlayed": 8,
       "matchesWon": 4,
@@ -81,27 +102,6 @@
         "shortName": "ARGJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 5,
-      "points": 14,
-      "matchesPlayed": 8,
-      "matchesWon": 4,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
-      "goalsFor": 12,
-      "goalsAgainst": 7,
-      "goalDifference": 5,
-      "team": {
-        "id": "Instituto",
-        "color": "#E0312B",
-        "colorSecondary": "#FFFFFF",
-        "name": "Instituto",
-        "shortName": "IACC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
         "league": "LPF"
       }
     },
@@ -192,13 +192,13 @@
     {
       "rank": 10,
       "points": 8,
-      "matchesPlayed": 8,
+      "matchesPlayed": 9,
       "matchesWon": 2,
       "matchesDrawn": 2,
-      "matchesLost": 4,
+      "matchesLost": 5,
       "goalsFor": 6,
-      "goalsAgainst": 8,
-      "goalDifference": -2,
+      "goalsAgainst": 9,
+      "goalDifference": -3,
       "team": {
         "id": "Huracan",
         "color": "#FF0000",
