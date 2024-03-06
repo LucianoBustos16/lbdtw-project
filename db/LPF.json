@@ -319,14 +319,14 @@
     },
     {
       "rank": 2,
-      "points": 19,
+      "points": 18,
       "matchesPlayed": 9,
       "matchesWon": 5,
-      "matchesDrawn": 4,
-      "matchesLost": 0,
+      "matchesDrawn": 3,
+      "matchesLost": 1,
       "goalsFor": 9,
-      "goalsAgainst": 2,
-      "goalDifference": 7,
+      "goalsAgainst": 3,
+      "goalDifference": 6,
       "team": {
         "id": "Estudiantes",
         "color": "#E41815",
@@ -466,6 +466,27 @@
     },
     {
       "rank": 9,
+      "points": 10,
+      "matchesPlayed": 9,
+      "matchesWon": 2,
+      "matchesDrawn": 4,
+      "matchesLost": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
+      "goalDifference": -6,
+      "team": {
+        "id": "Platense",
+        "color": "#633B1B",
+        "colorSecondary": "#FFFFFF",
+        "name": "Platense",
+        "shortName": "PLA",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 10,
       "points": 8,
       "matchesPlayed": 8,
       "matchesWon": 1,
@@ -482,27 +503,6 @@
         "shortName": "SL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 10,
-      "points": 8,
-      "matchesPlayed": 9,
-      "matchesWon": 1,
-      "matchesDrawn": 5,
-      "matchesLost": 3,
-      "goalsFor": 3,
-      "goalsAgainst": 10,
-      "goalDifference": -7,
-      "team": {
-        "id": "Platense",
-        "color": "#633B1B",
-        "colorSecondary": "#FFFFFF",
-        "name": "Platense",
-        "shortName": "PLA",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
         "league": "LPF"
       }
     },
