@@ -70,6 +70,27 @@
       "matchesWon": 4,
       "matchesDrawn": 3,
       "matchesLost": 2,
+      "goalsFor": 14,
+      "goalsAgainst": 9,
+      "goalDifference": 5,
+      "team": {
+        "id": "Argentinos",
+        "color": "#E32021",
+        "colorSecondary": "#00569D",
+        "name": "Argentinos",
+        "shortName": "ARGJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 5,
+      "points": 15,
+      "matchesPlayed": 9,
+      "matchesWon": 4,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
       "goalsFor": 10,
       "goalsAgainst": 11,
       "goalDifference": -1,
@@ -85,7 +106,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "points": 14,
       "matchesPlayed": 8,
       "matchesWon": 3,
@@ -102,27 +123,6 @@
         "shortName": "CARP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
-      "points": 14,
-      "matchesPlayed": 8,
-      "matchesWon": 4,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
-      "goalsFor": 14,
-      "goalsAgainst": 9,
-      "goalDifference": 5,
-      "team": {
-        "id": "Argentinos",
-        "color": "#E32021",
-        "colorSecondary": "#00569D",
-        "name": "Argentinos",
-        "shortName": "ARGJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
         "league": "LPF"
       }
     },
@@ -154,27 +154,6 @@
       "matchesWon": 3,
       "matchesDrawn": 2,
       "matchesLost": 4,
-      "goalsFor": 6,
-      "goalsAgainst": 10,
-      "goalDifference": -4,
-      "team": {
-        "id": "Rosario-Central",
-        "color": "#F9DF34",
-        "colorSecondary": "#173B6A",
-        "name": "Rosario Central",
-        "shortName": "ROS",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 9,
-      "points": 10,
-      "matchesPlayed": 8,
-      "matchesWon": 3,
-      "matchesDrawn": 1,
-      "matchesLost": 4,
       "goalsFor": 10,
       "goalsAgainst": 12,
       "goalDifference": -2,
@@ -186,6 +165,27 @@
         "shortName": "GLP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 9,
+      "points": 11,
+      "matchesPlayed": 9,
+      "matchesWon": 3,
+      "matchesDrawn": 2,
+      "matchesLost": 4,
+      "goalsFor": 6,
+      "goalsAgainst": 10,
+      "goalDifference": -4,
+      "team": {
+        "id": "Rosario-Central",
+        "color": "#F9DF34",
+        "colorSecondary": "#173B6A",
+        "name": "Rosario Central",
+        "shortName": "ROS",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
         "league": "LPF"
       }
     },
