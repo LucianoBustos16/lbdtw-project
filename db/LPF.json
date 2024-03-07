@@ -340,14 +340,14 @@
     },
     {
       "rank": 3,
-      "points": 17,
+      "points": 16,
       "matchesPlayed": 9,
       "matchesWon": 5,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
+      "matchesDrawn": 1,
+      "matchesLost": 3,
       "goalsFor": 13,
-      "goalsAgainst": 5,
-      "goalDifference": 8,
+      "goalsAgainst": 6,
+      "goalDifference": 7,
       "team": {
         "id": "Lanus",
         "color": "#7A1D2D",
@@ -508,6 +508,27 @@
     },
     {
       "rank": 11,
+      "points": 8,
+      "matchesPlayed": 9,
+      "matchesWon": 2,
+      "matchesDrawn": 2,
+      "matchesLost": 5,
+      "goalsFor": 5,
+      "goalsAgainst": 8,
+      "goalDifference": -3,
+      "team": {
+        "id": "Central-Cordoba",
+        "color": "#000",
+        "colorSecondary": "#FFF",
+        "name": "Central Cba (SdE)",
+        "shortName": "CSE",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 12,
       "points": 6,
       "matchesPlayed": 8,
       "matchesWon": 1,
@@ -524,27 +545,6 @@
         "shortName": "BEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 12,
-      "points": 6,
-      "matchesPlayed": 9,
-      "matchesWon": 1,
-      "matchesDrawn": 3,
-      "matchesLost": 5,
-      "goalsFor": 4,
-      "goalsAgainst": 8,
-      "goalDifference": -4,
-      "team": {
-        "id": "Central-Cordoba",
-        "color": "#000",
-        "colorSecondary": "#FFF",
-        "name": "Central Cba (SdE)",
-        "shortName": "CSE",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
         "league": "LPF"
       }
     },
