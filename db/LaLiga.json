@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 61,
+    "matchesPlayed": 28,
+    "matchesWon": 18,
+    "matchesDrawn": 7,
+    "matchesLost": 3,
+    "goalsFor": 57,
+    "goalsAgainst": 34,
+    "goalDifference": 23,
+    "team": {
+      "id": "Barcelona",
+      "color": "#004B95",
+      "colorSecondary": "#A4234B",
+      "name": "Barcelona",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
     "points": 59,
     "matchesPlayed": 27,
     "matchesWon": 18,
@@ -38,27 +59,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 59,
-    "matchesPlayed": 28,
-    "matchesWon": 17,
-    "matchesDrawn": 8,
-    "matchesLost": 3,
-    "goalsFor": 56,
-    "goalsAgainst": 34,
-    "goalDifference": 22,
-    "team": {
-      "id": "Barcelona",
-      "color": "#004B95",
-      "colorSecondary": "#A4234B",
-      "name": "Barcelona",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -274,27 +274,6 @@
   },
   {
     "rank": 14,
-    "points": 28,
-    "matchesPlayed": 28,
-    "matchesWon": 5,
-    "matchesDrawn": 13,
-    "matchesLost": 10,
-    "goalsFor": 24,
-    "goalsAgainst": 34,
-    "goalDifference": -10,
-    "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 15,
     "points": 27,
     "matchesPlayed": 27,
     "matchesWon": 6,
@@ -311,6 +290,27 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 15,
+    "points": 27,
+    "matchesPlayed": 28,
+    "matchesWon": 5,
+    "matchesDrawn": 12,
+    "matchesLost": 11,
+    "goalsFor": 24,
+    "goalsAgainst": 35,
+    "goalDifference": -11,
+    "team": {
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
