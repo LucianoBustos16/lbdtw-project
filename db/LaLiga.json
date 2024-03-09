@@ -148,14 +148,14 @@
   },
   {
     "rank": 8,
-    "points": 38,
+    "points": 40,
     "matchesPlayed": 27,
-    "matchesWon": 10,
-    "matchesDrawn": 8,
+    "matchesWon": 11,
+    "matchesDrawn": 7,
     "matchesLost": 9,
-    "goalsFor": 31,
+    "goalsFor": 32,
     "goalsAgainst": 31,
-    "goalDifference": 0,
+    "goalDifference": 1,
     "team": {
       "id": "Valencia",
       "color": "#ff671f",
@@ -191,27 +191,6 @@
   {
     "rank": 10,
     "points": 36,
-    "matchesPlayed": 28,
-    "matchesWon": 8,
-    "matchesDrawn": 12,
-    "matchesLost": 8,
-    "goalsFor": 36,
-    "goalsAgainst": 41,
-    "goalDifference": -5,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 36,
     "matchesPlayed": 27,
     "matchesWon": 10,
     "matchesDrawn": 6,
@@ -227,6 +206,27 @@
       "shortName": "OSA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 35,
+    "matchesPlayed": 28,
+    "matchesWon": 8,
+    "matchesDrawn": 11,
+    "matchesLost": 9,
+    "goalsFor": 36,
+    "goalsAgainst": 42,
+    "goalDifference": -6,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
