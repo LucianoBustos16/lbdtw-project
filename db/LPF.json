@@ -298,27 +298,6 @@
   "zonaB": [
     {
       "rank": 1,
-      "points": 21,
-      "matchesPlayed": 10,
-      "matchesWon": 6,
-      "matchesDrawn": 3,
-      "matchesLost": 1,
-      "goalsFor": 11,
-      "goalsAgainst": 4,
-      "goalDifference": 7,
-      "team": {
-        "id": "Estudiantes",
-        "color": "#E41815",
-        "colorSecondary": "#FFF",
-        "name": "Estudiantes (LP)",
-        "shortName": "EST",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 2,
       "points": 19,
       "matchesPlayed": 8,
       "matchesWon": 6,
@@ -335,6 +314,27 @@
         "shortName": "GCM",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
+      "points": 19,
+      "matchesPlayed": 10,
+      "matchesWon": 5,
+      "matchesDrawn": 4,
+      "matchesLost": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 5,
+      "goalDifference": 6,
+      "team": {
+        "id": "Estudiantes",
+        "color": "#E41815",
+        "colorSecondary": "#FFF",
+        "name": "Estudiantes (LP)",
+        "shortName": "EST",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
         "league": "LPF"
       }
     },
@@ -550,14 +550,14 @@
     },
     {
       "rank": 13,
-      "points": 6,
+      "points": 7,
       "matchesPlayed": 10,
       "matchesWon": 1,
-      "matchesDrawn": 3,
-      "matchesLost": 6,
-      "goalsFor": 6,
+      "matchesDrawn": 4,
+      "matchesLost": 5,
+      "goalsFor": 7,
       "goalsAgainst": 15,
-      "goalDifference": -9,
+      "goalDifference": -8,
       "team": {
         "id": "Sarmiento",
         "color": "#008349",
