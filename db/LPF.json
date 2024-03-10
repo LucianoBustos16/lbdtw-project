@@ -28,27 +28,6 @@
       "matchesWon": 5,
       "matchesDrawn": 3,
       "matchesLost": 2,
-      "goalsFor": 10,
-      "goalsAgainst": 6,
-      "goalDifference": 4,
-      "team": {
-        "id": "Independiente",
-        "color": "#EC1C24",
-        "colorSecondary": "#FFFFFF",
-        "name": "Independiente",
-        "shortName": "IND",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 3,
-      "points": 17,
-      "matchesPlayed": 9,
-      "matchesWon": 5,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
       "goalsFor": 16,
       "goalsAgainst": 9,
       "goalDifference": 7,
@@ -60,6 +39,27 @@
         "shortName": "ARGJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
+      "points": 18,
+      "matchesPlayed": 10,
+      "matchesWon": 5,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 6,
+      "goalDifference": 4,
+      "team": {
+        "id": "Independiente",
+        "color": "#EC1C24",
+        "colorSecondary": "#FFFFFF",
+        "name": "Independiente",
+        "shortName": "IND",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
         "league": "LPF"
       }
     },
@@ -212,10 +212,10 @@
     },
     {
       "rank": 11,
-      "points": 8,
-      "matchesPlayed": 9,
+      "points": 9,
+      "matchesPlayed": 10,
       "matchesWon": 2,
-      "matchesDrawn": 2,
+      "matchesDrawn": 3,
       "matchesLost": 5,
       "goalsFor": 6,
       "goalsAgainst": 10,
@@ -298,10 +298,10 @@
   "zonaB": [
     {
       "rank": 1,
-      "points": 19,
-      "matchesPlayed": 8,
+      "points": 20,
+      "matchesPlayed": 9,
       "matchesWon": 6,
-      "matchesDrawn": 1,
+      "matchesDrawn": 2,
       "matchesLost": 1,
       "goalsFor": 11,
       "goalsAgainst": 2,
@@ -340,6 +340,27 @@
     },
     {
       "rank": 3,
+      "points": 17,
+      "matchesPlayed": 10,
+      "matchesWon": 5,
+      "matchesDrawn": 2,
+      "matchesLost": 3,
+      "goalsFor": 10,
+      "goalsAgainst": 10,
+      "goalDifference": 0,
+      "team": {
+        "id": "Newells",
+        "color": "#ED1C24",
+        "colorSecondary": "#000000",
+        "name": "Newells",
+        "shortName": "NOB",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
       "points": 16,
       "matchesPlayed": 9,
       "matchesWon": 5,
@@ -356,27 +377,6 @@
         "shortName": "LAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 16,
-      "matchesPlayed": 9,
-      "matchesWon": 5,
-      "matchesDrawn": 1,
-      "matchesLost": 3,
-      "goalsFor": 10,
-      "goalsAgainst": 10,
-      "goalDifference": 0,
-      "team": {
-        "id": "Newells",
-        "color": "#ED1C24",
-        "colorSecondary": "#000000",
-        "name": "Newells",
-        "shortName": "NOB",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
         "league": "LPF"
       }
     },
