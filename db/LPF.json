@@ -387,9 +387,30 @@
       "matchesWon": 4,
       "matchesDrawn": 4,
       "matchesLost": 2,
+      "goalsFor": 11,
+      "goalsAgainst": 11,
+      "goalDifference": 0,
+      "team": {
+        "id": "Defensa-y-Justicia",
+        "color": "#ffdd00",
+        "colorSecondary": "#007A3F",
+        "name": "Def y Justicia",
+        "shortName": "DYJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 6,
+      "points": 15,
+      "matchesPlayed": 10,
+      "matchesWon": 4,
+      "matchesDrawn": 3,
+      "matchesLost": 3,
       "goalsFor": 9,
-      "goalsAgainst": 6,
-      "goalDifference": 3,
+      "goalsAgainst": 7,
+      "goalDifference": 2,
       "team": {
         "id": "Union",
         "color": "#DA251D",
@@ -402,7 +423,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "points": 14,
       "matchesPlayed": 9,
       "matchesWon": 4,
@@ -419,27 +440,6 @@
         "shortName": "RAC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 7,
-      "points": 14,
-      "matchesPlayed": 10,
-      "matchesWon": 3,
-      "matchesDrawn": 5,
-      "matchesLost": 2,
-      "goalsFor": 10,
-      "goalsAgainst": 11,
-      "goalDifference": -1,
-      "team": {
-        "id": "Defensa-y-Justicia",
-        "color": "#ffdd00",
-        "colorSecondary": "#007A3F",
-        "name": "Def y Justicia",
-        "shortName": "DYJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
         "league": "LPF"
       }
     },
