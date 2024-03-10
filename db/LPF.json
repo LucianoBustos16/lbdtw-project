@@ -28,6 +28,27 @@
       "matchesWon": 5,
       "matchesDrawn": 3,
       "matchesLost": 2,
+      "goalsFor": 20,
+      "goalsAgainst": 13,
+      "goalDifference": 7,
+      "team": {
+        "id": "Talleres",
+        "color": "#00184C",
+        "colorSecondary": "#FFFFFF",
+        "name": "Talleres (C)",
+        "shortName": "CAT",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
+      "points": 18,
+      "matchesPlayed": 10,
+      "matchesWon": 5,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
       "goalsFor": 17,
       "goalsAgainst": 10,
       "goalDifference": 7,
@@ -39,27 +60,6 @@
         "shortName": "ARGJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 3,
-      "points": 18,
-      "matchesPlayed": 10,
-      "matchesWon": 5,
-      "matchesDrawn": 3,
-      "matchesLost": 2,
-      "goalsFor": 19,
-      "goalsAgainst": 13,
-      "goalDifference": 6,
-      "team": {
-        "id": "Talleres",
-        "color": "#00184C",
-        "colorSecondary": "#FFFFFF",
-        "name": "Talleres (C)",
-        "shortName": "CAT",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
         "league": "LPF"
       }
     },
@@ -281,8 +281,8 @@
       "matchesDrawn": 5,
       "matchesLost": 5,
       "goalsFor": 2,
-      "goalsAgainst": 13,
-      "goalDifference": -11,
+      "goalsAgainst": 14,
+      "goalDifference": -12,
       "team": {
         "id": "Atletico-Tucuman",
         "color": "#71AFDB",
