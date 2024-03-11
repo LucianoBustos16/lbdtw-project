@@ -319,6 +319,27 @@
     },
     {
       "rank": 2,
+      "points": 19,
+      "matchesPlayed": 10,
+      "matchesWon": 6,
+      "matchesDrawn": 1,
+      "matchesLost": 3,
+      "goalsFor": 16,
+      "goalsAgainst": 8,
+      "goalDifference": 8,
+      "team": {
+        "id": "Lanus",
+        "color": "#7A1D2D",
+        "colorSecondary": "#FFFFFF",
+        "name": "Lanus",
+        "shortName": "LAN",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
       "points": 18,
       "matchesPlayed": 10,
       "matchesWon": 5,
@@ -339,7 +360,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 17,
       "matchesPlayed": 10,
       "matchesWon": 5,
@@ -356,27 +377,6 @@
         "shortName": "NOB",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 16,
-      "matchesPlayed": 10,
-      "matchesWon": 5,
-      "matchesDrawn": 1,
-      "matchesLost": 4,
-      "goalsFor": 14,
-      "goalsAgainst": 8,
-      "goalDifference": 6,
-      "team": {
-        "id": "Lanus",
-        "color": "#7A1D2D",
-        "colorSecondary": "#FFFFFF",
-        "name": "Lanus",
-        "shortName": "LAN",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
         "league": "LPF"
       }
     },
@@ -550,27 +550,6 @@
     },
     {
       "rank": 13,
-      "points": 8,
-      "matchesPlayed": 10,
-      "matchesWon": 2,
-      "matchesDrawn": 2,
-      "matchesLost": 6,
-      "goalsFor": 5,
-      "goalsAgainst": 14,
-      "goalDifference": -9,
-      "team": {
-        "id": "Tigre",
-        "color": "#1E448D",
-        "colorSecondary": "#ED2A3C",
-        "name": "Tigre",
-        "shortName": "TIG",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
       "points": 7,
       "matchesPlayed": 9,
       "matchesWon": 1,
@@ -587,6 +566,27 @@
         "shortName": "BEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 14,
+      "points": 5,
+      "matchesPlayed": 10,
+      "matchesWon": 1,
+      "matchesDrawn": 2,
+      "matchesLost": 7,
+      "goalsFor": 5,
+      "goalsAgainst": 16,
+      "goalDifference": -11,
+      "team": {
+        "id": "Tigre",
+        "color": "#1E448D",
+        "colorSecondary": "#ED2A3C",
+        "name": "Tigre",
+        "shortName": "TIG",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
         "league": "LPF"
       }
     }
