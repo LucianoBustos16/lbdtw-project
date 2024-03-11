@@ -39,6 +39,30 @@
         "hour": "21:15  ",
         "teams": [
           {
+            "localImgId": "32.png",
+            "name": "Ind Rivadavia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "123.png",
+            "name": {
+              "id": "Riestra",
+              "color": "#262526",
+              "colorSecondary": "#FFFFFF",
+              "name": "Riestra",
+              "shortName": "RIE",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:45  ",
+        "teams": [
+          {
             "localImgId": "5.png",
             "name": {
               "id": "Banfield",
@@ -62,30 +86,6 @@
               "shortName": "VEL",
               "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "21:15  ",
-        "teams": [
-          {
-            "localImgId": "32.png",
-            "name": "Ind Rivadavia",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "123.png",
-            "name": {
-              "id": "Riestra",
-              "color": "#262526",
-              "colorSecondary": "#FFFFFF",
-              "name": "Riestra",
-              "shortName": "RIE",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
@@ -308,7 +308,7 @@
         ]
       },
       {
-        "hour": "13' ",
+        "hour": "26' ",
         "teams": [
           {
             "localImgId": "683.png",
@@ -348,17 +348,17 @@
     "competition": "Liga Chile",
     "matches": [
       {
-        "hour": "09' ",
+        "hour": "22' ",
         "teams": [
           {
             "localImgId": "874.png",
             "name": "U. Catolica",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "749.png",
             "name": "Everton (CH)",
-            "visitantScore": "0"
+            "visitantScore": "2"
           }
         ]
       },
