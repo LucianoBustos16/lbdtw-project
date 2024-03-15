@@ -2,6 +2,27 @@
   "zonaA": [
     {
       "rank": 1,
+      "points": 19,
+      "matchesPlayed": 11,
+      "matchesWon": 5,
+      "matchesDrawn": 4,
+      "matchesLost": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 6,
+      "goalDifference": 4,
+      "team": {
+        "id": "Independiente",
+        "color": "#EC1C24",
+        "colorSecondary": "#FFFFFF",
+        "name": "Independiente",
+        "shortName": "IND",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 18,
       "matchesPlayed": 10,
       "matchesWon": 4,
@@ -22,7 +43,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "points": 18,
       "matchesPlayed": 10,
       "matchesWon": 5,
@@ -43,7 +64,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 18,
       "matchesPlayed": 10,
       "matchesWon": 5,
@@ -60,27 +81,6 @@
         "shortName": "ARGJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 18,
-      "matchesPlayed": 10,
-      "matchesWon": 5,
-      "matchesDrawn": 3,
-      "matchesLost": 2,
-      "goalsFor": 10,
-      "goalsAgainst": 6,
-      "goalDifference": 4,
-      "team": {
-        "id": "Independiente",
-        "color": "#EC1C24",
-        "colorSecondary": "#FFFFFF",
-        "name": "Independiente",
-        "shortName": "IND",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
         "league": "LPF"
       }
     },
@@ -233,10 +233,10 @@
     },
     {
       "rank": 12,
-      "points": 8,
-      "matchesPlayed": 10,
+      "points": 9,
+      "matchesPlayed": 11,
       "matchesWon": 2,
-      "matchesDrawn": 2,
+      "matchesDrawn": 3,
       "matchesLost": 6,
       "goalsFor": 5,
       "goalsAgainst": 13,
