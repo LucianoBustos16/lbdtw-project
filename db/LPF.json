@@ -25,6 +25,27 @@
       "rank": 2,
       "points": 19,
       "matchesPlayed": 11,
+      "matchesWon": 4,
+      "matchesDrawn": 7,
+      "matchesLost": 0,
+      "goalsFor": 19,
+      "goalsAgainst": 7,
+      "goalDifference": 12,
+      "team": {
+        "id": "River",
+        "color": "#E30520",
+        "colorSecondary": "#FFFFFF",
+        "name": "River Plate",
+        "shortName": "CARP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
+      "points": 19,
+      "matchesPlayed": 11,
       "matchesWon": 5,
       "matchesDrawn": 4,
       "matchesLost": 2,
@@ -39,27 +60,6 @@
         "shortName": "BAR",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 3,
-      "points": 18,
-      "matchesPlayed": 11,
-      "matchesWon": 4,
-      "matchesDrawn": 6,
-      "matchesLost": 1,
-      "goalsFor": 18,
-      "goalsAgainst": 7,
-      "goalDifference": 11,
-      "team": {
-        "id": "River",
-        "color": "#E30520",
-        "colorSecondary": "#FFFFFF",
-        "name": "River Plate",
-        "shortName": "CARP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
         "league": "LPF"
       }
     },
@@ -149,14 +149,14 @@
     },
     {
       "rank": 8,
-      "points": 16,
+      "points": 14,
       "matchesPlayed": 11,
-      "matchesWon": 5,
-      "matchesDrawn": 1,
+      "matchesWon": 4,
+      "matchesDrawn": 2,
       "matchesLost": 5,
       "goalsFor": 13,
-      "goalsAgainst": 14,
-      "goalDifference": -1,
+      "goalsAgainst": 15,
+      "goalDifference": -2,
       "team": {
         "id": "Gimnasia",
         "color": "#121731",
