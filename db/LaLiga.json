@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 64,
+    "matchesPlayed": 29,
+    "matchesWon": 19,
+    "matchesDrawn": 7,
+    "matchesLost": 3,
+    "goalsFor": 58,
+    "goalsAgainst": 34,
+    "goalDifference": 24,
+    "team": {
+      "id": "Barcelona",
+      "color": "#004B95",
+      "colorSecondary": "#A4234B",
+      "name": "Barcelona",
+      "shortName": "BAR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
     "points": 62,
     "matchesPlayed": 29,
     "matchesWon": 19,
@@ -38,27 +59,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 62,
-    "matchesPlayed": 29,
-    "matchesWon": 18,
-    "matchesDrawn": 8,
-    "matchesLost": 3,
-    "goalsFor": 57,
-    "goalsAgainst": 34,
-    "goalDifference": 23,
-    "team": {
-      "id": "Barcelona",
-      "color": "#004B95",
-      "colorSecondary": "#A4234B",
-      "name": "Barcelona",
-      "shortName": "BAR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
       "league": "LaLiga"
     }
   },
@@ -85,14 +85,14 @@
   },
   {
     "rank": 5,
-    "points": 56,
+    "points": 55,
     "matchesPlayed": 29,
     "matchesWon": 17,
-    "matchesDrawn": 5,
-    "matchesLost": 7,
+    "matchesDrawn": 4,
+    "matchesLost": 8,
     "goalsFor": 54,
-    "goalsAgainst": 31,
-    "goalDifference": 23,
+    "goalsAgainst": 32,
+    "goalDifference": 22,
     "team": {
       "id": "Atletico-Madrid",
       "color": "#CB3524",
