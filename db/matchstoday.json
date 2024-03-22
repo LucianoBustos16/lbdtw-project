@@ -331,6 +331,30 @@
     "competition": "Femenino",
     "matches": [
       {
+        "hour": "E. T. ",
+        "teams": [
+          {
+            "localImgId": "106.png",
+            "name": "Excursionistas",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "6.png",
+            "name": {
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": "4"
+          }
+        ]
+      },
+      {
         "hour": "15:00  ",
         "teams": [
           {
@@ -360,30 +384,6 @@
               "league": "LPF"
             },
             "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "E. T. ",
-        "teams": [
-          {
-            "localImgId": "106.png",
-            "name": "Excursionistas",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "6.png",
-            "name": {
-              "id": "Boca",
-              "color": "#023F86",
-              "colorSecondary": "#F7A600",
-              "name": "Boca Juniors",
-              "shortName": "CABJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "4"
           }
         ]
       }
