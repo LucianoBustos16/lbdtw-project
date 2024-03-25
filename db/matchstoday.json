@@ -1,69 +1,291 @@
 [
   {
-    "competition": "Amistosos Internacionales",
+    "competition": "Copa Argentina",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "17:15  ",
         "teams": [
           {
-            "localImgId": "ecuador.gif",
-            "name": "Ecuador",
-            "localScore": "0"
+            "localImgId": "10.png",
+            "name": {
+              "id": "Godoy-Cruz",
+              "color": "#2670CA",
+              "colorSecondary": "#FFFFFF",
+              "name": "Godoy Cruz",
+              "shortName": "GCM",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "italia.gif",
-            "name": "Italia",
-            "visitantScore": "2"
+            "visitantImgId": "36.png",
+            "name": "San Martin (SJ)",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "19:30  ",
         "teams": [
           {
-            "localImgId": "guatemala.gif",
-            "name": "Guatemala",
-            "localScore": "0"
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "venezuela.gif",
-            "name": "Venezuela",
-            "visitantScore": "0"
+            "visitantImgId": "15.png",
+            "name": "Olimpo",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Liga Uruguay",
+    "competition": "Primera Nacional",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "755.png",
-            "name": "Cerro (U)",
-            "localScore": "1"
+            "localImgId": "28.png",
+            "name": "Chacarita",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1036.png",
-            "name": "Cerro Largo",
-            "visitantScore": "1"
+            "visitantImgId": "37.png",
+            "name": "San Martin (T)",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "16:00  ",
         "teams": [
           {
-            "localImgId": "756.png",
-            "name": "Danubio",
-            "localScore": "0"
+            "localImgId": "23.png",
+            "name": "Alte Brown",
+            "localScore": ""
           },
           {
-            "visitantImgId": "683.png",
-            "name": "Wanderers (U)",
-            "visitantScore": "2"
+            "visitantImgId": "156.png",
+            "name": "Gimnasia (M)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "30.png",
+            "name": "Ferro",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "2.png",
+            "name": "All Boys",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "300.png",
+            "name": "Guemes (SdE)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "79.png",
+            "name": "Racing (C)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localImgId": "154.png",
+            "name": "Estudiantes (RC)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "133.png",
+            "name": "Mitre (SdE)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localImgId": "41.png",
+            "name": "Atlanta",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "42.png",
+            "name": "Nueva Chicago",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localImgId": "24.png",
+            "name": "Atl Rafaela",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "83.png",
+            "name": "Brown (A)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:00  ",
+        "teams": [
+          {
+            "localImgId": "48.png",
+            "name": "Chaco For Ever",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "43.png",
+            "name": "Def. de Belgrano",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:45  ",
+        "teams": [
+          {
+            "localImgId": "7.png",
+            "name": {
+              "id": "Colon",
+              "color": "#C80000",
+              "colorSecondary": "#000",
+              "name": "Colon",
+              "shortName": "COL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "53.png",
+            "name": "Gimnasia (S)",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "B Metro",
+    "matches": [
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "92.png",
+            "name": "Villa Dalmine",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "86.png",
+            "name": "Dep. Armenio",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "107.png",
+            "name": "Fenix",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "59.png",
+            "name": "Liniers",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "75.png",
+            "name": "Acassuso",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "128.png",
+            "name": "San Martin (B)",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Federal A",
+    "matches": [
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "71.png",
+            "name": "Sp. Belgrano (SF)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "190.png",
+            "name": "Sp. Las Parejas",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Prom. Amateur",
+    "matches": [
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "1853.png",
+            "name": "Juventud Bernal",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1849.png",
+            "name": "Pilar",
+            "visitantScore": ""
           }
         ]
       }
@@ -73,47 +295,37 @@
     "competition": "Liga Colombia",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "18:00  ",
         "teams": [
           {
-            "localImgId": "1333.png",
-            "name": "Bucaramanga",
-            "localScore": "3"
+            "localImgId": "880.png",
+            "name": "Once Caldas",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1334.png",
-            "name": "Envigado",
-            "visitantScore": "1"
+            "visitantImgId": "1332.png",
+            "name": "Alianza FC",
+            "visitantScore": ""
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "662.png",
-            "name": "Atl. Nacional",
-            "localScore": "1"
+            "localImgId": "721.png",
+            "name": "Univ. de Chile",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1030.png",
-            "name": "Dep. Pasto",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "74' ",
-        "teams": [
-          {
-            "localImgId": "882.png",
-            "name": "Aguilas Doradas",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "735.png",
-            "name": "Ind. Santa Fe",
-            "visitantScore": "0"
+            "visitantImgId": "1336.png",
+            "name": "Cobresal",
+            "visitantScore": ""
           }
         ]
       }
