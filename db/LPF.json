@@ -320,13 +320,13 @@
     {
       "rank": 2,
       "points": 22,
-      "matchesPlayed": 11,
+      "matchesPlayed": 12,
       "matchesWon": 7,
       "matchesDrawn": 1,
-      "matchesLost": 3,
+      "matchesLost": 4,
       "goalsFor": 17,
-      "goalsAgainst": 8,
-      "goalDifference": 9,
+      "goalsAgainst": 10,
+      "goalDifference": 7,
       "team": {
         "id": "Lanus",
         "color": "#7A1D2D",
@@ -340,6 +340,27 @@
     },
     {
       "rank": 3,
+      "points": 19,
+      "matchesPlayed": 12,
+      "matchesWon": 5,
+      "matchesDrawn": 4,
+      "matchesLost": 3,
+      "goalsFor": 14,
+      "goalsAgainst": 10,
+      "goalDifference": 4,
+      "team": {
+        "id": "Union",
+        "color": "#DA251D",
+        "colorSecondary": "#FFFFFF",
+        "name": "Union",
+        "shortName": "USF",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
       "points": 18,
       "matchesPlayed": 10,
       "matchesWon": 5,
@@ -360,7 +381,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 18,
       "matchesPlayed": 11,
       "matchesWon": 5,
@@ -381,7 +402,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "points": 17,
       "matchesPlayed": 11,
       "matchesWon": 4,
@@ -402,7 +423,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "points": 16,
       "matchesPlayed": 10,
       "matchesWon": 4,
@@ -419,27 +440,6 @@
         "shortName": "CABJ",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 7,
-      "points": 16,
-      "matchesPlayed": 11,
-      "matchesWon": 4,
-      "matchesDrawn": 4,
-      "matchesLost": 3,
-      "goalsFor": 12,
-      "goalsAgainst": 10,
-      "goalDifference": 2,
-      "team": {
-        "id": "Union",
-        "color": "#DA251D",
-        "colorSecondary": "#FFFFFF",
-        "name": "Union",
-        "shortName": "USF",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
         "league": "LPF"
       }
     },
