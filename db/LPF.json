@@ -2,6 +2,27 @@
   "zonaA": [
     {
       "rank": 1,
+      "points": 24,
+      "matchesPlayed": 12,
+      "matchesWon": 7,
+      "matchesDrawn": 3,
+      "matchesLost": 2,
+      "goalsFor": 22,
+      "goalsAgainst": 11,
+      "goalDifference": 11,
+      "team": {
+        "id": "Argentinos",
+        "color": "#E32021",
+        "colorSecondary": "#00569D",
+        "name": "Argentinos",
+        "shortName": "ARGJ",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 22,
       "matchesPlayed": 12,
       "matchesWon": 6,
@@ -22,7 +43,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "points": 21,
       "matchesPlayed": 11,
       "matchesWon": 5,
@@ -39,27 +60,6 @@
         "shortName": "CARP",
         "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 3,
-      "points": 21,
-      "matchesPlayed": 12,
-      "matchesWon": 6,
-      "matchesDrawn": 3,
-      "matchesLost": 3,
-      "goalsFor": 20,
-      "goalsAgainst": 11,
-      "goalDifference": 9,
-      "team": {
-        "id": "Argentinos",
-        "color": "#E32021",
-        "colorSecondary": "#00569D",
-        "name": "Argentinos",
-        "shortName": "ARGJ",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
         "league": "LPF"
       }
     },
@@ -86,27 +86,6 @@
     },
     {
       "rank": 5,
-      "points": 20,
-      "matchesPlayed": 12,
-      "matchesWon": 6,
-      "matchesDrawn": 2,
-      "matchesLost": 4,
-      "goalsFor": 15,
-      "goalsAgainst": 9,
-      "goalDifference": 6,
-      "team": {
-        "id": "Instituto",
-        "color": "#E0312B",
-        "colorSecondary": "#FFFFFF",
-        "name": "Instituto",
-        "shortName": "IACC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
       "points": 19,
       "matchesPlayed": 11,
       "matchesWon": 5,
@@ -127,7 +106,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "points": 18,
       "matchesPlayed": 11,
       "matchesWon": 5,
@@ -144,6 +123,27 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 7,
+      "points": 17,
+      "matchesPlayed": 12,
+      "matchesWon": 5,
+      "matchesDrawn": 2,
+      "matchesLost": 5,
+      "goalsFor": 15,
+      "goalsAgainst": 11,
+      "goalDifference": 4,
+      "team": {
+        "id": "Instituto",
+        "color": "#E0312B",
+        "colorSecondary": "#FFFFFF",
+        "name": "Instituto",
+        "shortName": "IACC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
         "league": "LPF"
       }
     },
