@@ -107,14 +107,14 @@
     },
     {
       "rank": 6,
-      "points": 19,
+      "points": 18,
       "matchesPlayed": 12,
       "matchesWon": 5,
-      "matchesDrawn": 4,
-      "matchesLost": 3,
+      "matchesDrawn": 3,
+      "matchesLost": 4,
       "goalsFor": 10,
-      "goalsAgainst": 7,
-      "goalDifference": 3,
+      "goalsAgainst": 8,
+      "goalDifference": 2,
       "team": {
         "id": "Independiente",
         "color": "#EC1C24",
@@ -254,6 +254,27 @@
     },
     {
       "rank": 13,
+      "points": 9,
+      "matchesPlayed": 12,
+      "matchesWon": 1,
+      "matchesDrawn": 6,
+      "matchesLost": 5,
+      "goalsFor": 5,
+      "goalsAgainst": 16,
+      "goalDifference": -11,
+      "team": {
+        "id": "Atletico-Tucuman",
+        "color": "#71AFDB",
+        "colorSecondary": "#FFF",
+        "name": "Atl Tucuman",
+        "shortName": "TUC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 14,
       "points": 7,
       "matchesPlayed": 11,
       "matchesWon": 2,
@@ -270,27 +291,6 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
-      "points": 7,
-      "matchesPlayed": 12,
-      "matchesWon": 0,
-      "matchesDrawn": 7,
-      "matchesLost": 5,
-      "goalsFor": 4,
-      "goalsAgainst": 16,
-      "goalDifference": -12,
-      "team": {
-        "id": "Atletico-Tucuman",
-        "color": "#71AFDB",
-        "colorSecondary": "#FFF",
-        "name": "Atl Tucuman",
-        "shortName": "TUC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
         "league": "LPF"
       }
     }
