@@ -298,6 +298,27 @@
   "zonaB": [
     {
       "rank": 1,
+      "points": 26,
+      "matchesPlayed": 12,
+      "matchesWon": 8,
+      "matchesDrawn": 2,
+      "matchesLost": 2,
+      "goalsFor": 14,
+      "goalsAgainst": 4,
+      "goalDifference": 10,
+      "team": {
+        "id": "Godoy-Cruz",
+        "color": "#2670CA",
+        "colorSecondary": "#FFFFFF",
+        "name": "Godoy Cruz",
+        "shortName": "GCM",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 2,
       "points": 23,
       "matchesPlayed": 12,
       "matchesWon": 7,
@@ -314,27 +335,6 @@
         "shortName": "LAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Lanus.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Lanus-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 2,
-      "points": 23,
-      "matchesPlayed": 11,
-      "matchesWon": 7,
-      "matchesDrawn": 2,
-      "matchesLost": 2,
-      "goalsFor": 13,
-      "goalsAgainst": 4,
-      "goalDifference": 9,
-      "team": {
-        "id": "Godoy-Cruz",
-        "color": "#2670CA",
-        "colorSecondary": "#FFFFFF",
-        "name": "Godoy Cruz",
-        "shortName": "GCM",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
         "league": "LPF"
       }
     },
@@ -488,13 +488,13 @@
     {
       "rank": 10,
       "points": 12,
-      "matchesPlayed": 11,
+      "matchesPlayed": 12,
       "matchesWon": 2,
       "matchesDrawn": 6,
-      "matchesLost": 3,
+      "matchesLost": 4,
       "goalsFor": 5,
-      "goalsAgainst": 11,
-      "goalDifference": -6,
+      "goalsAgainst": 12,
+      "goalDifference": -7,
       "team": {
         "id": "Platense",
         "color": "#633B1B",
