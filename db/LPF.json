@@ -2,14 +2,14 @@
   "zonaA": [
     {
       "rank": 1,
-      "points": 25,
+      "points": 24,
       "matchesPlayed": 13,
       "matchesWon": 7,
-      "matchesDrawn": 4,
-      "matchesLost": 2,
+      "matchesDrawn": 3,
+      "matchesLost": 3,
       "goalsFor": 22,
-      "goalsAgainst": 11,
-      "goalDifference": 11,
+      "goalsAgainst": 12,
+      "goalDifference": 10,
       "team": {
         "id": "Argentinos",
         "color": "#E32021",
@@ -23,6 +23,27 @@
     },
     {
       "rank": 2,
+      "points": 24,
+      "matchesPlayed": 13,
+      "matchesWon": 7,
+      "matchesDrawn": 3,
+      "matchesLost": 3,
+      "goalsFor": 14,
+      "goalsAgainst": 13,
+      "goalDifference": 1,
+      "team": {
+        "id": "Velez",
+        "color": "#0063A8",
+        "colorSecondary": "#FFFFFF",
+        "name": "Velez",
+        "shortName": "VEL",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 3,
       "points": 22,
       "matchesPlayed": 12,
       "matchesWon": 6,
@@ -43,7 +64,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "points": 22,
       "matchesPlayed": 12,
       "matchesWon": 6,
@@ -60,27 +81,6 @@
         "shortName": "BAR",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 4,
-      "points": 22,
-      "matchesPlayed": 13,
-      "matchesWon": 6,
-      "matchesDrawn": 4,
-      "matchesLost": 3,
-      "goalsFor": 13,
-      "goalsAgainst": 13,
-      "goalDifference": 0,
-      "team": {
-        "id": "Velez",
-        "color": "#0063A8",
-        "colorSecondary": "#FFFFFF",
-        "name": "Velez",
-        "shortName": "VEL",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
         "league": "LPF"
       }
     },
