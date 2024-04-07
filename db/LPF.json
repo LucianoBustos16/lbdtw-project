@@ -128,6 +128,27 @@
     },
     {
       "rank": 7,
+      "points": 19,
+      "matchesPlayed": 13,
+      "matchesWon": 6,
+      "matchesDrawn": 1,
+      "matchesLost": 6,
+      "goalsFor": 16,
+      "goalsAgainst": 18,
+      "goalDifference": -2,
+      "team": {
+        "id": "Gimnasia",
+        "color": "#121731",
+        "colorSecondary": "#00AFEF",
+        "name": "Gimnasia (LP)",
+        "shortName": "GLP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 8,
       "points": 18,
       "matchesPlayed": 13,
       "matchesWon": 5,
@@ -144,27 +165,6 @@
         "shortName": "IACC",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 8,
-      "points": 17,
-      "matchesPlayed": 13,
-      "matchesWon": 5,
-      "matchesDrawn": 2,
-      "matchesLost": 6,
-      "goalsFor": 15,
-      "goalsAgainst": 18,
-      "goalDifference": -3,
-      "team": {
-        "id": "Gimnasia",
-        "color": "#121731",
-        "colorSecondary": "#00AFEF",
-        "name": "Gimnasia (LP)",
-        "shortName": "GLP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
         "league": "LPF"
       }
     },
@@ -275,14 +275,14 @@
     },
     {
       "rank": 14,
-      "points": 8,
+      "points": 7,
       "matchesPlayed": 13,
       "matchesWon": 0,
-      "matchesDrawn": 8,
-      "matchesLost": 5,
+      "matchesDrawn": 7,
+      "matchesLost": 6,
       "goalsFor": 5,
-      "goalsAgainst": 17,
-      "goalDifference": -12,
+      "goalsAgainst": 18,
+      "goalDifference": -13,
       "team": {
         "id": "Atletico-Tucuman",
         "color": "#71AFDB",
