@@ -28,9 +28,9 @@
       "matchesWon": 7,
       "matchesDrawn": 4,
       "matchesLost": 2,
-      "goalsFor": 15,
+      "goalsFor": 17,
       "goalsAgainst": 10,
-      "goalDifference": 5,
+      "goalDifference": 7,
       "team": {
         "id": "Barracas-Central",
         "color": "#ec1c24",
@@ -134,8 +134,8 @@
       "matchesDrawn": 2,
       "matchesLost": 6,
       "goalsFor": 15,
-      "goalsAgainst": 12,
-      "goalDifference": 3,
+      "goalsAgainst": 14,
+      "goalDifference": 1,
       "team": {
         "id": "Instituto",
         "color": "#E0312B",
@@ -149,14 +149,14 @@
     },
     {
       "rank": 8,
-      "points": 17,
+      "points": 16,
       "matchesPlayed": 13,
       "matchesWon": 5,
-      "matchesDrawn": 2,
-      "matchesLost": 6,
+      "matchesDrawn": 1,
+      "matchesLost": 7,
       "goalsFor": 16,
-      "goalsAgainst": 19,
-      "goalDifference": -3,
+      "goalsAgainst": 20,
+      "goalDifference": -4,
       "team": {
         "id": "Gimnasia",
         "color": "#121731",
@@ -254,6 +254,27 @@
     },
     {
       "rank": 13,
+      "points": 10,
+      "matchesPlayed": 13,
+      "matchesWon": 1,
+      "matchesDrawn": 7,
+      "matchesLost": 5,
+      "goalsFor": 7,
+      "goalsAgainst": 18,
+      "goalDifference": -11,
+      "team": {
+        "id": "Atletico-Tucuman",
+        "color": "#71AFDB",
+        "colorSecondary": "#FFF",
+        "name": "Atl Tucuman",
+        "shortName": "TUC",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 14,
       "points": 8,
       "matchesPlayed": 13,
       "matchesWon": 2,
@@ -270,27 +291,6 @@
         "shortName": "IND",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 14,
-      "points": 8,
-      "matchesPlayed": 13,
-      "matchesWon": 0,
-      "matchesDrawn": 8,
-      "matchesLost": 5,
-      "goalsFor": 6,
-      "goalsAgainst": 18,
-      "goalDifference": -12,
-      "team": {
-        "id": "Atletico-Tucuman",
-        "color": "#71AFDB",
-        "colorSecondary": "#FFF",
-        "name": "Atl Tucuman",
-        "shortName": "TUC",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
         "league": "LPF"
       }
     }
