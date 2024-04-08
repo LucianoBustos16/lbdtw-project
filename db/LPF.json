@@ -44,6 +44,27 @@
     },
     {
       "rank": 3,
+      "points": 24,
+      "matchesPlayed": 13,
+      "matchesWon": 6,
+      "matchesDrawn": 6,
+      "matchesLost": 1,
+      "goalsFor": 23,
+      "goalsAgainst": 9,
+      "goalDifference": 14,
+      "team": {
+        "id": "River",
+        "color": "#E30520",
+        "colorSecondary": "#FFFFFF",
+        "name": "River Plate",
+        "shortName": "CARP",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 4,
       "points": 23,
       "matchesPlayed": 13,
       "matchesWon": 6,
@@ -64,7 +85,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "points": 22,
       "matchesPlayed": 13,
       "matchesWon": 6,
@@ -85,7 +106,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "points": 22,
       "matchesPlayed": 13,
       "matchesWon": 6,
@@ -102,27 +123,6 @@
         "shortName": "VEL",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 6,
-      "points": 21,
-      "matchesPlayed": 13,
-      "matchesWon": 5,
-      "matchesDrawn": 6,
-      "matchesLost": 2,
-      "goalsFor": 21,
-      "goalsAgainst": 9,
-      "goalDifference": 12,
-      "team": {
-        "id": "River",
-        "color": "#E30520",
-        "colorSecondary": "#FFFFFF",
-        "name": "River Plate",
-        "shortName": "CARP",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
         "league": "LPF"
       }
     },
@@ -149,27 +149,6 @@
     },
     {
       "rank": 8,
-      "points": 17,
-      "matchesPlayed": 13,
-      "matchesWon": 5,
-      "matchesDrawn": 2,
-      "matchesLost": 6,
-      "goalsFor": 9,
-      "goalsAgainst": 15,
-      "goalDifference": -6,
-      "team": {
-        "id": "Rosario-Central",
-        "color": "#F9DF34",
-        "colorSecondary": "#173B6A",
-        "name": "Rosario Central",
-        "shortName": "ROS",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 9,
       "points": 16,
       "matchesPlayed": 13,
       "matchesWon": 5,
@@ -190,7 +169,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "points": 14,
       "matchesPlayed": 13,
       "matchesWon": 3,
@@ -207,6 +186,27 @@
         "shortName": "BAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 10,
+      "points": 14,
+      "matchesPlayed": 13,
+      "matchesWon": 4,
+      "matchesDrawn": 2,
+      "matchesLost": 7,
+      "goalsFor": 9,
+      "goalsAgainst": 17,
+      "goalDifference": -8,
+      "team": {
+        "id": "Rosario-Central",
+        "color": "#F9DF34",
+        "colorSecondary": "#173B6A",
+        "name": "Rosario Central",
+        "shortName": "ROS",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
         "league": "LPF"
       }
     },
