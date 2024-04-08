@@ -108,13 +108,13 @@
     {
       "rank": 6,
       "points": 21,
-      "matchesPlayed": 12,
+      "matchesPlayed": 13,
       "matchesWon": 5,
       "matchesDrawn": 6,
-      "matchesLost": 1,
+      "matchesLost": 2,
       "goalsFor": 21,
-      "goalsAgainst": 8,
-      "goalDifference": 13,
+      "goalsAgainst": 9,
+      "goalDifference": 12,
       "team": {
         "id": "River",
         "color": "#E30520",
@@ -149,6 +149,27 @@
     },
     {
       "rank": 8,
+      "points": 17,
+      "matchesPlayed": 13,
+      "matchesWon": 5,
+      "matchesDrawn": 2,
+      "matchesLost": 6,
+      "goalsFor": 9,
+      "goalsAgainst": 15,
+      "goalDifference": -6,
+      "team": {
+        "id": "Rosario-Central",
+        "color": "#F9DF34",
+        "colorSecondary": "#173B6A",
+        "name": "Rosario Central",
+        "shortName": "ROS",
+        "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+        "league": "LPF"
+      }
+    },
+    {
+      "rank": 9,
       "points": 16,
       "matchesPlayed": 13,
       "matchesWon": 5,
@@ -169,7 +190,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "points": 14,
       "matchesPlayed": 13,
       "matchesWon": 3,
@@ -186,27 +207,6 @@
         "shortName": "BAN",
         "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
         "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-        "league": "LPF"
-      }
-    },
-    {
-      "rank": 10,
-      "points": 14,
-      "matchesPlayed": 12,
-      "matchesWon": 4,
-      "matchesDrawn": 2,
-      "matchesLost": 6,
-      "goalsFor": 8,
-      "goalsAgainst": 15,
-      "goalDifference": -7,
-      "team": {
-        "id": "Rosario-Central",
-        "color": "#F9DF34",
-        "colorSecondary": "#173B6A",
-        "name": "Rosario Central",
-        "shortName": "ROS",
-        "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-        "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
         "league": "LPF"
       }
     },
