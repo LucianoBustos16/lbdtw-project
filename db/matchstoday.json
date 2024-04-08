@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "15:30  ",
+        "hour": "08' ",
         "teams": [
           {
             "localImgId": "123.png",
@@ -17,7 +17,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
               "league": "LPF"
             },
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "11.png",
@@ -31,7 +31,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
               "league": "LPF"
             },
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -147,7 +147,7 @@
     "competition": "B Metro",
     "matches": [
       {
-        "hour": "20' ",
+        "hour": "32' ",
         "teams": [
           {
             "localImgId": "67.png",
@@ -157,37 +157,37 @@
           {
             "visitantImgId": "74.png",
             "name": "Colegiales",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "03' ",
+        "teams": [
+          {
+            "localImgId": "113.png",
+            "name": "Argentino (Q)",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "102.png",
+            "name": "Argentino (M)",
             "visitantScore": "0"
           }
         ]
       },
       {
-        "hour": "15:30  ",
-        "teams": [
-          {
-            "localImgId": "113.png",
-            "name": "Argentino (Q)",
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "102.png",
-            "name": "Argentino (M)",
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "15:30  ",
+        "hour": "05' ",
         "teams": [
           {
             "localImgId": "117.png",
             "name": "Ca�uelas",
-            "localScore": ""
+            "localScore": "1"
           },
           {
             "visitantImgId": "100.png",
             "name": "Dock Sud",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
