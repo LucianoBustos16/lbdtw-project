@@ -4258,34 +4258,6 @@
         "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "Estudiantes",
-            "name": "Estudiantes (LP)",
-            "shortName": "EST",
-            "color": "#E41815",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Boca",
-            "name": "Boca Juniors",
-            "shortName": "CABJ",
-            "color": "#023F86",
-            "colorSecondary": "#F7A600",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "Suspendido"
-      },
-      {
-        "formattedDate": "Invalid undefined",
-        "timestamp": null,
-        "hourMatch": "Date:undefined",
-        "teams": [
-          {
             "id": "Union",
             "name": "Union",
             "shortName": "USF",
@@ -4363,6 +4335,34 @@
           }
         ],
         "score": "0-1"
+      },
+      {
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
+        "teams": [
+          {
+            "id": "Estudiantes",
+            "name": "Estudiantes (LP)",
+            "shortName": "EST",
+            "color": "#E41815",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Boca",
+            "name": "Boca Juniors",
+            "shortName": "CABJ",
+            "color": "#023F86",
+            "colorSecondary": "#F7A600",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "Suspendido"
       }
     ]
   },
@@ -5103,9 +5103,9 @@
         "score": "0-0"
       },
       {
-        "formattedDate": "8 Abr",
-        "timestamp": 1680998400000,
-        "hourMatch": "21:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Godoy-Cruz",
@@ -5128,12 +5128,12 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "1-0"
       },
       {
-        "formattedDate": "8 Abr",
-        "timestamp": 1680998400000,
-        "hourMatch": "21:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Platense",
@@ -5156,7 +5156,7 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "3-1"
       }
     ]
   },
