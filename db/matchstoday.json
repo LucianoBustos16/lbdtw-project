@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "77' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "8.png",
@@ -52,6 +52,278 @@
             "visitantImgId": "154.png",
             "name": "Estudiantes (RC)",
             "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Serie A",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "558.png",
+            "name": "Lazio",
+            "localScore": "4"
+          },
+          {
+            "visitantImgId": "1608.png",
+            "name": "Salernitana",
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "La Liga",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "517.png",
+            "name": {
+              "id": "Betis",
+              "color": "#008835",
+              "colorSecondary": "#FFF",
+              "name": "Betis",
+              "shortName": "BET",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+              "league": "LaLiga"
+            },
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "518.png",
+            "name": {
+              "id": "Celta",
+              "color": "#6CACE4",
+              "colorSecondary": "#D50032",
+              "name": "Celta de Vigo",
+              "shortName": "CDV",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+              "league": "LaLiga"
+            },
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Bundesliga",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "601.png",
+            "name": "Augsburgo",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "943.png",
+            "name": "Union Berlin",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Prom. Amateur",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1851.png",
+            "name": "Estrella Berisso",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "439.png",
+            "name": "S.A.T.",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "186.png",
+            "name": "Camioneros",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "1855.png",
+            "name": "FC Ezeiza",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "64.png",
+            "name": "Estudiantes (BA)",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Francia",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "647.png",
+            "name": "Metz",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "642.png",
+            "name": "Lens",
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Eredivisie",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1720.png",
+            "name": "Excelsior",
+            "localScore": "4"
+          },
+          {
+            "visitantImgId": "1717.png",
+            "name": "Volendam",
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Colombia",
+    "matches": [
+      {
+        "hour": "65' ",
+        "teams": [
+          {
+            "localImgId": "875.png",
+            "name": "Dep. Tolima",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "882.png",
+            "name": "Aguilas Doradas",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "22:15  ",
+        "teams": [
+          {
+            "localImgId": "773.png",
+            "name": "Dep. Cali",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "758.png",
+            "name": "America Cali",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Paraguay",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "736.png",
+            "name": "Guarani (P)",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "752.png",
+            "name": "Sol America (P)",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "1768.png",
+            "name": "Sp. Trinidense",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1826.png",
+            "name": "2 de Mayo",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
+      {
+        "hour": "22:06  ",
+        "teams": [
+          {
+            "localImgId": "904.png",
+            "name": "Queretaro",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1548.png",
+            "name": "Mazatlan",
+            "visitantScore": ""
           }
         ]
       }
