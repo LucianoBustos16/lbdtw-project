@@ -127,6 +127,27 @@
   },
   {
     "rank": 7,
+    "points": 47,
+    "matchesPlayed": 31,
+    "matchesWon": 13,
+    "matchesDrawn": 8,
+    "matchesLost": 10,
+    "goalsFor": 34,
+    "goalsAgainst": 32,
+    "goalDifference": 2,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 8,
     "points": 45,
     "matchesPlayed": 31,
     "matchesWon": 11,
@@ -147,49 +168,7 @@
     }
   },
   {
-    "rank": 8,
-    "points": 45,
-    "matchesPlayed": 31,
-    "matchesWon": 12,
-    "matchesDrawn": 9,
-    "matchesLost": 10,
-    "goalsFor": 33,
-    "goalsAgainst": 32,
-    "goalDifference": 1,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
     "rank": 9,
-    "points": 40,
-    "matchesPlayed": 31,
-    "matchesWon": 11,
-    "matchesDrawn": 7,
-    "matchesLost": 13,
-    "goalsFor": 36,
-    "goalsAgainst": 43,
-    "goalDifference": -7,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 10,
     "points": 39,
     "matchesPlayed": 31,
     "matchesWon": 10,
@@ -210,7 +189,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 10,
     "points": 39,
     "matchesPlayed": 31,
     "matchesWon": 9,
@@ -227,6 +206,27 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 39,
+    "matchesPlayed": 31,
+    "matchesWon": 11,
+    "matchesDrawn": 6,
+    "matchesLost": 14,
+    "goalsFor": 36,
+    "goalsAgainst": 44,
+    "goalDifference": -8,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
