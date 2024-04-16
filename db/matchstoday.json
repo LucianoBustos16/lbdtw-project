@@ -3,7 +3,7 @@
     "competition": "Copa De La Liga",
     "matches": [
       {
-        "hour": "16' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "3.png",
@@ -17,7 +17,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": "3"
           },
           {
             "visitantImgId": "82.png",
@@ -31,12 +31,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "1"
+            "visitantScore": "3"
           }
         ]
       },
       {
-        "hour": "16' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "12.png",
@@ -50,7 +50,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": "2"
           },
           {
             "visitantImgId": "52.png",
@@ -64,12 +64,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "2"
           }
         ]
       },
       {
-        "hour": "16' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "32.png",
@@ -88,12 +88,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "16' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "33.png",
@@ -107,7 +107,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "18.png",
@@ -121,7 +121,173 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
               "league": "LPF"
             },
+            "visitantScore": "3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Premier League",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "531.png",
+            "name": "Chelsea",
+            "localScore": "6"
+          },
+          {
+            "visitantImgId": "532.png",
+            "name": "Everton",
             "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Serie A",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "554.png",
+            "name": "Fiorentina",
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "555.png",
+            "name": "Genoa",
+            "visitantScore": "1"
+          }
+        ]
+      },
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "549.png",
+            "name": "Atalanta",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "626.png",
+            "name": "Hellas Verona",
+            "visitantScore": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "La Liga",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "511.png",
+            "name": {
+              "id": "Osasuna",
+              "color": "#b4001d ",
+              "colorSecondary": "#14213d",
+              "name": "Osasuna",
+              "shortName": "OSA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+              "league": "LaLiga"
+            },
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "526.png",
+            "name": {
+              "id": "Valencia",
+              "color": "#ff671f",
+              "colorSecondary": "#FFF",
+              "name": "Valencia",
+              "shortName": "VAL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+              "league": "LaLiga"
+            },
+            "visitantScore": "1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "9.png",
+            "name": {
+              "id": "Gimnasia",
+              "color": "#121731",
+              "colorSecondary": "#00AFEF",
+              "name": "Gimnasia (LP)",
+              "shortName": "GLP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
+              "league": "LPF"
+            },
+            "localScore": "1"
+          },
+          {
+            "visitantImgId": "35.png",
+            "name": {
+              "id": "Rosario-Central",
+              "color": "#F9DF34",
+              "colorSecondary": "#173B6A",
+              "name": "Rosario Central",
+              "shortName": "ROS",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": "0"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "1336.png",
+            "name": "Cobresal",
+            "localScore": "3"
+          },
+          {
+            "visitantImgId": "1705.png",
+            "name": "Dep. Copiapo",
+            "visitantScore": "0"
+          }
+        ]
+      },
+      {
+        "hour": "67' ",
+        "teams": [
+          {
+            "localImgId": "723.png",
+            "name": "Colo Colo",
+            "localScore": "0"
+          },
+          {
+            "visitantImgId": "1049.png",
+            "name": "Cobreloa",
+            "visitantScore": "2"
           }
         ]
       }
