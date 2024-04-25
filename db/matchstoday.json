@@ -242,29 +242,29 @@
         "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "19.png",
+            "localImgId": "18.png",
             "name": {
-              "id": "San-Lorenzo",
-              "color": "#BF1B27",
-              "colorSecondary": "#263D54",
-              "name": "San Lorenzo",
-              "shortName": "SL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+              "id": "River",
+              "color": "#E30520",
+              "colorSecondary": "#FFFFFF",
+              "name": "River Plate",
+              "shortName": "CARP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
               "league": "LPF"
             },
             "localScore": ""
           },
           {
-            "visitantImgId": "123.png",
+            "visitantImgId": "33.png",
             "name": {
-              "id": "Riestra",
-              "color": "#262526",
+              "id": "Instituto",
+              "color": "#E0312B",
               "colorSecondary": "#FFFFFF",
-              "name": "Riestra",
-              "shortName": "RIE",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
+              "name": "Instituto",
+              "shortName": "IACC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
@@ -338,6 +338,39 @@
         ]
       },
       {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "19.png",
+            "name": {
+              "id": "San-Lorenzo",
+              "color": "#BF1B27",
+              "colorSecondary": "#263D54",
+              "name": "San Lorenzo",
+              "shortName": "SL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "123.png",
+            "name": {
+              "id": "Riestra",
+              "color": "#262526",
+              "colorSecondary": "#FFFFFF",
+              "name": "Riestra",
+              "shortName": "RIE",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
         "hour": "19:00  ",
         "teams": [
           {
@@ -355,39 +388,6 @@
               "shortName": "ARGJ",
               "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": ""
-          }
-        ]
-      },
-      {
-        "hour": "19:00  ",
-        "teams": [
-          {
-            "localImgId": "18.png",
-            "name": {
-              "id": "River",
-              "color": "#E30520",
-              "colorSecondary": "#FFFFFF",
-              "name": "River Plate",
-              "shortName": "CARP",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "33.png",
-            "name": {
-              "id": "Instituto",
-              "color": "#E0312B",
-              "colorSecondary": "#FFFFFF",
-              "name": "Instituto",
-              "shortName": "IACC",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
               "league": "LPF"
             },
             "visitantScore": ""
