@@ -5744,14 +5744,17 @@
         "hourMatch": "16:30",
         "teams": [
           {
-            "id": "Velez",
-            "name": "Velez",
-            "shortName": "VEL",
-            "color": "#0063A8",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-            "league": "LPF"
+            "id": "default",
+            "name": {
+              "id": "Argentinos",
+              "color": "#E32021",
+              "colorSecondary": "#00569D",
+              "name": "Argentinos",
+              "shortName": "ARGJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+              "league": "LPF"
+            }
           },
           {
             "id": "default",
