@@ -5706,9 +5706,9 @@
         "score": "0-0"
       },
       {
-        "formattedDate": "30 May",
-        "timestamp": 1682899200000,
-        "hourMatch": "21:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Estudiantes",
@@ -5731,7 +5731,7 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "1-1"
       }
     ]
   },
@@ -5739,38 +5739,32 @@
     "fecha": 17,
     "matches": [
       {
-        "formattedDate": "5 May",
-        "timestamp": 1683315000000,
-        "hourMatch": "16:30",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "default",
-            "name": {
-              "id": "Argentinos",
-              "color": "#E32021",
-              "colorSecondary": "#00569D",
-              "name": "Argentinos",
-              "shortName": "ARGJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-              "league": "LPF"
-            }
+            "id": "Estudiantes",
+            "name": "Estudiantes (LP)",
+            "shortName": "EST",
+            "color": "#E41815",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+            "league": "LPF"
           },
           {
-            "id": "default",
-            "name": {
-              "id": "Argentinos",
-              "color": "#E32021",
-              "colorSecondary": "#00569D",
-              "name": "Argentinos",
-              "shortName": "ARGJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-              "league": "LPF"
-            }
+            "id": "Velez",
+            "name": "Velez",
+            "shortName": "VEL",
+            "color": "#0063A8",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+            "league": "LPF"
           }
         ],
-        "score": "30"
+        "score": "1-1"
       }
     ]
   }
