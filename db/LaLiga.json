@@ -213,6 +213,27 @@
     "rank": 11,
     "points": 42,
     "matchesPlayed": 36,
+    "matchesWon": 10,
+    "matchesDrawn": 12,
+    "matchesLost": 14,
+    "goalsFor": 47,
+    "goalsAgainst": 49,
+    "goalDifference": -2,
+    "team": {
+      "id": "Sevilla",
+      "color": "#CD3529",
+      "colorSecondary": "#FFF",
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 12,
+    "points": 42,
+    "matchesPlayed": 36,
     "matchesWon": 11,
     "matchesDrawn": 9,
     "matchesLost": 16,
@@ -227,27 +248,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 41,
-    "matchesPlayed": 36,
-    "matchesWon": 10,
-    "matchesDrawn": 11,
-    "matchesLost": 15,
-    "goalsFor": 47,
-    "goalsAgainst": 50,
-    "goalDifference": -3,
-    "team": {
-      "id": "Sevilla",
-      "color": "#CD3529",
-      "colorSecondary": "#FFF",
-      "name": "Sevilla",
-      "shortName": "SEV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
       "league": "LaLiga"
     }
   },
@@ -279,9 +279,9 @@
     "matchesWon": 8,
     "matchesDrawn": 14,
     "matchesLost": 14,
-    "goalsFor": 28,
+    "goalsFor": 29,
     "goalsAgainst": 43,
-    "goalDifference": -15,
+    "goalDifference": -14,
     "team": {
       "id": "Rayo-Vallecano",
       "color": "#e21921 ",
@@ -358,14 +358,14 @@
   },
   {
     "rank": 18,
-    "points": 32,
+    "points": 30,
     "matchesPlayed": 36,
-    "matchesWon": 6,
-    "matchesDrawn": 14,
+    "matchesWon": 5,
+    "matchesDrawn": 15,
     "matchesLost": 16,
-    "goalsFor": 25,
+    "goalsFor": 24,
     "goalsAgainst": 49,
-    "goalDifference": -24,
+    "goalDifference": -25,
     "team": {
       "id": "Cadiz",
       "color": "#EEEF28",
@@ -385,8 +385,8 @@
     "matchesDrawn": 9,
     "matchesLost": 23,
     "goalsFor": 36,
-    "goalsAgainst": 69,
-    "goalDifference": -33,
+    "goalsAgainst": 70,
+    "goalDifference": -34,
     "team": {
       "id": "Granada",
       "color": "#002246",
