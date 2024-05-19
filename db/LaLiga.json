@@ -6,9 +6,9 @@
     "matchesWon": 30,
     "matchesDrawn": 6,
     "matchesLost": 1,
-    "goalsFor": 84,
+    "goalsFor": 85,
     "goalsAgainst": 22,
-    "goalDifference": 62,
+    "goalDifference": 63,
     "team": {
       "id": "Real-Madrid",
       "color": "#004996",
@@ -43,14 +43,14 @@
   },
   {
     "rank": 3,
-    "points": 76,
+    "points": 78,
     "matchesPlayed": 37,
-    "matchesWon": 23,
-    "matchesDrawn": 7,
+    "matchesWon": 24,
+    "matchesDrawn": 6,
     "matchesLost": 7,
-    "goalsFor": 75,
+    "goalsFor": 76,
     "goalsAgainst": 45,
-    "goalDifference": 30,
+    "goalDifference": 31,
     "team": {
       "id": "Girona",
       "color": "#E51636",
@@ -64,14 +64,14 @@
   },
   {
     "rank": 4,
-    "points": 74,
+    "points": 73,
     "matchesPlayed": 37,
     "matchesWon": 23,
-    "matchesDrawn": 5,
-    "matchesLost": 9,
+    "matchesDrawn": 4,
+    "matchesLost": 10,
     "goalsFor": 67,
-    "goalsAgainst": 39,
-    "goalDifference": 28,
+    "goalsAgainst": 40,
+    "goalDifference": 27,
     "team": {
       "id": "Atletico-Madrid",
       "color": "#CB3524",
@@ -154,8 +154,8 @@
     "matchesDrawn": 9,
     "matchesLost": 14,
     "goalsFor": 60,
-    "goalsAgainst": 61,
-    "goalDifference": -1,
+    "goalsAgainst": 62,
+    "goalDifference": -2,
     "team": {
       "id": "Villarreal",
       "color": "#002246",
@@ -169,14 +169,14 @@
   },
   {
     "rank": 9,
-    "points": 49,
+    "points": 48,
     "matchesPlayed": 37,
     "matchesWon": 13,
-    "matchesDrawn": 10,
-    "matchesLost": 14,
+    "matchesDrawn": 9,
+    "matchesLost": 15,
     "goalsFor": 37,
-    "goalsAgainst": 40,
-    "goalDifference": -3,
+    "goalsAgainst": 41,
+    "goalDifference": -4,
     "team": {
       "id": "Valencia",
       "color": "#ff671f",
@@ -211,6 +211,27 @@
   },
   {
     "rank": 11,
+    "points": 44,
+    "matchesPlayed": 37,
+    "matchesWon": 12,
+    "matchesDrawn": 8,
+    "matchesLost": 17,
+    "goalsFor": 41,
+    "goalsAgainst": 54,
+    "goalDifference": -13,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 12,
     "points": 43,
     "matchesPlayed": 37,
     "matchesWon": 10,
@@ -227,27 +248,6 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 12,
-    "points": 42,
-    "matchesPlayed": 37,
-    "matchesWon": 11,
-    "matchesDrawn": 9,
-    "matchesLost": 17,
-    "goalsFor": 40,
-    "goalsAgainst": 54,
-    "goalDifference": -14,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
@@ -276,6 +276,27 @@
     "rank": 14,
     "points": 39,
     "matchesPlayed": 37,
+    "matchesWon": 8,
+    "matchesDrawn": 15,
+    "matchesLost": 14,
+    "goalsFor": 30,
+    "goalsAgainst": 41,
+    "goalDifference": -11,
+    "team": {
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 15,
+    "points": 39,
+    "matchesPlayed": 37,
     "matchesWon": 10,
     "matchesDrawn": 9,
     "matchesLost": 18,
@@ -294,7 +315,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 38,
     "matchesPlayed": 37,
     "matchesWon": 9,
@@ -315,7 +336,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 38,
     "matchesPlayed": 37,
     "matchesWon": 8,
@@ -332,27 +353,6 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 37,
-    "matchesPlayed": 37,
-    "matchesWon": 7,
-    "matchesDrawn": 16,
-    "matchesLost": 14,
-    "goalsFor": 29,
-    "goalsAgainst": 41,
-    "goalDifference": -12,
-    "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
       "league": "LaLiga"
     }
   },
@@ -400,14 +400,14 @@
   },
   {
     "rank": 20,
-    "points": 18,
+    "points": 17,
     "matchesPlayed": 37,
     "matchesWon": 2,
-    "matchesDrawn": 12,
-    "matchesLost": 23,
+    "matchesDrawn": 11,
+    "matchesLost": 24,
     "goalsFor": 35,
-    "goalsAgainst": 72,
-    "goalDifference": -37,
+    "goalsAgainst": 73,
+    "goalDifference": -38,
     "team": {
       "id": "Almeria",
       "color": "#e0040b",
