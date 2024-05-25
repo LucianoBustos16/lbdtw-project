@@ -148,14 +148,14 @@
   },
   {
     "rank": 8,
-    "points": 53,
+    "points": 52,
     "matchesPlayed": 38,
     "matchesWon": 14,
-    "matchesDrawn": 11,
-    "matchesLost": 13,
+    "matchesDrawn": 10,
+    "matchesLost": 14,
     "goalsFor": 64,
-    "goalsAgainst": 64,
-    "goalDifference": 0,
+    "goalsAgainst": 65,
+    "goalDifference": -1,
     "team": {
       "id": "Villarreal",
       "color": "#002246",
@@ -190,6 +190,27 @@
   },
   {
     "rank": 10,
+    "points": 47,
+    "matchesPlayed": 38,
+    "matchesWon": 13,
+    "matchesDrawn": 8,
+    "matchesLost": 17,
+    "goalsFor": 45,
+    "goalsAgainst": 55,
+    "goalDifference": -10,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
     "points": 45,
     "matchesPlayed": 37,
     "matchesWon": 12,
@@ -206,27 +227,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 45,
-    "matchesPlayed": 38,
-    "matchesWon": 12,
-    "matchesDrawn": 9,
-    "matchesLost": 17,
-    "goalsFor": 44,
-    "goalsAgainst": 55,
-    "goalDifference": -11,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
