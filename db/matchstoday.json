@@ -244,5 +244,109 @@
         ]
       }
     ]
+  },
+  {
+    "competition": "Reserva - Copa Proyeccion",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "25.png",
+            "name": {
+              "id": "Atletico-Tucuman",
+              "color": "#71AFDB",
+              "colorSecondary": "#FFF",
+              "name": "Atl Tucuman",
+              "shortName": "TUC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "5.png",
+            "name": {
+              "id": "Banfield",
+              "color": "#007934",
+              "colorSecondary": "#B49759",
+              "name": "Banfield",
+              "shortName": "BAN",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "29.png",
+            "name": {
+              "id": "Defensa-y-Justicia",
+              "color": "#ffdd00",
+              "colorSecondary": "#007A3F",
+              "name": "Def y Justicia",
+              "shortName": "DYJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "52.png",
+            "name": {
+              "id": "Talleres",
+              "color": "#00184C",
+              "colorSecondary": "#FFFFFF",
+              "name": "Talleres (C)",
+              "shortName": "CAT",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "39.png",
+            "name": {
+              "id": "Union",
+              "color": "#DA251D",
+              "colorSecondary": "#FFFFFF",
+              "name": "Union",
+              "shortName": "USF",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
   }
 ]
