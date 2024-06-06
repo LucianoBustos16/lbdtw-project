@@ -3,59 +3,35 @@
     "competition": "Copa Argentina",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "21:10  ",
         "teams": [
           {
-            "localImgId": "3.png",
+            "localImgId": "52.png",
             "name": {
-              "id": "Argentinos",
-              "color": "#E32021",
-              "colorSecondary": "#00569D",
-              "name": "Argentinos",
-              "shortName": "ARGJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "24.png",
-            "name": "Atl Rafaela",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "4.png",
-            "name": {
-              "id": "Arsenal",
-              "color": "#13B5EA",
-              "colorSecondary": "#EF3340",
-              "name": "Arsenal",
-              "shortName": "ARS",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "21.png",
-            "name": {
-              "id": "Velez",
-              "color": "#0063A8",
+              "id": "Talleres",
+              "color": "#00184C",
               "colorSecondary": "#FFFFFF",
-              "name": "Velez",
-              "shortName": "VEL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+              "name": "Talleres (C)",
+              "shortName": "CAT",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "2"
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "7.png",
+            "name": {
+              "id": "Colon",
+              "color": "#C80000",
+              "colorSecondary": "#000",
+              "name": "Colon",
+              "shortName": "COL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       }
@@ -65,142 +41,32 @@
     "competition": "Amistosos Internacionales",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "13:00  ",
         "teams": [
           {
-            "localImgId": "eslovaquia.gif",
-            "name": "Eslovaquia",
-            "localScore": "4"
+            "localImgId": "gibraltar.gif",
+            "name": "Gibraltar",
+            "localScore": ""
           },
           {
-            "visitantImgId": "sanmarino.gif",
-            "name": "San Marino",
-            "visitantScore": "0"
+            "visitantImgId": "gales.gif",
+            "name": "Gales",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "15:45  ",
         "teams": [
           {
-            "localImgId": "noruega.gif",
-            "name": "Noruega",
-            "localScore": "3"
+            "localImgId": "paisesbajos.gif",
+            "name": "Paises Bajos",
+            "localScore": ""
           },
           {
-            "visitantImgId": "kosovo.gif",
-            "name": "Kosovo",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "dinamarca.gif",
-            "name": "Dinamarca",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "suecia.gif",
-            "name": "Suecia",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "belgica.gif",
-            "name": "Belgica",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "montenegro.gif",
-            "name": "Montenegro",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "francia.gif",
-            "name": "Francia",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "luxemburgo.gif",
-            "name": "Luxemburgo",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "espana.gif",
-            "name": "Espa�a",
-            "localScore": "5"
-          },
-          {
-            "visitantImgId": "andorra.gif",
-            "name": "Andorra",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "mexico.gif",
-            "name": "Mexico",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "uruguay.gif",
-            "name": "Uruguay",
-            "visitantScore": "4"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Brasileirao",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1595.png",
-            "name": "Juventude",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "1027.png",
-            "name": "Goianiense",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1594.png",
-            "name": "Cuiaba",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "600.png",
-            "name": "Vitoria",
-            "visitantScore": "0"
+            "visitantImgId": "canada.gif",
+            "name": "Canada",
+            "visitantScore": ""
           }
         ]
       }
@@ -210,47 +76,52 @@
     "competition": "Liga Paraguay",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "16:30  ",
         "teams": [
           {
-            "localImgId": "753.png",
-            "name": "Sp. Luque�o",
-            "localScore": "2"
+            "localImgId": "1702.png",
+            "name": "Sp. Ameliano",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1768.png",
-            "name": "Sp. Trinidense",
-            "visitantScore": "6"
+            "visitantImgId": "1701.png",
+            "name": "Tacuary",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "751.png",
-            "name": "Nacional (P)",
-            "localScore": "0"
+            "localImgId": "1700.png",
+            "name": "Gral Caballero",
+            "localScore": ""
           },
           {
-            "visitantImgId": "718.png",
-            "name": "Cerro Porte�o",
-            "visitantScore": "2"
+            "visitantImgId": "752.png",
+            "name": "Sol America (P)",
+            "visitantScore": ""
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "competition": "Liga Chile",
+    "matches": [
       {
-        "hour": "Final",
+        "hour": "18:30  ",
         "teams": [
           {
-            "localImgId": "575.png",
-            "name": "Olimpia",
-            "localScore": "1"
+            "localImgId": "1028.png",
+            "name": "Coquimbo Unido",
+            "localScore": ""
           },
           {
-            "visitantImgId": "719.png",
-            "name": "Libertad (P)",
-            "visitantScore": "3"
+            "visitantImgId": "877.png",
+            "name": "Palestino",
+            "visitantScore": ""
           }
         ]
       }
