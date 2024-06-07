@@ -3,35 +3,26 @@
     "competition": "Copa Argentina",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "20:00  ",
         "teams": [
           {
-            "localImgId": "52.png",
+            "localImgId": "19.png",
             "name": {
-              "id": "Talleres",
-              "color": "#00184C",
-              "colorSecondary": "#FFFFFF",
-              "name": "Talleres (C)",
-              "shortName": "CAT",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+              "id": "San-Lorenzo",
+              "color": "#BF1B27",
+              "colorSecondary": "#263D54",
+              "name": "San Lorenzo",
+              "shortName": "SL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
               "league": "LPF"
             },
-            "localScore": "1"
+            "localScore": ""
           },
           {
-            "visitantImgId": "7.png",
-            "name": {
-              "id": "Colon",
-              "color": "#C80000",
-              "colorSecondary": "#000",
-              "name": "Colon",
-              "shortName": "COL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "0"
+            "visitantImgId": "28.png",
+            "name": "Chacarita",
+            "visitantScore": ""
           }
         ]
       }
@@ -41,67 +32,112 @@
     "competition": "Amistosos Internacionales",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "12:30  ",
         "teams": [
           {
-            "localImgId": "gibraltar.gif",
-            "name": "Gibraltar",
-            "localScore": "0"
+            "localImgId": "repcheca.gif",
+            "name": "Rep. Checa",
+            "localScore": ""
           },
           {
-            "visitantImgId": "gales.gif",
-            "name": "Gales",
-            "visitantScore": "0"
+            "visitantImgId": "malta.gif",
+            "name": "Malta",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "15:45  ",
         "teams": [
           {
-            "localImgId": "paisesbajos.gif",
-            "name": "Paises Bajos",
-            "localScore": "4"
+            "localImgId": "inglaterra.gif",
+            "name": "Inglaterra",
+            "localScore": ""
           },
           {
-            "visitantImgId": "canada.gif",
-            "name": "Canada",
-            "visitantScore": "0"
+            "visitantImgId": "islandia.gif",
+            "name": "Islandia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "alemania.gif",
+            "name": "Alemania",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "grecia.gif",
+            "name": "Grecia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "polonia.gif",
+            "name": "Polonia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "ucrania.gif",
+            "name": "Ucrania",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "escocia.gif",
+            "name": "Escocia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "finlandia.gif",
+            "name": "Finlandia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "peru.gif",
+            "name": "Peru",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "paraguay.gif",
+            "name": "Paraguay",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Liga Paraguay",
+    "competition": "Federal A",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "1702.png",
-            "name": "Sp. Ameliano",
-            "localScore": "0"
+            "localImgId": "135.png",
+            "name": "Sarmiento (LB)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1701.png",
-            "name": "Tacuary",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1700.png",
-            "name": "Gral Caballero",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "752.png",
-            "name": "Sol America (P)",
-            "visitantScore": "3"
+            "visitantImgId": "80.png",
+            "name": "Crucero (M)",
+            "visitantScore": ""
           }
         ]
       }
@@ -111,17 +147,17 @@
     "competition": "Liga Chile",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "20:00  ",
         "teams": [
           {
-            "localImgId": "1028.png",
-            "name": "Coquimbo Unido",
-            "localScore": "0"
+            "localImgId": "774.png",
+            "name": "Union Espa�ola",
+            "localScore": ""
           },
           {
-            "visitantImgId": "877.png",
-            "name": "Palestino",
-            "visitantScore": "0"
+            "visitantImgId": "892.png",
+            "name": "La Calera",
+            "visitantScore": ""
           }
         ]
       }
