@@ -1,119 +1,79 @@
 [
   {
-    "competition": "Primera Nacional",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "24.png",
-            "name": "Atl Rafaela",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "154.png",
-            "name": "Estudiantes (RC)",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Amistosos Internacionales",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "13:00  ",
         "teams": [
           {
-            "localImgId": "repcheca.gif",
-            "name": "Rep. Checa",
-            "localScore": "2"
+            "localImgId": "malta.gif",
+            "name": "Malta",
+            "localScore": ""
           },
           {
-            "visitantImgId": "macedonia.gif",
-            "name": "Macedonia",
-            "visitantScore": "1"
+            "visitantImgId": "grecia.gif",
+            "name": "Grecia",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "13:00  ",
         "teams": [
           {
-            "localImgId": "paisesbajos.gif",
-            "name": "Paises Bajos",
-            "localScore": "4"
+            "localImgId": "moldavia.gif",
+            "name": "Moldavia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "islandia.gif",
-            "name": "Islandia",
-            "visitantScore": "0"
+            "visitantImgId": "ucrania.gif",
+            "name": "Ucrania",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "15:45  ",
         "teams": [
           {
-            "localImgId": "polonia.gif",
-            "name": "Polonia",
-            "localScore": "2"
+            "localImgId": "portugal.gif",
+            "name": "Portugal",
+            "localScore": ""
           },
           {
-            "visitantImgId": "turquia.gif",
-            "name": "Turquia",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Primera C",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "60.png",
-            "name": "Dep. Espa�ol",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "110.png",
-            "name": "Lujan",
-            "visitantScore": "0"
+            "visitantImgId": "irlanda.gif",
+            "name": "Irlanda",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "15:45  ",
         "teams": [
           {
-            "localImgId": "119.png",
-            "name": "Centro Espa�ol",
-            "localScore": "1"
+            "localImgId": "irlandanorte.gif",
+            "name": "Irlanda Norte",
+            "localScore": ""
           },
           {
-            "visitantImgId": "66.png",
-            "name": "El Porvenir",
-            "visitantScore": "0"
+            "visitantImgId": "andorra.gif",
+            "name": "Andorra",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "120.png",
-            "name": "Claypole",
-            "localScore": "1"
+            "localImgId": "chile.gif",
+            "name": "Chile",
+            "localScore": ""
           },
           {
-            "visitantImgId": "364.png",
-            "name": "Mercedes",
-            "visitantScore": "0"
+            "visitantImgId": "paraguay.gif",
+            "name": "Paraguay",
+            "visitantScore": ""
           }
         ]
       }
@@ -123,35 +83,111 @@
     "competition": "Femenino",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "5.png",
-            "name": {
-              "id": "Banfield",
-              "color": "#007934",
-              "colorSecondary": "#B49759",
-              "name": "Banfield",
-              "shortName": "BAN",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "0"
+            "localImgId": "112.png",
+            "name": "UAI Urquiza",
+            "localScore": ""
           },
           {
-            "visitantImgId": "6.png",
+            "visitantImgId": "11.png",
             "name": {
-              "id": "Boca",
-              "color": "#023F86",
-              "colorSecondary": "#F7A600",
-              "name": "Boca Juniors",
-              "shortName": "CABJ",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+              "id": "Huracan",
+              "color": "#FF0000",
+              "colorSecondary": "#FFFFFF",
+              "name": "Huracan",
+              "shortName": "HUR",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "1"
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Brasileirao",
+    "matches": [
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "1027.png",
+            "name": "Goianiense",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "587.png",
+            "name": "Corinthians",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "1595.png",
+            "name": "Juventude",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "600.png",
+            "name": "Vitoria",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "586.png",
+            "name": "Botafogo",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "591.png",
+            "name": "Fluminense",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "1025.png",
+            "name": "Bragantino",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "583.png",
+            "name": "Atl. Mineiro",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Liga Uruguay",
+    "matches": [
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "757.png",
+            "name": "Rampla Juniors",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "754.png",
+            "name": "Boston River",
+            "visitantScore": ""
           }
         ]
       }
