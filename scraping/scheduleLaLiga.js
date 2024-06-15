@@ -81,16 +81,18 @@ export async function getScheduleLaLiga($) {
 
 			const matchDate = new Date(`${prefixDate} ${hour} GMT+2`)
 			const timestamp = Date.parse(matchDate)		
+
+			console.log(matchDate)
 			
 			const horario = new Date(timestamp);
             const optionsHours = {
                 timeZone: "America/Argentina/Buenos_Aires",
                 hour12: false, // Opcional, para mostrar la hora en formato de 24 horas,
-              }
+			}
 
-			  const optionsDay = {
+			const optionsDay = {
                 weekday: 'long',
-              }
+			}
 
             const hourAr = horario.toLocaleString("es-AR", optionsHours)
             const [fecha, horaCompleta] = hourAr.split(" ");

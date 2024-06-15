@@ -102,7 +102,6 @@ export async function getMatchsToday($) {
 			const visitantName = getTeamFrom({ name: clearvisitantName }) ? getTeamFrom({ name: clearvisitantName }) : cleanText(visitantNameRaw)
 			const visitantImg = $($visitantsImages[index]).attr('src')
 			const visitantImgId = getTeamIdFromImageUrl(visitantImg)
-			// console.log(`${localName} - ${localImg}`)
 
 			const localScoreRaw = $($localScores[index]).text()
 			const localScore = cleanText(localScoreRaw)

@@ -58,7 +58,5 @@ export async function getLeaderBoardLPF ($) {
       const zonaA = LPF.slice(0, 14);
       const zonaB = LPF.slice(14, 28);
 
-      console.log(zonaA, zonaB)
-
       return { zonaA, zonaB };
       };

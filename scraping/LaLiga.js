@@ -37,8 +37,6 @@ export async function getLeaderBoardLaLiga ($) {
         const { team: teamName, ...leaderBoardForTeam } = Object.fromEntries(leaderBoardEntries)
         const team = getTeamFrom ({ name: teamName })
 
-        console.log(teamName)
-
         leaderboardLPF.push(
           {
           rank: index + 1,
