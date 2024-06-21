@@ -3,17 +3,17 @@
     "competition": "Copa America",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "21:00  ",
         "teams": [
           {
-            "localImgId": "argentina.gif",
-            "name": "Argentina",
-            "localScore": "2"
+            "localImgId": "peru.gif",
+            "name": "Peru",
+            "localScore": ""
           },
           {
-            "visitantImgId": "canada.gif",
-            "name": "Canada",
-            "visitantScore": "0"
+            "visitantImgId": "chile.gif",
+            "name": "Chile",
+            "visitantScore": ""
           }
         ]
       }
@@ -23,47 +23,47 @@
     "competition": "Eurocopa",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "10:00  ",
         "teams": [
           {
-            "localImgId": "eslovenia.gif",
-            "name": "Eslovenia",
-            "localScore": "1"
+            "localImgId": "eslovaquia.gif",
+            "name": "Eslovaquia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "serbia.gif",
-            "name": "Serbia",
-            "visitantScore": "1"
+            "visitantImgId": "ucrania.gif",
+            "name": "Ucrania",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "13:00  ",
         "teams": [
           {
-            "localImgId": "dinamarca.gif",
-            "name": "Dinamarca",
-            "localScore": "1"
+            "localImgId": "polonia.gif",
+            "name": "Polonia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "inglaterra.gif",
-            "name": "Inglaterra",
-            "visitantScore": "1"
+            "visitantImgId": "austria.gif",
+            "name": "Austria",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "16:00  ",
         "teams": [
           {
-            "localImgId": "espana.gif",
-            "name": "Espa�a",
-            "localScore": "1"
+            "localImgId": "paisesbajos.gif",
+            "name": "Paises Bajos",
+            "localScore": ""
           },
           {
-            "visitantImgId": "italia.gif",
-            "name": "Italia",
-            "visitantScore": "0"
+            "visitantImgId": "francia.gif",
+            "name": "Francia",
+            "visitantScore": ""
           }
         ]
       }
@@ -73,105 +73,26 @@
     "competition": "Femenino",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "14:00  ",
         "teams": [
           {
-            "localImgId": "18.png",
+            "localImgId": "112.png",
+            "name": "UAI Urquiza",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "45.png",
             "name": {
-              "id": "River",
-              "color": "#E30520",
+              "id": "Platense",
+              "color": "#633B1B",
               "colorSecondary": "#FFFFFF",
-              "name": "River Plate",
-              "shortName": "CARP",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
               "league": "LPF"
             },
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "19.png",
-            "name": {
-              "id": "San-Lorenzo",
-              "color": "#BF1B27",
-              "colorSecondary": "#263D54",
-              "name": "San Lorenzo",
-              "shortName": "SL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Brasileirao",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "600.png",
-            "name": "Vitoria",
-            "localScore": "4"
-          },
-          {
-            "visitantImgId": "583.png",
-            "name": "Atl. Mineiro",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "590.png",
-            "name": "Flamengo",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "585.png",
-            "name": "Bahia",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "629.png",
-            "name": "Palmeiras",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "1025.png",
-            "name": "Bragantino",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Liga Chile",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1692.png",
-            "name": "�ublense",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "1029.png",
-            "name": "Huachipato",
-            "visitantScore": "0"
+            "visitantScore": ""
           }
         ]
       }
