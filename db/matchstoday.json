@@ -3,67 +3,101 @@
     "competition": "Copa America",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "panama.gif",
-            "name": "Panama",
-            "localScore": "2"
+            "localImgId": "colombia.gif",
+            "name": "Colombia",
+            "localScore": ""
           },
           {
-            "visitantImgId": "usa.gif",
-            "name": "USA",
-            "visitantScore": "1"
+            "visitantImgId": "costarica.gif",
+            "name": "Costa Rica",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "22:00  ",
         "teams": [
           {
-            "localImgId": "uruguay.gif",
-            "name": "Uruguay",
-            "localScore": "5"
+            "localImgId": "paraguay.gif",
+            "name": "Paraguay",
+            "localScore": ""
           },
           {
-            "visitantImgId": "bolivia.gif",
-            "name": "Bolivia",
-            "visitantScore": "0"
+            "visitantImgId": "brasil.gif",
+            "name": "Brasil",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Brasileirao",
+    "competition": "Primera C",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "591.png",
-            "name": "Fluminense",
-            "localScore": "0"
+            "localImgId": "60.png",
+            "name": "Dep. Espa�ol",
+            "localScore": ""
           },
           {
-            "visitantImgId": "600.png",
-            "name": "Vitoria",
-            "visitantScore": "1"
+            "visitantImgId": "121.png",
+            "name": "Mu�iz",
+            "visitantScore": ""
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "569.png",
-            "name": "Sao Paulo",
-            "localScore": "2"
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "589.png",
-            "name": "Criciuma",
-            "visitantScore": "1"
+            "visitantImgId": "106.png",
+            "name": "Excursionistas",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Mls",
+    "matches": [
+      {
+        "hour": "20:30  ",
+        "teams": [
+          {
+            "localImgId": "918.png",
+            "name": "New York FC",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "920.png",
+            "name": "Orlando City",
+            "visitantScore": ""
           }
         ]
       }
