@@ -1,79 +1,68 @@
 [
   {
-    "competition": "Brasileirao",
+    "competition": "Femenino",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "629.png",
-            "name": "Palmeiras",
-            "localScore": "3"
+            "localImgId": "14.png",
+            "name": {
+              "id": "Newells",
+              "color": "#ED1C24",
+              "colorSecondary": "#000000",
+              "name": "Newells",
+              "shortName": "NOB",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
           },
           {
-            "visitantImgId": "1027.png",
-            "name": "Goianiense",
-            "visitantScore": "1"
+            "visitantImgId": "106.png",
+            "name": "Excursionistas",
+            "visitantScore": ""
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "competition": "Liga Uruguay",
+    "matches": [
       {
-        "hour": "Final",
+        "hour": "19:00  ",
         "teams": [
           {
-            "localImgId": "589.png",
-            "name": "Criciuma",
-            "localScore": "1"
+            "localImgId": "1326.png",
+            "name": "Dep Maldonado",
+            "localScore": ""
           },
           {
-            "visitantImgId": "591.png",
-            "name": "Fluminense",
-            "visitantScore": "1"
+            "visitantImgId": "1763.png",
+            "name": "Racing (M)",
+            "visitantScore": ""
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "competition": "Liga Mexico",
+    "matches": [
       {
-        "hour": "Final",
+        "hour": "22:00  ",
         "teams": [
           {
-            "localImgId": "590.png",
-            "name": "Flamengo",
-            "localScore": "1"
+            "localImgId": "688.png",
+            "name": "America",
+            "localScore": ""
           },
           {
-            "visitantImgId": "863.png",
-            "name": "Fortaleza",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "583.png",
-            "name": "Atl. Mineiro",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "569.png",
-            "name": "Sao Paulo",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "600.png",
-            "name": "Vitoria",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "586.png",
-            "name": "Botafogo",
-            "visitantScore": "1"
+            "visitantImgId": "904.png",
+            "name": "Queretaro",
+            "visitantScore": ""
           }
         ]
       }
