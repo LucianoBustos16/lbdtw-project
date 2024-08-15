@@ -1,6 +1,27 @@
 [
   {
     "rank": 1,
+    "points": 3,
+    "matchesPlayed": 1,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 0,
+    "goalDifference": 1,
+    "team": {
+      "id": "Betis",
+      "color": "#008835",
+      "colorSecondary": "#FFF",
+      "name": "Betis",
+      "shortName": "BET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 2,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -21,7 +42,7 @@
     }
   },
   {
-    "rank": 2,
+    "rank": 3,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -42,7 +63,7 @@
     }
   },
   {
-    "rank": 3,
+    "rank": 4,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -63,7 +84,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -101,27 +122,6 @@
       "shortName": "BAR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Barcelona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barcelona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Betis",
-      "color": "#008835",
-      "colorSecondary": "#FFF",
-      "name": "Betis",
-      "shortName": "BET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
       "league": "LaLiga"
     }
   },
@@ -178,13 +178,13 @@
     "goalsAgainst": 0,
     "goalDifference": 0,
     "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -197,31 +197,10 @@
     "matchesLost": 0,
     "goalsFor": 0,
     "goalsAgainst": 0,
-    "goalDifference": 0,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 0,
-    "matchesPlayed": 0,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 0,
-    "goalsAgainst": 0,
     "goalDifference": 0
   },
   {
-    "rank": 12,
+    "rank": 11,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -242,7 +221,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -263,7 +242,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 13,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -284,7 +263,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 14,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -305,7 +284,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 15,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -326,7 +305,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 16,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -347,7 +326,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 17,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -368,7 +347,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 18,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -389,7 +368,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 19,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -406,6 +385,27 @@
       "shortName": "VIL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 20,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 0,
+    "goalsAgainst": 1,
+    "goalDifference": -1,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   }
