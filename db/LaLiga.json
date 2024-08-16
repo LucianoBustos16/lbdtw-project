@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 3,
+    "points": 1,
     "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 1,
-    "goalsAgainst": 0,
-    "goalDifference": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
     "team": {
       "id": "Alaves",
       "color": "#002246",
@@ -73,6 +73,27 @@
     "goalsAgainst": 1,
     "goalDifference": 0,
     "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 1,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
       "id": "Getafe",
       "color": "#00369e",
       "colorSecondary": "#FFF",
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -200,7 +221,7 @@
     "goalDifference": 0
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -221,7 +242,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -242,7 +263,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -263,7 +284,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -284,7 +305,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -305,7 +326,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -326,7 +347,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -347,7 +368,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 19,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -368,7 +389,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 20,
     "points": 0,
     "matchesPlayed": 0,
     "matchesWon": 0,
@@ -385,27 +406,6 @@
       "shortName": "VIL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 0,
-    "goalsAgainst": 1,
-    "goalDifference": -1,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
       "league": "LaLiga"
     }
   }
