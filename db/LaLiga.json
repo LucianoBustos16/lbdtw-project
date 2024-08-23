@@ -31,27 +31,6 @@
     "goalsAgainst": 1,
     "goalDifference": 1,
     "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 3,
-    "matchesPlayed": 1,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 0,
-    "goalsFor": 2,
-    "goalsAgainst": 1,
-    "goalDifference": 1,
-    "team": {
       "id": "Rayo-Vallecano",
       "color": "#e21921 ",
       "colorSecondary": "#FFF",
@@ -63,7 +42,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 3,
     "points": 3,
     "matchesPlayed": 1,
     "matchesWon": 1,
@@ -84,7 +63,49 @@
     }
   },
   {
+    "rank": 4,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
     "rank": 5,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 6,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -263,7 +284,7 @@
     "goalDifference": 0
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -284,7 +305,7 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -305,7 +326,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -326,7 +347,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -347,7 +368,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 19,
     "points": 0,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -364,27 +385,6 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
       "league": "LaLiga"
     }
   },
