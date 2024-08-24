@@ -85,10 +85,10 @@
   },
   {
     "rank": 5,
-    "points": 3,
-    "matchesPlayed": 1,
+    "points": 4,
+    "matchesPlayed": 2,
     "matchesWon": 1,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 0,
     "goalsFor": 2,
     "goalsAgainst": 1,
@@ -127,6 +127,27 @@
   },
   {
     "rank": 7,
+    "points": 2,
+    "matchesPlayed": 2,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 8,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 1,
     "matchesPlayed": 1,
     "matchesWon": 0,
@@ -185,27 +206,6 @@
       "shortName": "BET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 1,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
@@ -327,31 +327,10 @@
   },
   {
     "rank": 17,
-    "points": 0,
-    "matchesPlayed": 1,
+    "points": 1,
+    "matchesPlayed": 2,
     "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Alaves",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Alaves",
-      "shortName": "ALV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 0,
-    "matchesPlayed": 1,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 1,
     "goalsFor": 1,
     "goalsAgainst": 2,
@@ -368,11 +347,11 @@
     }
   },
   {
-    "rank": 19,
-    "points": 0,
-    "matchesPlayed": 1,
+    "rank": 18,
+    "points": 1,
+    "matchesPlayed": 2,
     "matchesWon": 0,
-    "matchesDrawn": 0,
+    "matchesDrawn": 1,
     "matchesLost": 1,
     "goalsFor": 0,
     "goalsAgainst": 1,
@@ -385,6 +364,27 @@
       "shortName": "ESP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 19,
+    "points": 0,
+    "matchesPlayed": 1,
+    "matchesWon": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
+    "team": {
+      "id": "Alaves",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Alaves",
+      "shortName": "ALV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
       "league": "LaLiga"
     }
   },
