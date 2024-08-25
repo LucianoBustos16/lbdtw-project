@@ -111,17 +111,17 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 0,
+    "goalsFor": 2,
+    "goalsAgainst": 1,
     "goalDifference": 1,
     "team": {
-      "id": "Valladolid",
-      "color": "#5B268A",
-      "colorSecondary": "#FFF",
-      "name": "Valladolid",
-      "shortName": "VLD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
+      "id": "Real-Madrid",
+      "color": "#004996",
+      "colorSecondary": "#FFF ",
+      "name": "Real Madrid",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -148,6 +148,27 @@
   },
   {
     "rank": 8,
+    "points": 3,
+    "matchesPlayed": 2,
+    "matchesWon": 1,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
+    "team": {
+      "id": "Valladolid",
+      "color": "#5B268A",
+      "colorSecondary": "#FFF",
+      "name": "Valladolid",
+      "shortName": "VLD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
     "points": 2,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -164,27 +185,6 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 2,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
-    "team": {
-      "id": "Real-Madrid",
-      "color": "#004996",
-      "colorSecondary": "#FFF ",
-      "name": "Real Madrid",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
