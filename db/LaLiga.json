@@ -69,17 +69,6 @@
     "matchesWon": 1,
     "matchesDrawn": 2,
     "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1
-  },
-  {
-    "rank": 5,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
     "goalsFor": 5,
     "goalsAgainst": 2,
     "goalDifference": 3,
@@ -93,6 +82,17 @@
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
+  },
+  {
+    "rank": 5,
+    "points": 5,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1
   },
   {
     "rank": 6,
@@ -185,27 +185,6 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 3,
-    "goalDifference": -2,
-    "team": {
-      "id": "Valladolid",
-      "color": "#5B268A",
-      "colorSecondary": "#FFF",
-      "name": "Valladolid",
-      "shortName": "VLD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 3,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 1,
     "goalsFor": 2,
     "goalsAgainst": 2,
     "goalDifference": 0,
@@ -217,6 +196,27 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 4,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 3,
+    "goalDifference": -2,
+    "team": {
+      "id": "Valladolid",
+      "color": "#5B268A",
+      "colorSecondary": "#FFF",
+      "name": "Valladolid",
+      "shortName": "VLD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -294,6 +294,27 @@
     "goalsAgainst": 2,
     "goalDifference": -1,
     "team": {
+      "id": "Alaves",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Alaves",
+      "shortName": "ALV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 2,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 1,
+    "goalsAgainst": 2,
+    "goalDifference": -1,
+    "team": {
       "id": "Mallorca",
       "color": "#cd1609 ",
       "colorSecondary": "#000",
@@ -305,7 +326,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -326,28 +347,28 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 1,
-    "matchesPlayed": 2,
+    "matchesPlayed": 3,
     "matchesWon": 0,
     "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 1,
+    "matchesLost": 2,
+    "goalsFor": 0,
     "goalsAgainst": 2,
-    "goalDifference": -1,
+    "goalDifference": -2,
     "team": {
-      "id": "Alaves",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Alaves",
-      "shortName": "ALV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "id": "Espanyol",
+      "color": "#0077BD",
+      "colorSecondary": "#FFF",
+      "name": "Espanyol",
+      "shortName": "ESP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
       "league": "LaLiga"
     }
   },
   {
-    "rank": 18,
+    "rank": 19,
     "points": 1,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -364,27 +385,6 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 19,
-    "points": 0,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 0,
-    "goalsAgainst": 2,
-    "goalDifference": -2,
-    "team": {
-      "id": "Espanyol",
-      "color": "#0077BD",
-      "colorSecondary": "#FFF",
-      "name": "Espanyol",
-      "shortName": "ESP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
       "league": "LaLiga"
     }
   },
