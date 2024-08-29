@@ -90,17 +90,6 @@
     "matchesWon": 1,
     "matchesDrawn": 2,
     "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1
-  },
-  {
-    "rank": 6,
-    "points": 4,
-    "matchesPlayed": 2,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
     "goalsFor": 4,
     "goalsAgainst": 1,
     "goalDifference": 3,
@@ -114,6 +103,17 @@
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
+  },
+  {
+    "rank": 6,
+    "points": 5,
+    "matchesPlayed": 3,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 3,
+    "goalsAgainst": 2,
+    "goalDifference": 1
   },
   {
     "rank": 7,
@@ -315,6 +315,27 @@
     "goalsAgainst": 4,
     "goalDifference": -1,
     "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 2,
+    "matchesPlayed": 3,
+    "matchesWon": 0,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "goalDifference": -1,
+    "team": {
       "id": "Sevilla",
       "color": "#CD3529",
       "colorSecondary": "#FFF",
@@ -326,7 +347,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 2,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -343,27 +364,6 @@
       "shortName": "MALL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 1,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 3,
-    "goalsAgainst": 4,
-    "goalDifference": -1,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
