@@ -43,14 +43,14 @@
   },
   {
     "rank": 3,
-    "points": 7,
+    "points": 8,
     "matchesPlayed": 4,
     "matchesWon": 2,
-    "matchesDrawn": 1,
-    "matchesLost": 1,
-    "goalsFor": 8,
+    "matchesDrawn": 2,
+    "matchesLost": 0,
+    "goalsFor": 9,
     "goalsAgainst": 7,
-    "goalDifference": 1,
+    "goalDifference": 2,
     "team": {
       "id": "Villarreal",
       "color": "#002246",
@@ -85,17 +85,6 @@
   },
   {
     "rank": 5,
-    "points": 6,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 3,
-    "matchesLost": 0,
-    "goalsFor": 3,
-    "goalsAgainst": 2,
-    "goalDifference": 1
-  },
-  {
-    "rank": 6,
     "points": 5,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -116,7 +105,39 @@
     }
   },
   {
+    "rank": 6,
+    "points": 5,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 3,
+    "goalsAgainst": 3,
+    "goalDifference": 0
+  },
+  {
     "rank": 7,
+    "points": 5,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 2,
+    "goalsAgainst": 2,
+    "goalDifference": 0,
+    "team": {
+      "id": "Mallorca",
+      "color": "#cd1609 ",
+      "colorSecondary": "#000",
+      "name": "Mallorca",
+      "shortName": "MALL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 8,
     "points": 4,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -137,7 +158,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 4,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -158,7 +179,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -179,7 +200,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -200,7 +221,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -221,7 +242,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 4,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -242,7 +263,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -263,7 +284,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 3,
     "matchesPlayed": 3,
     "matchesWon": 1,
@@ -284,49 +305,7 @@
     }
   },
   {
-    "rank": 15,
-    "points": 3,
-    "matchesPlayed": 4,
-    "matchesWon": 0,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 1,
-    "goalsAgainst": 2,
-    "goalDifference": -1,
-    "team": {
-      "id": "Mallorca",
-      "color": "#cd1609 ",
-      "colorSecondary": "#000",
-      "name": "Mallorca",
-      "shortName": "MALL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
     "rank": 16,
-    "points": 3,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 3,
-    "goalsFor": 3,
-    "goalsAgainst": 6,
-    "goalDifference": -3,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
     "points": 2,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -347,7 +326,7 @@
     }
   },
   {
-    "rank": 18,
+    "rank": 17,
     "points": 2,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -368,7 +347,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 18,
     "points": 2,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -389,7 +368,7 @@
     }
   },
   {
-    "rank": 20,
+    "rank": 19,
     "points": 2,
     "matchesPlayed": 3,
     "matchesWon": 0,
@@ -406,6 +385,27 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 20,
+    "points": 1,
+    "matchesPlayed": 4,
+    "matchesWon": 0,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
+    "goalsFor": 3,
+    "goalsAgainst": 7,
+    "goalDifference": -4,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
       "league": "LaLiga"
     }
   }
