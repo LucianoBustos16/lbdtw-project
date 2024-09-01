@@ -248,6 +248,27 @@
     "matchesWon": 1,
     "matchesDrawn": 1,
     "matchesLost": 2,
+    "goalsFor": 3,
+    "goalsAgainst": 4,
+    "goalDifference": -1,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 4,
+    "matchesPlayed": 4,
+    "matchesWon": 1,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
     "goalsFor": 2,
     "goalsAgainst": 3,
     "goalDifference": -1,
@@ -263,7 +284,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -284,28 +305,28 @@
     }
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 3,
     "matchesPlayed": 3,
-    "matchesWon": 1,
-    "matchesDrawn": 0,
-    "matchesLost": 2,
-    "goalsFor": 3,
-    "goalsAgainst": 4,
-    "goalDifference": -1,
+    "matchesWon": 0,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 1,
+    "goalsAgainst": 1,
+    "goalDifference": 0,
     "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
+      "id": "Getafe",
+      "color": "#00369e",
       "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 3,
     "matchesPlayed": 4,
     "matchesWon": 0,
@@ -326,7 +347,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 2,
     "matchesPlayed": 2,
     "matchesWon": 0,
@@ -343,27 +364,6 @@
       "shortName": "BET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 2,
-    "matchesPlayed": 2,
-    "matchesWon": 0,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 1,
-    "goalsAgainst": 1,
-    "goalDifference": 0,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
