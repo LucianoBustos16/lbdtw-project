@@ -1711,6 +1711,55 @@
     "fecha": 7,
     "matches": [
       {
+        "formattedDate": "17 Sep",
+        "timestamp": 1694970000000,
+        "hourMatch": "14:00",
+        "teams": [
+          {
+            "id": "Mallorca",
+            "name": "Mallorca",
+            "shortName": "MALL",
+            "color": "#cd1609 ",
+            "colorSecondary": "#000",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Real-Sociedad",
+            "name": "Real Sociedad",
+            "shortName": "RMD",
+            "color": "#0058b1 ",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "19 Sep",
+        "timestamp": 1695142800000,
+        "hourMatch": "14:00",
+        "teams": [
+          {
+            "id": "957"
+          },
+          {
+            "id": "Athletic-Bilbao",
+            "name": "Athletic Bilbao",
+            "shortName": "ATH",
+            "color": "#E2231A",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
+      },
+      {
         "formattedDate": "25 Sep",
         "timestamp": 1695668400000,
         "hourMatch": "16:00",
@@ -1845,55 +1894,6 @@
             "colorSecondary": "#FFF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Betis.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Betis-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "25 Sep",
-        "timestamp": 1695668400000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "957"
-          },
-          {
-            "id": "Athletic-Bilbao",
-            "name": "Athletic Bilbao",
-            "shortName": "ATH",
-            "color": "#E2231A",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "25 Sep",
-        "timestamp": 1695668400000,
-        "hourMatch": "16:00",
-        "teams": [
-          {
-            "id": "Mallorca",
-            "name": "Mallorca",
-            "shortName": "MALL",
-            "color": "#cd1609 ",
-            "colorSecondary": "#000",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Mallorca.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Mallorca-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Real-Sociedad",
-            "name": "Real Sociedad",
-            "shortName": "RMD",
-            "color": "#0058b1 ",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
             "league": "LaLiga"
           }
         ],
