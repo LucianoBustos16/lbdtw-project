@@ -93,7 +93,7 @@
           {
             "visitantImgId": "386.png",
             "name": "Real Pilar",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
@@ -182,6 +182,30 @@
   {
     "competition": "Femenino",
     "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "439.png",
+            "name": "S.A.T.",
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "11.png",
+            "name": {
+              "id": "Huracan",
+              "color": "#FF0000",
+              "colorSecondary": "#FFFFFF",
+              "name": "Huracan",
+              "shortName": "HUR",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": "3"
+          }
+        ]
+      },
       {
         "hour": "Final",
         "teams": [
