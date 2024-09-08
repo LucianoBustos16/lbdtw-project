@@ -1,12 +1,749 @@
 [
   {
-    "competition": "Copa Argentina",
+    "competition": "Liga Naciones Uefa",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "10:00  ",
         "teams": [
           {
-            "localImgId": "6.png",
+            "localImgId": "luxemburgo.gif",
+            "name": "Luxemburgo",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "bielorrusia.gif",
+            "name": "Bielorrusia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "13:00  ",
+        "teams": [
+          {
+            "localImgId": "bulgaria.gif",
+            "name": "Bulgaria",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "irlandanorte.gif",
+            "name": "Irlanda Norte",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "13:00  ",
+        "teams": [
+          {
+            "localImgId": "dinamarca.gif",
+            "name": "Dinamarca",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "serbia.gif",
+            "name": "Serbia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "13:00  ",
+        "teams": [
+          {
+            "localImgId": "gibraltar.gif",
+            "name": "Gibraltar",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "liechtenstein.gif",
+            "name": "Liechtenstein",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "13:00  ",
+        "teams": [
+          {
+            "localImgId": "eslovaquia.gif",
+            "name": "Eslovaquia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "azerbaiyan.gif",
+            "name": "Azerbaiyan",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "croacia.gif",
+            "name": "Croacia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "polonia.gif",
+            "name": "Polonia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "portugal.gif",
+            "name": "Portugal",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "escocia.gif",
+            "name": "Escocia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "suecia.gif",
+            "name": "Suecia",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "estonia.gif",
+            "name": "Estonia",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "suiza.gif",
+            "name": "Suiza",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "espana.gif",
+            "name": "Espa�a",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Primera Nacional",
+    "matches": [
+      {
+        "hour": "13:00  ",
+        "teams": [
+          {
+            "localImgId": "91.png",
+            "name": "San Telmo",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "24.png",
+            "name": "Atl Rafaela",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "14:00  ",
+        "teams": [
+          {
+            "localImgId": "83.png",
+            "name": "Brown (A)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "23.png",
+            "name": "Alte Brown",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "46.png",
+            "name": "Brown (PM)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "37.png",
+            "name": "San Martin (T)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "43.png",
+            "name": "Def. de Belgrano",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "105.png",
+            "name": "Def. Unidos",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "85.png",
+            "name": "Alvarado",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "30.png",
+            "name": "Ferro",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "156.png",
+            "name": "Gimnasia (M)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "133.png",
+            "name": "Mitre (SdE)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "31.png",
+            "name": "Gimnasia (J)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "53.png",
+            "name": "Gimnasia (S)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localImgId": "79.png",
+            "name": "Racing (C)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "101.png",
+            "name": "San Miguel",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "17:10  ",
+        "teams": [
+          {
+            "localImgId": "2.png",
+            "name": "All Boys",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "64.png",
+            "name": "Estudiantes (BA)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:10  ",
+        "teams": [
+          {
+            "localImgId": "44.png",
+            "name": "Dep. Moron",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "154.png",
+            "name": "Estudiantes (RC)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:10  ",
+        "teams": [
+          {
+            "localImgId": "34.png",
+            "name": "Patronato",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "16.png",
+            "name": "Quilmes",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "B Metro",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "59.png",
+            "name": "Liniers",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "92.png",
+            "name": "Villa Dalmine",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "77.png",
+            "name": "Flandria",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "107.png",
+            "name": "Fenix",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Federal A",
+    "matches": [
+      {
+        "hour": "11:00  ",
+        "teams": [
+          {
+            "localImgId": "210.png",
+            "name": "Kimberley (MdP)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1710.png",
+            "name": "Argentino (MM)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "11:00  ",
+        "teams": [
+          {
+            "localImgId": "202.png",
+            "name": "El Linque�o",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "68.png",
+            "name": "Douglas Haig",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "80.png",
+            "name": "Crucero (M)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "56.png",
+            "name": "Juv. Antoniana",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "308.png",
+            "name": "Huracan (LH)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "328.png",
+            "name": "Dep. Rincon",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "208.png",
+            "name": "Independiente CH",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "57.png",
+            "name": "Gimnasia (CdU)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "193.png",
+            "name": "Union (S)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "167.png",
+            "name": "Sarmiento (R)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:45  ",
+        "teams": [
+          {
+            "localImgId": "97.png",
+            "name": "Juv. Unida (SL)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "49.png",
+            "name": "Cipolletti",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "203.png",
+            "name": "Villa Mitre (BB)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "186.png",
+            "name": "Camioneros",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "171.png",
+            "name": "Sol de America (F)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "187.png",
+            "name": "9 de Julio (R)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "190.png",
+            "name": "Sp. Las Parejas",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "135.png",
+            "name": "Sarmiento (LB)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "311.png",
+            "name": "Atenas (RC)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "99.png",
+            "name": "Defensores (VR)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "155.png",
+            "name": "San Martin (M)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "160.png",
+            "name": "Estudiantes (SL)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:00  ",
+        "teams": [
+          {
+            "localImgId": "54.png",
+            "name": "Boca Unidos",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "288.png",
+            "name": "Defensores (P)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:30  ",
+        "teams": [
+          {
+            "localImgId": "162.png",
+            "name": "Gutierrez (M)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "15.png",
+            "name": "Olimpo",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Primera C",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "216.png",
+            "name": "Sp. Barracas",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "62.png",
+            "name": "Central Cba (R)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "104.png",
+            "name": "Cambaceres",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "129.png",
+            "name": "Victoriano Arenas",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "109.png",
+            "name": "JJ Urquiza",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "125.png",
+            "name": "Juventud Unida",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "130.png",
+            "name": "Yupanqui",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "116.png",
+            "name": "Lugano",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Prom. Amateur",
+    "matches": [
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "1850.png",
+            "name": "Dep. Metalurgico",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1853.png",
+            "name": "Juventud Bernal",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "1571.png",
+            "name": "Def. de Glew",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1854.png",
+            "name": "Provincial Lobos",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "439.png",
+            "name": "S.A.T.",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1851.png",
+            "name": "Estrella Berisso",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:30  ",
+        "teams": [
+          {
+            "localImgId": "163.png",
+            "name": "Everton (LP)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "263.png",
+            "name": "Nautico Hacoaj",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "11:00  ",
+        "teams": [
+          {
+            "localImgId": "12.png",
+            "name": {
+              "id": "Independiente",
+              "color": "#EC1C24",
+              "colorSecondary": "#FFFFFF",
+              "name": "Independiente",
+              "shortName": "IND",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "35.png",
+            "name": {
+              "id": "Rosario-Central",
+              "color": "#F9DF34",
+              "colorSecondary": "#173B6A",
+              "name": "Rosario Central",
+              "shortName": "ROS",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "15:00  ",
+        "teams": [
+          {
+            "localImgId": "14.png",
+            "name": {
+              "id": "Newells",
+              "color": "#ED1C24",
+              "colorSecondary": "#000000",
+              "name": "Newells",
+              "shortName": "NOB",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "6.png",
             "name": {
               "id": "Boca",
               "color": "#023F86",
@@ -17,672 +754,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
               "league": "LPF"
             },
-            "localScore": "1 8"
-          },
-          {
-            "visitantImgId": "52.png",
-            "name": {
-              "id": "Talleres",
-              "color": "#00184C",
-              "colorSecondary": "#FFFFFF",
-              "name": "Talleres (C)",
-              "shortName": "CAT",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "1 7"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Liga Naciones Uefa",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "islasferoe.gif",
-            "name": "Islas Feroe",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "macedonia.gif",
-            "name": "Macedonia",
-            "visitantScore": "1"
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "armenia.gif",
-            "name": "Armenia",
-            "localScore": "4"
-          },
-          {
-            "visitantImgId": "letonia.gif",
-            "name": "Letonia",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "georgia.gif",
-            "name": "Georgia",
-            "localScore": "4"
-          },
-          {
-            "visitantImgId": "repcheca.gif",
-            "name": "Rep. Checa",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "moldavia.gif",
-            "name": "Moldavia",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "malta.gif",
-            "name": "Malta",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "irlanda.gif",
-            "name": "Irlanda",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "inglaterra.gif",
-            "name": "Inglaterra",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "alemania.gif",
-            "name": "Alemania",
-            "localScore": "5"
-          },
-          {
-            "visitantImgId": "hungria.gif",
-            "name": "Hungria",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "grecia.gif",
-            "name": "Grecia",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "finlandia.gif",
-            "name": "Finlandia",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "paisesbajos.gif",
-            "name": "Paises Bajos",
-            "localScore": "5"
-          },
-          {
-            "visitantImgId": "bosnia.gif",
-            "name": "Bosnia",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "ucrania.gif",
-            "name": "Ucrania",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "albania.gif",
-            "name": "Albania",
-            "visitantScore": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Primera Nacional",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "42.png",
-            "name": "Nueva Chicago",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "22.png",
-            "name": "Aldosivi",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "300.png",
-            "name": "Guemes (SdE)",
-            "localScore": "4"
-          },
-          {
-            "visitantImgId": "89.png",
-            "name": "Dep. Maipu",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "204.png",
-            "name": "Agropecuario",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "28.png",
-            "name": "Chacarita",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "70.png",
-            "name": "Almagro",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "41.png",
-            "name": "Atlanta",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "36.png",
-            "name": "San Martin (SJ)",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "4.png",
-            "name": {
-              "id": "Arsenal",
-              "color": "#13B5EA",
-              "colorSecondary": "#EF3340",
-              "name": "Arsenal",
-              "shortName": "ARS",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Arsenal.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Arsenal-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "76.png",
-            "name": "Temperley",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "7.png",
-            "name": {
-              "id": "Colon",
-              "color": "#C80000",
-              "colorSecondary": "#000",
-              "name": "Colon",
-              "shortName": "COL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Colon.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Colon-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "48.png",
-            "name": "Chaco For Ever",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "178.png",
-            "name": "Dep. Madryn",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "90.png",
-            "name": "Tristan Suarez",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "61.png",
-            "name": "Talleres (RdE)",
-            "visitantScore": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "B Metro",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "100.png",
-            "name": "Dock Sud",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "65.png",
-            "name": "Midland",
-            "visitantScore": "3"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "102.png",
-            "name": "Argentino (M)",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "84.png",
-            "name": "Comunicaciones",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "69.png",
-            "name": "Sp. Italiano",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "86.png",
-            "name": "Dep. Armenio",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "93.png",
-            "name": "Villa San Carlos",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "113.png",
-            "name": "Argentino (Q)",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "112.png",
-            "name": "UAI Urquiza",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "117.png",
-            "name": "Ca�uelas",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "75.png",
-            "name": "Acassuso",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "55.png",
-            "name": "Merlo",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "106.png",
-            "name": "Excursionistas",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "111.png",
-            "name": "Sacachispas",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "128.png",
-            "name": "San Martin (B)",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "67.png",
-            "name": "Laferrere",
-            "visitantScore": "1"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Federal A",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "158.png",
-            "name": "Ferro (GP)",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "330.png",
-            "name": "Circulo Dep. (O)",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1567.png",
-            "name": "Ciudad Bolivar",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "185.png",
-            "name": "Germinal (R)",
-            "visitantScore": "0"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Primera C",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "103.png",
-            "name": "Berazategui",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "127.png",
-            "name": "Puerto Nuevo",
-            "visitantScore": "3"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "110.png",
-            "name": "Lujan",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "364.png",
-            "name": "Mercedes",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "66.png",
-            "name": "El Porvenir",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "121.png",
-            "name": "Mu�iz",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "115.png",
-            "name": "Atlas",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "119.png",
-            "name": "Centro Espa�ol",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "114.png",
-            "name": "Argentino (R)",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "126.png",
-            "name": "Leandro N. Alem",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "386.png",
-            "name": "Real Pilar",
-            "localScore": "3"
-          },
-          {
-            "visitantImgId": "118.png",
-            "name": "Central Ballester",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "122.png",
-            "name": "Dep. Paraguayo",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "120.png",
-            "name": "Claypole",
-            "visitantScore": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Prom. Amateur",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1848.png",
-            "name": "Barrancas FC",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "1852.png",
-            "name": "Estrella del Sur",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "261.png",
-            "name": "Belgrano (Z)",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "1849.png",
-            "name": "Pilar",
-            "visitantScore": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Femenino",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "1827.png",
-            "name": "San Luis FC",
-            "localScore": "2"
-          },
-          {
-            "visitantImgId": "64.png",
-            "name": "Estudiantes (BA)",
-            "visitantScore": "2"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "competition": "Reserva - Copa Proyeccion",
-    "matches": [
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "9.png",
-            "name": {
-              "id": "Gimnasia",
-              "color": "#121731",
-              "colorSecondary": "#00AFEF",
-              "name": "Gimnasia (LP)",
-              "shortName": "GLP",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
-              "league": "LPF"
-            },
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "8.png",
-            "name": {
-              "id": "Estudiantes",
-              "color": "#E41815",
-              "colorSecondary": "#FFF",
-              "name": "Estudiantes (LP)",
-              "shortName": "EST",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
+        "hour": "16:00  ",
         "teams": [
           {
             "localImgId": "11.png",
@@ -696,54 +773,158 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
               "league": "LPF"
             },
-            "localScore": "2"
+            "localScore": ""
           },
           {
-            "visitantImgId": "19.png",
+            "visitantImgId": "9.png",
             "name": {
-              "id": "San-Lorenzo",
-              "color": "#BF1B27",
-              "colorSecondary": "#263D54",
-              "name": "San Lorenzo",
-              "shortName": "SL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+              "id": "Gimnasia",
+              "color": "#121731",
+              "colorSecondary": "#00AFEF",
+              "name": "Gimnasia (LP)",
+              "shortName": "GLP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Gimnasia-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "1"
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Reserva - Copa Proyeccion",
+    "matches": [
+      {
+        "hour": "11:00  ",
+        "teams": [
+          {
+            "localImgId": "45.png",
+            "name": {
+              "id": "Platense",
+              "color": "#633B1B",
+              "colorSecondary": "#FFFFFF",
+              "name": "Platense",
+              "shortName": "PLA",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "3.png",
+            "name": {
+              "id": "Argentinos",
+              "color": "#E32021",
+              "colorSecondary": "#00569D",
+              "name": "Argentinos",
+              "shortName": "ARGJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "35.png",
+            "localImgId": "6.png",
             "name": {
-              "id": "Rosario-Central",
-              "color": "#F9DF34",
-              "colorSecondary": "#173B6A",
-              "name": "Rosario Central",
-              "shortName": "ROS",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+              "id": "Boca",
+              "color": "#023F86",
+              "colorSecondary": "#F7A600",
+              "name": "Boca Juniors",
+              "shortName": "CABJ",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": ""
           },
           {
-            "visitantImgId": "14.png",
+            "visitantImgId": "18.png",
             "name": {
-              "id": "Newells",
-              "color": "#ED1C24",
-              "colorSecondary": "#000000",
-              "name": "Newells",
-              "shortName": "NOB",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+              "id": "River",
+              "color": "#E30520",
+              "colorSecondary": "#FFFFFF",
+              "name": "River Plate",
+              "shortName": "CARP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "18:00  ",
+        "teams": [
+          {
+            "localImgId": "78.png",
+            "name": {
+              "id": "Central-Cordoba",
+              "color": "#000",
+              "colorSecondary": "#FFF",
+              "name": "Central Cba (SdE)",
+              "shortName": "CSE",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "25.png",
+            "name": {
+              "id": "Atletico-Tucuman",
+              "color": "#71AFDB",
+              "colorSecondary": "#FFF",
+              "name": "Atl Tucuman",
+              "shortName": "TUC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "26.png",
+            "name": {
+              "id": "Belgrano",
+              "color": "#3A9CD0",
+              "colorSecondary": "#1D1D1B",
+              "name": "Belgrano",
+              "shortName": "BEL",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "52.png",
+            "name": {
+              "id": "Talleres",
+              "color": "#00184C",
+              "colorSecondary": "#FFFFFF",
+              "name": "Talleres (C)",
+              "shortName": "CAT",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": ""
           }
         ]
       }
@@ -753,62 +934,62 @@
     "competition": "Liga Uruguay",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "10:00  ",
         "teams": [
           {
-            "localImgId": "1763.png",
-            "name": "Racing (M)",
-            "localScore": "0"
+            "localImgId": "757.png",
+            "name": "Rampla Juniors",
+            "localScore": ""
           },
           {
-            "visitantImgId": "683.png",
-            "name": "Wanderers (U)",
-            "visitantScore": "1"
+            "visitantImgId": "1037.png",
+            "name": "Progreso",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "12:30  ",
         "teams": [
           {
-            "localImgId": "755.png",
-            "name": "Cerro (U)",
-            "localScore": "1"
+            "localImgId": "1035.png",
+            "name": "Fenix (U)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "724.png",
-            "name": "Def. Sporting",
-            "visitantScore": "1"
+            "visitantImgId": "1036.png",
+            "name": "Cerro Largo",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "15:00  ",
         "teams": [
           {
-            "localImgId": "1847.png",
-            "name": "Miramar M.",
-            "localScore": "1"
+            "localImgId": "756.png",
+            "name": "Danubio",
+            "localScore": ""
           },
           {
-            "visitantImgId": "580.png",
-            "name": "Pe�arol",
-            "visitantScore": "2"
+            "visitantImgId": "754.png",
+            "name": "Boston River",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "18:00  ",
         "teams": [
           {
-            "localImgId": "1326.png",
-            "name": "Dep Maldonado",
-            "localScore": "0"
+            "localImgId": "579.png",
+            "name": "Nacional",
+            "localScore": ""
           },
           {
-            "visitantImgId": "890.png",
-            "name": "River Plate (U)",
-            "visitantScore": "1"
+            "visitantImgId": "889.png",
+            "name": "Liverpool (U)",
+            "visitantScore": ""
           }
         ]
       }
@@ -818,142 +999,67 @@
     "competition": "Liga Colombia",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "17:00  ",
         "teams": [
           {
-            "localImgId": "1335.png",
-            "name": "Patriotas",
-            "localScore": "2"
+            "localImgId": "880.png",
+            "name": "Once Caldas",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1334.png",
-            "name": "Envigado",
-            "visitantScore": "0"
+            "visitantImgId": "727.png",
+            "name": "Millonarios",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "19:10  ",
         "teams": [
           {
-            "localImgId": "758.png",
-            "name": "America Cali",
-            "localScore": "1"
+            "localImgId": "1332.png",
+            "name": "Alianza FC",
+            "localScore": ""
           },
           {
-            "visitantImgId": "760.png",
-            "name": "Jaguares (C)",
-            "visitantScore": "0"
+            "visitantImgId": "1649.png",
+            "name": "Fortaleza CEIF",
+            "visitantScore": ""
           }
         ]
       },
       {
-        "hour": "Final",
+        "hour": "21:20  ",
         "teams": [
           {
-            "localImgId": "875.png",
-            "name": "Dep. Tolima",
-            "localScore": "1"
+            "localImgId": "1030.png",
+            "name": "Dep. Pasto",
+            "localScore": ""
           },
           {
-            "visitantImgId": "773.png",
-            "name": "Dep. Cali",
-            "visitantScore": "1"
+            "visitantImgId": "759.png",
+            "name": "Ind. Medellin",
+            "visitantScore": ""
           }
         ]
       }
     ]
   },
   {
-    "competition": "Mls",
+    "competition": "Liga Chile",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "12:00  ",
         "teams": [
           {
-            "localImgId": "917.png",
-            "name": "New England",
-            "localScore": "2"
+            "localImgId": "1029.png",
+            "name": "Huachipato",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1802.png",
-            "name": "St. Louis City",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "919.png",
-            "name": "New York RB",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "933.png",
-            "name": "Kansas City",
-            "visitantScore": "1"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "914.png",
-            "name": "Columbus Crew",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "932.png",
-            "name": "Seattle Sounders",
-            "visitantScore": "4"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "925.png",
-            "name": "Houston Dynamo",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "926.png",
-            "name": "Los Angeles FC",
-            "visitantScore": "0"
-          }
-        ]
-      },
-      {
-        "hour": "Final",
-        "teams": [
-          {
-            "localImgId": "912.png",
-            "name": "Chicago Fire",
-            "localScore": "1"
-          },
-          {
-            "visitantImgId": "915.png",
-            "name": "DC United",
-            "visitantScore": "2"
-          }
-        ]
-      },
-      {
-        "hour": "15' ",
-        "teams": [
-          {
-            "localImgId": "934.png",
-            "name": "Vancouver",
-            "localScore": "0"
-          },
-          {
-            "visitantImgId": "924.png",
-            "name": "Dallas",
-            "visitantScore": "0"
+            "visitantImgId": "1338.png",
+            "name": "OHiggins",
+            "visitantScore": ""
           }
         ]
       }
