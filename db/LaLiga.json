@@ -170,6 +170,27 @@
   {
     "rank": 9,
     "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 4,
+    "goalsAgainst": 4,
+    "goalDifference": 0,
+    "team": {
+      "id": "Athletic-Bilbao",
+      "color": "#E2231A",
+      "colorSecondary": "#FFFFFF",
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 7,
     "matchesPlayed": 4,
     "matchesWon": 2,
     "matchesDrawn": 1,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 5,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 5,
     "matchesPlayed": 5,
     "matchesWon": 1,
@@ -263,7 +284,7 @@
     "goalDifference": -2
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 4,
     "matchesPlayed": 4,
     "matchesWon": 1,
@@ -280,27 +301,6 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 4,
-    "matchesPlayed": 4,
-    "matchesWon": 1,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 3,
-    "goalsAgainst": 4,
-    "goalDifference": -1,
-    "team": {
-      "id": "Athletic-Bilbao",
-      "color": "#E2231A",
-      "colorSecondary": "#FFFFFF",
-      "name": "Athletic Bilbao",
-      "shortName": "ATH",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
       "league": "LaLiga"
     }
   },
@@ -370,13 +370,13 @@
   {
     "rank": 19,
     "points": 2,
-    "matchesPlayed": 4,
+    "matchesPlayed": 5,
     "matchesWon": 0,
     "matchesDrawn": 2,
-    "matchesLost": 2,
+    "matchesLost": 3,
     "goalsFor": 4,
-    "goalsAgainst": 7,
-    "goalDifference": -3,
+    "goalsAgainst": 8,
+    "goalDifference": -4,
     "team": {
       "id": "Las-Palmas",
       "color": "#002246",
