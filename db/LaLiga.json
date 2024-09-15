@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 13,
+    "points": 15,
     "matchesPlayed": 5,
-    "matchesWon": 4,
-    "matchesDrawn": 1,
+    "matchesWon": 5,
+    "matchesDrawn": 0,
     "matchesLost": 0,
-    "goalsFor": 13,
+    "goalsFor": 15,
     "goalsAgainst": 3,
-    "goalDifference": 10,
+    "goalDifference": 12,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -106,27 +106,6 @@
   },
   {
     "rank": 6,
-    "points": 8,
-    "matchesPlayed": 5,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 7,
-    "goalsAgainst": 4,
-    "goalDifference": 3,
-    "team": {
-      "id": "Girona",
-      "color": "#E51636",
-      "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
     "points": 7,
     "matchesPlayed": 5,
     "matchesWon": 2,
@@ -143,6 +122,27 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 7,
+    "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 2,
+    "goalsFor": 7,
+    "goalsAgainst": 6,
+    "goalDifference": 1,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
       "league": "LaLiga"
     }
   },
