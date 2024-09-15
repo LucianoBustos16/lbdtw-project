@@ -66,6 +66,27 @@
     "rank": 4,
     "points": 9,
     "matchesPlayed": 5,
+    "matchesWon": 2,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 6,
+    "goalsAgainst": 2,
+    "goalDifference": 4,
+    "team": {
+      "id": "Atletico-Madrid",
+      "color": "#CB3524",
+      "colorSecondary": "#272E61",
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 9,
+    "matchesPlayed": 5,
     "matchesWon": 3,
     "matchesDrawn": 0,
     "matchesLost": 2,
@@ -80,27 +101,6 @@
       "shortName": "CDV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 8,
-    "matchesPlayed": 4,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 0,
-    "goalsFor": 6,
-    "goalsAgainst": 2,
-    "goalDifference": 4,
-    "team": {
-      "id": "Atletico-Madrid",
-      "color": "#CB3524",
-      "colorSecondary": "#272E61",
-      "name": "Atletico Madrid",
-      "shortName": "ATM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -390,10 +390,10 @@
   },
   {
     "rank": 20,
-    "points": 1,
-    "matchesPlayed": 4,
+    "points": 2,
+    "matchesPlayed": 5,
     "matchesWon": 0,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 3,
     "goalsFor": 3,
     "goalsAgainst": 7,
