@@ -32,7 +32,7 @@
     "competition": "Champions League",
     "matches": [
       {
-        "hour": "75' ",
+        "hour": "Final",
         "teams": [
           {
             "localImgId": "557.png",
@@ -42,12 +42,12 @@
           {
             "visitantImgId": "684.png",
             "name": "PSV",
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "70' ",
+        "hour": "90+1' ",
         "teams": [
           {
             "localImgId": "819.png",
@@ -57,7 +57,7 @@
           {
             "visitantImgId": "530.png",
             "name": "Aston Villa",
-            "visitantScore": "2"
+            "visitantScore": "3"
           }
         ]
       },
@@ -156,17 +156,17 @@
     "competition": "Efl Cup",
     "matches": [
       {
-        "hour": "15:30  ",
+        "hour": "08' ",
         "teams": [
           {
             "localImgId": "542.png",
             "name": "Stoke City",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "1734.png",
             "name": "Fleetwood Town",
-            "visitantScore": ""
+            "visitantScore": "0"
           }
         ]
       },
@@ -266,7 +266,7 @@
     "competition": "La Liga",
     "matches": [
       {
-        "hour": "57' ",
+        "hour": "78' ",
         "teams": [
           {
             "localImgId": "521.png",
@@ -301,10 +301,48 @@
     ]
   },
   {
+    "competition": "Femenino",
+    "matches": [
+      {
+        "hour": "Final",
+        "teams": [
+          {
+            "localImgId": "35.png",
+            "name": {
+              "id": "Rosario-Central",
+              "color": "#F9DF34",
+              "colorSecondary": "#173B6A",
+              "name": "Rosario Central",
+              "shortName": "ROS",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+              "league": "LPF"
+            },
+            "localScore": "2"
+          },
+          {
+            "visitantImgId": "18.png",
+            "name": {
+              "id": "River",
+              "color": "#E30520",
+              "colorSecondary": "#FFFFFF",
+              "name": "River Plate",
+              "shortName": "CARP",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+              "league": "LPF"
+            },
+            "visitantScore": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Reserva - Copa Proyeccion",
     "matches": [
       {
-        "hour": "18' ",
+        "hour": "39' ",
         "teams": [
           {
             "localImgId": "123.png",
@@ -332,12 +370,12 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
               "league": "LPF"
             },
-            "visitantScore": "0"
+            "visitantScore": "1"
           }
         ]
       },
       {
-        "hour": "16' ",
+        "hour": "37' ",
         "teams": [
           {
             "localImgId": "33.png",
@@ -370,7 +408,7 @@
         ]
       },
       {
-        "hour": "16' ",
+        "hour": "37' ",
         "teams": [
           {
             "localImgId": "20.png",
@@ -384,7 +422,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
               "league": "LPF"
             },
-            "localScore": "1"
+            "localScore": "2"
           },
           {
             "visitantImgId": "29.png",
@@ -403,7 +441,7 @@
         ]
       },
       {
-        "hour": "15' ",
+        "hour": "36' ",
         "teams": [
           {
             "localImgId": "8.png",
@@ -417,7 +455,7 @@
               "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
               "league": "LPF"
             },
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "13.png",
@@ -474,12 +512,12 @@
     "competition": "Eredivisie",
     "matches": [
       {
-        "hour": "17' ",
+        "hour": "38' ",
         "teams": [
           {
             "localImgId": "1072.png",
             "name": "Twente",
-            "localScore": "0"
+            "localScore": "1"
           },
           {
             "visitantImgId": "1318.png",
