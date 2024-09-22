@@ -64,14 +64,14 @@
   },
   {
     "rank": 4,
-    "points": 11,
+    "points": 12,
     "matchesPlayed": 6,
     "matchesWon": 3,
-    "matchesDrawn": 2,
-    "matchesLost": 1,
-    "goalsFor": 9,
+    "matchesDrawn": 3,
+    "matchesLost": 0,
+    "goalsFor": 10,
     "goalsAgainst": 3,
-    "goalDifference": 6,
+    "goalDifference": 7,
     "team": {
       "id": "Atletico-Madrid",
       "color": "#CB3524",
@@ -133,27 +133,6 @@
     "matchesDrawn": 1,
     "matchesLost": 2,
     "goalsFor": 8,
-    "goalsAgainst": 6,
-    "goalDifference": 2,
-    "team": {
-      "id": "Rayo-Vallecano",
-      "color": "#e21921 ",
-      "colorSecondary": "#FFF",
-      "name": "Rayo Vallecano",
-      "shortName": "RYV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 10,
-    "matchesPlayed": 6,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 2,
-    "goalsFor": 8,
     "goalsAgainst": 11,
     "goalDifference": -3,
     "team": {
@@ -168,7 +147,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 8,
     "points": 9,
     "matchesPlayed": 6,
     "matchesWon": 3,
@@ -185,6 +164,27 @@
       "shortName": "CDV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 8,
+    "matchesPlayed": 6,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 8,
+    "goalsAgainst": 7,
+    "goalDifference": 1,
+    "team": {
+      "id": "Rayo-Vallecano",
+      "color": "#e21921 ",
+      "colorSecondary": "#FFF",
+      "name": "Rayo Vallecano",
+      "shortName": "RYV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
       "league": "LaLiga"
     }
   },
