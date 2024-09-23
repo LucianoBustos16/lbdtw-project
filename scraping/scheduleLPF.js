@@ -1,5 +1,6 @@
 import { cleanText } from './utils.js'
 import { TEAMS } from '../db/index.js'
+import { DateTime } from 'luxon'
 
 const teamId = {
   2473: 'Lanus',
@@ -87,8 +88,10 @@ export async function getSchedule ($) {
       const visitantId = getTeamIdFromImageUrl(visitantImg)
       const visitantShortName = teamId[visitantId]
 
-      const matchDate = new Date(`${prefixDate} ${hour} GMT+1`)
-      const timestamp = Date.parse(matchDate)
+      // Creando la fecha en GMT+1 usando Luxon
+      const matchDate = DateTime.fromISO(`${prefixDate}T${hour}`, { zone: 'Europe/Madrid' })
+      const timestamp = matchDate.toMillis()
+
 
       const horario = new Date(timestamp)
       const optionsHours = {

@@ -1,5 +1,6 @@
 import { cleanText } from './utils.js'
 import { TEAMS } from '../db/index.js'
+import { DateTime } from 'luxon'
 
 const teamId = {
   450: 'Osasuna',
@@ -80,8 +81,8 @@ export async function getScheduleLaLiga ($) {
       const visitantId = getTeamIdFromImageUrl(visitantImg)
       const visitantShortName = teamId[visitantId]
 
-      const matchDate = new Date(`${prefixDate} ${hour} GMT+2`)
-      const timestamp = Date.parse(matchDate)
+      const matchDate = DateTime.fromISO(`${prefixDate}T${hour}`, { zone: 'Europe/Madrid' })
+      const timestamp = matchDate.toMillis()
 
       const horario = new Date(timestamp)
       const optionsHours = {
