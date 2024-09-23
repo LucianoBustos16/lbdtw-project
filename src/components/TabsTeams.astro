@@ -16,11 +16,13 @@ const { color, teamId, league } = Astro.props
 </div>
   
   <!-- Tab content -->
-  <div id="General" class="tabcontent">
-    <div class="grid gap-4 grid-cols-2">   
-        <LastMatchTeam teamId={teamId} league={league}></LastMatchTeam>
-        <NextMatchTeam teamId={teamId} league={league}></NextMatchTeam>  
-    </div>
+  <div id="General" class="tabcontent max-w-4xl mx-auto my-4">
+
+      <div class="grid gap-4 grid-cols-2">   
+          <LastMatchTeam teamId={teamId} league={league}></LastMatchTeam>
+          <NextMatchTeam teamId={teamId} league={league}></NextMatchTeam>  
+      </div>
+
   </div>
   
   <div id="Fixture" class="tabcontent">
