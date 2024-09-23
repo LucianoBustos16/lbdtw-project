@@ -8,6 +8,7 @@ import scheduleLaLiga from '../db/scheduleLaLiga.json'
 import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
 import leagues from '../db/leagues.json'
+import post from '../db/post.json'
 
 
 const app = new Hono()
@@ -60,6 +61,10 @@ app.get('/', (ctx) =>
 			endpoint: '/matchstoday',
 			description: 'Returns match today',
 		},
+		{
+			endpoint: '/post',
+			description: 'Deveulve ultimos 12 post de LBDTw.com.ar',
+		},
 	]))
 
 
@@ -99,6 +104,9 @@ app.get('/scheduleLaLiga' , (ctx) => {
 
 app.get('/teams' , (ctx) => {
 	return ctx.json(teams)
+})
+app.get('/post' , (ctx) => {
+	return ctx.json(post)
 })
 app.get('/leagues' , (ctx) => {
 	return ctx.json(leagues)

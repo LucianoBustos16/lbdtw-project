@@ -14,6 +14,8 @@ export const TEAMS = await readDBFile('teams')
 export const LEAGUES = await readDBFile('leagues')
 // export const PRESIDENTS = await readDBFile('presidents')
 
+export const ENTRYS = await readDBFile('post')
+
 export function writeDBFile(dbName, data) {
 	return writeFile(`${DB_PATH}/${dbName}.json`, JSON.stringify(data, null, 2), 'utf-8')
 }
