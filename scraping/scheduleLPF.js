@@ -93,6 +93,11 @@ export async function getSchedule ($) {
       const timestamp = matchDate.toMillis()
 
 
+	  const formatter = new Intl.DateTimeFormat([]);
+	  const { timeZone } = formatter.resolvedOptions();
+	  console.log(`El huso horario es: ${timeZone}`);
+
+
       const horario = new Date(timestamp)
       const optionsHours = {
         timeZone: 'America/Argentina/Buenos_Aires',
@@ -129,6 +134,7 @@ export async function getSchedule ($) {
       matches.push({
         formattedDate,
         timestamp,
+		timeZone,
         hourMatch: hourMatch === 'NaN:aN' ? score : hourMatch,
         teams: [
           {
