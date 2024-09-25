@@ -942,34 +942,6 @@
         "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "Godoy-Cruz",
-            "name": "Godoy Cruz",
-            "shortName": "GCM",
-            "color": "#2670CA",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "San-Lorenzo",
-            "name": "San Lorenzo",
-            "shortName": "SL",
-            "color": "#BF1B27",
-            "colorSecondary": "#263D54",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "Suspendido"
-      },
-      {
-        "formattedDate": "Invalid undefined",
-        "timestamp": null,
-        "hourMatch": "Date:undefined",
-        "teams": [
-          {
             "id": "Newells",
             "name": "Newells",
             "shortName": "NOB",
@@ -1187,6 +1159,34 @@
           }
         ],
         "score": "1-1"
+      },
+      {
+        "formattedDate": "12 Oct",
+        "timestamp": 1728757800000,
+        "hourMatch": "15:30",
+        "teams": [
+          {
+            "id": "Godoy-Cruz",
+            "name": "Godoy Cruz",
+            "shortName": "GCM",
+            "color": "#2670CA",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "San-Lorenzo",
+            "name": "San Lorenzo",
+            "shortName": "SL",
+            "color": "#BF1B27",
+            "colorSecondary": "#263D54",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "30"
       }
     ]
   },
