@@ -15,7 +15,7 @@ const LEADERBOARD_SELECTORS = {
 }
 
 export async function getLeaderBoardPrimera ($) {
-  const $rows = $('table#posiciones tbody tr')
+  const $rows = $('table.tablesorter1 tbody tr')
 
   const getTeamFrom = ({ name }) => TEAMS.find(team => team.name === name)
 
