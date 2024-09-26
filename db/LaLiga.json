@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 14,
+    "matchesPlayed": 7,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 14,
+    "goalsAgainst": 14,
+    "goalDifference": 0,
+    "team": {
+      "id": "Villarreal",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Villarreal",
+      "shortName": "VIL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 4,
     "points": 13,
     "matchesPlayed": 7,
     "matchesWon": 4,
@@ -63,7 +84,7 @@
     }
   },
   {
-    "rank": 4,
+    "rank": 5,
     "points": 12,
     "matchesPlayed": 6,
     "matchesWon": 3,
@@ -80,27 +101,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 12,
-    "matchesPlayed": 7,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 13,
-    "goalsAgainst": 14,
-    "goalDifference": -1,
-    "team": {
-      "id": "Villarreal",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Villarreal",
-      "shortName": "VIL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
       "league": "LaLiga"
     }
   },
@@ -274,14 +274,14 @@
   },
   {
     "rank": 14,
-    "points": 8,
+    "points": 7,
     "matchesPlayed": 7,
     "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
+    "matchesDrawn": 1,
+    "matchesLost": 4,
     "goalsFor": 7,
-    "goalsAgainst": 10,
-    "goalDifference": -3,
+    "goalsAgainst": 11,
+    "goalDifference": -4,
     "team": {
       "id": "Espanyol",
       "color": "#0077BD",
