@@ -9,123 +9,122 @@ import matchstoday from '../db/matchstoday.json'
 import teams from 'db/teams.json'
 import leagues from '../db/leagues.json'
 import post from '../db/post.json'
-
+import primera from '../db/leaderboardPrimera.json'
 
 const app = new Hono()
 
 app.get('/', (ctx) =>
-	ctx.json([
-		{
-			endpoint: '/LPF',
-			description: 'Returns the leaderboardLPF',
-			parameters:[
-				{
-					name: 'team',
-					endpoint: 'LPF/:teamId',
-					description: 'Return leaderboardLPF info from TeamId'
-				}
-			]
-		},
-		{
-			endpoint: '/LaLiga',
-			description: 'Returns the leaderboardLPF',
-			parameters:[
-				{
-					name: 'team',
-					endpoint: 'LaLiga/:teamId',
-					description: 'Return leaderboardLPF info from TeamId'
-				}
-			]
-		},
-		{
-			endpoint: '/nextmatch',
-			description: 'Returns the next match to Belgrano'
-		},
-		{
-			endpoint: '/scheduleLPF',
-			description: 'Returns the fixture',
-		},
-		{
-			endpoint: '/scheduleLaLiga',
-			description: 'Returns the fixture',
-		},
-		{
-			endpoint: '/teams',
-			description: 'Returns all LPF  teams',
-		},
-		{
-			endpoint: '/leagues',
-			description: 'Returns all leagues',
-		},
-		{
-			endpoint: '/matchstoday',
-			description: 'Returns match today',
-		},
-		{
-			endpoint: '/post',
-			description: 'Deveulve ultimos 12 post de LBDTw.com.ar',
-		},
-	]))
+  ctx.json([
+    {
+      endpoint: '/LPF',
+      description: 'Returns the leaderboardLPF',
+      parameters: [
+        {
+          name: 'team',
+          endpoint: 'LPF/:teamId',
+          description: 'Return leaderboardLPF info from TeamId'
+        }
+      ]
+    },
+    {
+      endpoint: '/primera',
+      description: 'Returns the primera leaderboard'
+    },
+    {
+      endpoint: '/LaLiga',
+      description: 'Returns the leaderboardLPF',
+      parameters: [
+        {
+          name: 'team',
+          endpoint: 'LaLiga/:teamId',
+          description: 'Return leaderboardLPF info from TeamId'
+        }
+      ]
+    },
+    {
+      endpoint: '/nextmatch',
+      description: 'Returns the next match to Belgrano'
+    },
+    {
+      endpoint: '/scheduleLPF',
+      description: 'Returns the fixture'
+    },
+    {
+      endpoint: '/scheduleLaLiga',
+      description: 'Returns the fixture'
+    },
+    {
+      endpoint: '/teams',
+      description: 'Returns all LPF  teams'
+    },
+    {
+      endpoint: '/leagues',
+      description: 'Returns all leagues'
+    },
+    {
+      endpoint: '/matchstoday',
+      description: 'Returns match today'
+    },
+    {
+      endpoint: '/post',
+      description: 'Deveulve ultimos 12 post de LBDTw.com.ar'
+    }
+  ]))
 
-
-app.get('/LPF' , (ctx) => {
-	return ctx.json(LPF)
+app.get('/LPF', (ctx) => {
+  return ctx.json(LPF)
 })
 
-app.get('/LPF/:teamId', (ctx) => {
-	const teamId = ctx.req.param('teamId')
-	const foundTeam = leaderboardLPF.find((stats) => stats.team.id === teamId )
-
-	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
+app.get('/primera', (ctx) => {
+  return ctx.json(primera)
 })
 
-app.get('/LaLiga' , (ctx) => {
-	return ctx.json(LaLiga)
+app.get('/LaLiga', (ctx) => {
+  return ctx.json(LaLiga)
 })
 
 app.get('/LaLiga/:teamId', (ctx) => {
-	const teamId = ctx.req.param('teamId')
-	const foundTeam = LaLiga.find((stats) => stats.team.id === teamId )
+  const teamId = ctx.req.param('teamId')
+  const foundTeam = LaLiga.find((stats) => stats.team.id === teamId)
 
-	return foundTeam ? ctx.json(foundTeam) : ctx.json({message:'Team not found'}, 404)
-})
-
-app.get('/nextmatch' , (ctx) => {
-	return ctx.json(nextmatch)
+  return foundTeam ? ctx.json(foundTeam) : ctx.json({ message: 'Team not found' }, 404)
 })
 
-app.get('/scheduleLPF' , (ctx) => {
-	return ctx.json(scheduleLPF)
+app.get('/nextmatch', (ctx) => {
+  return ctx.json(nextmatch)
 })
 
-app.get('/scheduleLaLiga' , (ctx) => {
-	return ctx.json(scheduleLaLiga)
+app.get('/scheduleLPF', (ctx) => {
+  return ctx.json(scheduleLPF)
 })
 
-app.get('/teams' , (ctx) => {
-	return ctx.json(teams)
-})
-app.get('/post' , (ctx) => {
-	return ctx.json(post)
-})
-app.get('/leagues' , (ctx) => {
-	return ctx.json(leagues)
-})
-app.get('/matchstoday' , (ctx) => {
-	return ctx.json(matchstoday)
+app.get('/scheduleLaLiga', (ctx) => {
+  return ctx.json(scheduleLaLiga)
 })
 
-app.get('/static/*', serveStatic({ root: './'}))
+app.get('/teams', (ctx) => {
+  return ctx.json(teams)
+})
+app.get('/post', (ctx) => {
+  return ctx.json(post)
+})
+app.get('/leagues', (ctx) => {
+  return ctx.json(leagues)
+})
+app.get('/matchstoday', (ctx) => {
+  return ctx.json(matchstoday)
+})
+
+app.get('/static/*', serveStatic({ root: './' }))
 
 app.notFound((c) => {
-	const { pathname } = new URL(c.req.url)
+  const { pathname } = new URL(c.req.url)
 
-	if (c.req.url.replaceAll(-1) === '/') {
-		return c.redirect(pathname.slice(0.-1))
-	}
+  if (c.req.url.replaceAll(-1) === '/') {
+    return c.redirect(pathname.slice(0.0 - 1))
+  }
 
-	return c.json({ message: 'Not Found' }, 404)
+  return c.json({ message: 'Not Found' }, 404)
 })
 
-
-export default app 
+export default app
