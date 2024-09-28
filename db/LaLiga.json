@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 22,
+    "points": 21,
     "matchesPlayed": 8,
     "matchesWon": 7,
-    "matchesDrawn": 1,
-    "matchesLost": 0,
+    "matchesDrawn": 0,
+    "matchesLost": 1,
     "goalsFor": 23,
-    "goalsAgainst": 5,
-    "goalDifference": 18,
+    "goalsAgainst": 6,
+    "goalDifference": 17,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -106,6 +106,27 @@
   },
   {
     "rank": 6,
+    "points": 14,
+    "matchesPlayed": 8,
+    "matchesWon": 4,
+    "matchesDrawn": 2,
+    "matchesLost": 2,
+    "goalsFor": 9,
+    "goalsAgainst": 11,
+    "goalDifference": -2,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
     "points": 13,
     "matchesPlayed": 7,
     "matchesWon": 4,
@@ -122,27 +143,6 @@
       "shortName": "ATH",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 12,
-    "matchesPlayed": 8,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
-    "goalsFor": 8,
-    "goalsAgainst": 11,
-    "goalDifference": -3,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
