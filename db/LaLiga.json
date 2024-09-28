@@ -233,6 +233,27 @@
   {
     "rank": 12,
     "points": 8,
+    "matchesPlayed": 8,
+    "matchesWon": 2,
+    "matchesDrawn": 2,
+    "matchesLost": 4,
+    "goalsFor": 6,
+    "goalsAgainst": 7,
+    "goalDifference": -1,
+    "team": {
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
+      "colorSecondary": "#FFF",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 8,
     "matchesPlayed": 7,
     "matchesWon": 2,
     "matchesDrawn": 2,
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 8,
     "matchesPlayed": 7,
     "matchesWon": 2,
@@ -269,27 +290,6 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 8,
-    "matchesPlayed": 8,
-    "matchesWon": 2,
-    "matchesDrawn": 2,
-    "matchesLost": 4,
-    "goalsFor": 4,
-    "goalsAgainst": 7,
-    "goalDifference": -3,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
       "league": "LaLiga"
     }
   },
@@ -354,8 +354,8 @@
     "matchesDrawn": 2,
     "matchesLost": 5,
     "goalsFor": 5,
-    "goalsAgainst": 11,
-    "goalDifference": -6,
+    "goalsAgainst": 13,
+    "goalDifference": -8,
     "team": {
       "id": "Valencia",
       "color": "#ff671f",
