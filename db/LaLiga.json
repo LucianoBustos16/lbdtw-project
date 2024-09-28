@@ -150,6 +150,27 @@
     "rank": 8,
     "points": 10,
     "matchesPlayed": 8,
+    "matchesWon": 2,
+    "matchesDrawn": 4,
+    "matchesLost": 2,
+    "goalsFor": 8,
+    "goalsAgainst": 7,
+    "goalDifference": 1,
+    "team": {
+      "id": "Rayo-Vallecano",
+      "color": "#e21921 ",
+      "colorSecondary": "#FFF",
+      "name": "Rayo Vallecano",
+      "shortName": "RYV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 10,
+    "matchesPlayed": 8,
     "matchesWon": 3,
     "matchesDrawn": 1,
     "matchesLost": 4,
@@ -164,27 +185,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 9,
-    "matchesPlayed": 7,
-    "matchesWon": 2,
-    "matchesDrawn": 3,
-    "matchesLost": 2,
-    "goalsFor": 8,
-    "goalsAgainst": 7,
-    "goalDifference": 1,
-    "team": {
-      "id": "Rayo-Vallecano",
-      "color": "#e21921 ",
-      "colorSecondary": "#FFF",
-      "name": "Rayo Vallecano",
-      "shortName": "RYV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
       "league": "LaLiga"
     }
   },
@@ -316,10 +316,10 @@
   },
   {
     "rank": 16,
-    "points": 6,
-    "matchesPlayed": 7,
+    "points": 7,
+    "matchesPlayed": 8,
     "matchesWon": 1,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 3,
     "goalsFor": 4,
     "goalsAgainst": 8,
