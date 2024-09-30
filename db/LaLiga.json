@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 17,
+    "matchesPlayed": 8,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 1,
+    "goalsFor": 16,
+    "goalsAgainst": 15,
+    "goalDifference": 1,
+    "team": {
+      "id": "Villarreal",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Villarreal",
+      "shortName": "VIL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 4,
     "points": 16,
     "matchesPlayed": 8,
     "matchesWon": 4,
@@ -59,27 +80,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 15,
-    "matchesPlayed": 8,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 1,
-    "goalsFor": 15,
-    "goalsAgainst": 15,
-    "goalDifference": 0,
-    "team": {
-      "id": "Villarreal",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Villarreal",
-      "shortName": "VIL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
       "league": "LaLiga"
     }
   },
@@ -390,14 +390,14 @@
   },
   {
     "rank": 20,
-    "points": 4,
+    "points": 3,
     "matchesPlayed": 8,
     "matchesWon": 0,
-    "matchesDrawn": 4,
-    "matchesLost": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 5,
     "goalsFor": 9,
-    "goalsAgainst": 14,
-    "goalDifference": -5,
+    "goalsAgainst": 15,
+    "goalDifference": -6,
     "team": {
       "id": "Las-Palmas",
       "color": "#002246",
