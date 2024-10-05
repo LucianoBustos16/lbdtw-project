@@ -1,10 +1,10 @@
 [
   {
     "rank": 1,
-    "points": 33,
-    "matchesPlayed": 16,
+    "points": 34,
+    "matchesPlayed": 17,
     "matchesWon": 10,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 3,
     "goalsFor": 29,
     "goalsAgainst": 11,
@@ -86,6 +86,27 @@
   {
     "rank": 5,
     "points": 26,
+    "matchesPlayed": 17,
+    "matchesWon": 7,
+    "matchesDrawn": 5,
+    "matchesLost": 5,
+    "goalsFor": 21,
+    "goalsAgainst": 14,
+    "goalDifference": 7,
+    "team": {
+      "id": "Racing-Club",
+      "color": "#009DDB",
+      "colorSecondary": "#FFFFFF",
+      "name": "Racing Club",
+      "shortName": "RAC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 26,
     "matchesPlayed": 16,
     "matchesWon": 7,
     "matchesDrawn": 5,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 25,
     "matchesPlayed": 16,
     "matchesWon": 7,
@@ -122,27 +143,6 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 25,
-    "matchesPlayed": 16,
-    "matchesWon": 7,
-    "matchesDrawn": 4,
-    "matchesLost": 5,
-    "goalsFor": 21,
-    "goalsAgainst": 14,
-    "goalDifference": 7,
-    "team": {
-      "id": "Racing-Club",
-      "color": "#009DDB",
-      "colorSecondary": "#FFFFFF",
-      "name": "Racing Club",
-      "shortName": "RAC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
       "league": "LPF"
     }
   },
