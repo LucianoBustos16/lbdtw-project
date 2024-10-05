@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 31,
+    "matchesPlayed": 17,
+    "matchesWon": 8,
+    "matchesDrawn": 7,
+    "matchesLost": 2,
+    "goalsFor": 19,
+    "goalsAgainst": 9,
+    "goalDifference": 10,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 3,
     "points": 30,
     "matchesPlayed": 16,
     "matchesWon": 8,
@@ -38,27 +59,6 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 29,
-    "matchesPlayed": 17,
-    "matchesWon": 7,
-    "matchesDrawn": 8,
-    "matchesLost": 2,
-    "goalsFor": 17,
-    "goalsAgainst": 9,
-    "goalDifference": 8,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
@@ -380,27 +380,6 @@
   {
     "rank": 19,
     "points": 19,
-    "matchesPlayed": 17,
-    "matchesWon": 4,
-    "matchesDrawn": 7,
-    "matchesLost": 6,
-    "goalsFor": 13,
-    "goalsAgainst": 16,
-    "goalDifference": -3,
-    "team": {
-      "id": "Sarmiento",
-      "color": "#008349",
-      "colorSecondary": "#FFFFFF",
-      "name": "Sarmiento (J)",
-      "shortName": "SARM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 19,
     "matchesPlayed": 16,
     "matchesWon": 5,
     "matchesDrawn": 4,
@@ -420,7 +399,7 @@
     }
   },
   {
-    "rank": 21,
+    "rank": 20,
     "points": 19,
     "matchesPlayed": 17,
     "matchesWon": 5,
@@ -441,7 +420,7 @@
     }
   },
   {
-    "rank": 22,
+    "rank": 21,
     "points": 19,
     "matchesPlayed": 16,
     "matchesWon": 5,
@@ -462,7 +441,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "points": 18,
     "matchesPlayed": 16,
     "matchesWon": 4,
@@ -479,6 +458,27 @@
       "shortName": "TIG",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Tigre.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Tigre-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 23,
+    "points": 18,
+    "matchesPlayed": 17,
+    "matchesWon": 4,
+    "matchesDrawn": 6,
+    "matchesLost": 7,
+    "goalsFor": 13,
+    "goalsAgainst": 18,
+    "goalDifference": -5,
+    "team": {
+      "id": "Sarmiento",
+      "color": "#008349",
+      "colorSecondary": "#FFFFFF",
+      "name": "Sarmiento (J)",
+      "shortName": "SARM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
       "league": "LPF"
     }
   },
