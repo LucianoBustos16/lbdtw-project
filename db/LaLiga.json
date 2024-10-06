@@ -43,6 +43,27 @@
   },
   {
     "rank": 3,
+    "points": 19,
+    "matchesPlayed": 9,
+    "matchesWon": 5,
+    "matchesDrawn": 4,
+    "matchesLost": 0,
+    "goalsFor": 13,
+    "goalsAgainst": 4,
+    "goalDifference": 9,
+    "team": {
+      "id": "Atletico-Madrid",
+      "color": "#CB3524",
+      "colorSecondary": "#272E61",
+      "name": "Atletico Madrid",
+      "shortName": "ATM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 4,
     "points": 17,
     "matchesPlayed": 9,
     "matchesWon": 5,
@@ -59,27 +80,6 @@
       "shortName": "VIL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 16,
-    "matchesPlayed": 8,
-    "matchesWon": 4,
-    "matchesDrawn": 4,
-    "matchesLost": 0,
-    "goalsFor": 12,
-    "goalsAgainst": 4,
-    "goalDifference": 8,
-    "team": {
-      "id": "Atletico-Madrid",
-      "color": "#CB3524",
-      "colorSecondary": "#272E61",
-      "name": "Atletico Madrid",
-      "shortName": "ATM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -317,13 +317,13 @@
   {
     "rank": 16,
     "points": 8,
-    "matchesPlayed": 8,
+    "matchesPlayed": 9,
     "matchesWon": 2,
     "matchesDrawn": 2,
-    "matchesLost": 4,
+    "matchesLost": 5,
     "goalsFor": 6,
-    "goalsAgainst": 7,
-    "goalDifference": -1,
+    "goalsAgainst": 8,
+    "goalDifference": -2,
     "team": {
       "id": "Real-Sociedad",
       "color": "#0058b1 ",
