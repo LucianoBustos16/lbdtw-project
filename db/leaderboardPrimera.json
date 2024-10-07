@@ -192,6 +192,27 @@
     "rank": 10,
     "points": 24,
     "matchesPlayed": 17,
+    "matchesWon": 6,
+    "matchesDrawn": 6,
+    "matchesLost": 5,
+    "goalsFor": 20,
+    "goalsAgainst": 17,
+    "goalDifference": 3,
+    "team": {
+      "id": "Boca",
+      "color": "#023F86",
+      "colorSecondary": "#F7A600",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 24,
+    "matchesPlayed": 17,
     "matchesWon": 7,
     "matchesDrawn": 3,
     "matchesLost": 7,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 23,
     "matchesPlayed": 17,
     "matchesWon": 6,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 22,
     "matchesPlayed": 16,
     "matchesWon": 6,
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 22,
     "matchesPlayed": 16,
     "matchesWon": 5,
@@ -273,7 +294,7 @@
     }
   },
   {
-    "rank": 14,
+    "rank": 15,
     "points": 22,
     "matchesPlayed": 17,
     "matchesWon": 4,
@@ -290,27 +311,6 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 15,
-    "points": 21,
-    "matchesPlayed": 16,
-    "matchesWon": 5,
-    "matchesDrawn": 6,
-    "matchesLost": 5,
-    "goalsFor": 19,
-    "goalsAgainst": 17,
-    "goalDifference": 2,
-    "team": {
-      "id": "Boca",
-      "color": "#023F86",
-      "colorSecondary": "#F7A600",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
       "league": "LPF"
     }
   },
@@ -401,27 +401,6 @@
   {
     "rank": 20,
     "points": 19,
-    "matchesPlayed": 16,
-    "matchesWon": 5,
-    "matchesDrawn": 4,
-    "matchesLost": 7,
-    "goalsFor": 11,
-    "goalsAgainst": 16,
-    "goalDifference": -5,
-    "team": {
-      "id": "Argentinos",
-      "color": "#E32021",
-      "colorSecondary": "#00569D",
-      "name": "Argentinos",
-      "shortName": "ARGJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 21,
-    "points": 19,
     "matchesPlayed": 17,
     "matchesWon": 5,
     "matchesDrawn": 4,
@@ -437,6 +416,27 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 21,
+    "points": 19,
+    "matchesPlayed": 17,
+    "matchesWon": 5,
+    "matchesDrawn": 4,
+    "matchesLost": 8,
+    "goalsFor": 11,
+    "goalsAgainst": 17,
+    "goalDifference": -6,
+    "team": {
+      "id": "Argentinos",
+      "color": "#E32021",
+      "colorSecondary": "#00569D",
+      "name": "Argentinos",
+      "shortName": "ARGJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
       "league": "LPF"
     }
   },
