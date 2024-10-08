@@ -7579,6 +7579,34 @@
         "hourMatch": "19:00",
         "teams": [
           {
+            "id": "Sarmiento",
+            "name": "Sarmiento (J)",
+            "shortName": "SARM",
+            "color": "#008349",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Independiente",
+            "name": "Independiente",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "31 Nov",
+        "timestamp": 1730420100000,
+        "hourMatch": "21:15",
+        "teams": [
+          {
             "id": "Godoy-Cruz",
             "name": "Godoy Cruz",
             "shortName": "GCM",
@@ -7599,7 +7627,7 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "15"
       },
       {
         "formattedDate": "31 Nov",
@@ -7624,34 +7652,6 @@
             "colorSecondary": "#FFF",
             "image": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central.svg",
             "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Barracas-Central-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "15"
-      },
-      {
-        "formattedDate": "31 Nov",
-        "timestamp": 1730420100000,
-        "hourMatch": "21:15",
-        "teams": [
-          {
-            "id": "Sarmiento",
-            "name": "Sarmiento (J)",
-            "shortName": "SARM",
-            "color": "#008349",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Independiente",
-            "name": "Independiente",
-            "shortName": "IND",
-            "color": "#EC1C24",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
             "league": "LPF"
           }
         ],
