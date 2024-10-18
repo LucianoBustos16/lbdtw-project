@@ -191,6 +191,27 @@
   {
     "rank": 10,
     "points": 25,
+    "matchesPlayed": 18,
+    "matchesWon": 5,
+    "matchesDrawn": 10,
+    "matchesLost": 3,
+    "goalsFor": 15,
+    "goalsAgainst": 12,
+    "goalDifference": 3,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
+    "points": 25,
     "matchesPlayed": 17,
     "matchesWon": 6,
     "matchesDrawn": 7,
@@ -206,27 +227,6 @@
       "shortName": "BEL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 25,
-    "matchesPlayed": 18,
-    "matchesWon": 5,
-    "matchesDrawn": 10,
-    "matchesLost": 3,
-    "goalsFor": 14,
-    "goalsAgainst": 12,
-    "goalDifference": 2,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
@@ -406,8 +406,8 @@
     "matchesDrawn": 8,
     "matchesLost": 6,
     "goalsFor": 19,
-    "goalsAgainst": 25,
-    "goalDifference": -6,
+    "goalsAgainst": 26,
+    "goalDifference": -7,
     "team": {
       "id": "Lanus",
       "color": "#7A1D2D",
