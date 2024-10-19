@@ -65,6 +65,27 @@
   {
     "rank": 4,
     "points": 17,
+    "matchesPlayed": 10,
+    "matchesWon": 5,
+    "matchesDrawn": 2,
+    "matchesLost": 3,
+    "goalsFor": 14,
+    "goalsAgainst": 10,
+    "goalDifference": 4,
+    "team": {
+      "id": "Athletic-Bilbao",
+      "color": "#E2231A",
+      "colorSecondary": "#FFFFFF",
+      "name": "Athletic Bilbao",
+      "shortName": "ATH",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 17,
     "matchesPlayed": 9,
     "matchesWon": 5,
     "matchesDrawn": 2,
@@ -84,7 +105,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 6,
     "points": 15,
     "matchesPlayed": 9,
     "matchesWon": 4,
@@ -101,27 +122,6 @@
       "shortName": "OSA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 14,
-    "matchesPlayed": 9,
-    "matchesWon": 4,
-    "matchesDrawn": 2,
-    "matchesLost": 3,
-    "goalsFor": 13,
-    "goalsAgainst": 10,
-    "goalDifference": 3,
-    "team": {
-      "id": "Athletic-Bilbao",
-      "color": "#E2231A",
-      "colorSecondary": "#FFFFFF",
-      "name": "Athletic Bilbao",
-      "shortName": "ATH",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Athletic-Bilbao-white.svg",
       "league": "LaLiga"
     }
   },
@@ -254,27 +254,6 @@
   {
     "rank": 13,
     "points": 10,
-    "matchesPlayed": 9,
-    "matchesWon": 3,
-    "matchesDrawn": 1,
-    "matchesLost": 5,
-    "goalsFor": 9,
-    "goalsAgainst": 13,
-    "goalDifference": -4,
-    "team": {
-      "id": "Espanyol",
-      "color": "#0077BD",
-      "colorSecondary": "#FFF",
-      "name": "Espanyol",
-      "shortName": "ESP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 10,
     "matchesPlayed": 10,
     "matchesWon": 3,
     "matchesDrawn": 1,
@@ -290,6 +269,27 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 10,
+    "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 1,
+    "matchesLost": 6,
+    "goalsFor": 9,
+    "goalsAgainst": 14,
+    "goalDifference": -5,
+    "team": {
+      "id": "Espanyol",
+      "color": "#0077BD",
+      "colorSecondary": "#FFF",
+      "name": "Espanyol",
+      "shortName": "ESP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
       "league": "LaLiga"
     }
   },
