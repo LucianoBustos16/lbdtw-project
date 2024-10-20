@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 25,
+    "points": 27,
     "matchesPlayed": 10,
-    "matchesWon": 8,
-    "matchesDrawn": 1,
+    "matchesWon": 9,
+    "matchesDrawn": 0,
     "matchesLost": 1,
-    "goalsFor": 28,
+    "goalsFor": 30,
     "goalsAgainst": 9,
-    "goalDifference": 19,
+    "goalDifference": 21,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -211,27 +211,6 @@
   },
   {
     "rank": 11,
-    "points": 13,
-    "matchesPlayed": 10,
-    "matchesWon": 3,
-    "matchesDrawn": 4,
-    "matchesLost": 3,
-    "goalsFor": 9,
-    "goalsAgainst": 10,
-    "goalDifference": -1,
-    "team": {
-      "id": "Sevilla",
-      "color": "#CD3529",
-      "colorSecondary": "#FFF",
-      "name": "Sevilla",
-      "shortName": "SEV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 12,
     "points": 12,
     "matchesPlayed": 10,
     "matchesWon": 3,
@@ -252,7 +231,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 12,
     "points": 12,
     "matchesPlayed": 10,
     "matchesWon": 3,
@@ -269,6 +248,27 @@
       "shortName": "GIR",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 12,
+    "matchesPlayed": 10,
+    "matchesWon": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 4,
+    "goalsFor": 9,
+    "goalsAgainst": 12,
+    "goalDifference": -3,
+    "team": {
+      "id": "Sevilla",
+      "color": "#CD3529",
+      "colorSecondary": "#FFF",
+      "name": "Sevilla",
+      "shortName": "SEV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
       "league": "LaLiga"
     }
   },
