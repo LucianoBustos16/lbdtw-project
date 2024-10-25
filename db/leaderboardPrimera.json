@@ -107,6 +107,27 @@
   {
     "rank": 6,
     "points": 27,
+    "matchesPlayed": 19,
+    "matchesWon": 7,
+    "matchesDrawn": 6,
+    "matchesLost": 6,
+    "goalsFor": 21,
+    "goalsAgainst": 19,
+    "goalDifference": 2,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 27,
     "matchesPlayed": 18,
     "matchesWon": 7,
     "matchesDrawn": 6,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 27,
     "matchesPlayed": 18,
     "matchesWon": 8,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 26,
     "matchesPlayed": 18,
     "matchesWon": 6,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 26,
     "matchesPlayed": 18,
     "matchesWon": 6,
@@ -185,27 +206,6 @@
       "shortName": "GCM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 26,
-    "matchesPlayed": 18,
-    "matchesWon": 7,
-    "matchesDrawn": 5,
-    "matchesLost": 6,
-    "goalsFor": 21,
-    "goalsAgainst": 19,
-    "goalDifference": 2,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -568,10 +568,10 @@
   },
   {
     "rank": 28,
-    "points": 12,
-    "matchesPlayed": 18,
+    "points": 13,
+    "matchesPlayed": 19,
     "matchesWon": 2,
-    "matchesDrawn": 6,
+    "matchesDrawn": 7,
     "matchesLost": 10,
     "goalsFor": 8,
     "goalsAgainst": 23,
