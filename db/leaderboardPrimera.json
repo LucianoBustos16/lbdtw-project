@@ -108,6 +108,27 @@
     "rank": 6,
     "points": 27,
     "matchesPlayed": 19,
+    "matchesWon": 6,
+    "matchesDrawn": 9,
+    "matchesLost": 4,
+    "goalsFor": 21,
+    "goalsAgainst": 13,
+    "goalDifference": 8,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
+    "points": 27,
+    "matchesPlayed": 19,
     "matchesWon": 7,
     "matchesDrawn": 6,
     "matchesLost": 6,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 27,
     "matchesPlayed": 18,
     "matchesWon": 7,
@@ -147,7 +168,7 @@
     }
   },
   {
-    "rank": 8,
+    "rank": 9,
     "points": 27,
     "matchesPlayed": 18,
     "matchesWon": 8,
@@ -164,27 +185,6 @@
       "shortName": "RIE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 26,
-    "matchesPlayed": 18,
-    "matchesWon": 6,
-    "matchesDrawn": 8,
-    "matchesLost": 4,
-    "goalsFor": 21,
-    "goalsAgainst": 13,
-    "goalDifference": 8,
-    "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
       "league": "LPF"
     }
   },
@@ -547,10 +547,10 @@
   },
   {
     "rank": 27,
-    "points": 15,
-    "matchesPlayed": 18,
+    "points": 16,
+    "matchesPlayed": 19,
     "matchesWon": 3,
-    "matchesDrawn": 6,
+    "matchesDrawn": 7,
     "matchesLost": 9,
     "goalsFor": 15,
     "goalsAgainst": 28,
