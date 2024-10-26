@@ -7177,9 +7177,9 @@
         "score": "1-1"
       },
       {
-        "formattedDate": "25 Oct",
-        "timestamp": 1729900800000,
-        "hourMatch": "21:00",
+        "formattedDate": "Invalid undefined",
+        "timestamp": null,
+        "hourMatch": "Date:undefined",
         "teams": [
           {
             "id": "Defensa-y-Justicia",
@@ -7202,7 +7202,7 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "0-0"
       },
       {
         "formattedDate": "26 Oct",
@@ -7687,8 +7687,8 @@
       },
       {
         "formattedDate": "1 Nov",
-        "timestamp": 1730498400000,
-        "hourMatch": "19:00",
+        "timestamp": 1730501100000,
+        "hourMatch": "19:45",
         "teams": [
           {
             "id": "Huracan",
@@ -7711,35 +7711,7 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "1 Nov",
-        "timestamp": 1730506500000,
-        "hourMatch": "21:15",
-        "teams": [
-          {
-            "id": "Argentinos",
-            "name": "Argentinos",
-            "shortName": "ARGJ",
-            "color": "#E32021",
-            "colorSecondary": "#00569D",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Velez",
-            "name": "Velez",
-            "shortName": "VEL",
-            "color": "#0063A8",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "15"
+        "score": "45"
       },
       {
         "formattedDate": "1 Nov",
@@ -7768,6 +7740,34 @@
           }
         ],
         "score": "15"
+      },
+      {
+        "formattedDate": "1 Nov",
+        "timestamp": 1730509200000,
+        "hourMatch": "22:00",
+        "teams": [
+          {
+            "id": "Argentinos",
+            "name": "Argentinos",
+            "shortName": "ARGJ",
+            "color": "#E32021",
+            "colorSecondary": "#00569D",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Velez",
+            "name": "Velez",
+            "shortName": "VEL",
+            "color": "#0063A8",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Velez.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Velez-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
       },
       {
         "formattedDate": "2 Nov",
@@ -8228,34 +8228,6 @@
         "hourMatch": "18:45",
         "teams": [
           {
-            "id": "Defensa-y-Justicia",
-            "name": "Def y Justicia",
-            "shortName": "DYJ",
-            "color": "#ffdd00",
-            "colorSecondary": "#007A3F",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Argentinos",
-            "name": "Argentinos",
-            "shortName": "ARGJ",
-            "color": "#E32021",
-            "colorSecondary": "#00569D",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "45"
-      },
-      {
-        "formattedDate": "7 Nov",
-        "timestamp": 1731015900000,
-        "hourMatch": "18:45",
-        "teams": [
-          {
             "id": "Talleres",
             "name": "Talleres (C)",
             "shortName": "CAT",
@@ -8277,6 +8249,34 @@
           }
         ],
         "score": "45"
+      },
+      {
+        "formattedDate": "7 Nov",
+        "timestamp": 1731016800000,
+        "hourMatch": "19:00",
+        "teams": [
+          {
+            "id": "Defensa-y-Justicia",
+            "name": "Def y Justicia",
+            "shortName": "DYJ",
+            "color": "#ffdd00",
+            "colorSecondary": "#007A3F",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Argentinos",
+            "name": "Argentinos",
+            "shortName": "ARGJ",
+            "color": "#E32021",
+            "colorSecondary": "#00569D",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Argentinos.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Argentinos-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
       },
       {
         "formattedDate": "7 Nov",
@@ -8308,8 +8308,8 @@
       },
       {
         "formattedDate": "7 Nov",
-        "timestamp": 1731024000000,
-        "hourMatch": "21:00",
+        "timestamp": 1731024900000,
+        "hourMatch": "21:15",
         "teams": [
           {
             "id": "Velez",
@@ -8332,7 +8332,7 @@
             "league": "LPF"
           }
         ],
-        "score": "00"
+        "score": "15"
       }
     ]
   },
