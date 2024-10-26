@@ -106,6 +106,27 @@
   },
   {
     "rank": 6,
+    "points": 28,
+    "matchesPlayed": 19,
+    "matchesWon": 6,
+    "matchesDrawn": 10,
+    "matchesLost": 3,
+    "goalsFor": 16,
+    "goalsAgainst": 12,
+    "goalDifference": 4,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
     "points": 27,
     "matchesPlayed": 19,
     "matchesWon": 6,
@@ -122,27 +143,6 @@
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 27,
-    "matchesPlayed": 19,
-    "matchesWon": 6,
-    "matchesDrawn": 9,
-    "matchesLost": 4,
-    "goalsFor": 20,
-    "goalsAgainst": 17,
-    "goalDifference": 3,
-    "team": {
-      "id": "Godoy-Cruz",
-      "color": "#2670CA",
-      "colorSecondary": "#FFFFFF",
-      "name": "Godoy Cruz",
-      "shortName": "GCM",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
@@ -213,20 +213,20 @@
     "rank": 11,
     "points": 26,
     "matchesPlayed": 19,
-    "matchesWon": 5,
-    "matchesDrawn": 11,
-    "matchesLost": 3,
-    "goalsFor": 15,
-    "goalsAgainst": 12,
-    "goalDifference": 3,
+    "matchesWon": 6,
+    "matchesDrawn": 8,
+    "matchesLost": 5,
+    "goalsFor": 20,
+    "goalsAgainst": 18,
+    "goalDifference": 2,
     "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
+      "id": "Godoy-Cruz",
+      "color": "#2670CA",
       "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "name": "Godoy Cruz",
+      "shortName": "GCM",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Godoy-Cruz-white.svg",
       "league": "LPF"
     }
   },
