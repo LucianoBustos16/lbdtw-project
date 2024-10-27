@@ -287,6 +287,27 @@
     "rank": 15,
     "points": 10,
     "matchesPlayed": 11,
+    "matchesWon": 1,
+    "matchesDrawn": 7,
+    "matchesLost": 3,
+    "goalsFor": 7,
+    "goalsAgainst": 8,
+    "goalDifference": -1,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
+    "points": 10,
+    "matchesPlayed": 11,
     "matchesWon": 3,
     "matchesDrawn": 1,
     "matchesLost": 7,
@@ -305,7 +326,7 @@
     }
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 10,
     "matchesPlayed": 11,
     "matchesWon": 3,
@@ -322,27 +343,6 @@
       "shortName": "ESP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 9,
-    "matchesPlayed": 10,
-    "matchesWon": 1,
-    "matchesDrawn": 6,
-    "matchesLost": 3,
-    "goalsFor": 7,
-    "goalsAgainst": 8,
-    "goalDifference": -1,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
@@ -390,10 +390,10 @@
   },
   {
     "rank": 20,
-    "points": 6,
-    "matchesPlayed": 10,
+    "points": 7,
+    "matchesPlayed": 11,
     "matchesWon": 1,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 6,
     "goalsFor": 7,
     "goalsAgainst": 16,
