@@ -87,6 +87,27 @@
     "rank": 5,
     "points": 30,
     "matchesPlayed": 20,
+    "matchesWon": 7,
+    "matchesDrawn": 9,
+    "matchesLost": 4,
+    "goalsFor": 22,
+    "goalsAgainst": 13,
+    "goalDifference": 9,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 30,
+    "matchesPlayed": 20,
     "matchesWon": 8,
     "matchesDrawn": 6,
     "matchesLost": 6,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 29,
     "matchesPlayed": 19,
     "matchesWon": 8,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 29,
     "matchesPlayed": 20,
     "matchesWon": 8,
@@ -143,27 +164,6 @@
       "shortName": "RIE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 28,
-    "matchesPlayed": 20,
-    "matchesWon": 6,
-    "matchesDrawn": 10,
-    "matchesLost": 4,
-    "goalsFor": 21,
-    "goalsAgainst": 13,
-    "goalDifference": 8,
-    "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
       "league": "LPF"
     }
   },
@@ -463,27 +463,6 @@
   },
   {
     "rank": 23,
-    "points": 22,
-    "matchesPlayed": 20,
-    "matchesWon": 5,
-    "matchesDrawn": 7,
-    "matchesLost": 8,
-    "goalsFor": 18,
-    "goalsAgainst": 23,
-    "goalDifference": -5,
-    "team": {
-      "id": "Banfield",
-      "color": "#007934",
-      "colorSecondary": "#B49759",
-      "name": "Banfield",
-      "shortName": "BAN",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 24,
     "points": 21,
     "matchesPlayed": 20,
     "matchesWon": 4,
@@ -500,6 +479,27 @@
       "shortName": "SARM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 24,
+    "points": 21,
+    "matchesPlayed": 20,
+    "matchesWon": 5,
+    "matchesDrawn": 6,
+    "matchesLost": 9,
+    "goalsFor": 18,
+    "goalsAgainst": 24,
+    "goalDifference": -6,
+    "team": {
+      "id": "Banfield",
+      "color": "#007934",
+      "colorSecondary": "#B49759",
+      "name": "Banfield",
+      "shortName": "BAN",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Banfield.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Banfield-white.svg",
       "league": "LPF"
     }
   },
