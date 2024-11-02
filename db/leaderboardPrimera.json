@@ -90,9 +90,9 @@
     "matchesWon": 7,
     "matchesDrawn": 9,
     "matchesLost": 4,
-    "goalsFor": 23,
+    "goalsFor": 24,
     "goalsAgainst": 14,
-    "goalDifference": 9,
+    "goalDifference": 10,
     "team": {
       "id": "River",
       "color": "#E30520",
@@ -254,6 +254,27 @@
   {
     "rank": 13,
     "points": 27,
+    "matchesPlayed": 20,
+    "matchesWon": 6,
+    "matchesDrawn": 9,
+    "matchesLost": 5,
+    "goalsFor": 22,
+    "goalsAgainst": 21,
+    "goalDifference": 1,
+    "team": {
+      "id": "Belgrano",
+      "color": "#3A9CD0",
+      "colorSecondary": "#1D1D1B",
+      "name": "Belgrano",
+      "shortName": "BEL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 14,
+    "points": 27,
     "matchesPlayed": 19,
     "matchesWon": 7,
     "matchesDrawn": 6,
@@ -269,27 +290,6 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 26,
-    "matchesPlayed": 19,
-    "matchesWon": 6,
-    "matchesDrawn": 8,
-    "matchesLost": 5,
-    "goalsFor": 22,
-    "goalsAgainst": 21,
-    "goalDifference": 1,
-    "team": {
-      "id": "Belgrano",
-      "color": "#3A9CD0",
-      "colorSecondary": "#1D1D1B",
-      "name": "Belgrano",
-      "shortName": "BEL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Belgrano.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Belgrano-white.svg",
       "league": "LPF"
     }
   },
@@ -490,8 +490,8 @@
     "matchesDrawn": 6,
     "matchesLost": 9,
     "goalsFor": 19,
-    "goalsAgainst": 25,
-    "goalDifference": -6,
+    "goalsAgainst": 26,
+    "goalDifference": -7,
     "team": {
       "id": "Banfield",
       "color": "#007934",
@@ -547,10 +547,10 @@
   },
   {
     "rank": 27,
-    "points": 16,
-    "matchesPlayed": 19,
+    "points": 17,
+    "matchesPlayed": 20,
     "matchesWon": 3,
-    "matchesDrawn": 7,
+    "matchesDrawn": 8,
     "matchesLost": 9,
     "goalsFor": 15,
     "goalsAgainst": 28,
