@@ -190,6 +190,27 @@
   },
   {
     "rank": 10,
+    "points": 16,
+    "matchesPlayed": 12,
+    "matchesWon": 5,
+    "matchesDrawn": 1,
+    "matchesLost": 6,
+    "goalsFor": 18,
+    "goalsAgainst": 20,
+    "goalDifference": -2,
+    "team": {
+      "id": "Celta",
+      "color": "#6CACE4",
+      "colorSecondary": "#D50032",
+      "name": "Celta de Vigo",
+      "shortName": "CDV",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 11,
     "points": 15,
     "matchesPlayed": 12,
     "matchesWon": 4,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 15,
     "matchesPlayed": 12,
     "matchesWon": 4,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 15,
     "matchesPlayed": 12,
     "matchesWon": 4,
@@ -248,27 +269,6 @@
       "shortName": "SEV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Sevilla.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sevilla-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 13,
-    "matchesPlayed": 11,
-    "matchesWon": 4,
-    "matchesDrawn": 1,
-    "matchesLost": 6,
-    "goalsFor": 17,
-    "goalsAgainst": 20,
-    "goalDifference": -3,
-    "team": {
-      "id": "Celta",
-      "color": "#6CACE4",
-      "colorSecondary": "#D50032",
-      "name": "Celta de Vigo",
-      "shortName": "CDV",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Celta.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Celta-white.svg",
       "league": "LaLiga"
     }
   },
@@ -307,13 +307,13 @@
   {
     "rank": 16,
     "points": 10,
-    "matchesPlayed": 11,
+    "matchesPlayed": 12,
     "matchesWon": 1,
     "matchesDrawn": 7,
-    "matchesLost": 3,
+    "matchesLost": 4,
     "goalsFor": 8,
-    "goalsAgainst": 9,
-    "goalDifference": -1,
+    "goalsAgainst": 10,
+    "goalDifference": -2,
     "team": {
       "id": "Getafe",
       "color": "#00369e",
