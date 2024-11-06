@@ -22,14 +22,14 @@
   },
   {
     "rank": 2,
-    "points": 36,
-    "matchesPlayed": 20,
-    "matchesWon": 9,
+    "points": 39,
+    "matchesPlayed": 21,
+    "matchesWon": 10,
     "matchesDrawn": 9,
     "matchesLost": 2,
-    "goalsFor": 20,
-    "goalsAgainst": 9,
-    "goalDifference": 11,
+    "goalsFor": 24,
+    "goalsAgainst": 10,
+    "goalDifference": 14,
     "team": {
       "id": "Huracan",
       "color": "#FF0000",
@@ -43,27 +43,6 @@
   },
   {
     "rank": 3,
-    "points": 33,
-    "matchesPlayed": 20,
-    "matchesWon": 9,
-    "matchesDrawn": 6,
-    "matchesLost": 5,
-    "goalsFor": 23,
-    "goalsAgainst": 18,
-    "goalDifference": 5,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
     "points": 33,
     "matchesPlayed": 20,
     "matchesWon": 8,
@@ -80,6 +59,27 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 33,
+    "matchesPlayed": 21,
+    "matchesWon": 9,
+    "matchesDrawn": 6,
+    "matchesLost": 6,
+    "goalsFor": 23,
+    "goalsAgainst": 19,
+    "goalDifference": 4,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
@@ -148,6 +148,27 @@
   },
   {
     "rank": 8,
+    "points": 30,
+    "matchesPlayed": 21,
+    "matchesWon": 6,
+    "matchesDrawn": 12,
+    "matchesLost": 3,
+    "goalsFor": 17,
+    "goalsAgainst": 13,
+    "goalDifference": 4,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
     "points": 29,
     "matchesPlayed": 20,
     "matchesWon": 8,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 29,
     "matchesPlayed": 21,
     "matchesWon": 7,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 29,
     "matchesPlayed": 20,
     "matchesWon": 8,
@@ -210,7 +231,7 @@
     }
   },
   {
-    "rank": 11,
+    "rank": 12,
     "points": 28,
     "matchesPlayed": 20,
     "matchesWon": 6,
@@ -231,7 +252,7 @@
     }
   },
   {
-    "rank": 12,
+    "rank": 13,
     "points": 28,
     "matchesPlayed": 20,
     "matchesWon": 7,
@@ -248,27 +269,6 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 13,
-    "points": 27,
-    "matchesPlayed": 20,
-    "matchesWon": 5,
-    "matchesDrawn": 12,
-    "matchesLost": 3,
-    "goalsFor": 16,
-    "goalsAgainst": 13,
-    "goalDifference": 3,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
       "league": "LPF"
     }
   },
@@ -527,13 +527,13 @@
   {
     "rank": 26,
     "points": 21,
-    "matchesPlayed": 20,
+    "matchesPlayed": 21,
     "matchesWon": 5,
     "matchesDrawn": 6,
-    "matchesLost": 9,
-    "goalsFor": 13,
-    "goalsAgainst": 24,
-    "goalDifference": -11,
+    "matchesLost": 10,
+    "goalsFor": 14,
+    "goalsAgainst": 28,
+    "goalDifference": -14,
     "team": {
       "id": "Newells",
       "color": "#ED1C24",
