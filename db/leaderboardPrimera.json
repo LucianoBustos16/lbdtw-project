@@ -234,12 +234,33 @@
     "rank": 12,
     "points": 28,
     "matchesPlayed": 21,
+    "matchesWon": 7,
+    "matchesDrawn": 7,
+    "matchesLost": 7,
+    "goalsFor": 24,
+    "goalsAgainst": 23,
+    "goalDifference": 1,
+    "team": {
+      "id": "Boca",
+      "color": "#023F86",
+      "colorSecondary": "#F7A600",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 13,
+    "points": 28,
+    "matchesPlayed": 21,
     "matchesWon": 6,
     "matchesDrawn": 10,
     "matchesLost": 5,
     "goalsFor": 23,
-    "goalsAgainst": 21,
-    "goalDifference": 2,
+    "goalsAgainst": 22,
+    "goalDifference": 1,
     "team": {
       "id": "Godoy-Cruz",
       "color": "#2670CA",
@@ -252,7 +273,7 @@
     }
   },
   {
-    "rank": 13,
+    "rank": 14,
     "points": 28,
     "matchesPlayed": 20,
     "matchesWon": 7,
@@ -269,27 +290,6 @@
       "shortName": "PLA",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 28,
-    "matchesPlayed": 21,
-    "matchesWon": 7,
-    "matchesDrawn": 7,
-    "matchesLost": 7,
-    "goalsFor": 23,
-    "goalsAgainst": 23,
-    "goalDifference": 0,
-    "team": {
-      "id": "Boca",
-      "color": "#023F86",
-      "colorSecondary": "#F7A600",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
       "league": "LPF"
     }
   },
