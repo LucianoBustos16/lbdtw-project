@@ -3213,34 +3213,6 @@
         "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "Villarreal",
-            "name": "Villarreal",
-            "shortName": "VIL",
-            "color": "#002246",
-            "colorSecondary": "#ffe715",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
-            "league": "LaLiga"
-          },
-          {
-            "id": "Rayo-Vallecano",
-            "name": "Rayo Vallecano",
-            "shortName": "RYV",
-            "color": "#e21921 ",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-            "league": "LaLiga"
-          }
-        ],
-        "score": "Aplazado"
-      },
-      {
-        "formattedDate": "Invalid undefined",
-        "timestamp": null,
-        "hourMatch": "Date:undefined",
-        "teams": [
-          {
             "id": "Valencia",
             "name": "Valencia",
             "shortName": "VAL",
@@ -3402,6 +3374,34 @@
           }
         ],
         "score": "1-0"
+      },
+      {
+        "formattedDate": "19 Dic",
+        "timestamp": 1734638400000,
+        "hourMatch": "17:00",
+        "teams": [
+          {
+            "id": "Villarreal",
+            "name": "Villarreal",
+            "shortName": "VIL",
+            "color": "#002246",
+            "colorSecondary": "#ffe715",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Villarreal.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Villarreal-white.svg",
+            "league": "LaLiga"
+          },
+          {
+            "id": "Rayo-Vallecano",
+            "name": "Rayo Vallecano",
+            "shortName": "RYV",
+            "color": "#e21921 ",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
+            "league": "LaLiga"
+          }
+        ],
+        "score": "00"
       }
     ]
   },
