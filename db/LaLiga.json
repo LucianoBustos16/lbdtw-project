@@ -170,13 +170,13 @@
   {
     "rank": 9,
     "points": 16,
-    "matchesPlayed": 11,
+    "matchesPlayed": 12,
     "matchesWon": 4,
     "matchesDrawn": 4,
-    "matchesLost": 3,
+    "matchesLost": 4,
     "goalsFor": 12,
-    "goalsAgainst": 10,
-    "goalDifference": 2,
+    "goalsAgainst": 11,
+    "goalDifference": 1,
     "team": {
       "id": "Rayo-Vallecano",
       "color": "#e21921 ",
@@ -295,6 +295,27 @@
   },
   {
     "rank": 15,
+    "points": 12,
+    "matchesPlayed": 13,
+    "matchesWon": 3,
+    "matchesDrawn": 3,
+    "matchesLost": 7,
+    "goalsFor": 14,
+    "goalsAgainst": 21,
+    "goalDifference": -7,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 16,
     "points": 11,
     "matchesPlayed": 12,
     "matchesWon": 2,
@@ -305,7 +326,7 @@
     "goalDifference": -4
   },
   {
-    "rank": 16,
+    "rank": 17,
     "points": 10,
     "matchesPlayed": 12,
     "matchesWon": 1,
@@ -326,7 +347,7 @@
     }
   },
   {
-    "rank": 17,
+    "rank": 18,
     "points": 10,
     "matchesPlayed": 12,
     "matchesWon": 3,
@@ -343,27 +364,6 @@
       "shortName": "ESP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Espanyol.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Espanyol-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 18,
-    "points": 9,
-    "matchesPlayed": 12,
-    "matchesWon": 2,
-    "matchesDrawn": 3,
-    "matchesLost": 7,
-    "goalsFor": 13,
-    "goalsAgainst": 21,
-    "goalDifference": -8,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
