@@ -64,6 +64,48 @@
   },
   {
     "rank": 4,
+    "points": 34,
+    "matchesPlayed": 22,
+    "matchesWon": 9,
+    "matchesDrawn": 7,
+    "matchesLost": 6,
+    "goalsFor": 23,
+    "goalsAgainst": 21,
+    "goalDifference": 2,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 34,
+    "matchesPlayed": 22,
+    "matchesWon": 9,
+    "matchesDrawn": 7,
+    "matchesLost": 6,
+    "goalsFor": 21,
+    "goalsAgainst": 21,
+    "goalDifference": 0,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 33,
     "matchesPlayed": 21,
     "matchesWon": 8,
@@ -84,7 +126,7 @@
     }
   },
   {
-    "rank": 5,
+    "rank": 7,
     "points": 33,
     "matchesPlayed": 21,
     "matchesWon": 8,
@@ -101,48 +143,6 @@
       "shortName": "CAT",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Talleres.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Talleres-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 33,
-    "matchesPlayed": 21,
-    "matchesWon": 9,
-    "matchesDrawn": 6,
-    "matchesLost": 6,
-    "goalsFor": 23,
-    "goalsAgainst": 21,
-    "goalDifference": 2,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 33,
-    "matchesPlayed": 21,
-    "matchesWon": 9,
-    "matchesDrawn": 6,
-    "matchesLost": 6,
-    "goalsFor": 21,
-    "goalsAgainst": 21,
-    "goalDifference": 0,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
       "league": "LPF"
     }
   },
