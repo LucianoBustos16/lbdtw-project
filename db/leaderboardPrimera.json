@@ -65,6 +65,27 @@
   {
     "rank": 4,
     "points": 34,
+    "matchesPlayed": 22,
+    "matchesWon": 8,
+    "matchesDrawn": 10,
+    "matchesLost": 4,
+    "goalsFor": 27,
+    "goalsAgainst": 16,
+    "goalDifference": 11,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 5,
+    "points": 34,
     "matchesPlayed": 21,
     "matchesWon": 10,
     "matchesDrawn": 4,
@@ -80,27 +101,6 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 5,
-    "points": 33,
-    "matchesPlayed": 21,
-    "matchesWon": 8,
-    "matchesDrawn": 9,
-    "matchesLost": 4,
-    "goalsFor": 27,
-    "goalsAgainst": 16,
-    "goalDifference": 11,
-    "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
       "league": "LPF"
     }
   },
@@ -568,10 +568,10 @@
   },
   {
     "rank": 28,
-    "points": 16,
-    "matchesPlayed": 21,
+    "points": 17,
+    "matchesPlayed": 22,
     "matchesWon": 3,
-    "matchesDrawn": 7,
+    "matchesDrawn": 8,
     "matchesLost": 11,
     "goalsFor": 10,
     "goalsAgainst": 26,
