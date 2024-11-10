@@ -148,6 +148,27 @@
   },
   {
     "rank": 8,
+    "points": 32,
+    "matchesPlayed": 22,
+    "matchesWon": 8,
+    "matchesDrawn": 8,
+    "matchesLost": 6,
+    "goalsFor": 25,
+    "goalsAgainst": 22,
+    "goalDifference": 3,
+    "team": {
+      "id": "Estudiantes",
+      "color": "#E41815",
+      "colorSecondary": "#FFF",
+      "name": "Estudiantes (LP)",
+      "shortName": "EST",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
     "points": 30,
     "matchesPlayed": 22,
     "matchesWon": 6,
@@ -164,27 +185,6 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 9,
-    "points": 30,
-    "matchesPlayed": 22,
-    "matchesWon": 7,
-    "matchesDrawn": 9,
-    "matchesLost": 6,
-    "goalsFor": 24,
-    "goalsAgainst": 22,
-    "goalDifference": 2,
-    "team": {
-      "id": "Estudiantes",
-      "color": "#E41815",
-      "colorSecondary": "#FFF",
-      "name": "Estudiantes (LP)",
-      "shortName": "EST",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Estudiantes-white.svg",
       "league": "LPF"
     }
   },
@@ -422,27 +422,6 @@
   {
     "rank": 21,
     "points": 25,
-    "matchesPlayed": 22,
-    "matchesWon": 6,
-    "matchesDrawn": 7,
-    "matchesLost": 9,
-    "goalsFor": 22,
-    "goalsAgainst": 27,
-    "goalDifference": -5,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 22,
-    "points": 25,
     "matchesPlayed": 21,
     "matchesWon": 6,
     "matchesDrawn": 7,
@@ -458,6 +437,27 @@
       "shortName": "IND",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-rivadavia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 22,
+    "points": 24,
+    "matchesPlayed": 22,
+    "matchesWon": 6,
+    "matchesDrawn": 6,
+    "matchesLost": 10,
+    "goalsFor": 22,
+    "goalsAgainst": 28,
+    "goalDifference": -6,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
