@@ -45,6 +45,27 @@
     "rank": 3,
     "points": 36,
     "matchesPlayed": 22,
+    "matchesWon": 9,
+    "matchesDrawn": 9,
+    "matchesLost": 4,
+    "goalsFor": 28,
+    "goalsAgainst": 16,
+    "goalDifference": 12,
+    "team": {
+      "id": "River",
+      "color": "#E30520",
+      "colorSecondary": "#FFFFFF",
+      "name": "River Plate",
+      "shortName": "CARP",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 36,
+    "matchesPlayed": 22,
     "matchesWon": 10,
     "matchesDrawn": 6,
     "matchesLost": 6,
@@ -59,27 +80,6 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
-    "points": 34,
-    "matchesPlayed": 22,
-    "matchesWon": 8,
-    "matchesDrawn": 10,
-    "matchesLost": 4,
-    "goalsFor": 27,
-    "goalsAgainst": 16,
-    "goalDifference": 11,
-    "team": {
-      "id": "River",
-      "color": "#E30520",
-      "colorSecondary": "#FFFFFF",
-      "name": "River Plate",
-      "shortName": "CARP",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
       "league": "LPF"
     }
   },
@@ -568,14 +568,14 @@
   },
   {
     "rank": 28,
-    "points": 17,
+    "points": 16,
     "matchesPlayed": 22,
     "matchesWon": 3,
-    "matchesDrawn": 8,
-    "matchesLost": 11,
+    "matchesDrawn": 7,
+    "matchesLost": 12,
     "goalsFor": 10,
-    "goalsAgainst": 26,
-    "goalDifference": -16,
+    "goalsAgainst": 27,
+    "goalDifference": -17,
     "team": {
       "id": "Barracas-Central",
       "color": "#ec1c24",
