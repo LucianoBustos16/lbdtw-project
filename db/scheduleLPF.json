@@ -9387,6 +9387,62 @@
       },
       {
         "formattedDate": "26 Nov",
+        "timestamp": 1732658400000,
+        "hourMatch": "19:00",
+        "teams": [
+          {
+            "id": "Newells",
+            "name": "Newells",
+            "shortName": "NOB",
+            "color": "#ED1C24",
+            "colorSecondary": "#000000",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Independiente",
+            "name": "Independiente",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      },
+      {
+        "formattedDate": "26 Nov",
+        "timestamp": 1732666500000,
+        "hourMatch": "21:15",
+        "teams": [
+          {
+            "id": "Sarmiento",
+            "name": "Sarmiento (J)",
+            "shortName": "SARM",
+            "color": "#008349",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Platense",
+            "name": "Platense",
+            "shortName": "PLA",
+            "color": "#633B1B",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "15"
+      },
+      {
+        "formattedDate": "26 Nov",
         "timestamp": 1732666500000,
         "hourMatch": "21:15",
         "teams": [
@@ -9468,62 +9524,6 @@
           }
         ],
         "score": "00"
-      },
-      {
-        "formattedDate": "26 Dic",
-        "timestamp": 1735250400000,
-        "hourMatch": "19:00",
-        "teams": [
-          {
-            "id": "Newells",
-            "name": "Newells",
-            "shortName": "NOB",
-            "color": "#ED1C24",
-            "colorSecondary": "#000000",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Newells.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Newells-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Independiente",
-            "name": "Independiente",
-            "shortName": "IND",
-            "color": "#EC1C24",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "00"
-      },
-      {
-        "formattedDate": "26 Dic",
-        "timestamp": 1735258500000,
-        "hourMatch": "21:15",
-        "teams": [
-          {
-            "id": "Sarmiento",
-            "name": "Sarmiento (J)",
-            "shortName": "SARM",
-            "color": "#008349",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Sarmiento-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Platense",
-            "name": "Platense",
-            "shortName": "PLA",
-            "color": "#633B1B",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "15"
       }
     ]
   },
