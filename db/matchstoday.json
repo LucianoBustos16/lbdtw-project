@@ -1,28 +1,39 @@
 [
   {
-    "competition": "Femenino",
+    "competition": "Primera Nacional",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "17:00  ",
         "teams": [
           {
-            "localImgId": "64.png",
-            "name": "Estudiantes (BA)",
-            "localScore": "0"
+            "localImgId": "61.png",
+            "name": "Talleres (RdE)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "19.png",
-            "name": {
-              "id": "San-Lorenzo",
-              "color": "#BF1B27",
-              "colorSecondary": "#263D54",
-              "name": "San Lorenzo",
-              "shortName": "SL",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-              "league": "LPF"
-            },
-            "visitantScore": "1"
+            "visitantImgId": "24.png",
+            "name": "Atl Rafaela",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "competition": "Brasileirao",
+    "matches": [
+      {
+        "hour": "20:00  ",
+        "teams": [
+          {
+            "localImgId": "590.png",
+            "name": "Flamengo",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "583.png",
+            "name": "Atl. Mineiro",
+            "visitantScore": ""
           }
         ]
       }
@@ -32,17 +43,62 @@
     "competition": "Liga Uruguay",
     "matches": [
       {
-        "hour": "Final",
+        "hour": "09:45  ",
         "teams": [
           {
-            "localImgId": "1326.png",
-            "name": "Dep Maldonado",
-            "localScore": "0"
+            "localImgId": "890.png",
+            "name": "River Plate (U)",
+            "localScore": ""
           },
           {
-            "visitantImgId": "1763.png",
-            "name": "Racing (M)",
-            "visitantScore": "1"
+            "visitantImgId": "1847.png",
+            "name": "Miramar M.",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "16:30  ",
+        "teams": [
+          {
+            "localImgId": "1035.png",
+            "name": "Fenix (U)",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "579.png",
+            "name": "Nacional",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "19:00  ",
+        "teams": [
+          {
+            "localImgId": "1036.png",
+            "name": "Cerro Largo",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "889.png",
+            "name": "Liverpool (U)",
+            "visitantScore": ""
+          }
+        ]
+      },
+      {
+        "hour": "21:30  ",
+        "teams": [
+          {
+            "localImgId": "724.png",
+            "name": "Def. Sporting",
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "1037.png",
+            "name": "Progreso",
+            "visitantScore": ""
           }
         ]
       }
