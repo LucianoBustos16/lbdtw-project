@@ -127,6 +127,27 @@
   },
   {
     "rank": 7,
+    "points": 34,
+    "matchesPlayed": 23,
+    "matchesWon": 9,
+    "matchesDrawn": 7,
+    "matchesLost": 7,
+    "goalsFor": 24,
+    "goalsAgainst": 23,
+    "goalDifference": 1,
+    "team": {
+      "id": "Riestra",
+      "color": "#262526",
+      "colorSecondary": "#FFFFFF",
+      "name": "Riestra",
+      "shortName": "RIE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 8,
     "points": 33,
     "matchesPlayed": 22,
     "matchesWon": 9,
@@ -143,27 +164,6 @@
       "shortName": "TUC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 8,
-    "points": 32,
-    "matchesPlayed": 23,
-    "matchesWon": 8,
-    "matchesDrawn": 8,
-    "matchesLost": 7,
-    "goalsFor": 23,
-    "goalsAgainst": 23,
-    "goalDifference": 0,
-    "team": {
-      "id": "Riestra",
-      "color": "#262526",
-      "colorSecondary": "#FFFFFF",
-      "name": "Riestra",
-      "shortName": "RIE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
       "league": "LPF"
     }
   },
@@ -421,27 +421,6 @@
   },
   {
     "rank": 21,
-    "points": 26,
-    "matchesPlayed": 23,
-    "matchesWon": 6,
-    "matchesDrawn": 8,
-    "matchesLost": 9,
-    "goalsFor": 23,
-    "goalsAgainst": 30,
-    "goalDifference": -7,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 22,
     "points": 25,
     "matchesPlayed": 22,
     "matchesWon": 6,
@@ -462,7 +441,7 @@
     }
   },
   {
-    "rank": 23,
+    "rank": 22,
     "points": 25,
     "matchesPlayed": 22,
     "matchesWon": 6,
@@ -479,6 +458,27 @@
       "shortName": "CSE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 23,
+    "points": 25,
+    "matchesPlayed": 23,
+    "matchesWon": 6,
+    "matchesDrawn": 7,
+    "matchesLost": 10,
+    "goalsFor": 23,
+    "goalsAgainst": 31,
+    "goalDifference": -8,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
