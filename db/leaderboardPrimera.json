@@ -107,13 +107,13 @@
   {
     "rank": 6,
     "points": 36,
-    "matchesPlayed": 22,
+    "matchesPlayed": 23,
     "matchesWon": 10,
     "matchesDrawn": 6,
-    "matchesLost": 6,
+    "matchesLost": 7,
     "goalsFor": 24,
-    "goalsAgainst": 21,
-    "goalDifference": 3,
+    "goalsAgainst": 22,
+    "goalDifference": 2,
     "team": {
       "id": "Union",
       "color": "#DA251D",
@@ -148,6 +148,27 @@
   },
   {
     "rank": 8,
+    "points": 34,
+    "matchesPlayed": 23,
+    "matchesWon": 9,
+    "matchesDrawn": 7,
+    "matchesLost": 7,
+    "goalsFor": 28,
+    "goalsAgainst": 23,
+    "goalDifference": 5,
+    "team": {
+      "id": "Boca",
+      "color": "#023F86",
+      "colorSecondary": "#F7A600",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
     "points": 33,
     "matchesPlayed": 23,
     "matchesWon": 8,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 32,
     "matchesPlayed": 23,
     "matchesWon": 9,
@@ -189,7 +210,7 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 32,
     "matchesPlayed": 23,
     "matchesWon": 8,
@@ -206,27 +227,6 @@
       "shortName": "RIE",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Riestra.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Riestra-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 31,
-    "matchesPlayed": 22,
-    "matchesWon": 8,
-    "matchesDrawn": 7,
-    "matchesLost": 7,
-    "goalsFor": 27,
-    "goalsAgainst": 23,
-    "goalDifference": 4,
-    "team": {
-      "id": "Boca",
-      "color": "#023F86",
-      "colorSecondary": "#F7A600",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
       "league": "LPF"
     }
   },
