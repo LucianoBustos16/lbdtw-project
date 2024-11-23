@@ -1,5 +1,34 @@
 [
   {
+    "competition": "Copa Sudamericana",
+    "matches": [
+      {
+        "hour": "17:00  ",
+        "teams": [
+          {
+            "localImgId": "17.png",
+            "name": {
+              "id": "Racing-Club",
+              "color": "#009DDB",
+              "colorSecondary": "#FFFFFF",
+              "name": "Racing Club",
+              "shortName": "RAC",
+              "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
+              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+              "league": "LPF"
+            },
+            "localScore": ""
+          },
+          {
+            "visitantImgId": "582.png",
+            "name": "Cruzeiro",
+            "visitantScore": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "competition": "Liga Profesional",
     "matches": [
       {
@@ -71,49 +100,20 @@
     ]
   },
   {
-    "competition": "Copa Sudamericana",
-    "matches": [
-      {
-        "hour": "17:00  ",
-        "teams": [
-          {
-            "localImgId": "17.png",
-            "name": {
-              "id": "Racing-Club",
-              "color": "#009DDB",
-              "colorSecondary": "#FFFFFF",
-              "name": "Racing Club",
-              "shortName": "RAC",
-              "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
-              "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
-              "league": "LPF"
-            },
-            "localScore": ""
-          },
-          {
-            "visitantImgId": "582.png",
-            "name": "Cruzeiro",
-            "visitantScore": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
     "competition": "Premier League",
     "matches": [
       {
-        "hour": "09:30  ",
+        "hour": "21' ",
         "teams": [
           {
             "localImgId": "633.png",
             "name": "Leicester City",
-            "localScore": ""
+            "localScore": "0"
           },
           {
             "visitantImgId": "531.png",
             "name": "Chelsea",
-            "visitantScore": ""
+            "visitantScore": "1"
           }
         ]
       },
