@@ -86,6 +86,27 @@
   {
     "rank": 5,
     "points": 21,
+    "matchesPlayed": 14,
+    "matchesWon": 6,
+    "matchesDrawn": 3,
+    "matchesLost": 5,
+    "goalsFor": 17,
+    "goalsAgainst": 17,
+    "goalDifference": 0,
+    "team": {
+      "id": "Girona",
+      "color": "#E51636",
+      "colorSecondary": "#FFF",
+      "name": "Girona",
+      "shortName": "GIR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 6,
+    "points": 21,
     "matchesPlayed": 13,
     "matchesWon": 6,
     "matchesDrawn": 3,
@@ -105,7 +126,7 @@
     }
   },
   {
-    "rank": 6,
+    "rank": 7,
     "points": 20,
     "matchesPlayed": 13,
     "matchesWon": 5,
@@ -126,7 +147,7 @@
     }
   },
   {
-    "rank": 7,
+    "rank": 8,
     "points": 20,
     "matchesPlayed": 14,
     "matchesWon": 5,
@@ -147,32 +168,11 @@
     }
   },
   {
-    "rank": 8,
-    "points": 18,
-    "matchesPlayed": 13,
-    "matchesWon": 5,
-    "matchesDrawn": 3,
-    "matchesLost": 5,
-    "goalsFor": 11,
-    "goalsAgainst": 10,
-    "goalDifference": 1,
-    "team": {
-      "id": "Real-Sociedad",
-      "color": "#0058b1 ",
-      "colorSecondary": "#FFF",
-      "name": "Real Sociedad",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
     "rank": 9,
-    "points": 18,
-    "matchesPlayed": 13,
+    "points": 19,
+    "matchesPlayed": 14,
     "matchesWon": 5,
-    "matchesDrawn": 3,
+    "matchesDrawn": 4,
     "matchesLost": 5,
     "goalsFor": 10,
     "goalsAgainst": 10,
@@ -195,17 +195,17 @@
     "matchesWon": 5,
     "matchesDrawn": 3,
     "matchesLost": 5,
-    "goalsFor": 16,
-    "goalsAgainst": 17,
-    "goalDifference": -1,
+    "goalsFor": 11,
+    "goalsAgainst": 10,
+    "goalDifference": 1,
     "team": {
-      "id": "Girona",
-      "color": "#E51636",
+      "id": "Real-Sociedad",
+      "color": "#0058b1 ",
       "colorSecondary": "#FFF",
-      "name": "Girona",
-      "shortName": "GIR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Girona.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Girona-white.svg",
+      "name": "Real Sociedad",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
       "league": "LaLiga"
     }
   },
@@ -308,6 +308,27 @@
     "rank": 16,
     "points": 13,
     "matchesPlayed": 14,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 7,
+    "goalsFor": 16,
+    "goalsAgainst": 22,
+    "goalDifference": -6,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 13,
+    "matchesPlayed": 14,
     "matchesWon": 4,
     "matchesDrawn": 1,
     "matchesLost": 9,
@@ -322,27 +343,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 12,
-    "matchesPlayed": 13,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 7,
-    "goalsFor": 16,
-    "goalsAgainst": 22,
-    "goalDifference": -6,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -370,13 +370,13 @@
   {
     "rank": 19,
     "points": 10,
-    "matchesPlayed": 12,
+    "matchesPlayed": 13,
     "matchesWon": 3,
     "matchesDrawn": 1,
-    "matchesLost": 8,
+    "matchesLost": 9,
     "goalsFor": 11,
-    "goalsAgainst": 22,
-    "goalDifference": -11,
+    "goalsAgainst": 23,
+    "goalDifference": -12,
     "team": {
       "id": "Espanyol",
       "color": "#0077BD",
