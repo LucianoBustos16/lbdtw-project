@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 30,
+    "matchesPlayed": 13,
+    "matchesWon": 9,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 26,
+    "goalsAgainst": 11,
+    "goalDifference": 15,
+    "team": {
+      "id": "Real-Madrid",
+      "color": "#004996",
+      "colorSecondary": "#FFF ",
+      "name": "Real Madrid",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
     "points": 29,
     "matchesPlayed": 14,
     "matchesWon": 8,
@@ -38,27 +59,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 28,
-    "matchesPlayed": 13,
-    "matchesWon": 8,
-    "matchesDrawn": 4,
-    "matchesLost": 1,
-    "goalsFor": 25,
-    "goalsAgainst": 11,
-    "goalDifference": 14,
-    "team": {
-      "id": "Real-Madrid",
-      "color": "#004996",
-      "colorSecondary": "#FFF ",
-      "name": "Real Madrid",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -274,14 +274,14 @@
   },
   {
     "rank": 14,
-    "points": 15,
+    "points": 14,
     "matchesPlayed": 14,
     "matchesWon": 3,
-    "matchesDrawn": 6,
-    "matchesLost": 5,
+    "matchesDrawn": 5,
+    "matchesLost": 6,
     "goalsFor": 13,
-    "goalsAgainst": 16,
-    "goalDifference": -3
+    "goalsAgainst": 17,
+    "goalDifference": -4
   },
   {
     "rank": 15,
