@@ -360,6 +360,27 @@
     "rank": 18,
     "points": 29,
     "matchesPlayed": 24,
+    "matchesWon": 7,
+    "matchesDrawn": 8,
+    "matchesLost": 9,
+    "goalsFor": 26,
+    "goalsAgainst": 30,
+    "goalDifference": -4,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 19,
+    "points": 29,
+    "matchesPlayed": 24,
     "matchesWon": 6,
     "matchesDrawn": 11,
     "matchesLost": 7,
@@ -378,7 +399,7 @@
     }
   },
   {
-    "rank": 19,
+    "rank": 20,
     "points": 28,
     "matchesPlayed": 23,
     "matchesWon": 7,
@@ -395,27 +416,6 @@
       "shortName": "SL",
       "image": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/San-Lorenzo-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 28,
-    "matchesPlayed": 23,
-    "matchesWon": 7,
-    "matchesDrawn": 7,
-    "matchesLost": 9,
-    "goalsFor": 26,
-    "goalsAgainst": 30,
-    "goalDifference": -4,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
@@ -448,27 +448,6 @@
     "matchesDrawn": 9,
     "matchesLost": 9,
     "goalsFor": 24,
-    "goalsAgainst": 31,
-    "goalDifference": -7,
-    "team": {
-      "id": "Defensa-y-Justicia",
-      "color": "#ffdd00",
-      "colorSecondary": "#007A3F",
-      "name": "Def y Justicia",
-      "shortName": "DYJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 23,
-    "points": 26,
-    "matchesPlayed": 23,
-    "matchesWon": 6,
-    "matchesDrawn": 8,
-    "matchesLost": 9,
-    "goalsFor": 24,
     "goalsAgainst": 23,
     "goalDifference": 1,
     "team": {
@@ -479,6 +458,27 @@
       "shortName": "ROS",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rosario-Central-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 23,
+    "points": 27,
+    "matchesPlayed": 24,
+    "matchesWon": 6,
+    "matchesDrawn": 9,
+    "matchesLost": 9,
+    "goalsFor": 24,
+    "goalsAgainst": 31,
+    "goalDifference": -7,
+    "team": {
+      "id": "Defensa-y-Justicia",
+      "color": "#ffdd00",
+      "colorSecondary": "#007A3F",
+      "name": "Def y Justicia",
+      "shortName": "DYJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
       "league": "LPF"
     }
   },
