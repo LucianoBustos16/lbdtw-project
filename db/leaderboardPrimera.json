@@ -64,13 +64,13 @@
   },
   {
     "rank": 4,
-    "points": 39,
-    "matchesPlayed": 23,
+    "points": 40,
+    "matchesPlayed": 24,
     "matchesWon": 10,
-    "matchesDrawn": 9,
+    "matchesDrawn": 10,
     "matchesLost": 4,
-    "goalsFor": 28,
-    "goalsAgainst": 22,
+    "goalsFor": 29,
+    "goalsAgainst": 23,
     "goalDifference": 6,
     "team": {
       "id": "Talleres",
@@ -85,6 +85,27 @@
   },
   {
     "rank": 5,
+    "points": 37,
+    "matchesPlayed": 24,
+    "matchesWon": 10,
+    "matchesDrawn": 7,
+    "matchesLost": 7,
+    "goalsFor": 25,
+    "goalsAgainst": 23,
+    "goalDifference": 2,
+    "team": {
+      "id": "Union",
+      "color": "#DA251D",
+      "colorSecondary": "#FFFFFF",
+      "name": "Union",
+      "shortName": "USF",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 6,
     "points": 36,
     "matchesPlayed": 23,
     "matchesWon": 9,
@@ -101,27 +122,6 @@
       "shortName": "CARP",
       "image": "https://api.lbdtwplus.com.ar/static/logos/River.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/River-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 6,
-    "points": 36,
-    "matchesPlayed": 23,
-    "matchesWon": 10,
-    "matchesDrawn": 6,
-    "matchesLost": 7,
-    "goalsFor": 24,
-    "goalsAgainst": 22,
-    "goalDifference": 2,
-    "team": {
-      "id": "Union",
-      "color": "#DA251D",
-      "colorSecondary": "#FFFFFF",
-      "name": "Union",
-      "shortName": "USF",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
       "league": "LPF"
     }
   },
@@ -169,6 +169,48 @@
   },
   {
     "rank": 9,
+    "points": 34,
+    "matchesPlayed": 24,
+    "matchesWon": 8,
+    "matchesDrawn": 10,
+    "matchesLost": 6,
+    "goalsFor": 18,
+    "goalsAgainst": 16,
+    "goalDifference": 2,
+    "team": {
+      "id": "Platense",
+      "color": "#633B1B",
+      "colorSecondary": "#FFFFFF",
+      "name": "Platense",
+      "shortName": "PLA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 10,
+    "points": 33,
+    "matchesPlayed": 24,
+    "matchesWon": 7,
+    "matchesDrawn": 12,
+    "matchesLost": 5,
+    "goalsFor": 21,
+    "goalsAgainst": 16,
+    "goalDifference": 5,
+    "team": {
+      "id": "Independiente",
+      "color": "#EC1C24",
+      "colorSecondary": "#FFFFFF",
+      "name": "Independiente",
+      "shortName": "IND",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 11,
     "points": 33,
     "matchesPlayed": 24,
     "matchesWon": 9,
@@ -185,48 +227,6 @@
       "shortName": "IACC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Instituto.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Instituto-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 10,
-    "points": 33,
-    "matchesPlayed": 24,
-    "matchesWon": 7,
-    "matchesDrawn": 12,
-    "matchesLost": 5,
-    "goalsFor": 20,
-    "goalsAgainst": 16,
-    "goalDifference": 4,
-    "team": {
-      "id": "Independiente",
-      "color": "#EC1C24",
-      "colorSecondary": "#FFFFFF",
-      "name": "Independiente",
-      "shortName": "IND",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 33,
-    "matchesPlayed": 23,
-    "matchesWon": 8,
-    "matchesDrawn": 9,
-    "matchesLost": 6,
-    "goalsFor": 18,
-    "goalsAgainst": 16,
-    "goalDifference": 2,
-    "team": {
-      "id": "Platense",
-      "color": "#633B1B",
-      "colorSecondary": "#FFFFFF",
-      "name": "Platense",
-      "shortName": "PLA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Platense.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Platense-white.svg",
       "league": "LPF"
     }
   },
@@ -511,8 +511,8 @@
     "matchesDrawn": 6,
     "matchesLost": 12,
     "goalsFor": 19,
-    "goalsAgainst": 32,
-    "goalDifference": -13,
+    "goalsAgainst": 33,
+    "goalDifference": -14,
     "team": {
       "id": "Newells",
       "color": "#ED1C24",
@@ -547,10 +547,10 @@
   },
   {
     "rank": 27,
-    "points": 21,
-    "matchesPlayed": 23,
+    "points": 22,
+    "matchesPlayed": 24,
     "matchesWon": 4,
-    "matchesDrawn": 9,
+    "matchesDrawn": 10,
     "matchesLost": 10,
     "goalsFor": 15,
     "goalsAgainst": 25,
