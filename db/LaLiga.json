@@ -1,10 +1,10 @@
 [
   {
     "rank": 1,
-    "points": 34,
-    "matchesPlayed": 14,
+    "points": 35,
+    "matchesPlayed": 15,
     "matchesWon": 11,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 2,
     "goalsFor": 42,
     "goalsAgainst": 14,
@@ -307,6 +307,27 @@
   {
     "rank": 16,
     "points": 13,
+    "matchesPlayed": 15,
+    "matchesWon": 3,
+    "matchesDrawn": 4,
+    "matchesLost": 8,
+    "goalsFor": 18,
+    "goalsAgainst": 25,
+    "goalDifference": -7,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 13,
     "matchesPlayed": 14,
     "matchesWon": 4,
     "matchesDrawn": 1,
@@ -322,27 +343,6 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 12,
-    "matchesPlayed": 14,
-    "matchesWon": 3,
-    "matchesDrawn": 3,
-    "matchesLost": 8,
-    "goalsFor": 18,
-    "goalsAgainst": 25,
-    "goalDifference": -7,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
