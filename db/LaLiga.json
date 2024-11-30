@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 35,
+    "points": 34,
     "matchesPlayed": 15,
     "matchesWon": 11,
-    "matchesDrawn": 2,
-    "matchesLost": 2,
+    "matchesDrawn": 1,
+    "matchesLost": 3,
     "goalsFor": 42,
-    "goalsAgainst": 14,
-    "goalDifference": 28,
+    "goalsAgainst": 15,
+    "goalDifference": 27,
     "team": {
       "id": "Barcelona",
       "color": "#004B95",
@@ -274,6 +274,27 @@
   },
   {
     "rank": 14,
+    "points": 15,
+    "matchesPlayed": 15,
+    "matchesWon": 4,
+    "matchesDrawn": 3,
+    "matchesLost": 8,
+    "goalsFor": 19,
+    "goalsAgainst": 25,
+    "goalDifference": -6,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 15,
     "points": 14,
     "matchesPlayed": 14,
     "matchesWon": 3,
@@ -284,7 +305,7 @@
     "goalDifference": -6
   },
   {
-    "rank": 15,
+    "rank": 16,
     "points": 13,
     "matchesPlayed": 14,
     "matchesWon": 2,
@@ -301,27 +322,6 @@
       "shortName": "GET",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 16,
-    "points": 13,
-    "matchesPlayed": 15,
-    "matchesWon": 3,
-    "matchesDrawn": 4,
-    "matchesLost": 8,
-    "goalsFor": 18,
-    "goalsAgainst": 25,
-    "goalDifference": -7,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
