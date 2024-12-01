@@ -22,6 +22,27 @@
   },
   {
     "rank": 2,
+    "points": 33,
+    "matchesPlayed": 14,
+    "matchesWon": 10,
+    "matchesDrawn": 3,
+    "matchesLost": 1,
+    "goalsFor": 29,
+    "goalsAgainst": 11,
+    "goalDifference": 18,
+    "team": {
+      "id": "Real-Madrid",
+      "color": "#004996",
+      "colorSecondary": "#FFF ",
+      "name": "Real Madrid",
+      "shortName": "RMD",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 3,
     "points": 32,
     "matchesPlayed": 15,
     "matchesWon": 9,
@@ -38,27 +59,6 @@
       "shortName": "ATM",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Madrid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 3,
-    "points": 31,
-    "matchesPlayed": 14,
-    "matchesWon": 9,
-    "matchesDrawn": 4,
-    "matchesLost": 1,
-    "goalsFor": 28,
-    "goalsAgainst": 11,
-    "goalDifference": 17,
-    "team": {
-      "id": "Real-Madrid",
-      "color": "#004996",
-      "colorSecondary": "#FFF ",
-      "name": "Real Madrid",
-      "shortName": "RMD",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Madrid-white.svg",
       "league": "LaLiga"
     }
   },
@@ -308,27 +308,6 @@
     "rank": 16,
     "points": 14,
     "matchesPlayed": 15,
-    "matchesWon": 2,
-    "matchesDrawn": 8,
-    "matchesLost": 5,
-    "goalsFor": 10,
-    "goalsAgainst": 11,
-    "goalDifference": -1,
-    "team": {
-      "id": "Getafe",
-      "color": "#00369e",
-      "colorSecondary": "#FFF",
-      "name": "Getafe",
-      "shortName": "GET",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 17,
-    "points": 14,
-    "matchesPlayed": 15,
     "matchesWon": 4,
     "matchesDrawn": 2,
     "matchesLost": 9,
@@ -343,6 +322,27 @@
       "shortName": "ALV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Alaves.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 17,
+    "points": 13,
+    "matchesPlayed": 15,
+    "matchesWon": 2,
+    "matchesDrawn": 7,
+    "matchesLost": 6,
+    "goalsFor": 10,
+    "goalsAgainst": 12,
+    "goalDifference": -2,
+    "team": {
+      "id": "Getafe",
+      "color": "#00369e",
+      "colorSecondary": "#FFF",
+      "name": "Getafe",
+      "shortName": "GET",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Getafe.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Getafe-white.svg",
       "league": "LaLiga"
     }
   },
