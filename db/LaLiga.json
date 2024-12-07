@@ -253,6 +253,27 @@
   },
   {
     "rank": 13,
+    "points": 18,
+    "matchesPlayed": 16,
+    "matchesWon": 5,
+    "matchesDrawn": 3,
+    "matchesLost": 8,
+    "goalsFor": 21,
+    "goalsAgainst": 26,
+    "goalDifference": -5,
+    "team": {
+      "id": "Las-Palmas",
+      "color": "#002246",
+      "colorSecondary": "#ffe715",
+      "name": "Las Palmas",
+      "shortName": "PAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 14,
     "points": 16,
     "matchesPlayed": 14,
     "matchesWon": 4,
@@ -269,27 +290,6 @@
       "shortName": "RYV",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Rayo-Vallecano-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 14,
-    "points": 15,
-    "matchesPlayed": 15,
-    "matchesWon": 4,
-    "matchesDrawn": 3,
-    "matchesLost": 8,
-    "goalsFor": 20,
-    "goalsAgainst": 26,
-    "goalDifference": -6,
-    "team": {
-      "id": "Las-Palmas",
-      "color": "#002246",
-      "colorSecondary": "#ffe715",
-      "name": "Las Palmas",
-      "shortName": "PAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Las-Palmas-white.svg",
       "league": "LaLiga"
     }
   },
@@ -391,13 +391,13 @@
   {
     "rank": 20,
     "points": 9,
-    "matchesPlayed": 15,
+    "matchesPlayed": 16,
     "matchesWon": 2,
     "matchesDrawn": 3,
-    "matchesLost": 10,
+    "matchesLost": 11,
     "goalsFor": 10,
-    "goalsAgainst": 32,
-    "goalDifference": -22,
+    "goalsAgainst": 33,
+    "goalDifference": -23,
     "team": {
       "id": "Valladolid",
       "color": "#5B268A",
