@@ -48,9 +48,9 @@
     "matchesWon": 11,
     "matchesDrawn": 10,
     "matchesLost": 5,
-    "goalsFor": 37,
+    "goalsFor": 38,
     "goalsAgainst": 20,
-    "goalDifference": 17,
+    "goalDifference": 18,
     "team": {
       "id": "River",
       "color": "#E30520",
@@ -106,6 +106,27 @@
   },
   {
     "rank": 6,
+    "points": 41,
+    "matchesPlayed": 26,
+    "matchesWon": 11,
+    "matchesDrawn": 8,
+    "matchesLost": 7,
+    "goalsFor": 30,
+    "goalsAgainst": 23,
+    "goalDifference": 7,
+    "team": {
+      "id": "Boca",
+      "color": "#023F86",
+      "colorSecondary": "#F7A600",
+      "name": "Boca Juniors",
+      "shortName": "CABJ",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 7,
     "points": 39,
     "matchesPlayed": 26,
     "matchesWon": 11,
@@ -122,27 +143,6 @@
       "shortName": "USF",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Union.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Union-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 38,
-    "matchesPlayed": 25,
-    "matchesWon": 10,
-    "matchesDrawn": 8,
-    "matchesLost": 7,
-    "goalsFor": 29,
-    "goalsAgainst": 23,
-    "goalDifference": 6,
-    "team": {
-      "id": "Boca",
-      "color": "#023F86",
-      "colorSecondary": "#F7A600",
-      "name": "Boca Juniors",
-      "shortName": "CABJ",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Boca.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Boca-white.svg",
       "league": "LPF"
     }
   },
@@ -448,8 +448,8 @@
     "matchesDrawn": 8,
     "matchesLost": 11,
     "goalsFor": 25,
-    "goalsAgainst": 28,
-    "goalDifference": -3,
+    "goalsAgainst": 29,
+    "goalDifference": -4,
     "team": {
       "id": "Rosario-Central",
       "color": "#F9DF34",
@@ -527,13 +527,13 @@
   {
     "rank": 26,
     "points": 25,
-    "matchesPlayed": 25,
+    "matchesPlayed": 26,
     "matchesWon": 6,
     "matchesDrawn": 7,
-    "matchesLost": 12,
+    "matchesLost": 13,
     "goalsFor": 19,
-    "goalsAgainst": 33,
-    "goalDifference": -14,
+    "goalsAgainst": 34,
+    "goalDifference": -15,
     "team": {
       "id": "Newells",
       "color": "#ED1C24",
