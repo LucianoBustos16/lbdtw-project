@@ -106,6 +106,27 @@
   },
   {
     "rank": 6,
+    "points": 25,
+    "matchesPlayed": 17,
+    "matchesWon": 6,
+    "matchesDrawn": 7,
+    "matchesLost": 4,
+    "goalsFor": 22,
+    "goalsAgainst": 25,
+    "goalDifference": -3,
+    "team": {
+      "id": "Osasuna",
+      "color": "#b4001d ",
+      "colorSecondary": "#14213d",
+      "name": "Osasuna",
+      "shortName": "OSA",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 7,
     "points": 24,
     "matchesPlayed": 16,
     "matchesWon": 7,
@@ -122,27 +143,6 @@
       "shortName": "RMD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Real-Sociedad-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 7,
-    "points": 24,
-    "matchesPlayed": 16,
-    "matchesWon": 6,
-    "matchesDrawn": 6,
-    "matchesLost": 4,
-    "goalsFor": 22,
-    "goalsAgainst": 25,
-    "goalDifference": -3,
-    "team": {
-      "id": "Osasuna",
-      "color": "#b4001d ",
-      "colorSecondary": "#14213d",
-      "name": "Osasuna",
-      "shortName": "OSA",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Osasuna.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Osasuna-white.svg",
       "league": "LaLiga"
     }
   },
@@ -348,10 +348,10 @@
   },
   {
     "rank": 18,
-    "points": 13,
-    "matchesPlayed": 15,
+    "points": 14,
+    "matchesPlayed": 16,
     "matchesWon": 4,
-    "matchesDrawn": 1,
+    "matchesDrawn": 2,
     "matchesLost": 10,
     "goalsFor": 15,
     "goalsAgainst": 28,
