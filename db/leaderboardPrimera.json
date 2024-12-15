@@ -1,14 +1,14 @@
 [
   {
     "rank": 1,
-    "points": 49,
+    "points": 51,
     "matchesPlayed": 27,
-    "matchesWon": 13,
-    "matchesDrawn": 10,
+    "matchesWon": 14,
+    "matchesDrawn": 9,
     "matchesLost": 4,
-    "goalsFor": 36,
+    "goalsFor": 38,
     "goalsAgainst": 16,
-    "goalDifference": 20,
+    "goalDifference": 22,
     "team": {
       "id": "Velez",
       "color": "#0063A8",
@@ -43,27 +43,6 @@
   },
   {
     "rank": 3,
-    "points": 47,
-    "matchesPlayed": 27,
-    "matchesWon": 12,
-    "matchesDrawn": 11,
-    "matchesLost": 4,
-    "goalsFor": 28,
-    "goalsAgainst": 16,
-    "goalDifference": 12,
-    "team": {
-      "id": "Huracan",
-      "color": "#FF0000",
-      "colorSecondary": "#FFFFFF",
-      "name": "Huracan",
-      "shortName": "HUR",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 4,
     "points": 46,
     "matchesPlayed": 27,
     "matchesWon": 14,
@@ -80,6 +59,27 @@
       "shortName": "RAC",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Racing-Club-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 4,
+    "points": 46,
+    "matchesPlayed": 27,
+    "matchesWon": 12,
+    "matchesDrawn": 10,
+    "matchesLost": 5,
+    "goalsFor": 28,
+    "goalsAgainst": 18,
+    "goalDifference": 10,
+    "team": {
+      "id": "Huracan",
+      "color": "#FF0000",
+      "colorSecondary": "#FFFFFF",
+      "name": "Huracan",
+      "shortName": "HUR",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
       "league": "LPF"
     }
   },
