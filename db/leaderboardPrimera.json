@@ -153,6 +153,27 @@
     "matchesWon": 11,
     "matchesDrawn": 7,
     "matchesLost": 9,
+    "goalsFor": 28,
+    "goalsAgainst": 27,
+    "goalDifference": 1,
+    "team": {
+      "id": "Atletico-Tucuman",
+      "color": "#71AFDB",
+      "colorSecondary": "#FFF",
+      "name": "Atl Tucuman",
+      "shortName": "TUC",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 9,
+    "points": 40,
+    "matchesPlayed": 27,
+    "matchesWon": 11,
+    "matchesDrawn": 7,
+    "matchesLost": 9,
     "goalsFor": 27,
     "goalsAgainst": 26,
     "goalDifference": 1,
@@ -168,7 +189,7 @@
     }
   },
   {
-    "rank": 9,
+    "rank": 10,
     "points": 39,
     "matchesPlayed": 27,
     "matchesWon": 10,
@@ -189,32 +210,11 @@
     }
   },
   {
-    "rank": 10,
+    "rank": 11,
     "points": 38,
     "matchesPlayed": 27,
     "matchesWon": 10,
     "matchesDrawn": 8,
-    "matchesLost": 9,
-    "goalsFor": 26,
-    "goalsAgainst": 27,
-    "goalDifference": -1,
-    "team": {
-      "id": "Atletico-Tucuman",
-      "color": "#71AFDB",
-      "colorSecondary": "#FFF",
-      "name": "Atl Tucuman",
-      "shortName": "TUC",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 11,
-    "points": 37,
-    "matchesPlayed": 26,
-    "matchesWon": 10,
-    "matchesDrawn": 7,
     "matchesLost": 9,
     "goalsFor": 23,
     "goalsAgainst": 25,
@@ -337,10 +337,10 @@
   },
   {
     "rank": 17,
-    "points": 34,
-    "matchesPlayed": 26,
+    "points": 35,
+    "matchesPlayed": 27,
     "matchesWon": 8,
-    "matchesDrawn": 10,
+    "matchesDrawn": 11,
     "matchesLost": 8,
     "goalsFor": 26,
     "goalsAgainst": 27,
@@ -423,27 +423,6 @@
     "rank": 21,
     "points": 32,
     "matchesPlayed": 27,
-    "matchesWon": 8,
-    "matchesDrawn": 8,
-    "matchesLost": 11,
-    "goalsFor": 29,
-    "goalsAgainst": 34,
-    "goalDifference": -5,
-    "team": {
-      "id": "Central-Cordoba",
-      "color": "#000",
-      "colorSecondary": "#FFF",
-      "name": "Central Cba (SdE)",
-      "shortName": "CSE",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
-      "league": "LPF"
-    }
-  },
-  {
-    "rank": 22,
-    "points": 32,
-    "matchesPlayed": 27,
     "matchesWon": 7,
     "matchesDrawn": 11,
     "matchesLost": 9,
@@ -458,6 +437,27 @@
       "shortName": "DYJ",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Defensa-y-Justicia-white.svg",
+      "league": "LPF"
+    }
+  },
+  {
+    "rank": 22,
+    "points": 31,
+    "matchesPlayed": 27,
+    "matchesWon": 8,
+    "matchesDrawn": 7,
+    "matchesLost": 12,
+    "goalsFor": 29,
+    "goalsAgainst": 36,
+    "goalDifference": -7,
+    "team": {
+      "id": "Central-Cordoba",
+      "color": "#000",
+      "colorSecondary": "#FFF",
+      "name": "Central Cba (SdE)",
+      "shortName": "CSE",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Central-Cordoba-white.svg",
       "league": "LPF"
     }
   },
