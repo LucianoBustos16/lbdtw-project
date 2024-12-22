@@ -295,14 +295,25 @@
   },
   {
     "rank": 15,
-    "points": 19,
+    "points": 18,
+    "matchesPlayed": 17,
+    "matchesWon": 4,
+    "matchesDrawn": 6,
+    "matchesLost": 7,
+    "goalsFor": 15,
+    "goalsAgainst": 23,
+    "goalDifference": -8
+  },
+  {
+    "rank": 16,
+    "points": 17,
     "matchesPlayed": 18,
-    "matchesWon": 5,
-    "matchesDrawn": 4,
+    "matchesWon": 4,
+    "matchesDrawn": 5,
     "matchesLost": 9,
     "goalsFor": 20,
-    "goalsAgainst": 28,
-    "goalDifference": -8,
+    "goalsAgainst": 29,
+    "goalDifference": -9,
     "team": {
       "id": "Alaves",
       "color": "#002246",
@@ -313,17 +324,6 @@
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Alaves-white.svg",
       "league": "LaLiga"
     }
-  },
-  {
-    "rank": 16,
-    "points": 18,
-    "matchesPlayed": 17,
-    "matchesWon": 4,
-    "matchesDrawn": 6,
-    "matchesLost": 7,
-    "goalsFor": 15,
-    "goalsAgainst": 23,
-    "goalDifference": -8
   },
   {
     "rank": 17,
@@ -370,6 +370,27 @@
   {
     "rank": 19,
     "points": 12,
+    "matchesPlayed": 17,
+    "matchesWon": 2,
+    "matchesDrawn": 6,
+    "matchesLost": 9,
+    "goalsFor": 15,
+    "goalsAgainst": 25,
+    "goalDifference": -10,
+    "team": {
+      "id": "Valencia",
+      "color": "#ff671f",
+      "colorSecondary": "#FFF",
+      "name": "Valencia",
+      "shortName": "VAL",
+      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
+      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
+      "league": "LaLiga"
+    }
+  },
+  {
+    "rank": 20,
+    "points": 12,
     "matchesPlayed": 18,
     "matchesWon": 3,
     "matchesDrawn": 3,
@@ -385,27 +406,6 @@
       "shortName": "VLD",
       "image": "https://api.lbdtwplus.com.ar/static/logos/Valladolid.svg",
       "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valladolid-white.svg",
-      "league": "LaLiga"
-    }
-  },
-  {
-    "rank": 20,
-    "points": 11,
-    "matchesPlayed": 17,
-    "matchesWon": 2,
-    "matchesDrawn": 5,
-    "matchesLost": 10,
-    "goalsFor": 14,
-    "goalsAgainst": 25,
-    "goalDifference": -11,
-    "team": {
-      "id": "Valencia",
-      "color": "#ff671f",
-      "colorSecondary": "#FFF",
-      "name": "Valencia",
-      "shortName": "VAL",
-      "image": "https://api.lbdtwplus.com.ar/static/logos/Valencia.svg",
-      "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Valencia-white.svg",
       "league": "LaLiga"
     }
   }
