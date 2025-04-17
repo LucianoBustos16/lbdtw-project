@@ -20,7 +20,7 @@ jobs:
           run_install: true
       - name: Check Node.js Version
         run: node -v
-      - uses: cloudflare/wrangler-action@2.0.0
+      - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           workingDirectory: api
