@@ -30,7 +30,7 @@ export const SCRAPINGS = {
   // },
   scheduleLPF: {
     // url: 'https://www.marca.com/futbol/argentina/copa-lpf/calendario.html?intcmp=MENUMIGA&s_kw=calendario',
-    url: 'https://www.marca.com/futbol/argentina/liga-profesional/calendario.html?intcmp=MENUMIGA&s_kw=liga-profesional',
+    url: 'https://www.marca.com/futbol/argentina/copa-lpf/calendario.html?intcmp=MENUMIGA&s_kw=calendario',
     scraper: getSchedule
   },
   scheduleLaLiga: {

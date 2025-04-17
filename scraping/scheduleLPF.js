@@ -77,7 +77,7 @@ export async function getSchedule ($) {
 
       const date = dateRaw.replace(/\t|\n|\s:/g, '').trim()
       const [dayNumber, monthNumber] = date.split('/')
-	  const currentYear = new Date().getFullYear()
+      const currentYear = new Date().getFullYear()
       const prefixDate = `${currentYear}-${monthNumber}-${dayNumber}`
 
       const localImg = $($localsImages[index]).attr('src')
@@ -91,7 +91,6 @@ export async function getSchedule ($) {
       // Creando la fecha en GMT+1 usando Luxon
       const matchDate = DateTime.fromISO(`${prefixDate}T${hour}`, { zone: 'Europe/Madrid' })
       const timestamp = matchDate.toMillis()
-
 
       const horario = new Date(timestamp)
       const optionsHours = {
