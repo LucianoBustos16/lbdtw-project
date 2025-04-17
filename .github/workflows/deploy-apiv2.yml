@@ -24,4 +24,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           workingDirectory: api
-          command: publish # Especifica explícitamente el comando publish 
+          command: publish # Especifica explícitamente el comando publish
