@@ -5555,34 +5555,6 @@
         "hourMatch": "Date:undefined",
         "teams": [
           {
-            "id": "Atletico-Tucuman",
-            "name": "Atl Tucuman",
-            "shortName": "TUC",
-            "color": "#71AFDB",
-            "colorSecondary": "#FFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
-            "league": "LPF"
-          },
-          {
-            "id": "Independiente",
-            "name": "Independiente",
-            "shortName": "IND",
-            "color": "#EC1C24",
-            "colorSecondary": "#FFFFFF",
-            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
-            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
-            "league": "LPF"
-          }
-        ],
-        "score": "Aplazado"
-      },
-      {
-        "formattedDate": "Invalid undefined",
-        "timestamp": null,
-        "hourMatch": "Date:undefined",
-        "teams": [
-          {
             "id": "Union",
             "name": "Union",
             "shortName": "USF",
@@ -5880,6 +5852,34 @@
           }
         ],
         "score": "1-0"
+      },
+      {
+        "formattedDate": "30 May",
+        "timestamp": 1746057600000,
+        "hourMatch": "21:00",
+        "teams": [
+          {
+            "id": "Atletico-Tucuman",
+            "name": "Atl Tucuman",
+            "shortName": "TUC",
+            "color": "#71AFDB",
+            "colorSecondary": "#FFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Atletico-Tucuman-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Independiente",
+            "name": "Independiente",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
       }
     ]
   },
