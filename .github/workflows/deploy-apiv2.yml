@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     name: Deploy API to Cloudflare Workers
     steps:
       - uses: actions/checkout@v3
@@ -24,4 +24,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           workingDirectory: api
-          command: publish # Especifica explícitamente el comando publish
+          command: publish
