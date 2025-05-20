@@ -7080,5 +7080,38 @@
         "score": "30"
       }
     ]
+  },
+  {
+    "fecha": 19,
+    "matches": [
+      {
+        "formattedDate": "25 May",
+        "timestamp": 1748206800000,
+        "hourMatch": "18:00",
+        "teams": [
+          {
+            "id": "Independiente",
+            "name": "Independiente",
+            "shortName": "IND",
+            "color": "#EC1C24",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Independiente.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Independiente-white.svg",
+            "league": "LPF"
+          },
+          {
+            "id": "Huracan",
+            "name": "Huracan",
+            "shortName": "HUR",
+            "color": "#FF0000",
+            "colorSecondary": "#FFFFFF",
+            "image": "https://api.lbdtwplus.com.ar/static/logos/Huracan.svg",
+            "imageWhite": "https://api.lbdtwplus.com.ar/static/logos/Huracan-white.svg",
+            "league": "LPF"
+          }
+        ],
+        "score": "00"
+      }
+    ]
   }
 ]
